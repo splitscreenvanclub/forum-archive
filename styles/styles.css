@@ -31,6 +31,20 @@ footer {
     background: #F6F6F6;
 }
 
+.gsib_a {
+    padding: 0 !important;
+}
+
+input.gsc-input {
+    padding: 4px 10px !important;
+    height: auto !important;
+    background: transparent;
+}
+
+.gsc-search-button-v2 {
+    padding: 8px 27px !important;
+}
+
 @layer components {
 
 
@@ -60,7 +74,7 @@ footer {
 
     .post image,
     .post img {
-        @apply max-w-prose border border-gray-200 bg-white shadow my-2 p-1;
+        @apply max-w-full lg:max-w-prose border border-gray-200 bg-white shadow my-2 p-1;
     }
 
 }

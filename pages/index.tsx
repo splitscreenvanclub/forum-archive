@@ -1,10 +1,11 @@
+import Search from "components/Search";
 
 export default function Home() {
   return (
     <>
-      <h1 className="text-6xl font-bold">
-        Welcome.
-      </h1>
+      <div className="flex flex-col justify-center h-full flex-grow">
+        <Search />
+      </div>
     </>
   )
 }

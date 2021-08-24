@@ -14,21 +14,30 @@
   "totalPages": 1,
   "posts": [
     {
-      "postId": "881520",
+      "postId: "881520",
       "author": {
         "username": "vwed",
         "userId": "34025",
         "joined": "Fri Mar 05, 2010 8:25 pm",
         "location": "Bristol",
         "profileRank": "SSVC Member",
-        "avatarPath": "./download/file.php?avatar=38_1338322337.jpg",
+        "avatarPath": "./download/file.php?avatar=38_1338322337.jpg",,
         "postCount": 518
       },
-      "content": "NOS exchange unit wiper motor.<br>\n211 955 111 N (X).<br>\n6 volt.<br>\nTested.<br>\nThis will fit Buses built between August '64 and end of July '65. (Chassis # 215 000 001 to 215 190 000).<br>\n                  It will not fit Buses built before or after these dates, so please check your chassis number/wiper set up.<br>\n                  Price: £100, cash, collect Bristol. £103 posted within the UK, PayPal as a gift/£108 not as a gift.<br>\n                  <img src=\"http://thesamba.com/vw/gallery/pix/1384175.jpg\" class=\"postimage\" alt=\"Image\">\n                  <img src=\"http://thesamba.com/vw/gallery/pix/1384174.jpg\" class=\"postimage\" alt=\"Image\">                 <img src=\"http://thesamba.com/vw/gallery/pix/1384173.jpg\" class=\"postimage\" alt=\"Image\">",
+      "content": "NOS exchange unit wiper motor.<br>
+                  211 955 111 N (X).<br>
+                  6 volt.<br>
+                  Tested.<br>
+                  This will fit Buses built between August '64 and end of July '65. (Chassis # 215 000 001 to 215 190 000).<br>
+                  It will not fit Buses built before or after these dates, so please check your chassis number/wiper set up.<br>
+                  Price: £100, cash, collect Bristol. £103 posted within the UK, PayPal as a gift/£108 not as a gift.<br>
+                  <img src="http://images.thesamba.com/vw/gallery/pix/1384175.jpg" class="postimage" alt="Image"><br>
+                  <img src="http://images.thesamba.com/vw/gallery/pix/1384174.jpg" class="postimage" alt="Image"><br>
+                  <img src="http://images.thesamba.com/vw/gallery/pix/1384173.jpg" class="postimage" alt="Image"></div>",
       "lastEdited": "Mon Nov 06, 2017 12:48 pm"
     },
     {
-     "postId": "881522",
+     "postId: "881522",
       "author": {
         "username": "billywizkid",
         "userId": "35716",
