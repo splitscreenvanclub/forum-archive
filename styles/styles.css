@@ -1,0 +1,66 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+html {
+    line-height: 1.5; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+/**
+ * Remove the margin in all browsers.
+ */
+body {
+    margin: 0;
+    @apply antialiased;
+    @apply h-screen;
+    @apply font-sans;
+    font-size: 16px;
+    background-color: #fdfdfd;
+}
+
+footer {
+    color: #222222;
+    background: #F6F6F6;
+}
+
+@layer components {
+
+
+    h2 {
+        @apply text-lg text-brand font-bold;
+    }
+
+    h3 {
+        @apply text-brand font-semibold;
+    }
+
+    h4 {
+        @apply text-brand font-semibold;
+    }
+
+    h5 {
+        @apply text-gray-600 font-semibold text-sm;
+    }
+
+    main a {
+        @apply text-accent hover:underline;
+    }
+
+    .post {
+        background: #ECF3F7;
+    }
+
+    .post image,
+    .post img {
+        @apply max-w-prose border border-gray-200 bg-white shadow my-2 p-1;
+    }
+
+}
