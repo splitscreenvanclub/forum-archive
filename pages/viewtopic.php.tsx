@@ -59,12 +59,12 @@ const PaginationControls: FC<PaginationProps> = ({ topic }) => {
 
   if (totalPages <= 8) {
     for (let i = 1; i < totalPages; i++) {
-      options.push({ label: i, pageNumber: i });
+      options.push({ label: i+'', pageNumber: i });
     }
   }
   else {
     for (let i = Math.max(1, pageNumber-3); i <= Math.min(totalPages, pageNumber+3); i++) {
-      options.push({ label: i, pageNumber: i });
+      options.push({ label: i+'', pageNumber: i });
     }
   }
 
@@ -76,14 +76,17 @@ const PaginationControls: FC<PaginationProps> = ({ topic }) => {
   }
 
   return (
-    <div className="flex space-x-2 items-center justify-center">
+    <div className="flex space-x-2 items-center justify-center text-xs md:text-sm">
       {options.map(opt =>
-        opt.pageNumber === pageNumber ?
-          <span>{opt.label}</span>
-          :
-          <Link href={`/viewtopic.php?f=${forumId}&t=${threadId}&page=${opt.pageNumber}`}>
-            <a>{opt.label}</a>
-          </Link>
+        <div key={opt.label} className={opt.label.match(/[0-9]+/) && opt.pageNumber !== pageNumber ? 'hidden md:block' : ''}>
+          {opt.pageNumber === pageNumber ?
+            <span>{opt.label}</span>
+            :
+            <Link href={`/viewtopic.php?f=${forumId}&t=${threadId}&page=${opt.pageNumber}`}>
+              <a>{opt.label}</a>
+            </Link>
+          }
+        </div>
       )}
     </div>
   )
@@ -160,7 +163,7 @@ const TopicContent: FC<TopicContentProps> = ({ forumId, threadId, page }) => {
   return (
     <div className="p-4 bg-white rounded-md flex flex-col space-y-6 border border-gray-100">
       <div>
-        <div className="text-gray-500 pb-2 flex justify-between">
+        <div className="text-gray-500 pb-2 flex flex-col md:flex-row justify-between items-center">
           <span>Forum Archive &gt; {(topic.breadcrumbs || [])[0]?.label}</span>
           <PaginationControls topic={topic} />
         </div>
