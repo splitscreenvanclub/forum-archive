@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://archives.ssvc.org.uk/sitemap.txt
