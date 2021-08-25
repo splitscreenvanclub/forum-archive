@@ -1,0 +1,40 @@
+{
+  "forumId" : "5",
+  "threadId" : "124325",
+  "title" : "Early bus link pin dust caps",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124325",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=e788f999e012b15984f76f96786ba800",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927903",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "927903",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "Looking for a set of early bus link pin dust caps used or in a new set. Would even buy a full early beam as I can use the other bits... Cheers Simon",
+    "lastEdited" : "Fri Feb 14, 2020 8:30 pm"
+  }, {
+    "postId" : "930099",
+    "author" : {
+      "username" : "Jonesy",
+      "userId" : "930099",
+      "joined" : "Thu Oct 27, 2005 8:27 pm",
+      "profileRank" : "Registered user",
+      "location" : "www.boatyardbuses.com",
+      "postCount" : "1683",
+      "avatarPath" : null
+    },
+    "content" : "I've got these Simon; \n<a href=\"https://www.thesamba.com/vw/classifieds/detail.php?id=1826786\" class=\"postlink\">https://www.thesamba.com/vw/classifieds ... id=1826786</a>",
+    "lastEdited" : "Mon May 25, 2020 9:22 am"
+  } ]
+}

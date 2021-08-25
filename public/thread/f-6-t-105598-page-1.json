@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "105598",
+  "title" : "Narrowed beam shock absorber plates.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=105598",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=c9452dfe41d4d80cc208226a3f69bbfc",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "801544",
+    "author" : {
+      "username" : "Archie3781",
+      "userId" : "801544",
+      "joined" : "Tue Jun 17, 2014 6:59 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "143",
+      "avatarPath" : "./download/file.php%3Favatar=39333_1419289867.jpg"
+    },
+    "content" : "Hi, \n<br> Running a slamwerks narrowed beam, need the link or site to get the plates that you fit to the beam to give you a top mounting point for a 65 bus shocker.\n<br> \n<br> Please help.\n<br> \n<br> Cheers.",
+    "lastEdited" : "Tue Sep 09, 2014 3:09 pm"
+  }, {
+    "postId" : "801724",
+    "author" : {
+      "username" : "orb",
+      "userId" : "801724",
+      "joined" : "Wed Jan 14, 2004 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kingston upon Thames",
+      "postCount" : "2475",
+      "avatarPath" : null
+    },
+    "content" : "Try speaking to Matt Keene at Air Kraft, I know he does them for CB beams as I have a set fitted, sure he can do them for any beam.\n<br> Can't find a website for him but you can contact him through FB \n<a href=\"https://www.facebook.com/aikraftvw\" class=\"postlink\">https://www.facebook.com/aikraftvw</a>\n<br> \n<br> Orb",
+    "lastEdited" : "Wed Sep 10, 2014 8:44 am"
+  } ]
+}

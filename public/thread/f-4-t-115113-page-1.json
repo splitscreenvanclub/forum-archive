@@ -1,0 +1,37 @@
+{
+  "forumId" : "4",
+  "threadId" : "115113",
+  "title" : "split tank",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115113",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868113",
+    "author" : {
+      "username" : "ripper",
+      "userId" : "868113",
+      "joined" : "Sun Nov 23, 2014 12:46 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "54",
+      "avatarPath" : null
+    },
+    "content" : "vw splitscreen fuel tank for sale with sender hole in good condistion \n<br>\n<br>collect from volksword\n<br> £ 85\n<br>i have loads of bus parts for sale i be in carpark at volksworld with stall \n<br>\n<br>clearing all my stuff over i am done with it all now",
+    "lastEdited" : "Sat Mar 19, 2016 10:03 am"
+  }, {
+    "postId" : "868356",
+    "author" : {
+      "username" : "ripper",
+      "userId" : "868356",
+      "joined" : "Sun Nov 23, 2014 12:46 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "54",
+      "avatarPath" : null
+    },
+    "content" : "sold",
+    "lastEdited" : "Mon Mar 21, 2016 9:36 pm"
+  } ]
+}

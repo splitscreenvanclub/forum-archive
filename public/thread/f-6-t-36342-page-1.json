@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "36342",
+  "title" : "subaru engine swap",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=36342",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "267053",
+    "author" : {
+      "username" : "hart5lizard",
+      "userId" : "267053",
+      "joined" : "Thu Jul 05, 2007 9:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "holbeach lincs.",
+      "postCount" : "247",
+      "avatarPath" : null
+    },
+    "content" : "whats the deal with a subaru engine swap?\n<br> ie cost, modification etc \n<br> is it best to try to get hold of a complete donor car\n<br> any advice greatfully recieved\n<br> cheers dan.",
+    "lastEdited" : "Mon Nov 12, 2007 8:06 pm"
+  }, {
+    "postId" : "267062",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "267062",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4544",
+      "avatarPath" : null
+    },
+    "content" : "You're probably best asking that question on \n<a href=\"http://www.vwkd.co.uk\" class=\"postlink\">www.vwkd.co.uk</a> search for neilc - had had his scooby powered split at Vanfest, had a good natter with him. \n<br> \n<br> I'd say their was more effort involved in his conversion than in a 911 install. If you're going for big power then you'll need a Porsche 915 gearbox anyway.\n<br> \n<br> I doubt you'd want to carry over much of the Scooby apart from the engine. You may want the ECU but that could be more hassle than its worth. It would be easier to buy an Omex and wire it up to suit rather than trying to reverse engineer the scooby loom. Also, the scooby cooling system wouldn't fit so you'd need to make something up their too.\n<br> \n<br> Are you thinking Turbo or NatAsp?\n<br> \n<br> I know Neil is looking for a flat 6 motor out of a SVX - certainly different!!",
+    "lastEdited" : "Mon Nov 12, 2007 8:20 pm"
+  }, {
+    "postId" : "267073",
+    "author" : {
+      "username" : "hart5lizard",
+      "userId" : "267073",
+      "joined" : "Thu Jul 05, 2007 9:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "holbeach lincs.",
+      "postCount" : "247",
+      "avatarPath" : null
+    },
+    "content" : "i just want a reliable economical motor i can use as often as i want without worrying that it is going to drop to bits\n<br> oh and loads of power would be nice",
+    "lastEdited" : "Mon Nov 12, 2007 8:36 pm"
+  }, {
+    "postId" : "267087",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "267087",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3553",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>hart5lizard wrote:</cite>i just want a reliable economical motor i can use as often as i want without worrying that it is going to drop to bits\n  <br> oh and loads of power would be nice\n </div>\n</blockquote> Then you'll be wanting to talk to Laurie Pettitt about one of his 1776 engines then. I know a few people who have fitted Scoobies - takes an average of about 6 months and lots of probs like overheating. Fit a nicely built aircooled - reliable economical motors IMO \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Mon Nov 12, 2007 9:11 pm"
+  }, {
+    "postId" : "267141",
+    "author" : {
+      "username" : "dannyboy",
+      "userId" : "267141",
+      "joined" : "Thu Aug 26, 2004 6:49 pm",
+      "profileRank" : "Registered user",
+      "location" : "oxon",
+      "postCount" : "1306",
+      "avatarPath" : null
+    },
+    "content" : "buy a well built motor and it should be fine \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Mon Nov 12, 2007 10:50 pm"
+  }, {
+    "postId" : "267407",
+    "author" : {
+      "username" : "hart5lizard",
+      "userId" : "267407",
+      "joined" : "Thu Jul 05, 2007 9:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "holbeach lincs.",
+      "postCount" : "247",
+      "avatarPath" : null
+    },
+    "content" : "cheers for replies\n<br> how do i get hold of Laurie Pettit?",
+    "lastEdited" : "Tue Nov 13, 2007 7:42 pm"
+  }, {
+    "postId" : "267446",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "267446",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3553",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Here you go! \n<a href=\"http://www.club80-90.co.uk/Laurie%20Pettit%20-%20018907%2081664.htm\" class=\"postlink\">http://www.club80-90.co.uk/Laurie%20Pet ... 081664.htm</a>",
+    "lastEdited" : "Tue Nov 13, 2007 9:11 pm"
+  }, {
+    "postId" : "267533",
+    "author" : {
+      "username" : "althesparky",
+      "userId" : "267533",
+      "joined" : "Sun Mar 25, 2007 8:12 am",
+      "profileRank" : "Registered user",
+      "location" : "norfolk, kings lynn",
+      "postCount" : "408",
+      "avatarPath" : null
+    },
+    "content" : "is that the guy who rebuilt the engine on beetle crisis, cos i remember him doing the waterboxer crank conversion?",
+    "lastEdited" : "Wed Nov 14, 2007 8:20 am"
+  }, {
+    "postId" : "267550",
+    "author" : {
+      "username" : "mark-s",
+      "userId" : "267550",
+      "joined" : "Mon Sep 26, 2005 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Newcastle, UK",
+      "postCount" : "686",
+      "avatarPath" : null
+    },
+    "content" : "Hi dan\n<br> \n<br> Having done a subaru conversion in my old bay, I can certainly recommend it. \n<br> \n<br> With all due respect, you'll get a lot of opinion from people who have never done a conversion or even driven one. You can make the conversion as simple or complex as you want, you don't HAVE to use the twin turbo motor, you don't HAVE to have a porsche gbox, you don't HAVE to have a remappable ECU... you get the idea.\n<br> \n<br> You can easily do the conversion for less than the cost of a big aircooled motor &amp; end up with more power, reliability AND a proper heating system! There is a luddite element in the VW 'scene'who will consider such a conversion close to blasphemy, how you deal with that is up to you...\n<br> \n<br> Unless you plan on remapping for more power, there is little point having an aftermarket ECU as the Subaru one is more than capable.\n<br> \n<br> A complete donor car would be the best way to go, that way you know you have everything you need. I got my Subaru Legacy for £100, but that was lucky. You can get an adaptor &amp; flywheel from DS Tuning in Germany for £300 - far cheaper than Kennedy. The harness can be modified by companies in the UK, RJES &amp; TSR for example. This will cost £250-ish &amp; I would recommend this as it is by far the most difficult part.\n<br> \n<br> If you have decent fabrication skills, you can make your own exhaust, engine support bar, radiator mount (mine was underneath - NEVER overheated). There are myriad extra things which need to be modified or purchased e.g. fuel return system, radiator ducting etc, but it's all good if you have an inquisitive mind &amp; are up for a challenge.\n<br> \n<br> Like bobley says, have a look at vwkd.com and other sites, loads of people (including me) have done these conversions - you can learn loads from them.\n<br> \n<br> Hope that helps,\n<br> \n<br> Mark",
+    "lastEdited" : "Wed Nov 14, 2007 9:10 am"
+  }, {
+    "postId" : "267766",
+    "author" : {
+      "username" : "hart5lizard",
+      "userId" : "267766",
+      "joined" : "Thu Jul 05, 2007 9:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "holbeach lincs.",
+      "postCount" : "247",
+      "avatarPath" : null
+    },
+    "content" : "Interesting &amp; conflicting opinions, more feedback,\n<br> air or watercooled welcome. i must admit i do like the idea of a reliable standard powerful jap motor. one more thing in the mix, i am going to be pulling a 2 berth caravan,.\n<br> cheers dan.",
+    "lastEdited" : "Wed Nov 14, 2007 8:42 pm"
+  }, {
+    "postId" : "267846",
+    "author" : {
+      "username" : "Sam",
+      "userId" : "267846",
+      "joined" : "Wed Oct 26, 2005 9:38 am",
+      "profileRank" : "Registered user",
+      "location" : "Perth, Western Australia",
+      "postCount" : "993",
+      "avatarPath" : null
+    },
+    "content" : "I have never done an engin conversion. here's my view\n<br> \n<br> 1. For subaru convesrions, start browing the Aussie VW forums - its a very popular swop over here\n<br> \n<br> 2. Why would a VW aircooled engine not be reliable and economical? Don't judge the performance capabilities of your own well-maintained, carefully built VW engine by the many poorly serviced, knackered examples that are out there \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Thu Nov 15, 2007 1:45 am"
+  }, {
+    "postId" : "267929",
+    "author" : {
+      "username" : "Pucka",
+      "userId" : "267929",
+      "joined" : "Fri Jun 30, 2006 11:57 am",
+      "profileRank" : "Registered user",
+      "location" : "Market Harborough, Leicestershire",
+      "postCount" : "2007",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>althesparky wrote:</cite>is that the guy who rebuilt the engine on beetle crisis, cos i remember him doing the waterboxer crank conversion?\n </div>\n</blockquote> I remember more the fact he did it in a garden and it wasn't exactly a clean room environment. \n<br> I had also thought up until watching it that Laurie Pettit was a great engine builder. \"If its still within VW tolerance it will be OK\" I guess if your building a fairly stock motor these rules apply but I was still a little surprised by his relaxed approach!\n<br> \n<br> Not knocking him as I know his reputation is good, just don't think Beetle Crisis did him any favours!",
+    "lastEdited" : "Thu Nov 15, 2007 1:44 pm"
+  }, {
+    "postId" : "267939",
+    "author" : {
+      "username" : "althesparky",
+      "userId" : "267939",
+      "joined" : "Sun Mar 25, 2007 8:12 am",
+      "profileRank" : "Registered user",
+      "location" : "norfolk, kings lynn",
+      "postCount" : "408",
+      "avatarPath" : null
+    },
+    "content" : "mmmm thats what i thought!",
+    "lastEdited" : "Thu Nov 15, 2007 3:00 pm"
+  }, {
+    "postId" : "795710",
+    "author" : {
+      "username" : "billywizkid",
+      "userId" : "795710",
+      "joined" : "Mon Aug 01, 2011 6:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "103",
+      "avatarPath" : null
+    },
+    "content" : "Guys I'm thinking of buying a Subaru gear reverse gear what's you thoughts I have a 1302s AH gearbox but by the time I've had it rebuilt and bought the adapter plate it's better to use the Subaru 5 speed gearbox",
+    "lastEdited" : "Tue Jul 29, 2014 8:11 pm"
+  }, {
+    "postId" : "795724",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "795724",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "I guess you have had a look at this website ??\n<br> \n<br> \n<a href=\"http://www.tsrengineconversions.co.uk/default.aspx\" class=\"postlink\">http://www.tsrengineconversions.co.uk/default.aspx</a>\n<br> \n<br> These guys have been converting VWs for many years, and know their stuff. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> Also PM Kilgore on here, as he has a stunning conversion in his bus \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> \n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=8&amp;t=61076\" class=\"postlink\">viewtopic.php?f=8&amp;t=61076</a>\n<br> \n<br> Phil. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Jul 29, 2014 9:31 pm"
+  } ]
+}

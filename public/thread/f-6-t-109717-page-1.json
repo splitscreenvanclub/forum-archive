@@ -1,0 +1,37 @@
+{
+  "forumId" : "6",
+  "threadId" : "109717",
+  "title" : "easy monday question - beam adjusters",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=109717",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "830119",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "830119",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "715",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br>\n<br>I have a CE 2\" adjustable beam &amp; want to pull my beam up as high as it will go to check I have sufficient clearance for dropped spindles.\n<br>\n<br>I have loosened the lock nuts on the adjusters and loosened the adjuster brackets off - I assume I do not need to touch the grubscrew as that is screwed into the dimple in the beams leaves (although what does this screw into as I assume there is a slot in the beam tubes for the grubscrew to move up &amp; down)?\n<br>\n<br>I have jacked up the bus from the middle of the beam &amp; the wheels are now dangling in mid air - I assume this is as high as it will go &amp; it won;t go any further as either (1) the shocks are at the extent of their travel (my next job is to take the shocks off to eliminate this) or (2) the grubscrew has moved as far as it can in the slot in the beam tube (and there is nothing I can do about this).\n<br>\n<br>Also, I assume if the grubscrew goes up, so does the ride hide?\n<br>\n<br>I assume then that I push the adjuster brackets as high up as they will go &amp; just retighten the lock nuts (still without touching the grubscrew).\n<br>\n<br>Can someone please confirm that all of the above is correct or correct me as necessary!\n<br>\n<br>much obliged !!",
+    "lastEdited" : "Mon Apr 13, 2015 3:56 pm"
+  }, {
+    "postId" : "830124",
+    "author" : {
+      "username" : "dombutler",
+      "userId" : "830124",
+      "joined" : "Sat Apr 26, 2003 3:49 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hastings the pirate town.",
+      "postCount" : "1512",
+      "avatarPath" : "./download/file.php%3Favatar=141_1358500587.jpg"
+    },
+    "content" : "maybe it is best to unbolt the shocks, if you have gas shocks then they will be at furthest travel.\n<br>\n<br>I have had a couple of beams that the grub screw did not move when the lock nut was loosened, sometimes all they need is to be slacked off. They sometimes get stuck, probably it was because I built them.",
+    "lastEdited" : "Mon Apr 13, 2015 5:13 pm"
+  } ]
+}

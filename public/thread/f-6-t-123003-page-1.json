@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "123003",
+  "title" : "Tube for hot air?!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123003",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=2a5a6bf97d017553f1e3c916ef62a53a",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "919752",
+    "author" : {
+      "username" : "John82",
+      "userId" : "919752",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=33084&amp;sid=2a5a6bf97d017553f1e3c916ef62a53a&amp;mode=view\"><img src=\"./download/file.php?id=33084&amp;t=1&amp;sid=2a5a6bf97d017553f1e3c916ef62a53a\" class=\"postimage\" alt=\"F57E36AA-46A0-425C-AD20-661A6DBDBDBB.jpeg\" title=\"F57E36AA-46A0-425C-AD20-661A6DBDBDBB.jpeg (274.48 KiB) Viewed 1358 times\"></a>\n  </dt> \n </dl> \n</div> My van has no tube for hot air. Is that right or someone cut it down. I have a 67 model.",
+    "lastEdited" : "Mon Feb 11, 2019 1:24 pm"
+  }, {
+    "postId" : "919753",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "919753",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15460",
+      "avatarPath" : null
+    },
+    "content" : "Your bus is not a microbus?\n<br> Kombi and panel van models did not have the heater log.\n<br> If you have heat exchangers and these are connected to the front you can with a little work add the heater log.\n<br> G",
+    "lastEdited" : "Mon Feb 11, 2019 2:46 pm"
+  }, {
+    "postId" : "919755",
+    "author" : {
+      "username" : "John82",
+      "userId" : "919755",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=33085&amp;sid=2a5a6bf97d017553f1e3c916ef62a53a&amp;mode=view\"><img src=\"./download/file.php?id=33085&amp;t=1&amp;sid=2a5a6bf97d017553f1e3c916ef62a53a\" class=\"postimage\" alt=\"6294D470-4E23-42E2-B88C-828F07DBC9B4.jpeg\" title=\"6294D470-4E23-42E2-B88C-828F07DBC9B4.jpeg (271.44 KiB) Viewed 1350 times\"></a>\n  </dt> \n </dl> \n</div> \n<br> This is my bus, 11 windows bus",
+    "lastEdited" : "Mon Feb 11, 2019 3:15 pm"
+  }, {
+    "postId" : "919756",
+    "author" : {
+      "username" : "John82",
+      "userId" : "919756",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "What’s the difference of Kombi or Microbus?",
+    "lastEdited" : "Mon Feb 11, 2019 3:19 pm"
+  }, {
+    "postId" : "919757",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "919757",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15460",
+      "avatarPath" : null
+    },
+    "content" : "Kombi ..no trim panels cheaper model\n<br> What does you m code plate say?\n<br> Single colour",
+    "lastEdited" : "Mon Feb 11, 2019 3:24 pm"
+  }, {
+    "postId" : "919758",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "919758",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1448",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Kombi was used for transporting goods and might have had a middle seat.\n<br> Microbus was used more for passenger transport.\n<br> \n<br> \n<a href=\"https://www.ssvc.org.uk/phpbb/viewtopic.php?t=94035\" class=\"postlink\">https://www.ssvc.org.uk/phpbb/viewtopic.php?t=94035</a>",
+    "lastEdited" : "Mon Feb 11, 2019 4:13 pm"
+  }, {
+    "postId" : "919759",
+    "author" : {
+      "username" : "John82",
+      "userId" : "919759",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "It is says type 2 T1 Kombi 231, dove blue.\n<br> Thank you very much. I have to buy glasses and pop outs. The glasses are all the same for all models right?",
+    "lastEdited" : "Mon Feb 11, 2019 4:22 pm"
+  }, {
+    "postId" : "919760",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "919760",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15460",
+      "avatarPath" : null
+    },
+    "content" : "Yes.. if it has rear pop outs they are smaller than fixed glass.\n<br> For 67 cab door has one sliding glass with hole and a fixed piece.\n<br>",
+    "lastEdited" : "Mon Feb 11, 2019 5:07 pm"
+  }, {
+    "postId" : "919761",
+    "author" : {
+      "username" : "John82",
+      "userId" : "919761",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "It has 6 pop outs. No sliding door.",
+    "lastEdited" : "Mon Feb 11, 2019 5:09 pm"
+  }, {
+    "postId" : "919764",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "919764",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20113",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=43008&amp;sid=2a5a6bf97d017553f1e3c916ef62a53a\">John82</a> wrote: <a href=\"./viewtopic.php?p=919761&amp;sid=2a5a6bf97d017553f1e3c916ef62a53a#p919761\" data-post-id=\"919761\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Mon Feb 11, 2019 5:09 pm\n   </div></cite> It has 6 pop outs. No sliding door. \n </div>\n</blockquote> He meant sliding glass in the cab doors",
+    "lastEdited" : "Mon Feb 11, 2019 6:32 pm"
+  }, {
+    "postId" : "919784",
+    "author" : {
+      "username" : "John82",
+      "userId" : "919784",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "Thank so much for the information!!",
+    "lastEdited" : "Tue Feb 12, 2019 4:07 pm"
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "forumId" : "2",
+  "threadId" : "123853",
+  "title" : "New VW emblem?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123853",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=e5efdd01b300dab284c9d7b1ed21227d",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925163",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "925163",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1456",
+      "avatarPath" : null
+    },
+    "content" : "I read something about the ID3 and it debut at Frankfurter Motor Show and it mentioned a design change \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\">",
+    "lastEdited" : "Wed Sep 11, 2019 6:18 pm"
+  }, {
+    "postId" : "925184",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "925184",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11919",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "Certainly not air-cooled \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br> Buzzers",
+    "lastEdited" : "Thu Sep 12, 2019 7:25 am"
+  }, {
+    "postId" : "925187",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "925187",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "391",
+      "avatarPath" : null
+    },
+    "content" : "Looks to be much like the 1967 version, coming in next year. \n<br> \n<br> \n<a href=\"https://news.yahoo.com/history-volkswagen-logo-205915140.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvLnVrLw&amp;guce_referrer_sig=AQAAAK6UaZZWRDxzzFtKo_W5aEzXDaCBTcuNmkBIYBaaWBqtSFpfnu9A0Sfc-PXc0fdLbym_IcO-43rf31QEXlD6kQVCGS3c_EEaAG9WuBwG9WUNY4EhWv7AB9lBCiGrl9X-z9EDOWkYfV_YGfhZcDxzZ5OHemfu3fjQwpB6CBnLLHQD\" class=\"postlink\">https://news.yahoo.com/history-volkswag ... B6CBnLLHQD</a>",
+    "lastEdited" : "Thu Sep 12, 2019 8:58 am"
+  }, {
+    "postId" : "925191",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "925191",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1456",
+      "avatarPath" : null
+    },
+    "content" : "I bet that cost a fortune to get design consultant's in to do \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> Maybe Ford are looking to do the same.....career change \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Thu Sep 12, 2019 10:49 am"
+  }, {
+    "postId" : "925196",
+    "author" : {
+      "username" : "David Eccles",
+      "userId" : "925196",
+      "joined" : "Wed Apr 30, 2003 6:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Leicester",
+      "postCount" : "1423",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"file\"> \n  <dt class=\"attach-image\">\n   <img src=\"./download/file.php?id=36728&amp;sid=e5efdd01b300dab284c9d7b1ed21227d\" class=\"postimage\" alt=\"New logo.jpg\" onclick=\"viewableArea(this);\">\n  </dt> \n  <dd>\n   New logo.jpg (10.54 KiB) Viewed 975 times\n  </dd> \n </dl> \n</div> spot the difference!",
+    "lastEdited" : "Thu Sep 12, 2019 3:28 pm"
+  } ]
+}

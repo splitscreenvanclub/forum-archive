@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "118270",
+  "title" : "Star adjuster pushing brake pad out",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=118270",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b594e953f8081cf24905b62a5991941f",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "890122",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "890122",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1111",
+      "avatarPath" : null
+    },
+    "content" : "Have a problem with my handbrake, as in its not working. The 10mm nut is adjusted all the way to the bottom so i've figured there's something going on inside the brake drum.\n<br> Have removed the rear drum and found out that the right hand side star adjuster just keeps spinning around and doesnt push the brake pad out - suspect this is my problem.\n<br> \n<br> As shown in the pic below, the left hand side adjuster is working and pushing the brake pad out, but I can turn the right hand side one forever and a day and its just not moving the brake pad. \n<br> \n<br> Is something broken inside the adjuster holder?\n<br> \n<br> \n<img src=\"https://s26.postimg.org/oaha74bjd/star.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Wed Jan 11, 2017 10:25 pm"
+  }, {
+    "postId" : "890130",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "890130",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "From memory they adjust in and out because of the thread on the \"bolt\" part that slots into the holder and on to the end of the brake shoe. Sounds like your thread is damaged may be so a simple and cheap fix to buy a new one along with a new star adjuster I would suggest and just pop it in as the holder part is just a hole/cylinder in which it pushes.\n<br> \n<br> I would have suggested your star adjuster was just stuck on but assuming you have left the shoe in the slot whilst attempting to turn it that can't be the case and leads me to think it is the thread instead. Of course it could be the star adjuster without a thread equally so again I'd just replace both to be sure. \n<br> \n<br> \n<a href=\"http://www.machine7.com/product.php?xProd=1709\" class=\"postlink\">http://www.machine7.com/product.php?xProd=1709</a>\n<br> \n<br> That's my thoughts anyway. \n<br> \n<br> Steve",
+    "lastEdited" : "Wed Jan 11, 2017 10:56 pm"
+  }, {
+    "postId" : "890133",
+    "author" : {
+      "username" : "tonygnu",
+      "userId" : "890133",
+      "joined" : "Wed Feb 17, 2016 10:03 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Newport",
+      "postCount" : "297",
+      "avatarPath" : null
+    },
+    "content" : "Looks like your spring plate that stops the star from turning is missing. There is a thread on it in here a couple of months ago about it.",
+    "lastEdited" : "Thu Jan 12, 2017 8:01 am"
+  }, {
+    "postId" : "890137",
+    "author" : {
+      "username" : "malum",
+      "userId" : "890137",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "558",
+      "avatarPath" : null
+    },
+    "content" : "Take the adjuster out and see if the thread on the bolt is borked. Hopefully it's the adjuster and not the thread in the backing plate.\n<br> A new adjuster and bolt is a couple of quid a new backing plate is a lot more!\n<br> It does look like the spring plate is also missing but that wouldn't stop the adjuster adjusting out, it would stop it staying adjusted after reassembly.",
+    "lastEdited" : "Thu Jan 12, 2017 11:04 am"
+  }, {
+    "postId" : "890138",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "890138",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1111",
+      "avatarPath" : null
+    },
+    "content" : "Cheers guys. Have taken the star adjuster and adjuster pin out and it appears the star adjuster has broken into two pieces on both sides!\n<br> Have replaced and appears to be working fine now.\n<br> \n<br> It's an early bay set up for CE IRS - I can only find mention of the adjuster spring plate for the split drums, not early bay? Dont think i've ever had one of these on either drum.",
+    "lastEdited" : "Thu Jan 12, 2017 11:17 am"
+  }, {
+    "postId" : "890142",
+    "author" : {
+      "username" : "malum",
+      "userId" : "890142",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "558",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ferkh10 wrote:</cite>Cheers guys. Have taken the star adjuster and adjuster pin out and it appears the star adjuster has broken into two pieces on both sides!\n  <br> Have replaced and appears to be working fine now.\n  <br> \n  <br> It's an early bay set up for CE IRS - I can only find mention of the adjuster spring plate for the split drums, not early bay? Dont think i've ever had one of these on either drum.\n </div>\n</blockquote> You may find that it adjusts itself back in over time (possibly a short amount of time) without the retaining spring. Mine did.\n<br> You can wire it up so it can't move or you can put a new spring in, which isn't as easy as it might sound as it's part of the backing plate.",
+    "lastEdited" : "Thu Jan 12, 2017 11:54 am"
+  }, {
+    "postId" : "890144",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "890144",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1111",
+      "avatarPath" : null
+    },
+    "content" : "cheers. \n<br> I'm keeping my eye out for a rear disc kit anyway - just set it &amp; forget it, definitely the way to go. I've spent a load of time messing about with hub nuts, cylinders, etc on my rear drums compared to my CSP front disc kit \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Thu Jan 12, 2017 11:59 am"
+  }, {
+    "postId" : "890151",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "890151",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "The rubber seals on the wheel cylinder don't look very good!",
+    "lastEdited" : "Thu Jan 12, 2017 1:01 pm"
+  } ]
+}

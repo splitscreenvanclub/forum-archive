@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "125394",
+  "title" : "Articulated Split",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=125394",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=9516eb5ee05915b7c16a80319996267f",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "933718",
+    "author" : {
+      "username" : "nodrog",
+      "userId" : "933718",
+      "joined" : "Sun Jul 10, 2005 6:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "63",
+      "avatarPath" : null
+    },
+    "content" : "All that extra space.",
+    "lastEdited" : "Thu Jan 07, 2021 10:00 am"
+  }, {
+    "postId" : "933805",
+    "author" : {
+      "username" : "David Eccles",
+      "userId" : "933805",
+      "joined" : "Wed Apr 30, 2003 6:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Leicester",
+      "postCount" : "1428",
+      "avatarPath" : null
+    },
+    "content" : "and here we observe the mating habits of the bi-fenestrum bullibus",
+    "lastEdited" : "Tue Jan 12, 2021 7:36 pm"
+  } ]
+}

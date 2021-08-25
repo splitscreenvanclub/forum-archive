@@ -1,0 +1,27 @@
+{
+  "forumId" : "2",
+  "threadId" : "124243",
+  "title" : "Plans for interior.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=124243",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=335cabdd4ac049e9dd66e9ebc445c02b",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927424",
+    "author" : {
+      "username" : "funky_rick",
+      "userId" : "927424",
+      "joined" : "Fri Oct 14, 2011 7:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "176",
+      "avatarPath" : null
+    },
+    "content" : "Before I spend alot of time measuring and designing an interior I thought it would make more sense to ask if anyone else has any plans they would be willing to share please. Thanks in advance Rick",
+    "lastEdited" : "Wed Jan 15, 2020 8:14 am"
+  } ]
+}

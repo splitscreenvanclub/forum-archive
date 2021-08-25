@@ -1,0 +1,66 @@
+{
+  "forumId" : "2",
+  "threadId" : "106516",
+  "title" : "Wow replaced steering box bushes what a difference",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=106516",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=24dec13db2ffd0cece6b3f659575be11",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "808053",
+    "author" : {
+      "username" : "SASQUATCH",
+      "userId" : "808053",
+      "joined" : "Sun Jun 14, 2009 3:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "280",
+      "avatarPath" : "./download/file.php%3Favatar=33224_1275436396.jpg"
+    },
+    "content" : "My steering has always had a bit of play like most do, I collected new bushes, gasket and oil seal from SSVC spares at the Breeze and changed them today.\n<br> \n<br> I cant believe how much better it is almost no play at all, I should have done this ages ago.",
+    "lastEdited" : "Sun Oct 26, 2014 5:39 pm"
+  }, {
+    "postId" : "808093",
+    "author" : {
+      "username" : "paulm20000",
+      "userId" : "808093",
+      "joined" : "Fri Jan 01, 2010 5:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "187",
+      "avatarPath" : null
+    },
+    "content" : "Ive been looking to sort mine out for a while. are these bits similar to the ones you used-link below? Have you done anything to idler pin etc?\n<br> \n<a href=\"http://kuhl-tek.co.uk/ourshop/prod_1141882-Steering-Box-Refurbishment-Kit.html\" class=\"postlink\">http://kuhl-tek.co.uk/ourshop/prod_1141 ... t-Kit.html</a>",
+    "lastEdited" : "Sun Oct 26, 2014 9:31 pm"
+  }, {
+    "postId" : "808128",
+    "author" : {
+      "username" : "SASQUATCH",
+      "userId" : "808128",
+      "joined" : "Sun Jun 14, 2009 3:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "280",
+      "avatarPath" : "./download/file.php%3Favatar=33224_1275436396.jpg"
+    },
+    "content" : "Hi,\n<br> \n<br> Yeah the two bushes, the oil seal plus a gasket for the side of the case. The worm and pin were ok just cleaned it all up, my mate Special Greg borrowed an adjustable reamer.\n<br> Topped it up with Millers steering box oil happy days",
+    "lastEdited" : "Mon Oct 27, 2014 10:55 am"
+  }, {
+    "postId" : "808148",
+    "author" : {
+      "username" : "Dc67",
+      "userId" : "808148",
+      "joined" : "Sun Mar 06, 2011 7:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "18",
+      "avatarPath" : null
+    },
+    "content" : "Hey hey that was me !!",
+    "lastEdited" : "Mon Oct 27, 2014 5:01 pm"
+  } ]
+}

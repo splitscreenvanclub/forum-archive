@@ -1,0 +1,37 @@
+{
+  "forumId" : "49",
+  "threadId" : "98296",
+  "title" : "Which Stereo",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=98296",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "751854",
+    "author" : {
+      "username" : "martyntbox18",
+      "userId" : "751854",
+      "joined" : "Sat Oct 12, 2013 6:57 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Derby",
+      "postCount" : "47",
+      "avatarPath" : null
+    },
+    "content" : "Hello SSVC. I have just bought a 1964 EZ SSCV and am chuffed to bits, smiling ear to ear!!! It has a modern stereo mounted under the dash connected to 4 speakers a sub and an amp, but i want to put an original or original looking stereo back on the dash. Any tips from previous experience or where to find one much appreciated\n<br>Cheers\n<br>MT",
+    "lastEdited" : "Sat Oct 12, 2013 8:06 pm"
+  }, {
+    "postId" : "751859",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "751859",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "3930",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Plenty of converted originals about or retro sounds units. These are modern internals and old styling.",
+    "lastEdited" : "Sat Oct 12, 2013 8:25 pm"
+  } ]
+}

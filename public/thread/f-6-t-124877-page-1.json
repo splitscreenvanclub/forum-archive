@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "124877",
+  "title" : "1200 bottom end , 1500 top end?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124877",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=caba032d536cadc54b1a7896fc03ae70",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930802",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "930802",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "428",
+      "avatarPath" : null
+    },
+    "content" : "Good afternoon . Another silly question! Can I use a 1200 bottom end with 1500 barrels and pistons? Could anyone tell me if this is possible and what work is needed? Kind regards neil",
+    "lastEdited" : "Sat Jun 27, 2020 3:44 pm"
+  }, {
+    "postId" : "930850",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "930850",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1056",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I read through this when I was trying to work out what my engine was. Mine has an unstamped vw-reconditioned case (no serial number) and it came with aftermarket heads etc.\n<br> \n<br> \n<a href=\"http://www.vw-resource.com/engine_interchangeability.html\" class=\"postlink\">http://www.vw-resource.com/engine_inter ... ility.html</a>",
+    "lastEdited" : "Mon Jun 29, 2020 7:02 am"
+  }, {
+    "postId" : "930863",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "930863",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3533",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39206&amp;sid=caba032d536cadc54b1a7896fc03ae70\">Who.Me?</a> wrote: <a href=\"./viewtopic.php?p=930850&amp;sid=caba032d536cadc54b1a7896fc03ae70#p930850\" data-post-id=\"930850\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Mon Jun 29, 2020 7:02 am\n   </div></cite> I read through this when I was trying to work out what my engine was. Mine has an unstamped vw-reconditioned case (no serial number) and it came with aftermarket heads etc.\n  <br> \n  <br> \n  <a href=\"http://www.vw-resource.com/engine_interchangeability.html\" class=\"postlink\">http://www.vw-resource.com/engine_inter ... ility.html</a> \n </div>\n</blockquote> Unfortunately the info on that page is way out of date and not quite accurate. From about 1975 onwards many replacement 1200 engines (D code) came built on universal cases that had cylinder openings that would take 1500/1600 pots. To make them 1200 VW fitted special 1200 pots with very thick walls. If you can find one of these cases they are usually in excellent condition as they had a very unstressed life! All you need for the bottom end is a 1600 crank and conrods plus some fresh bearings. Unless they have been cooked, they rarely need line boring. The legendary engine builder Laurie Pettit would buy up lots of these cases to build his engines and tipped me off about them. I may still have a few skulking around \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";)\" title=\"Wink\">",
+    "lastEdited" : "Mon Jun 29, 2020 2:23 pm"
+  }, {
+    "postId" : "930868",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "930868",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "428",
+      "avatarPath" : null
+    },
+    "content" : "So a standard 1200 bottom end will not be compatible with 1500 pistons and barrels",
+    "lastEdited" : "Mon Jun 29, 2020 7:35 pm"
+  }, {
+    "postId" : "930968",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "930968",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3533",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Depends what you mean by \"standard\". If you mean original then the answer is that 1500 cylinders won't fit. Look for a D code excahnge case - makes everything much easier. Convert it to doghouse oil cooler as well - makes for a better engine. Dead easy to do it.",
+    "lastEdited" : "Fri Jul 03, 2020 6:39 pm"
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "forumId" : "33",
+  "threadId" : "108624",
+  "title" : "Call centres",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=108624",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "822474",
+    "author" : {
+      "username" : "jonthebuilder",
+      "userId" : "822474",
+      "joined" : "Thu Aug 12, 2010 7:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "Whynismit when you phone the sales section of a company to buy something they are never experiencing unusually high call volumes and answer the phone immediately.\n<br>\n<br>...when you phone the same company to ask for some post sale service they are always experiencing unusually high call volumes....\n<br>\n<br>.....why can't they just be honest and say we can't be arsed to pay for staff to deal with you unless we are actually making money from you.\n<br>\n<br>This applies across every organisation I have ever come across",
+    "lastEdited" : "Wed Feb 18, 2015 6:22 pm"
+  }, {
+    "postId" : "822853",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "822853",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1691",
+      "avatarPath" : "http://i95.photobucket.com/albums/l129/doubledoorgf/images.jpg"
+    },
+    "content" : "Post Sales Services are available online ................ \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Sat Feb 21, 2015 2:46 am"
+  } ]
+}

@@ -1,0 +1,24 @@
+{
+  "forumId" : "32",
+  "threadId" : "103263",
+  "title" : "can not access pm's",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=103263",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "786448",
+    "author" : {
+      "username" : "curbo",
+      "userId" : "786448",
+      "joined" : "Thu Mar 16, 2006 10:28 pm",
+      "profileRank" : "Banned from selling and PMs",
+      "location" : "-",
+      "postCount" : "599",
+      "avatarPath" : null
+    },
+    "content" : "i get an email but i can not access my pm's any ideas why or help to fix please?",
+    "lastEdited" : "Tue May 27, 2014 10:01 am"
+  } ]
+}

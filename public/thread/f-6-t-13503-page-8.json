@@ -1,0 +1,206 @@
+{
+  "forumId" : "6",
+  "threadId" : "13503",
+  "title" : "dual circuit brakes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=13503&start=105",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 221,
+  "pageNumber" : 8,
+  "totalPages" : 15,
+  "posts" : [ {
+    "postId" : "424046",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "424046",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "South Northants",
+      "postCount" : "4540",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "Bolted the beam back in now and done most of the plumbing. I've strapped the vacuum line to the clutch and added a second brake switch and then moved all the old brake pipes (I put them on flexis last time because I knew I'd be fitting this servo at some point). The only serious problem was a misalignment of the pedal rod so I got my structural analysis colleagues to take a look at it and they say its okay to bend it. Dave P was a bit concerned because the last RHD he fitted it to didn't need this tweak so it may just be something to do with our bus??? \n<br>\n<br>\n<br>\n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/creativebrakeservo/P5290028.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/creativebrakeservo/P5290023.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/creativebrakeservo/P5290025.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri May 29, 2009 5:18 pm"
+  }, {
+    "postId" : "424049",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "424049",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "18046",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Fri May 29, 2009 5:23 pm"
+  }, {
+    "postId" : "430695",
+    "author" : {
+      "username" : "adywells",
+      "userId" : "430695",
+      "joined" : "Tue Oct 11, 2005 6:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "139",
+      "avatarPath" : "http://i103.photobucket.com/albums/m160/adywells/itchyandscratchy0df.gif"
+    },
+    "content" : "Urgent help needed please, I have got the CSP conversion kit and a bay master cylinder (servo type) I am having a nightmare fitting the brake switch......First off I used the switch that came off the old single circuit cylinder, this just stripped the thread on the new master cylinder rendering it useless! I have now bought another master cylinder and new switch, the problem I now have is that I have tightened it as much as I dare but it is leaking. Its as if it needs some sort of thread sealer or ptfe tape, is there a technique for installing it? I have screwed it in nearly all the way.\n<br>Any suggestions?\n<br>Also has anyone else has trouble fitting the under pan back on with the new cylinder? it doesn't seem to fit now\n<br>Thanks\n<br>Ady\n<br>\n<br>(I will also post this as a separate topic as its very urgent)",
+    "lastEdited" : "Fri Jun 19, 2009 7:02 pm"
+  }, {
+    "postId" : "430708",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "430708",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "South Northants",
+      "postCount" : "4540",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "I've never quite understood how they seal, I thought the M10 thread was straight but the switches are obviously tapered. If it doesn't seal then use PTFE tape. I'm just mucking around with a Wilwood clutch slave cylinder (due to the above Creative Servo not allowing me to fit the clutch cable!) and that has PTFE pipe sealing compound on the tapered threads .",
+    "lastEdited" : "Fri Jun 19, 2009 7:34 pm"
+  }, {
+    "postId" : "430712",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "430712",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "18046",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Normally they just tighten up and seal, but I have had one once that wouldn't seal and I kept tweeking it up, until the switch sheared off! so killing the m/c... A small amount of thread 'seal &amp; lock' should help your situation.",
+    "lastEdited" : "Fri Jun 19, 2009 7:44 pm"
+  }, {
+    "postId" : "431859",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "431859",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "South Northants",
+      "postCount" : "4540",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "Pooh, it turns out that T2D dual circuit master cylinder doesn't work with the CE direct servo even thoughthey look nigh on the same. The rod at the back of the servo is a bit small and pokes straight down the hole in the middle of the \"pushtube\" in the MC. The CE master cylinder is a Varga with CR3 embossed on the side and the T2D MC is also Varga with CR4 on the side. I'm tempted to jam a bit of bar in the end of the MC to make it work but I just know something else will go wrong. I've only wasted £17 on an Easibleed kit this morning that I didn't really need (it did make the testting and bleeding process a joy though!) and now I've got to spend another £50 on another master cylinder!",
+    "lastEdited" : "Wed Jun 24, 2009 12:09 pm"
+  }, {
+    "postId" : "432357",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "432357",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1067",
+      "avatarPath" : null
+    },
+    "content" : "bobley, you can get the bay servo m/c from GSF for £36 inc P&amp;P (less if you use your SSVC discount). Hope this helps?",
+    "lastEdited" : "Fri Jun 26, 2009 1:06 pm"
+  }, {
+    "postId" : "432394",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "432394",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "South Northants",
+      "postCount" : "4540",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "Cheers matey. I'll go and see them. For now I've made a little bullet shaped adaptor which does the job but I'll put the T2D one in the crewcab and put the new one in the bus.",
+    "lastEdited" : "Fri Jun 26, 2009 4:26 pm"
+  }, {
+    "postId" : "438919",
+    "author" : {
+      "username" : "MrD",
+      "userId" : "438919",
+      "joined" : "Mon Feb 04, 2008 10:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bruntingthorpe",
+      "postCount" : "100",
+      "avatarPath" : null
+    },
+    "content" : "Asking for a bit of advice, I have a 67 with duel circuit brakes as Std, whilst raising the steering box I noticed the master cylinder was weeping, the long and the short of it I ended up fitting a CSP Master cylinder kit, but I'm a bit disapointed in the stopping power I have now, the old cylinder was more powerful, altho the CSP has a bit more \"feel\". I should mention I have the CSP discs to, so i'm thinking about adding a servo, or try and repair the old M/C has anybody else noticed this or is it me?\n<br>I used an eeesy bleed so I'm sure theres no air in the system, and done 500 miles plus so everything should have settled down by now, all the rubber pipes have been replaced to.",
+    "lastEdited" : "Mon Jul 20, 2009 7:14 pm"
+  }, {
+    "postId" : "438932",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "438932",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "South Northants",
+      "postCount" : "4540",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "If the CSP MC is a little smaller then the pedal will move a bit further but you'll get more braking power for the same pressure.\n<br>\n<br>Now that I've got my Creative servo working I can confirm that its great even with the rather poor vacuum from my throttles which are cracked a bit far open at the moment.",
+    "lastEdited" : "Mon Jul 20, 2009 8:01 pm"
+  }, {
+    "postId" : "444924",
+    "author" : {
+      "username" : "retirednotdead",
+      "userId" : "444924",
+      "joined" : "Sat Apr 25, 2009 6:15 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "12",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>flat4fanatic wrote:</cite>Is it a fairly straight swap to chance a split master cylinder for a dual circuit bay one?\n  <br>Putting a whle new system in the split so though i might as well upgrade if possible.\n  <br>thanks\n  <br>Steve\n </div>\n</blockquote>\n<br>\n<br>\n<br>Just had mine done with a complete kit from Just kampers for around £150...well worth it.",
+    "lastEdited" : "Fri Aug 14, 2009 6:42 am"
+  }, {
+    "postId" : "449311",
+    "author" : {
+      "username" : "skipps",
+      "userId" : "449311",
+      "joined" : "Mon Oct 02, 2006 9:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new barn kent",
+      "postCount" : "410",
+      "avatarPath" : "http://i221.photobucket.com/albums/dd85/skipps_photos/Campervan002.jpg"
+    },
+    "content" : "hi all .... have just finished reading this thread and now made my mind up what i need to do to improve the brakes, I have a 67(march) with a single mc ,so the confusing parts are ..1 would i need to fit the 67 duel mc as 1 of the links shows the 67 has 2 brake switches and like all pre late 67 i only have a sngle switch ,how would do make the 2nd one work ...2 do all the brake line fit to there new location without putting to much stress on them ..........cheers ..skipps",
+    "lastEdited" : "Wed Sep 02, 2009 12:51 am"
+  }, {
+    "postId" : "462700",
+    "author" : {
+      "username" : "59 pick up",
+      "userId" : "462700",
+      "joined" : "Thu Jul 31, 2003 6:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "single cab for sale ¬£5k",
+      "postCount" : "1549",
+      "avatarPath" : "http://img.photobucket.com/albums/v222/pantswagen/kkk.jpg"
+    },
+    "content" : "bob, could you not have mounted the servo a fag paper from the chassis, had the push rod straighter?\n<br>-did you know that a bay window servo is actually mounted on the .......? - so its straight? - true\n<br>is your heim not always going to be stressed\n<br>-why is there no rose joint?\n<br>lastly, are them bits from the brasil bay - split beam",
+    "lastEdited" : "Tue Oct 20, 2009 5:04 am"
+  }, {
+    "postId" : "462747",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "462747",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "South Northants",
+      "postCount" : "4540",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "The servo is no more than 10mm away from the chassis. I could've mounted the servo bracket a little further outboard but not much. I was just following the instructions. CE have since changed the instructions to say that you should dummy the install up in the vehicle to work out how far outboard the servo can fit. The bar steps over by about 46mm but I designed it cock on obviously so nothing is stressed and no spherical bearings are required. My fatigue/mechanical analysis friends tell me there is no danger whatsoever of the bar doing anything unexpected. \n<br>\n<br>On a LHD install it steps over 24mm which is just doable with a straight rod.\n<br>\n<br>My heim is constantly stressed Steve but I dont think thats a topic for discussion on a public forum, I dont even talk to my closest friends about such things, its private.\n<br>\n<br>The beam is a CE ball joint bay beam and it did have a bracket already fitted but it was miles away from where the CE one needs to be. I did mock it up but it wouldn't work - cant remember why though. Bays must have very different pedal boxes.",
+    "lastEdited" : "Tue Oct 20, 2009 11:13 am"
+  }, {
+    "postId" : "464302",
+    "author" : {
+      "username" : "SplitScreenN00b",
+      "userId" : "464302",
+      "joined" : "Wed Feb 25, 2009 10:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "417",
+      "avatarPath" : null
+    },
+    "content" : "Hey chaps...\n<br>\n<br>Just fitted up a new DCMC but now need to bleed the air out of the system. Have any of you guys used a Gunsons Eazibleed? Are they any good?\n<br>\n<br>Cheers \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Sun Oct 25, 2009 10:00 pm"
+  } ]
+}

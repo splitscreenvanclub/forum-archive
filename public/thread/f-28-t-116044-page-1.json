@@ -1,0 +1,79 @@
+{
+  "forumId" : "28",
+  "threadId" : "116044",
+  "title" : "BWA with reduction boxes?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=116044",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=6cfaf267141f67c9c0e47baab6b031ac",
+    "label" : "BWA"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "875363",
+    "author" : {
+      "username" : "Gavin m",
+      "userId" : "875363",
+      "joined" : "Sun Jan 08, 2006 9:08 am",
+      "profileRank" : "Registered user",
+      "location" : "London",
+      "postCount" : "71",
+      "avatarPath" : null
+    },
+    "content" : "Is it possible?\n<br> \n<br> I've got a 2110 from John Maher fuel injected and has just been dyno tested achieving 159bhp. Way more than initially planned.\n<br> It's going in the bus next week and has been built to pull the bus up a hill loaded for camping.\n<br> \n<br> Gearbox ratios and reduction boxes built by bears with the engine in mind.\n<br> \n<br> Has anyone got sub 18 sec with reduction boxes still fitted?\n<br> \n<br> It's been a few years since I've been up to santapod and have just got tickets for Action.\n<br> \n<br> Are the RGB going to stop me getting enough power down to get a decent time?",
+    "lastEdited" : "Wed May 25, 2016 12:59 pm"
+  }, {
+    "postId" : "875369",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "875369",
+      "joined" : "Tue Oct 04, 2005 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Taunton, cider capital",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "all depends on what the gearbox ratio and reduction boxes work out at, bears should of sent you a gearbox ratio chart or at least your ratios themselves, you can then work it out from there.\n<br> your engine has enough power to achieve an 18 but only if the gear and reduction ratios allow, you could be doing 6000rpm and only going 55mph for all we know?",
+    "lastEdited" : "Wed May 25, 2016 3:05 pm"
+  }, {
+    "postId" : "875373",
+    "author" : {
+      "username" : "Gavin m",
+      "userId" : "875373",
+      "joined" : "Sun Jan 08, 2006 9:08 am",
+      "profileRank" : "Registered user",
+      "location" : "London",
+      "postCount" : "71",
+      "avatarPath" : null
+    },
+    "content" : "Bears were very helpful and had all the power and tourqe figures prior to the build and built it to pull a loaded camper up hills and cruise at 70. \n<br> If it will pull an 18 I'll be more than happy as a bonus but it's not what it's built for.\n<br> We will see at santapod my ability may hinder more than anything.",
+    "lastEdited" : "Wed May 25, 2016 4:01 pm"
+  }, {
+    "postId" : "882067",
+    "author" : {
+      "username" : "W-W",
+      "userId" : "882067",
+      "joined" : "Fri Jul 13, 2012 10:47 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "270",
+      "avatarPath" : "./download/file.php%3Favatar=36802_1506585740.jpg"
+    },
+    "content" : "How did it pan out, I'm interested to hear your results as I want to keep the reduction boxes (this time) but go scoobie power. \n<br> \n<br> \n<br> Sent from my SM-G900V using Tapatalk",
+    "lastEdited" : "Fri Aug 26, 2016 8:36 pm"
+  }, {
+    "postId" : "882071",
+    "author" : {
+      "username" : "mclarni",
+      "userId" : "882071",
+      "joined" : "Wed Oct 15, 2008 12:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Angmering West Sussex",
+      "postCount" : "1815",
+      "avatarPath" : null
+    },
+    "content" : "I've been doing a fair amount of research into this.\n<br> \n<br> Fastest RGB bus so far is doing 13 second 1/4 mile.\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?p=4071620\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewto ... ?p=4071620</a>\n<br> \n<br> Cryo freezing treatment seems to be the ticket for strengthening the RGB and gearbox components.",
+    "lastEdited" : "Fri Aug 26, 2016 9:40 pm"
+  } ]
+}

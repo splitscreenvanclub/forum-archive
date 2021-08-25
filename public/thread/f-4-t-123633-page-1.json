@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "123633",
+  "title" : "More splittie bits for sale",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123633",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=a2e0e063cc48218f29b4833fdbb8e2d2",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "923559",
+    "author" : {
+      "username" : "Steve Trott",
+      "userId" : "923559",
+      "joined" : "Sat May 09, 2009 2:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "20",
+      "avatarPath" : null
+    },
+    "content" : "Lap seat belt, royal blue, chrome buckle with Wolfsburg crest £ 12.00 unused. Elephant ear mirror left hand ( nearside ) with grey rubber surround £ 17.00 unused, Quarter light chrome window catch for 1966 - 67 Splitscreen, right hand side ( offside ) £ 10.00 unused. Aluminum roof rack upright sections x 10 nr for 3 bay roof rack ( these sit vertically between the timber slats and the horizontal upper rails £ 13.00 used.SOLD All prices include p &amp; p. Anyone interested, please pm me and I'll send photos.",
+    "lastEdited" : "Thu Jul 11, 2019 1:07 pm"
+  }, {
+    "postId" : "923561",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "923561",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "805",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Hi could I take the roof rack uprights please.\n<br> \n<br> Cheers\n<br> \n<br> Jim",
+    "lastEdited" : "Thu Jul 11, 2019 2:42 pm"
+  }, {
+    "postId" : "923765",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "923765",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "111",
+      "avatarPath" : null
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> Any pics of the quarter light catch please ?",
+    "lastEdited" : "Sun Jul 21, 2019 4:32 pm"
+  } ]
+}

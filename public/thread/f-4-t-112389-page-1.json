@@ -1,0 +1,50 @@
+{
+  "forumId" : "4",
+  "threadId" : "112389",
+  "title" : "3 bow westy roof rack at busfest",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112389",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847687",
+    "author" : {
+      "username" : "Paul L",
+      "userId" : "847687",
+      "joined" : "Sun Feb 26, 2012 9:59 am",
+      "profileRank" : "Registered user",
+      "location" : "Newton Abbot",
+      "postCount" : "101",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=8976&amp;mode=view\"><img src=\"./download/file.php?id=8976&amp;t=1\" class=\"postimage\" alt=\"image.jpg\" title=\"image.jpg (100.05 KiB) Viewed 221 times\"></a>\n  </dt> \n  <dd>\n    Rack\n  </dd> \n </dl> \n</div>I have a 3 bow westy style roof rack that I will take to busfest if a deposit is paid in advance\n<br>Looking for £150",
+    "lastEdited" : "Wed Sep 02, 2015 10:00 pm"
+  }, {
+    "postId" : "848143",
+    "author" : {
+      "username" : "alfalvw",
+      "userId" : "848143",
+      "joined" : "Sat Jan 03, 2015 8:41 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "38",
+      "avatarPath" : null
+    },
+    "content" : "This still available?",
+    "lastEdited" : "Tue Sep 08, 2015 6:26 am"
+  }, {
+    "postId" : "848171",
+    "author" : {
+      "username" : "Paul L",
+      "userId" : "848171",
+      "joined" : "Sun Feb 26, 2012 9:59 am",
+      "profileRank" : "Registered user",
+      "location" : "Newton Abbot",
+      "postCount" : "101",
+      "avatarPath" : null
+    },
+    "content" : "Sorry sold to a chap at busfest",
+    "lastEdited" : "Tue Sep 08, 2015 1:18 pm"
+  } ]
+}

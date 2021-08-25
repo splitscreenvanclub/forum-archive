@@ -1,0 +1,27 @@
+{
+  "forumId" : "52",
+  "threadId" : "124989",
+  "title" : "Battery Charger 12v",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=124989",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=31f03661421fa30ec1a47c408bd29414",
+    "label" : "Non Bus Things For Sale"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931445",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "931445",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1912",
+      "avatarPath" : null
+    },
+    "content" : "Optimate 3plus, enhancement? \n<img alt=\"😂\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f602.svg\"> £30 Geoff(part of my clearout)",
+    "lastEdited" : "Mon Jul 27, 2020 11:21 am"
+  } ]
+}

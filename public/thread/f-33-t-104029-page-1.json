@@ -1,0 +1,66 @@
+{
+  "forumId" : "33",
+  "threadId" : "104029",
+  "title" : "Edit the title in 'For Sale' ads",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=104029",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=78e1e494513f4715d020fd3a78b1e9dd",
+    "label" : "Pointless Bitching"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "791249",
+    "author" : {
+      "username" : "David914",
+      "userId" : "791249",
+      "joined" : "Fri Jun 13, 2014 6:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "147",
+      "avatarPath" : null
+    },
+    "content" : "Trying to buy a 50 year old vehicle is a time consuming process which is made worse by sellers that don't edit the title of their ad once the vehicle is sold. \n<br> I've just read another 3 page thread and the last entry says 'now sold' another 20 minutes of my life I won't get back FFS!! \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Sun Jun 29, 2014 9:41 am"
+  }, {
+    "postId" : "791322",
+    "author" : {
+      "username" : "BusBug&KG",
+      "userId" : "791322",
+      "joined" : "Sun Oct 07, 2007 9:33 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Buckinghamshire",
+      "postCount" : "3420",
+      "avatarPath" : null
+    },
+    "content" : "I agree it's so depressing.\n<br> Tony C",
+    "lastEdited" : "Sun Jun 29, 2014 6:27 pm"
+  }, {
+    "postId" : "796906",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "796906",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1912",
+      "avatarPath" : null
+    },
+    "content" : "Stop moaning, you read the 1st post then skip to the last post. If it's still for sale you can read the other 3 pages, hurry tho as it might be sold before you get to the end ............ \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Thu Aug 07, 2014 6:36 am"
+  }, {
+    "postId" : "796912",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "796912",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>David914 wrote:</cite>Trying to buy a 50 year old vehicle is a time consuming process which is made worse by sellers that don't edit the title of their ad once the vehicle is sold. \n  <br> I've just read another 3 page thread and the last entry says 'now sold' another 20 minutes of my life I won't get back FFS!! \n  <img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">\n </div>\n</blockquote> yep couldn't agree more\n<br> \n<br> \n<blockquote>\n <div>\n  <cite>Magic8Ball wrote:</cite>you read the 1st post then skip to the last post. If it's still for sale you can read the other 3 pages, hurry tho as it might be sold before you get to the end ............ \n  <img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">\n </div>\n</blockquote> Yep couldn't agree more",
+    "lastEdited" : "Thu Aug 07, 2014 7:32 am"
+  } ]
+}

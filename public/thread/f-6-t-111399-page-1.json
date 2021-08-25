@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "111399",
+  "title" : "steering column bolt size or who sells?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111399",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "841365",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "841365",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "forgive the terminology - I have lost the two bolts that go through the steering column support plate and through the plastic sleeve thing!\n<br> \n<br> There are only two bolt holes and it holds the steering column rigid.\n<br> \n<br> Who sells these or what size do I need? Hope that makes sense!",
+    "lastEdited" : "Tue Jul 07, 2015 8:17 pm"
+  }, {
+    "postId" : "841423",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "841423",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "DO you mean Item 10 on this parts diag from Custom &amp; Commercial - they are the shiny crossheaded screws that fit by the knee protector bracket...\n<br> \n<br> \n<img src=\"http://www.customandcommercial.com/images/linedrawings/cc/NEWsteeringwheel%20and%20dash%20parts.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> from this page here : \n<a href=\"http://www.customandcommercial.com/vw-split_screen/splitscreen_interior_parts/steering_wheel_dash_switchs--and--indicator_unit_parts/\" class=\"postlink\">http://www.customandcommercial.com/vw-s ... nit_parts/</a>",
+    "lastEdited" : "Wed Jul 08, 2015 2:25 pm"
+  }, {
+    "postId" : "841458",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "841458",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "You're the man! That's exactly what I need. Big thanks.",
+    "lastEdited" : "Wed Jul 08, 2015 7:48 pm"
+  }, {
+    "postId" : "841595",
+    "author" : {
+      "username" : "seablue67",
+      "userId" : "841595",
+      "joined" : "Mon Mar 29, 2010 7:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "407",
+      "avatarPath" : null
+    },
+    "content" : "Think they are M6's with round Philips heads (or posi-drive)\n<br> Screw fix will sell you a hundred for a few quid, either stainless or standard steel.\n<br> \n<br> No need to get the specific ones from a VW supplier (they'll just be getting them from a standard nut and bolt supplier and putting them in nice labelled bags for you)\n<br> If you want original ones then speak to one of the VW parts breakers (Volksheaven, FBi Etc etc)\n<br> \n<br> Hope that helps",
+    "lastEdited" : "Fri Jul 10, 2015 10:04 am"
+  } ]
+}

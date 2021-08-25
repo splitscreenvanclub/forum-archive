@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "122879",
+  "title" : "1500 Bus Engine Oil Cooler Seals",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122879",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=a706ddbe0bc2f4b8c725115d830453d6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "918797",
+    "author" : {
+      "username" : "81dubber",
+      "userId" : "918797",
+      "joined" : "Sun May 10, 2009 2:46 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "161",
+      "avatarPath" : null
+    },
+    "content" : "Hi all\n<br> \n<br> Currently replacing Oil Cooler Seals on a Standard Non Dog House Oil Cooler.Engine is a 1500 Bus Engine,Engine No H 5135045.Some Confusion over type of Seal to fit.Do I need the Tubular Rubber Seals or the Stepped Type?.The ones that came off the Engine are the Stepped type.The Ones in the Gasket Kit I ordered are the Tubular Rubber Ones.Could anyone tell why they are different, as I only want to do this job once!.\n<br> \n<br> Thanks in advance\n<br> \n<br> Tomas",
+    "lastEdited" : "Sat Jan 12, 2019 4:39 pm"
+  }, {
+    "postId" : "918831",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "918831",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1043",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=33101&amp;sid=a706ddbe0bc2f4b8c725115d830453d6\">81dubber</a> wrote: <a href=\"./viewtopic.php?p=918797&amp;sid=a706ddbe0bc2f4b8c725115d830453d6#p918797\" data-post-id=\"918797\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sat Jan 12, 2019 4:39 pm\n   </div></cite> Hi all\n  <br> \n  <br> Currently replacing Oil Cooler Seals on a Standard Non Dog House Oil Cooler.Engine is a 1500 Bus Engine,Engine No H 5135045.Some Confusion over type of Seal to fit.Do I need the Tubular Rubber Seals or the Stepped Type?.The ones that came off the Engine are the Stepped type.The Ones in the Gasket Kit I ordered are the Tubular Rubber Ones.Could anyone tell why they are different, as I only want to do this job once!.\n  <br> \n  <br> Thanks in advance\n  <br> \n  <br> Tomas \n </div>\n</blockquote> I found this helpful. Skip to 1:27...\n<br> \n<br> \n<a href=\"https://youtu.be/Bs9GFxayyUA?t=86\" class=\"bbvideo\" data-bbvideo=\"560,315\" target=\"_blank\" rel=\"noreferrer\">https://youtu.be/Bs9GFxayyUA?t=86</a>",
+    "lastEdited" : "Sun Jan 13, 2019 10:25 am"
+  }, {
+    "postId" : "918849",
+    "author" : {
+      "username" : "81dubber",
+      "userId" : "918849",
+      "joined" : "Sun May 10, 2009 2:46 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "161",
+      "avatarPath" : null
+    },
+    "content" : "The video has cleared things up.I’ve got the Original Style Cooler,so the Tubular Rubber Seals should be fine.\n<br> \n<br> Thanks\n<br> \n<br> Tomas",
+    "lastEdited" : "Sun Jan 13, 2019 4:39 pm"
+  }, {
+    "postId" : "918858",
+    "author" : {
+      "username" : "amd",
+      "userId" : "918858",
+      "joined" : "Tue Oct 02, 2012 6:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kent",
+      "postCount" : "157",
+      "avatarPath" : "./download/file.php%3Favatar=37087_1428522717.jpg"
+    },
+    "content" : "Hope this is of some use, last year my bus had a large leak ( the oil cooler seals had been siliconed !! ) Garage replaced and all ok for a week then it started again, took it back and turns out my cooler and engine block are different , one early the other later so needed the stepped ones. The difference is small and was overlooked the first time round, all ok now.",
+    "lastEdited" : "Sun Jan 13, 2019 7:52 pm"
+  } ]
+}

@@ -1,0 +1,50 @@
+{
+  "forumId" : "32",
+  "threadId" : "106099",
+  "title" : "Password",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=106099",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "805381",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "805381",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "Can't change my password to something of my choice . How do you do it ?",
+    "lastEdited" : "Sat Oct 04, 2014 8:20 am"
+  }, {
+    "postId" : "805390",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "805390",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "3692",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "You need to go to this page \n<!-- l -->\n<a class=\"postlink-local\" href=\"http://ssvc.org.uk/phpbb/ucp.php?i=profile&amp;mode=reg_details\">ucp.php?i=profile&amp;mode=reg_details</a>\n<!-- l -->",
+    "lastEdited" : "Sat Oct 04, 2014 9:21 am"
+  }, {
+    "postId" : "805483",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "805483",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "3692",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "Click User control Panel (top right corner)\n<br>Then click profile (on the left of the page)\n<br>Click Edit account settings\n<br>\n<br>You can then change your password.",
+    "lastEdited" : "Sun Oct 05, 2014 9:59 am"
+  } ]
+}

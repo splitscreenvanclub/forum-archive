@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "122669",
+  "title" : "BBT Westfalia awning with genuine roof mounts",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=122669",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=fd70bd18186145cb724c030f208da6b8",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "916741",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "916741",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "As I have recently sold the bus I have for sale a new and unused orange and white striped BBT awning complete with poles and genuine roof mounts.\n<br> Looking for £350 for the lot which Is a bargain. I am not able at the moment to arrange shipping overseas so sorry but please don’t ask.",
+    "lastEdited" : "Thu Oct 25, 2018 7:14 pm"
+  }, {
+    "postId" : "916958",
+    "author" : {
+      "username" : "OG59",
+      "userId" : "916958",
+      "joined" : "Mon Oct 18, 2004 10:37 am",
+      "profileRank" : "Registered user",
+      "location" : "Beds",
+      "postCount" : "59",
+      "avatarPath" : null
+    },
+    "content" : "Is this still available? Are you going to Slough swap meet? Or can you post in the UK? Thanks.",
+    "lastEdited" : "Fri Nov 02, 2018 6:06 pm"
+  }, {
+    "postId" : "917150",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "917150",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "Still available but not going to Slough, I think that a courier would be very expensive as the poles are very heavy.",
+    "lastEdited" : "Tue Nov 06, 2018 6:53 pm"
+  } ]
+}

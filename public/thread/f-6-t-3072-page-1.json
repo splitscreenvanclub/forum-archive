@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "3072",
+  "title" : "gear shift problem?????",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=3072",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "12075",
+    "author" : {
+      "username" : "vwden",
+      "userId" : "12075",
+      "joined" : "Wed Nov 12, 2003 10:40 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "10",
+      "avatarPath" : null
+    },
+    "content" : "the gears work fine if i lie under the van and use my hand to go through all the gears but as soon as i fit the gear stick 1,3,R, are really stiff and 2,4 i cant select at all any idea????????",
+    "lastEdited" : "Mon Mar 29, 2004 9:56 am"
+  }, {
+    "postId" : "12082",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "12082",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "18046",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Has this come on gradually, or just happened 'over night', or has the bus been taken apart as part of a resto? \n<br> \n<br>If the back end is working as it should, it can only be the way the gear shift is mounted / something wrong in how it fits into the cup of the gear rod underneath. \n<br> \n<br>Have you tried moving the gear shift left to right / back or forward? Have you had the gear shift off, and fitted the plate that gives the reverse lock out upside down?",
+    "lastEdited" : "Mon Mar 29, 2004 1:25 pm"
+  }, {
+    "postId" : "475072",
+    "author" : {
+      "username" : "Tom1964bus",
+      "userId" : "475072",
+      "joined" : "Fri Jun 06, 2008 10:45 am",
+      "profileRank" : "Registered user",
+      "location" : "Measham, derbyshire UK",
+      "postCount" : "475",
+      "avatarPath" : null
+    },
+    "content" : "i cant get 2nd or 4th and ive had the shifter off, which way does the reverse lock out plate go then?",
+    "lastEdited" : "Sun Dec 06, 2009 7:08 pm"
+  }, {
+    "postId" : "475121",
+    "author" : {
+      "username" : "moler",
+      "userId" : "475121",
+      "joined" : "Fri Mar 24, 2006 8:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "N.E.Lincs",
+      "postCount" : "1584",
+      "avatarPath" : "http://www.moler-one.com/mi/mi_avatar.jpg"
+    },
+    "content" : "Your mounting bolts aren't too long are they, fouling the shift rod?\n<br>\n<br>\n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Sun Dec 06, 2009 9:19 pm"
+  }, {
+    "postId" : "475167",
+    "author" : {
+      "username" : "59 pick up",
+      "userId" : "475167",
+      "joined" : "Thu Jul 31, 2003 6:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "single cab for sale ¬£5k",
+      "postCount" : "1549",
+      "avatarPath" : "http://img.photobucket.com/albums/v222/pantswagen/kkk.jpg"
+    },
+    "content" : "if you cant get 2 and 4, you have either split the rubber coupling\n<br>or need to move the stick forwards",
+    "lastEdited" : "Mon Dec 07, 2009 4:51 am"
+  }, {
+    "postId" : "475244",
+    "author" : {
+      "username" : "moler",
+      "userId" : "475244",
+      "joined" : "Fri Mar 24, 2006 8:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "N.E.Lincs",
+      "postCount" : "1584",
+      "avatarPath" : "http://www.moler-one.com/mi/mi_avatar.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>59 pick up wrote:</cite>if you cant get 2 and 4, you have either split the rubber coupling\n  <br>or need to move the stick forwards\n </div>\n</blockquote>Good point, just had the very same thing happen to mine...although you wouldn't be able to get reverse either \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Mon Dec 07, 2009 1:25 pm"
+  }, {
+    "postId" : "475299",
+    "author" : {
+      "username" : "Tom1964bus",
+      "userId" : "475299",
+      "joined" : "Fri Jun 06, 2008 10:45 am",
+      "profileRank" : "Registered user",
+      "location" : "Measham, derbyshire UK",
+      "postCount" : "475",
+      "avatarPath" : null
+    },
+    "content" : "yeah i cant get reverse either!! \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Mon Dec 07, 2009 6:03 pm"
+  } ]
+}

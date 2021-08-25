@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "124959",
+  "title" : "Help. Just changed Gear Rod Coupler, noisy transmission?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124959&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b8d9429b38fae956ab6653c321cc6aa2",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 18,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "931360",
+    "author" : {
+      "username" : "TEXAS_PETE",
+      "userId" : "931360",
+      "joined" : "Fri Jul 06, 2018 1:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "49",
+      "avatarPath" : null
+    },
+    "content" : "On the bus is the \"sandwich kind\" I'll check if it has a part number on when I take it back off. \n<br> \n<br> This is from the samba:\n<br> \n<br> The two kinds are interchangable, and you can install either.\n<br> Quality depends on the batch that particular one is made in. Quality can vary.\n<br> \n<br> For split case tranny buses, I prefer the first kind (sandwich kind). It dampens the vibrations and tranny noise better.\n<br> In post split case tranny (May something 1959) buses the trannies are mounted differently, so that doesn't matter in the later splits.\n<br> \n<br> It the coupler rubber gives up, the later kind still kinda holds together, while the earlier (sandwich) kind just comes completely apart\n<br> __\n<br> \n<br> I've found an original VW sandwich kind. I'll see how it looks when It turns up. (I can always keep the WW one in the van.) The noise through the WW version is very unpleasant. I'm shocked the difference in noise. I'm wondering if the WW one I've got could be faulty? You ever had that before?",
+    "lastEdited" : "Thu Jul 23, 2020 7:48 am"
+  }, {
+    "postId" : "931493",
+    "author" : {
+      "username" : "TEXAS_PETE",
+      "userId" : "931493",
+      "joined" : "Fri Jul 06, 2018 1:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "49",
+      "avatarPath" : null
+    },
+    "content" : "Outcome from my coupling issues. \n<br> \n<br> I just removed the old coupler. It has the remains of the part number still on it. If i was a betting man i'd say it was the original. (because of the state of the bus) I replaced it with a NOS 111711175A part and all is good!\n<br> \n<br> I spoke to the supplier of the WW version. They said they have had some faulty items so are sending me a new one. It can go in the spares box. \n<br> \n<br> Thanks for all your help! \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=40413&amp;sid=b8d9429b38fae956ab6653c321cc6aa2&amp;mode=view\"><img src=\"./download/file.php?id=40413&amp;t=1&amp;sid=b8d9429b38fae956ab6653c321cc6aa2\" class=\"postimage\" alt=\"IMG_20200731_092003.jpg\" title=\"IMG_20200731_092003.jpg (121.38 KiB) Viewed 42 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Fri Jul 31, 2020 8:55 am"
+  }, {
+    "postId" : "931495",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "931495",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1044",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I've tried both the type with the cage and the sandwich type and ended up with neither (sort of).\n<br> \n<br> The truck came with a sandwich type that had failed at some point. Someone had removed the rubber and welded the two metal parts together. When I had the transmission out I had the nosecone rebushed and was worried that the welded coupler didn't have any flex so might wear the new bushing. I tried replacing it. I hoped that it might improve the shifting too.\n<br> \n<br> I tried the kind with a cage, but the bolt holes weren't properly aligned, so the shift rod would be cocked to one side. I sent it back. I replaced it with a new sandwich one, but that separated before I even got out of the garage. \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\"> \n<br> \n<br> I've ended up putting the welded one back in. It does the job and I'm cerntain that it won't separate and leave me stranded. I don't have any noticeable noise transmission via the gear shift, so 'I don't think the rubber has much effect on that.",
+    "lastEdited" : "Fri Jul 31, 2020 4:04 pm"
+  } ]
+}

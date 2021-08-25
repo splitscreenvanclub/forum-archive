@@ -1,0 +1,27 @@
+{
+  "forumId" : "4",
+  "threadId" : "123977",
+  "title" : "New 12 volt semaphore Bus & Beetle",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123977",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=f4a95adfc96a4a6c4f060fb3e2283ec9",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925942",
+    "author" : {
+      "username" : "james309",
+      "userId" : "925942",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "610",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "Brand new 12 volt semaphore, boxed and never used.\n<br> \n<br> Bought from C&amp;C, have 4 available\n<br> \n<br> £140 each, 2 @ £270 inc delivery\n<br> \n<br> BACS preferred",
+    "lastEdited" : "Sun Oct 13, 2019 4:22 pm"
+  } ]
+}

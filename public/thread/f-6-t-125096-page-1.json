@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "125096",
+  "title" : "Coil or Condenser you decide",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125096",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=88f7640428ee83074112e3fd72b258df",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931974",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "931974",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2857",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "So long story short bus runs fine for about half hour then when accelerating say up a slip road or out of a bend or de restiction it hesitates/stumbles a bit like it's missed fire maybe then as soon as the rpm picks up a little perfect. I've tested coil and condesor with multimeter both check out ok\n<img alt=\"🙄\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f644.svg\">\n<br> \n<br> Idle is perfect, runs cruises at speed perfect.\n<br> \n<br> I thought fuel issue so replaced fuel filters before and after the pump (one in pressure regulator) stripped both carbs down cleaned all jets etc. Twin 34ict\n<br> \n<br> Valve clearances spot on. Drives well off the bat but after half hour as mentioned above. I've eliminated fueling so it's got to be coil? Condenser only replaced a few thousand miles ago as a service item with new points .",
+    "lastEdited" : "Mon Aug 31, 2020 8:12 pm"
+  }, {
+    "postId" : "932059",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "932059",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20128",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "If you stop / allow it to cool, then it does it again when back up to temp' then I'd say condenser. Or at least its the cheaper to replace and if it doesn't cure it then you have a spare you'll use at the next service.",
+    "lastEdited" : "Fri Sep 04, 2020 8:59 pm"
+  }, {
+    "postId" : "932218",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "932218",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2857",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "Hi Jim\n<br> \n<br> Il find out tonight as have thrown on my spare coil, but I wouldnt be surprised if it was the condenser even though its practiacly new. Ive read that they arnt as good as they once were.",
+    "lastEdited" : "Mon Sep 14, 2020 2:29 pm"
+  }, {
+    "postId" : "932754",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "932754",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1452",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Have you sorted this? I am having a similar problem.\n<br> I have changed the coil and the condenser but done nothing to the carb (stock H30/31).\n<br> The problem is still there. After about 1 1/2 hrs driving it just start to splutter a bit, sometimes backfire but only once, and dies.\n<br> It doesn't want to start again till the engine is cold and then it goes again.\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Sat Oct 17, 2020 3:41 pm"
+  } ]
+}

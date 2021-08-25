@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "122413",
+  "title" : "Recommendations on ECU for a turbo engine",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122413",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=bce9b7a2ff6c2a601c0dabf502da4335",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "915462",
+    "author" : {
+      "username" : "ricvw",
+      "userId" : "915462",
+      "joined" : "Sun Aug 19, 2007 6:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "518",
+      "avatarPath" : null
+    },
+    "content" : "If you were going to fit efi turbo to 2.1 engine which would you fit? I would be after something Which was as close to fit and set up and forget if there is such a thing, the engine currently has a old CB efi with dials in the cab which are glued in place any recommendations greatly revived.",
+    "lastEdited" : "Wed Aug 15, 2018 8:52 am"
+  }, {
+    "postId" : "915474",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "915474",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20114",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I recommend you fine your nearest rolling road that you trust, and ask them. \n<br> \n<br> Mappers can be funny about what systems they will touch, and you need one they'll help you with. \n<br> \n<br> At the end of the day, most ECU's will do the job, but it's better you don't have to travel 100's miles to get it on the rollers.\n<br> \n<br> I've used DTA / OMEX / CB numerous times. I own DTA and OMEX ECU's. Jen's has DTA.\n<br> \n<br> The newer CB are better at self learning than the old system. \n<br> \n<br> Most systems run in closed loop if you set them up that way, but need setting up first",
+    "lastEdited" : "Wed Aug 15, 2018 3:45 pm"
+  }, {
+    "postId" : "915504",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "915504",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Have a word with Paul at VWSpeedshop.....",
+    "lastEdited" : "Thu Aug 16, 2018 12:51 pm"
+  }, {
+    "postId" : "915509",
+    "author" : {
+      "username" : "ricvw",
+      "userId" : "915509",
+      "joined" : "Sun Aug 19, 2007 6:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "518",
+      "avatarPath" : null
+    },
+    "content" : "Dose any one have a recommendation on a rolling road near Manchester",
+    "lastEdited" : "Thu Aug 16, 2018 6:20 pm"
+  } ]
+}

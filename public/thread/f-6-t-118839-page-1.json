@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "118839",
+  "title" : "1500 single port performance.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=118839",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=14d389e57f5a5939a2b67dbbc58d7306",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "894540",
+    "author" : {
+      "username" : "Jrnbru",
+      "userId" : "894540",
+      "joined" : "Mon Jun 02, 2014 7:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "Evening.\n<br> \n<br> Just a bit of information wanted really. \n<br> \n<br> I've tried the search bar but nothings came up with the answers I wanted.\n<br> \n<br> So I have the 1500 sp in my restoration project. I want to keep it. It's going to get a fill rebuild and hopefully a few trick bits to aid performance/cruising speeds. I know it's never going to be fast as such just a slight increase would be sweet.\n<br> \n<br> Im coupling it up to an irs set up and as it'll be fully rebuilt will be running sweet. Anyone have any suggestions as to the best performance mods? Cams, rockers etc??\n<br> \n<br> And what works well with eachother.\n<br> \n<br> \n<br> Thanks a lot \n<br> \n<br> Joe",
+    "lastEdited" : "Sun Mar 26, 2017 9:45 pm"
+  }, {
+    "postId" : "894543",
+    "author" : {
+      "username" : "ducatis",
+      "userId" : "894543",
+      "joined" : "Tue Mar 13, 2012 10:05 am",
+      "profileRank" : "SSVC Member",
+      "location" : "old volks home",
+      "postCount" : "291",
+      "avatarPath" : "./download/file.php%3Favatar=36391_1346502004.jpg"
+    },
+    "content" : "Firstly these are generally considered great stock engines.\n<br> \n<br> There in lies your dilemma. As I see they don't really lend themselves to performance upgrades\n<br> \n<br> If you start increasing the heat levels the case lacks the oilways to keep it all as it should......\n<br> \n<br> Personally id keep that motor as it was intended. If you need more get a 1600 dual relief case and build a bit on that...\n<br> \n<br> Good luck on which way you go\n<br> \n<br> \n<br> Sent from my E5823 using Tapatalk",
+    "lastEdited" : "Mon Mar 27, 2017 4:36 am"
+  }, {
+    "postId" : "894549",
+    "author" : {
+      "username" : "Jrnbru",
+      "userId" : "894549",
+      "joined" : "Mon Jun 02, 2014 7:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ducatis wrote:</cite>Firstly these are generally considered great stock engines.\n  <br> \n  <br> There in lies your dilemma. As I see they don't really lend themselves to performance upgrades\n  <br> \n  <br> If you start increasing the heat levels the case lacks the oilways to keep it all as it should......\n  <br> \n  <br> Personally id keep that motor as it was intended. If you need more get a 1600 dual relief case and build a bit on that...\n  <br> \n  <br> Good luck on which way you go\n  <br> \n  <br> \n  <br> Sent from my E5823 using Tapatalk\n </div>\n</blockquote> Thanks mate. I know there great little engines and supposedly the most reliable which is what I want. As long as it's capable of cruising at around 60/65 with the irs set up I'll just rebuild it standard as that's all I want to be fair.\n<br> \n<br> Joe",
+    "lastEdited" : "Mon Mar 27, 2017 7:39 am"
+  }, {
+    "postId" : "894559",
+    "author" : {
+      "username" : "Disco Stew",
+      "userId" : "894559",
+      "joined" : "Tue Sep 09, 2003 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Holmfirth",
+      "postCount" : "303",
+      "avatarPath" : null
+    },
+    "content" : "How about a small twin carb kit like 34ICTs?",
+    "lastEdited" : "Mon Mar 27, 2017 11:56 am"
+  }, {
+    "postId" : "894561",
+    "author" : {
+      "username" : "Jrnbru",
+      "userId" : "894561",
+      "joined" : "Mon Jun 02, 2014 7:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Disco Stew wrote:</cite>How about a small twin carb kit like 34ICTs?\n </div>\n</blockquote> It's an option mate. Just wanted a few ideas really, will these need any supporting mods as such?",
+    "lastEdited" : "Mon Mar 27, 2017 12:58 pm"
+  }, {
+    "postId" : "894584",
+    "author" : {
+      "username" : "Disco Stew",
+      "userId" : "894584",
+      "joined" : "Tue Sep 09, 2003 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Holmfirth",
+      "postCount" : "303",
+      "avatarPath" : null
+    },
+    "content" : "I think a freer flowing exhaust would also help. Not sure if you can keep the vacuum advance distributor or if you'll need to swap it to a 009 or similar.",
+    "lastEdited" : "Mon Mar 27, 2017 9:02 pm"
+  }, {
+    "postId" : "894592",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "894592",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1169",
+      "avatarPath" : null
+    },
+    "content" : "To be totally honest mate, i think you are going to struggle with a 1500sp mated to irs.\n<br> Irs gearing saps a lit of oomph out of your engine &amp; hills are going to be a struggle",
+    "lastEdited" : "Tue Mar 28, 2017 7:11 am"
+  }, {
+    "postId" : "894595",
+    "author" : {
+      "username" : "ducatis",
+      "userId" : "894595",
+      "joined" : "Tue Mar 13, 2012 10:05 am",
+      "profileRank" : "SSVC Member",
+      "location" : "old volks home",
+      "postCount" : "291",
+      "avatarPath" : "./download/file.php%3Favatar=36391_1346502004.jpg"
+    },
+    "content" : "I had same problem in my '66. In the end sold the engine which wasn't original anyway, and went 1776... \n<br> \n<br> My only small regret was following my boy racer instinct and going for a noisy induction and exhaust.\n<br> \n<br> As brilliant as Webbers and a Vintage speed exhaust are the system is too loud on a long haul....\n<br> \n<br> I also have IRS, welded and higher 4th gear - which does help on the long runs....\n<br> \n<br> I drive around around 65 - 70 on a long road\n<br> \n<br> Sent from my E5823 using Tapatalk",
+    "lastEdited" : "Tue Mar 28, 2017 7:39 am"
+  }, {
+    "postId" : "894656",
+    "author" : {
+      "username" : "Jrnbru",
+      "userId" : "894656",
+      "joined" : "Mon Jun 02, 2014 7:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ernie wrote:</cite>To be totally honest mate, i think you are going to struggle with a 1500sp mated to irs.\n  <br> Irs gearing saps a lit of oomph out of your engine &amp; hills are going to be a struggle\n </div>\n</blockquote> Balls ha. What's the best option then straight axle? I'd love to keep the 1500 as it's the original engine and I like the idea of it being reliable lol.",
+    "lastEdited" : "Wed Mar 29, 2017 9:35 am"
+  }, {
+    "postId" : "894660",
+    "author" : {
+      "username" : "george21",
+      "userId" : "894660",
+      "joined" : "Tue Jul 06, 2010 9:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "389",
+      "avatarPath" : null
+    },
+    "content" : "My view:\n<br> 1679 thick wall slip in barrels&amp;pistons\n<br> Light port, clean heads\n<br> Better flow exhaust\n<br> 100 cam (optional)\n<br> Twin ict\n<br> =brilliant stockish reliable engine",
+    "lastEdited" : "Wed Mar 29, 2017 11:22 am"
+  }, {
+    "postId" : "894664",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "894664",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2856",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Jrnbru wrote:</cite>\n  <blockquote>\n   <div>\n    <cite>ernie wrote:</cite>To be totally honest mate, i think you are going to struggle with a 1500sp mated to irs.\n    <br> Irs gearing saps a lit of oomph out of your engine &amp; hills are going to be a struggle\n   </div>\n  </blockquote> Balls ha. What's the best option then straight axle? I'd love to keep the 1500 as it's the original engine and I like the idea of it being reliable lol.\n </div>\n</blockquote> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> No striaght axle achieves the same problem as IRS its jsut a differnt way of connecting the wheels to the gear box. \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> Your right the 1500SP is a cracking engine and seen by many as the best type 1 engine VW built, however your mistake is getting rid of the reduction boxes and choosing to go with IRS or even straight axle (the outcome is the same as its the gearbox the counts) which realy need a 1600 or bigger in a bus to work. \n<br> \n<br> The reduction boxes with a 1500cc engine are your friend for cruisng up hill and past others with irs/staright axle with a 1600 or 1641 in the back and probably a 1776. \n<br> \n<br> I have a 1776 IRS and no way in hell would i go for anything smaller unless i had the reduction boxes.",
+    "lastEdited" : "Wed Mar 29, 2017 12:10 pm"
+  }, {
+    "postId" : "894668",
+    "author" : {
+      "username" : "Jrnbru",
+      "userId" : "894668",
+      "joined" : "Mon Jun 02, 2014 7:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>readyboy61 wrote:</cite>\n  <blockquote>\n   <div>\n    <cite>Jrnbru wrote:</cite>\n    <blockquote>\n     <div>\n      <cite>ernie wrote:</cite>To be totally honest mate, i think you are going to struggle with a 1500sp mated to irs.\n      <br> Irs gearing saps a lit of oomph out of your engine &amp; hills are going to be a struggle\n     </div>\n    </blockquote> Balls ha. What's the best option then straight axle? I'd love to keep the 1500 as it's the original engine and I like the idea of it being reliable lol.\n   </div>\n  </blockquote> \n  <br> \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> No striaght axle achieves the same problem as IRS its jsut a differnt way of connecting the wheels to the gear box. \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n  <br> \n  <br> Your right the 1500SP is a cracking engine and seen by many as the best type 1 engine VW built, however your mistake is getting rid of the reduction boxes and choosing to go with IRS or even straight axle (the outcome is the same as its the gearbox the counts) which realy need a 1600 or bigger in a bus to work. \n  <br> \n  <br> The reduction boxes with a 1500cc engine are your friend for cruisng up hill and past others with irs/staright axle with a 1600 or 1641 in the back and probably a 1776. \n  <br> \n  <br> I have a 1776 IRS and no way in hell would i go for anything smaller unless i had the reduction boxes.\n </div>\n</blockquote> Ahh OK mate. Thanks for the info. Maybe I'm gonna have to get a bigger engine as I wanna go low. \n<br> \n<br> Thanks for the info mate",
+    "lastEdited" : "Wed Mar 29, 2017 1:03 pm"
+  }, {
+    "postId" : "894689",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "894689",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "I have a 1500sp with IRS on my very lowered bus and it's great\n<br> \n<br> Full camping interior plus roof rack and gear with two of us is fine. I've had six people in with no luggage also fine\n<br> \n<br> Yes you have to go slower up the long hills when you're loaded up but that's like 10-20 minutes of a four hour drive to Cornwall. And your cruising is probably going to be more like 60 than 65 - mine would happily do 70 but I think I coked up the cylinders a bit with my overexcitable right foot so I'll be sticking to 60 once I've rebuilt it\n<br> \n<br> But it is fun to drive and mine was bombproof until I took the bus off the road for resto so depends what you want to achieve",
+    "lastEdited" : "Wed Mar 29, 2017 6:04 pm"
+  }, {
+    "postId" : "894697",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "894697",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5730",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "I have a stock 1500sp with reduction boxes in my original single cab,to be honest it pulls really well up hills,quick getting away but is flat out at about 55/60. In my 15w i run a 1776 twin dells, a 6 rib bay 091 box &amp; irs'd it flies along &amp; will sit on 70 at 3500rpms no probs,just depends which way you want to go. I love them both equally,one makes me chill &amp; happily plod along the other i wanna overtake everything \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Wed Mar 29, 2017 7:08 pm"
+  }, {
+    "postId" : "894714",
+    "author" : {
+      "username" : "Jrnbru",
+      "userId" : "894714",
+      "joined" : "Mon Jun 02, 2014 7:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>clymoj wrote:</cite>I have a 1500sp with IRS on my very lowered bus and it's great\n  <br> \n  <br> Full camping interior plus roof rack and gear with two of us is fine. I've had six people in with no luggage also fine\n  <br> \n  <br> Yes you have to go slower up the long hills when you're loaded up but that's like 10-20 minutes of a four hour drive to Cornwall. And your cruising is probably going to be more like 60 than 65 - mine would happily do 70 but I think I coked up the cylinders a bit with my overexcitable right foot so I'll be sticking to 60 once I've rebuilt it\n  <br> \n  <br> But it is fun to drive and mine was bombproof until I took the bus off the road for resto so depends what you want to achieve\n </div>\n</blockquote> This is the information I want to hear haha.\n<br> \n<br> Thanks a lot mate. I guess I'll have to try it and see \n<br> \n<br> Joe",
+    "lastEdited" : "Wed Mar 29, 2017 8:51 pm"
+  } ]
+}

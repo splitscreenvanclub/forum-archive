@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "124875",
+  "title" : "HTL47D is it still out there?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=124875",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=5c63db9a90a4f8be12764cf541d5b596",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930797",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "930797",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1133",
+      "avatarPath" : null
+    },
+    "content" : "I’m sure it is still out there but does anyone on here know who may own it?\n<br> \n<br> I see it doesn’t have an mot but of course it may now be registered such that it doesn’t need one. It is a 1966 13 window deluxe originally in velvet green and pearl white but I’m sure I saw it restored as a wedding bus after my ownership about 12 years ago and it was all an ivory/white colour. It would be good to track it down if anyone has any ideas on where it may be. \n<br> \n<br> Thanks \n<br> \n<br> Steve",
+    "lastEdited" : "Sat Jun 27, 2020 7:35 am"
+  }, {
+    "postId" : "930799",
+    "author" : {
+      "username" : "james309",
+      "userId" : "930799",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "604",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "Its showing as taxed, must be hiding somewhere !\n<img src=\"//uploads.tapatalk-cdn.com/20200627/6fa0603e82aa36c9437a8804a8d06ff7.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Sent from my SM-G973F using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Sat Jun 27, 2020 9:07 am"
+  } ]
+}

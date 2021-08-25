@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "108285",
+  "title" : "Semi circular tabs on heater pipes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=108285",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 18,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "820221",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "820221",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://s790.photobucket.com/user/stevejones3163/media/Rusty/IMAG0377_zpsu53argds.jpg.html\" class=\"postlink\"><img src=\"http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/IMAG0377_zpsu53argds.jpg\" class=\"postimage\" alt=\"Image\"></a> \n<br> \n<br> Does anyone know the purpose of these details? There's a couple of them on my heater pipes.\n<br> \n<br> Thanks in advance\n<br> \n<br> Steve",
+    "lastEdited" : "Wed Feb 04, 2015 7:21 am"
+  }, {
+    "postId" : "820232",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "820232",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "dunno, but I would weld it up (unless for some reason you want to tap into the warm air supply to provide it somewhere else, which is what i presume that holes for\n<br> \n<br> \n<br> I have never seen that before, and mine doesn't have one…where is the bus from ?",
+    "lastEdited" : "Wed Feb 04, 2015 8:41 am"
+  }, {
+    "postId" : "820234",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "820234",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>maddison wrote:</cite>dunno, but I would weld it up (unless for some reason you want to tap into the warm air supply to provide it somewhere else, which is what i presume that holes for\n  <br> \n  <br> \n  <br> I have never seen that before, and mine doesn't have one…where is the bus from ?\n </div>\n</blockquote> Thanks for reply. It's from Texas/Oklahoma. There's one on the next but two section towards the front too, the curved one that goes through the cab floor and connects to the vent pipe.\n<br> \n<br> If there's no need for them I'll seam seal them up.\n<br> \n<br> Cheers,\n<br> \n<br> Steve",
+    "lastEdited" : "Wed Feb 04, 2015 8:51 am"
+  }, {
+    "postId" : "820240",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "820240",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "I always wondered what they were I have one on mine on the curve up into the cab. \n<br> \n<br> Andy",
+    "lastEdited" : "Wed Feb 04, 2015 9:51 am"
+  }, {
+    "postId" : "820313",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "820313",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "North Staffs",
+      "postCount" : "821",
+      "avatarPath" : "./download/file.php%3Favatar=3745_1494831239.jpg"
+    },
+    "content" : "I have exactly the same as rusty62. Mine is a '62 as well, but was exported to Sweden by VW.\n<br> \n<br> I have always assumed that these semi-circular 'slits' were to allow condensate to escape, hence reducing the possibility of rusting from the inside outwards. Condensation will certainly form in the heater tubing when warm air from the engine meets the cold steel inner surface. It's a common problem with Beetle heater channels.\n<br> \n<br> I may be completely wrong, but I can't think of another good reason!\n<br> \n<br> Cheers,\n<br> Dave.",
+    "lastEdited" : "Wed Feb 04, 2015 7:42 pm"
+  }, {
+    "postId" : "820318",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "820318",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "but they would be wrapped in the factory wadding, so if water ran out, the insulation would get damp and rust the metal",
+    "lastEdited" : "Wed Feb 04, 2015 7:57 pm"
+  }, {
+    "postId" : "820319",
+    "author" : {
+      "username" : "NUGGET",
+      "userId" : "820319",
+      "joined" : "Wed Aug 01, 2012 4:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley s.yorks",
+      "postCount" : "391",
+      "avatarPath" : null
+    },
+    "content" : "To let the tube breath, stop condensation \n<br> Me thinks",
+    "lastEdited" : "Wed Feb 04, 2015 7:59 pm"
+  }, {
+    "postId" : "820320",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "820320",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>DoubleD wrote:</cite>I have exactly the same as rusty62. Mine is a '62 as well, but was exported to Sweden by VW.\n  <br> \n  <br> I have always assumed that these semi-circular 'slits' were to allow condensate to escape, hence reducing the possibility of rusting from the inside outwards. Condensation will certainly form in the heater tubing when warm air from the engine meets the cold steel inner surface. It's a common problem with Beetle heater channels.\n  <br> \n  <br> I may be completely wrong, but I can't think of another good reason! \n  <br> \n  <br> Cheers,\n  <br> Dave.\n </div>\n</blockquote> Hi Dave,\n<br> \n<br> that's a good call, and one which I had also considered. The only thing against this is that they are not at the lowest part of the tube. I believe VW put them there for a reason though and this could be it.\n<br> \n<br> We'll have to put it to the vote \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> Cheers\n<br> \n<br> Steve",
+    "lastEdited" : "Wed Feb 04, 2015 8:01 pm"
+  }, {
+    "postId" : "820330",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "820330",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>maddison wrote:</cite>but they would be wrapped in the factory wadding, so if water ran out, the insulation would get damp and rust the metal\n </div>\n</blockquote> …which it did, if mine were anything to go by \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Wed Feb 04, 2015 8:20 pm"
+  }, {
+    "postId" : "820367",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "820367",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "North Staffs",
+      "postCount" : "821",
+      "avatarPath" : "./download/file.php%3Favatar=3745_1494831239.jpg"
+    },
+    "content" : "Yup, it's a weird one. They're all good points - just can't think of any other reason why VW would bother to put them there!",
+    "lastEdited" : "Wed Feb 04, 2015 9:52 pm"
+  }, {
+    "postId" : "820394",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "820394",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "I really don't think they are for condensation\n<br> \n<br> \n<br> 1st thing, we don't know that condensation is an issue (apart from a lot of rusted out heater pipes..understandable after 50 years)\n<br> while in regular use, any condensation in the pipes (if there ever was any) would be disposed of next time the vehicle was used and the warm air run through the pipes\n<br> \n<br> \n<br> surely if VW saw this pipe as a condensation hot spot, they would have put a drain at the lowest point, and used a system that cleared the heat wrapping\n<br> \n<br> also….what about all the other pipes in the heating system, especially the long one from front to back\n<br> \n<br> I would say that there is an option…god knows what….that requires a feed up front from this warm air pipe, pipes with the pre-cut like the picture, obviously didn't have this option, as the pre cut is still complete (and the wrapping would have stopped any heat loss from the small cut)\n<br> \n<br> what year are the buses with this pre-cut ?? like i say, my 64 doesn't have any\n<br> \n<br> i'm hoping they are later buses than 64, that would then suggest there was an option on later buses, so they all had the pre-cut incase this option was ticked\n<br> \n<br> what would be amazing, would be if someone had the option, that required, x2 feeds from a warm air pipe",
+    "lastEdited" : "Thu Feb 05, 2015 8:06 am"
+  }, {
+    "postId" : "820397",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "820397",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>maddison wrote:</cite>I really don't think they are for condensation\n  <br> \n  <br> \n  <br> 1st thing, we don't know that condensation is an issue (apart from a lot of rusted out heater pipes..understandable after 50 years)\n  <br> while in regular use, any condensation in the pipes (if there ever was any) would be disposed of next time the vehicle was used and the warm air run through the pipes\n  <br> \n  <br> \n  <br> surely if VW saw this pipe as a condensation hot spot, they would have put a drain at the lowest point, and used a system that cleared the heat wrapping\n  <br> \n  <br> also….what about all the other pipes in the heating system, especially the long one from front to back\n  <br> \n  <br> I would say that there is an option…god knows what….that requires a feed up front from this warm air pipe, pipes with the pre-cut like the picture, obviously didn't have this option, as the pre cut is still complete (and the wrapping would have stopped any heat loss from the small cut)\n  <br> \n  <br> what year are the buses with this pre-cut ?? like i say, my 64 doesn't have any\n  <br> \n  <br> i'm hoping they are later buses than 64, that would then suggest there was an option on later buses, so they all had the pre-cut incase this option was ticked\n  <br> \n  <br> what would be amazing, would be if someone had the option, that required, x2 feeds from a warm air pipe\n </div>\n</blockquote> Mine's April '62. Double D's is also '62.",
+    "lastEdited" : "Thu Feb 05, 2015 8:32 am"
+  }, {
+    "postId" : "820401",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "820401",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "LOL - dunno then \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Thu Feb 05, 2015 8:47 am"
+  }, {
+    "postId" : "820409",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "820409",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1504",
+      "avatarPath" : null
+    },
+    "content" : "I also agree with Maddison, I very much doubt these are for condensation. VW would have removed the wrap from the pipe or made a proper drain hole in my opinion rather than a little opening like this. I reckon they were for an optional part or heat duct. Did any of the buses that were shipped to colder climates have extra heater tubes or recirc pipes??",
+    "lastEdited" : "Thu Feb 05, 2015 9:11 am"
+  }, {
+    "postId" : "820441",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "820441",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "The only use I found for it was to get the dirt / soil out that had gathered in the bend up to the cab.\n<br> \n<br> Andy",
+    "lastEdited" : "Thu Feb 05, 2015 1:55 pm"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "forumId" : "32",
+  "threadId" : "105593",
+  "title" : "Membership",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=105593",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=f6536c34697f451063c3c89394313b08",
+    "label" : "Site Problems and Feature Requests"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "801527",
+    "author" : {
+      "username" : "chessfoss",
+      "userId" : "801527",
+      "joined" : "Tue Jan 03, 2012 8:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "5",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> \n<br> A few months ago ( can't be precise) I went through the joining process giving my card details etc. I don't seem to have received my membership booklet and I'm not sure if I've been processed. my address was 37 Skelton on Ure Ripon HG45AJ\n<br> \n<br> just wondered if someone can help...",
+    "lastEdited" : "Tue Sep 09, 2014 1:39 pm"
+  }, {
+    "postId" : "801531",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "801531",
+      "joined" : "Sun May 09, 2004 3:05 pm",
+      "profileRank" : "Moderator",
+      "location" : "Shameless estate",
+      "postCount" : "3229",
+      "avatarPath" : null
+    },
+    "content" : "You have pm \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Sep 09, 2014 1:53 pm"
+  } ]
+}

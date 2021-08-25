@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "112322",
+  "title" : "Fuse keeps blowing",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112322",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847307",
+    "author" : {
+      "username" : "tomvaughan",
+      "userId" : "847307",
+      "joined" : "Tue Oct 21, 2014 7:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : "./download/file.php%3Favatar=39800_1434399062.jpg"
+    },
+    "content" : "Hi all\n<br>\n<br>Whenever I put the headlights on, it immediately blows a fuse on my board. However, withithe fuse blown the headlights still work, but other things stop working, like the interior light. Not being great with electrics, I'm completely baffled.\n<br>\n<br>Anyone with any ideas?",
+    "lastEdited" : "Sun Aug 30, 2015 10:05 pm"
+  }, {
+    "postId" : "847314",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "847314",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7399",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Which fuse blows on the board? As counted from the RHS looking at the board.\n<br>Your board needs checking to see what is wired to where first of all. \n<br>What colour fuses are in each slot..\n<br>You can identify what is run by each fuse by using the fuse layout diagram in the handbook and the named items stop when you pull that fuse. ..\n<br>Is this an OG loom?\n<br>What year?\n<br>RHD \n<br>LHD\n<br>\n<br>Etc.",
+    "lastEdited" : "Mon Aug 31, 2015 4:12 am"
+  }, {
+    "postId" : "847420",
+    "author" : {
+      "username" : "tomvaughan",
+      "userId" : "847420",
+      "joined" : "Tue Oct 21, 2014 7:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : "./download/file.php%3Favatar=39800_1434399062.jpg"
+    },
+    "content" : "It's a 1959 LHD, although I think it may have a later fuseboard (with eight fuses on it)?\n<br>\n<br>The fuse that blows is the 4th from the right. It's been fitted with a 25 amp, but no idea if this is correct.\n<br>\n<br>It's a new loom. I'll try the disconnect method and see how that goes!",
+    "lastEdited" : "Mon Aug 31, 2015 9:15 pm"
+  }, {
+    "postId" : "847443",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "847443",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7399",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Wow..\n<br>That is a big fuse to blow!\n<br>I reckon you may find the installation was with a bigger fuse to get round a problem\n<br>I would have expected a 6 fuse box as well...So maybe the board has been upgraded...\n<br>I would map first of all and try to find out how it is laid out.\n<br>\n<br>I would find out what wires are going to that fuse on each side of the fuse and where they go to..\n<br>\n<br>Did you fit the loom or do you know what year it was made for?\n<br>On my 65 Fire truck. I took off the kick board and wrote labels and attached them to each wire I identified as I went along. Then I worked out which side of the fuse board the wires went to snd which fuse and compared with the hand and year layout...\n<br>Then I moved wires back to where they should have been on the board\n<br> One by one with the battery off!\n<br>It worked fine then..\n<br>Someone had played about and some circuits did not work.\n<br>I still need to work on how the siren circuits are supposed to work. .",
+    "lastEdited" : "Tue Sep 01, 2015 2:09 am"
+  }, {
+    "postId" : "847905",
+    "author" : {
+      "username" : "tomvaughan",
+      "userId" : "847905",
+      "joined" : "Tue Oct 21, 2014 7:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : "./download/file.php%3Favatar=39800_1434399062.jpg"
+    },
+    "content" : "Thanks for the advice. I will try that labelling and rearranging the wires. Sounds like I'm in for some fun!",
+    "lastEdited" : "Fri Sep 04, 2015 10:02 pm"
+  } ]
+}

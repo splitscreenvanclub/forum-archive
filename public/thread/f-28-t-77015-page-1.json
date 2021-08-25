@@ -1,0 +1,89 @@
+{
+  "forumId" : "28",
+  "threadId" : "77015",
+  "title" : "Help and ideas please",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=77015",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "594430",
+    "author" : {
+      "username" : "skyway",
+      "userId" : "594430",
+      "joined" : "Wed Jul 22, 2009 9:48 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1231",
+      "avatarPath" : null
+    },
+    "content" : "Right you lot i think you are in the know.\n<br>\n<br>I am going to build an engine and want to know what you boys and girls run what cc and heads cam etc??\n<br>i got the turbo ecu etc so just the case and and the bits that go in it sorry you can tell i am not into engines.\n<br>\n<br>I will build it up slowly as i am running a new 1641 for now and was going to put the turbo unit on that but thinking i may do another lump.\n<br>\n<br>\n<br>Thanks sky",
+    "lastEdited" : "Tue Jun 28, 2011 9:28 pm"
+  }, {
+    "postId" : "594696",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "594696",
+      "joined" : "Tue Oct 04, 2005 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Taunton, cider capital",
+      "postCount" : "1356",
+      "avatarPath" : "http://i8.photobucket.com/albums/a8/tufty65/action07.jpg"
+    },
+    "content" : "You cant really just put a turbo on a normal engine, You have to look at total seal rings, Compresssion ratio, Camshafts purposely for turbo applications etc etc.\n<br>\n<br>And if you say you dont know much aqbout engines but your going to build one I would highly recommend you go and buy some 'how to books' \n<br>SSP sell lots of books relating to turbocharging and basic engine building.\n<br>\n<br>have a look at my basic build thread to see whats involved.\n<br>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=8&amp;t=64156&amp;start=15\">viewtopic.php?f=8&amp;t=64156&amp;start=15</a>\n<!-- l -->\n<br>\n<br>good luck and take your time it will be worth it in the end.",
+    "lastEdited" : "Thu Jun 30, 2011 12:23 pm"
+  }, {
+    "postId" : "594725",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "594725",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6009",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "However if it is a standard engine then you will probably find that you can just turbocharge it, there are quite a few people on shoptalkforums that have done this as the stock cam is okay and standard compression is low",
+    "lastEdited" : "Thu Jun 30, 2011 3:42 pm"
+  }, {
+    "postId" : "594755",
+    "author" : {
+      "username" : "skyway",
+      "userId" : "594755",
+      "joined" : "Wed Jul 22, 2009 9:48 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1231",
+      "avatarPath" : null
+    },
+    "content" : "I see i have a look at your thread and i think about it and yer i have herd of people putting a turbo on standard engine ok",
+    "lastEdited" : "Thu Jun 30, 2011 7:01 pm"
+  }, {
+    "postId" : "594909",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "594909",
+      "joined" : "Tue Oct 04, 2005 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Taunton, cider capital",
+      "postCount" : "1356",
+      "avatarPath" : "http://i8.photobucket.com/albums/a8/tufty65/action07.jpg"
+    },
+    "content" : "I wouldnt put a turbo on a stock motor with stock parts, I cant see the engine lasting long if you did what with the extra stresses put on the moving parts.",
+    "lastEdited" : "Sun Jul 03, 2011 6:58 pm"
+  }, {
+    "postId" : "594930",
+    "author" : {
+      "username" : "skyway",
+      "userId" : "594930",
+      "joined" : "Wed Jul 22, 2009 9:48 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1231",
+      "avatarPath" : null
+    },
+    "content" : "i have a 1641 and was going to put spacers on head to sort comprestion out and change the springs and have the boost low so wont blow engine up",
+    "lastEdited" : "Sun Jul 03, 2011 8:34 pm"
+  } ]
+}

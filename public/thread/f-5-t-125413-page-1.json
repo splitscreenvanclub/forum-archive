@@ -1,0 +1,27 @@
+{
+  "forumId" : "5",
+  "threadId" : "125413",
+  "title" : "Westfalia curtains",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=125413",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=fdbeb1422b1d409a4144b05631e7039e",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "933807",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "933807",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "470",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys , looking for a set of westfalia curtains for a 67 so42 , used\\worn would suit me just fine. Kind regards Neil",
+    "lastEdited" : "Wed Jan 13, 2021 7:46 pm"
+  } ]
+}

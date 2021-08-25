@@ -1,0 +1,144 @@
+{
+  "forumId" : "6",
+  "threadId" : "123056",
+  "title" : "Speedo LEDs ? Anyone used them?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123056",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=191f574e8d3054ef610fed5d7e87458b",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 10,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920084",
+    "author" : {
+      "username" : "Fuch77",
+      "userId" : "920084",
+      "joined" : "Mon Apr 10, 2017 8:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "Hello all.\n<br> The illumination in my speedo is very dim now. Has anyone used the LEDs from ebay?\n<br> Are they much of a upgrade brightness wise?\n<br> \n<a href=\"https://www.ebay.co.uk/itm/VW-Splitscreen-Bay-12V-Dash-Gauge-Warning-Light-GLB281-BA7s-LED-Bulb-Holder/282391577424?hash=item41bfd98350:g:br8AAOSw9gRaEbSu:rk:1:pf:0\" class=\"postlink\">https://www.ebay.co.uk/itm/VW-Splitscre ... :rk:1:pf:0</a>",
+    "lastEdited" : "Sun Feb 24, 2019 9:27 pm"
+  }, {
+    "postId" : "920086",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "920086",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "Or these\n<br> \n<a href=\"https://rover.ebay.com/rover/0/0/0?mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fulk%2Fitm%2F271885457466\" class=\"postlink\">https://rover.ebay.com/rover/0/0/0?mpre ... 1885457466</a>",
+    "lastEdited" : "Sun Feb 24, 2019 9:50 pm"
+  }, {
+    "postId" : "920091",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920091",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20109",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Be aware. If you use LED's then your battery might not charge correctly, as the system requires the load from the 2w lamp to work correctly.",
+    "lastEdited" : "Sun Feb 24, 2019 11:33 pm"
+  }, {
+    "postId" : "920111",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "920111",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1056",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=42085&amp;sid=191f574e8d3054ef610fed5d7e87458b\">Fuch77</a> wrote: <a href=\"./viewtopic.php?p=920084&amp;sid=191f574e8d3054ef610fed5d7e87458b#p920084\" data-post-id=\"920084\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Feb 24, 2019 9:27 pm\n   </div></cite> Hello all.\n  <br> The illumination in my speedo is very dim now. \n </div>\n</blockquote> Have you tried turning the knob on the light switch? VW made the gauge lights dimmable by turning the on/off switch knob. I thought mine were terrible until I read that and realised they were turned all the way down. \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\">",
+    "lastEdited" : "Mon Feb 25, 2019 6:26 pm"
+  }, {
+    "postId" : "920112",
+    "author" : {
+      "username" : "Fuch77",
+      "userId" : "920112",
+      "joined" : "Mon Apr 10, 2017 8:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "I did know but its a good point to make. Mine are dim when fully turned up and also out around half way down. Im sure they never used to be that dim. Is there a upgrade thats not LEDS?",
+    "lastEdited" : "Mon Feb 25, 2019 6:55 pm"
+  }, {
+    "postId" : "920119",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "920119",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "If they go out halfway down then your resistance wire on your light switch may have a break in it. My old switch did that so I just bypassed it to run my dash lights on permanent full brightness until I can get my spare switch repaired. \n<br> \n<br> Worth piggy backing the 58b dash light wire onto the 58 headlight terminal to check. \n<br> \n<br> Then you can be sure that no they really are that dim even on full \n<img src=\"http://emoji.tapatalk-cdn.com/emoji23.png\"> - it’s to make sure your eyes are adjusted so you can still see the road with the rubbish headlight beam. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Feb 25, 2019 10:54 pm"
+  }, {
+    "postId" : "920120",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "920120",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "To help with your actual question (I think you had a question didn’t you?) it might be worth contacting \n<a href=\"http://www.dynamoregulatorconversions.com/\" class=\"postlink\">http://www.dynamoregulatorconversions.com/</a> and explaining your challenge. \n<br> \n<br> They sold me a special indicator relay which accounts for the fact that flash speed normally needs the correct bulb resistance and manages to still flash correctly even with LED rear lights. I’m pretty sure they’d sell you a resistor to add into the circuit and the appropriate LED replacement bulbs too. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Feb 25, 2019 10:59 pm"
+  }, {
+    "postId" : "920129",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "920129",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1056",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "Before I realised it was the switch, I tried LEDs from ebay. They were brighter, but I didn't like them. \n<br> \n<br> The original poster is welcome to whichever ones I have FOC, if he pays the postage. (Fuch77, if you want them, PM me.) The 'tell tale' bulbs are coloured to match the filters in the speedo.\n<br> \n<br> I took them back out and refitted the incandescent bulbs. I like being able to dim them now I know that's how they're supposed to work.\n<br> \n<br> Fix the switch or check the wires first though.",
+    "lastEdited" : "Tue Feb 26, 2019 1:24 pm"
+  }, {
+    "postId" : "920984",
+    "author" : {
+      "username" : "Fuch77",
+      "userId" : "920984",
+      "joined" : "Mon Apr 10, 2017 8:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "Gentleman thank you ALL for your advice.\n<br> Clymoj it turns out you were right the dimmer in the switch is broken. ( so if anyone knows of a working one for sale? Genuine please)\n<br> I chose not to fit LED in the end as I agree with Who.me and like the fact they dim. I used to amuse myself turning them up and down sometimes.\n<br> Who.me mate It was a very Kind offer to send them to me but i wont take it up.\n<br> I did fit a LED to the blue main beam bulb as that has not worked for years so will update this thread is i get charging problems like Vw jim said could happen.\n<br> I really got my moneys worth with the blue LED as its is almost as bright as the headlamps and so i had to put a vw pin over it to stop it dazzling me",
+    "lastEdited" : "Thu Mar 28, 2019 7:12 pm"
+  }, {
+    "postId" : "920995",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "920995",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "Glad you got it sorted. I have three light switches with broken dimmers, none with a working one though sadly\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Fri Mar 29, 2019 4:11 am"
+  } ]
+}

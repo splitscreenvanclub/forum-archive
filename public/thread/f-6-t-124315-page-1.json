@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "124315",
+  "title" : "Mirror arm pin removal",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124315",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=e38b596d1d8d6ad0ae68bfa9a055336a",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927862",
+    "author" : {
+      "username" : "Prietolium",
+      "userId" : "927862",
+      "joined" : "Sat Jul 16, 2011 5:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "South West",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=35652_1365881094.jpg"
+    },
+    "content" : "Hi Guys, I wonder if anybody be has the pin removal tool near Bristol area that I can borrow/hire please\n<br> Otherwise could anybody point me in the best direction. I’ve spraying wd40 for a week and isn’t moving\n<br> Thank you in advance\n<br> Jose",
+    "lastEdited" : "Tue Feb 11, 2020 2:26 pm"
+  }, {
+    "postId" : "927890",
+    "author" : {
+      "username" : "Mart",
+      "userId" : "927890",
+      "joined" : "Fri Dec 15, 2006 11:56 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Hertfordshire",
+      "postCount" : "193",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> \n<br> theres a link on ebay for the tool I think he hires it out, send him a message.\n<br> \n<br> \n<a href=\"https://www.ebay.co.uk/itm/Vw-beetle-split-screen-Hinge-Pin-Removal-Tool/372630765435?hash=item56c2863f7b:g:XyQAAOSwiolcgtEe\" class=\"postlink\">https://www.ebay.co.uk/itm/Vw-beetle-sp ... SwiolcgtEe</a>\n<br> \n<br> Mart",
+    "lastEdited" : "Thu Feb 13, 2020 6:25 pm"
+  }, {
+    "postId" : "927893",
+    "author" : {
+      "username" : "Blackcountrybob",
+      "userId" : "927893",
+      "joined" : "Tue Jan 29, 2019 8:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "I improvised and used my Screwfix \"Titan\" sds drill/breaker with a point chisel on breaker/hammer mode (no rotation). I welded 2 nuts together and screwed them onto the bottom of the arm thread to protect the threads and these then also located the point of the chisel. A brief press on the trigger and out they popped! I guess any impact chisel would work if you could keep it centred on the bottom of the arm without jumping off and damaging your paintwork.",
+    "lastEdited" : "Thu Feb 13, 2020 8:15 pm"
+  }, {
+    "postId" : "928022",
+    "author" : {
+      "username" : "Prietolium",
+      "userId" : "928022",
+      "joined" : "Sat Jul 16, 2011 5:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "South West",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=35652_1365881094.jpg"
+    },
+    "content" : "Thank you guys. I ended buying the tool. I know it is over £100 but it took 10min to remove the broken pin. \n<br> I’m planning to remove the other mirror arm as I am swapping then for stainless steel ones then the tool will be for sale",
+    "lastEdited" : "Sat Feb 22, 2020 9:25 am"
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "forumId" : "5",
+  "threadId" : "124701",
+  "title" : "Steering box for spares",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124701",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=ac28c050761b38c37f9168f6abcdd4f8",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929726",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "929726",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "I am looking for a complete split screen LHD or RHD steering box any year for spare parts. Please let me know what you have. Cheers Simon \n<br> Email: \n<a href=\"mailto:typ241@gmail.com\">typ241@gmail.com</a>",
+    "lastEdited" : "Mon May 11, 2020 10:36 am"
+  }, {
+    "postId" : "930607",
+    "author" : {
+      "username" : "silversteve",
+      "userId" : "930607",
+      "joined" : "Sat Apr 19, 2003 8:56 am",
+      "profileRank" : "SSVC Member",
+      "location" : "the Shi**y blue microbus!!!",
+      "postCount" : "4417",
+      "avatarPath" : "./download/file.php%3Favatar=72_1261503882.jpg"
+    },
+    "content" : "Simon is that German parts or a mix of German and Brazilian your after mate?\n<br> \n<br> cheers Steve 07903 528642",
+    "lastEdited" : "Tue Jun 16, 2020 4:12 pm"
+  }, {
+    "postId" : "930624",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "930624",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "Just German ATE or ZF. I'm really only looking for the lever arm inside the box, bit with the spline on.",
+    "lastEdited" : "Wed Jun 17, 2020 2:23 pm"
+  } ]
+}

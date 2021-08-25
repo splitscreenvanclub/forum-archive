@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "105263",
+  "title" : "how can I tell if a bus has been IRS'd?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=105263",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "799575",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "799575",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1169",
+      "avatarPath" : null
+    },
+    "content" : "Morning all,\n<br> \n<br> After selling my splitty a couple of years back, i'm itching for another.\n<br> \n<br> Going to look at one today but the owner thinks it's been IRS'd but he's not sure (he's not a VW expert).\n<br> \n<br> My old bus had reduction boxes.\n<br> \n<br> How can I tell, just by looking, whether it's been IRS'd in simple terms?\n<br> \n<br> thanks,",
+    "lastEdited" : "Tue Aug 26, 2014 7:25 am"
+  }, {
+    "postId" : "799577",
+    "author" : {
+      "username" : "pokey",
+      "userId" : "799577",
+      "joined" : "Tue Jul 08, 2008 4:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "north wales",
+      "postCount" : "893",
+      "avatarPath" : null
+    },
+    "content" : "an irs bus will have driveshafts like a normal car, also will have spring plates and suspension arms",
+    "lastEdited" : "Tue Aug 26, 2014 7:42 am"
+  }, {
+    "postId" : "799579",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "799579",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "take it for a test drive and go round a roundabout as fast as you can.....if it rolls over, its SA, if it doesnt , its IRS \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";-)\" title=\"Wink\">\n<br> \n<br> (or crawl under the back, if it has thin axles that turn when the wheel turns... and diagonal supports going from the hub area to the gearbox area, its IRS\n<br> if it has big thick tubes that do NOT turn when the wheel turns...then its SA - straigh axled or original reduction boxes)",
+    "lastEdited" : "Tue Aug 26, 2014 8:19 am"
+  }, {
+    "postId" : "799587",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "799587",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "Straight axle:\n<br> \n<br> \n<img src=\"http://i1093.photobucket.com/albums/i438/dubspares/straight%20axle/01.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Notice no diagonal a-arms and it has rubber gaiters only on the gearbox end.\n<br> \n<br> \n<br> Aftermarket IRS:\n<br> \n<br> \n<img src=\"http://i17.photobucket.com/albums/b57/gracecraig/IRSkit.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Notice the diaganol a-arms and the rubber gaiters at both the gearbox and the wheel end.\n<br> \n<br> Beetle/Porsche IRS:\n<br> \n<br> \n<img src=\"http://i423.photobucket.com/albums/pp311/DragyBaby/SAM_1400.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> As above but the diaganol a-arms are a lot fatter. \n<br> \n<br> \n<br> Could also have bay IRS but the diagonal a-arms and rubber gaiters are still what you're looking for.",
+    "lastEdited" : "Tue Aug 26, 2014 9:19 am"
+  }, {
+    "postId" : "799590",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "799590",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1169",
+      "avatarPath" : null
+    },
+    "content" : "thanks guys - VERY helpful !!",
+    "lastEdited" : "Tue Aug 26, 2014 9:33 am"
+  } ]
+}

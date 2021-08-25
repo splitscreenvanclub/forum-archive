@@ -1,0 +1,53 @@
+{
+  "forumId" : "5",
+  "threadId" : "124837",
+  "title" : "Wanted lhd steering box cover zf",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124837",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=6907fc609548940447c7d3599bc7d88e",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930585",
+    "author" : {
+      "username" : "malcolm57",
+      "userId" : "930585",
+      "joined" : "Sat Aug 09, 2008 4:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "swindon",
+      "postCount" : "344",
+      "avatarPath" : null
+    },
+    "content" : "Hi all I'm after a steering box cover mine has been smashed off it's the zf box it's for a lhd if have one pm me please cheers",
+    "lastEdited" : "Mon Jun 15, 2020 5:49 pm"
+  }, {
+    "postId" : "930625",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "930625",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "PM Sent.\n<br> Simon",
+    "lastEdited" : "Wed Jun 17, 2020 2:32 pm"
+  }, {
+    "postId" : "930628",
+    "author" : {
+      "username" : "malcolm57",
+      "userId" : "930628",
+      "joined" : "Sat Aug 09, 2008 4:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "swindon",
+      "postCount" : "344",
+      "avatarPath" : null
+    },
+    "content" : "hi simon pm sent thanks",
+    "lastEdited" : "Wed Jun 17, 2020 3:37 pm"
+  } ]
+}

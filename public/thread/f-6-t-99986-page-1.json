@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "99986",
+  "title" : "Front drum brake springs",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=99986",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "764610",
+    "author" : {
+      "username" : "Trevorvw",
+      "userId" : "764610",
+      "joined" : "Wed Dec 21, 2011 12:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "18",
+      "avatarPath" : null
+    },
+    "content" : "Help, dementia has set in. I'm trying to refit the front drum brakes on my 1960 splittie. If I put the springs holding the two shoes together in front of the shoes they pull the shoes away from the backing plate, but if I put them behind the shoes they foul on the brake pipe connecting the two brake cylinders. Which is the right way to connect the two springs - in front of the shoes or behind? I'd appreciate any advice.",
+    "lastEdited" : "Fri Jan 10, 2014 7:58 pm"
+  }, {
+    "postId" : "764761",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "764761",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "473",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "they do fit behind the shoes, it's close to the bridge pipe but will fit. might have to slightly bend the pipe away from the springs. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Sat Jan 11, 2014 5:13 pm"
+  }, {
+    "postId" : "764763",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "764763",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15811",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://s619.photobucket.com/user/type21f/media/1964%20Devon%20Caravette/P9240093_zpse7fdceec.jpg.html\" class=\"postlink\"><img src=\"http://i619.photobucket.com/albums/tt273/type21f/1964%20Devon%20Caravette/P9240093_zpse7fdceec.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> New shoes VW OG springs...cos they were OK...kept the new ones for another day...",
+    "lastEdited" : "Sat Jan 11, 2014 5:19 pm"
+  }, {
+    "postId" : "764778",
+    "author" : {
+      "username" : "Trevorvw",
+      "userId" : "764778",
+      "joined" : "Wed Dec 21, 2011 12:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "18",
+      "avatarPath" : null
+    },
+    "content" : "Many thanks for the advice and pics.",
+    "lastEdited" : "Sat Jan 11, 2014 5:57 pm"
+  } ]
+}

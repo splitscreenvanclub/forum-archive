@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "59972",
+  "title" : "empi 5s not fitting CSP front discs",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=59972&start=15",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 22,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "463027",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "463027",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1067",
+      "avatarPath" : null
+    },
+    "content" : "ha ha, no not much luck \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\"> \n<br>\n<br>ill ask around for a local machine shop. i assume you mean remove 5mm from the end of the stud as opposed to bore 5mm into the wheel nut recess.",
+    "lastEdited" : "Wed Oct 21, 2009 8:02 am"
+  }, {
+    "postId" : "463042",
+    "author" : {
+      "username" : "vanagonman",
+      "userId" : "463042",
+      "joined" : "Mon Aug 03, 2009 7:53 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "916",
+      "avatarPath" : "./download/file.php%3Favatar=33388_1253731165.jpg"
+    },
+    "content" : "Yes, as I understood that VWJim recommended you remove 5mm off the top of the studs, which is a great idea. To be sure, measure this and make sure that this leaves you with the right amount of stud for your nuts to tighten around the lug holes. You can use a couple of washers I suppose, but trimming the bolts as suggested would be the better option, especially when you consider that a lot of shops use impact wrenches to put wheels on these days \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Wed Oct 21, 2009 8:47 am"
+  }, {
+    "postId" : "463134",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "463134",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1067",
+      "avatarPath" : null
+    },
+    "content" : "i would like to try the washers first and see how that works. the studs that i bought have a hex hole in the end for tightening them up, so if i trim the end of the stud then its limiting how far i can get the hex key in to tighten them up. unless theres another way of tightening them up without the hex key?\n<br>will try it with one stud and let you know how i get on.\n<br>\n<br>one other thing, does anyone know the torque setting for the studs in the rotors?",
+    "lastEdited" : "Wed Oct 21, 2009 1:30 pm"
+  }, {
+    "postId" : "463180",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "463180",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "18046",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Are the studs press in splined versions? Or the threaded screw in versions?",
+    "lastEdited" : "Wed Oct 21, 2009 5:27 pm"
+  }, {
+    "postId" : "464436",
+    "author" : {
+      "username" : "59 pick up",
+      "userId" : "464436",
+      "joined" : "Thu Jul 31, 2003 6:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "single cab for sale ¬£5k",
+      "postCount" : "1549",
+      "avatarPath" : "http://img.photobucket.com/albums/v222/pantswagen/kkk.jpg"
+    },
+    "content" : "<!-- m -->\n<a class=\"postlink\" href=\"http://www.grayston.biz/wheelnutmenu.htm\">http://www.grayston.biz/wheelnutmenu.htm</a>\n<!-- m -->\n<br>\n<br>sn59 - wolfrace m14 11/16 which is .6909''\n<br>may even have the correct washers on them\n<br>-if you go there in person, you can get them for a quid each.\n<br>\n<br>you need to check the bore and depth of the wheel\n<br>-now i never knew that they did a m14 lug nut that had the thinner bore - you may be ok\n<br>-see, i thought it was only available at 3/4 bore - not 11/16 = .690",
+    "lastEdited" : "Mon Oct 26, 2009 1:54 pm"
+  }, {
+    "postId" : "464850",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "464850",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1067",
+      "avatarPath" : null
+    },
+    "content" : "sorry, missed the new posts. the new studs are screw in ones. \n<br>i did try using two washers and it worked, but i wasnt massively happy with it. i ended up filing a couple of mm off the new studs i bought, and they now fit perfect with just one washer. much happier now. thanks all.\n<br>\n<br>i now have another problem fitting the grease caps, but i made a new post for that \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Tue Oct 27, 2009 9:21 pm"
+  }, {
+    "postId" : "464856",
+    "author" : {
+      "username" : "vanagonman",
+      "userId" : "464856",
+      "joined" : "Mon Aug 03, 2009 7:53 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "916",
+      "avatarPath" : "./download/file.php%3Favatar=33388_1253731165.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ferkh10 wrote:</cite>sorry, missed the new posts. the new studs are screw in ones. \n  <br>i did try using two washers and it worked, but i wasnt massively happy with it. i ended up filing a couple of mm off the new studs i bought, and they now fit perfect with just one washer. much happier now. thanks all.\n  <br>\n  <br>i now have another problem fitting the grease caps, but i made a new post for that \n  <img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\">\n </div>\n</blockquote>\n<br>\n<br>If you fit the two washer on each lug THEN fit the wheel on top of them, it should clear the grease caps.",
+    "lastEdited" : "Tue Oct 27, 2009 9:29 pm"
+  } ]
+}

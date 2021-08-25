@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "114294",
+  "title" : "Electric fuel pump",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=114294",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=01bb335a68ca97ba36628eff13a03608",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "861852",
+    "author" : {
+      "username" : "knightj05",
+      "userId" : "861852",
+      "joined" : "Wed Mar 18, 2015 2:36 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "108",
+      "avatarPath" : null
+    },
+    "content" : "Hi thinking of going for an electric fuel pump, just looking for recommendations for what one to go for? Also general opinions in terms of whether stick to mechanical or go electrical? \n<br> \n<br> Thanks",
+    "lastEdited" : "Wed Jan 27, 2016 7:36 pm"
+  }, {
+    "postId" : "861883",
+    "author" : {
+      "username" : "Pugit666",
+      "userId" : "861883",
+      "joined" : "Fri Feb 01, 2013 10:57 am",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "397",
+      "avatarPath" : null
+    },
+    "content" : "I would suggest it depends on engine size which to go for? I was looking the other day on here and searched '1641 fuel pump' that brought up a good bit of info",
+    "lastEdited" : "Wed Jan 27, 2016 9:41 pm"
+  }, {
+    "postId" : "861884",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "861884",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3071",
+      "avatarPath" : null
+    },
+    "content" : "I have a Huco pump which works fine \n<a href=\"http://www.gowerlee.dircon.co.uk/HUCO.html\" class=\"postlink\">http://www.gowerlee.dircon.co.uk/HUCO.html</a> it's the 14v engine bay one on the link.\n<br> \n<br> I'm running twin dell'ortos.",
+    "lastEdited" : "Wed Jan 27, 2016 10:01 pm"
+  }, {
+    "postId" : "861901",
+    "author" : {
+      "username" : "knightj05",
+      "userId" : "861901",
+      "joined" : "Wed Mar 18, 2015 2:36 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "108",
+      "avatarPath" : null
+    },
+    "content" : "I am building a 1776 with big bore heads and idf44's\n<br> I have looked at allot of facet stuff which seems good. just wanted some advice and recommendations the huco looks like it would do the job.\n<br> \n<br> Thanks",
+    "lastEdited" : "Thu Jan 28, 2016 8:03 am"
+  }, {
+    "postId" : "861908",
+    "author" : {
+      "username" : "Alex VW Heritage",
+      "userId" : "861908",
+      "joined" : "Tue Dec 03, 2013 10:27 am",
+      "profileRank" : "Registered user",
+      "location" : "Shoreham, England",
+      "postCount" : "259",
+      "avatarPath" : "./download/file.php%3Favatar=38732_1386072729.jpg"
+    },
+    "content" : "Hi,\n<br> \n<br> What ever pump you choose I would run a decent fuel pressure regulator,\n<br> \n<br> we now sell Filter Kings, which are ace and have a great filter element too:\n<br> \n<br> \n<a href=\"https://www.vwheritage.com/shop/AC127201/malpassi-67mm-filter-king-with-glass-bowl-and-6-8mm-unions/\" class=\"postlink\">https://www.vwheritage.com/shop/AC12720 ... mm-unions/</a>",
+    "lastEdited" : "Thu Jan 28, 2016 9:38 am"
+  }, {
+    "postId" : "861914",
+    "author" : {
+      "username" : "Pugit666",
+      "userId" : "861914",
+      "joined" : "Fri Feb 01, 2013 10:57 am",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "397",
+      "avatarPath" : null
+    },
+    "content" : "I ran a facet red top with filter king reg on a 1.9 engine with carbs. It ran without fault for years",
+    "lastEdited" : "Thu Jan 28, 2016 10:03 am"
+  }, {
+    "postId" : "861919",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "861919",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "If you're running idf's the best pump to use is the CB rotory one with the fuel pressure pre set at 3.5psi which is ideal. It comes with a very good quality pre filter fitted too. Machine 7 were the cheapest recently.",
+    "lastEdited" : "Thu Jan 28, 2016 11:40 am"
+  } ]
+}

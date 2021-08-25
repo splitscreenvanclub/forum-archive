@@ -1,0 +1,53 @@
+{
+  "forumId" : "2",
+  "threadId" : "123047",
+  "title" : "How to search For Aussie bus information",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123047",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920035",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "920035",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15812",
+      "avatarPath" : null
+    },
+    "content" : "How do you find build information for an Australian built bus?\n<br> I am looking specifically for a 63 bus..\n<br> I believe that buses built in Australia did not have m code plates and were not required by Australian build rules?\n<br> So how and where do you find build details?\n<br> I understand from this thread they are not marked as built by VW?\n<br> So guys how and where do you enquire to find the build options, model info, colour etc.? \n<br> \n<br> \n<a href=\"https://forums.kombiclub.com/threads/m-plate-on-a-kombi.3759/\" class=\"postlink\">https://forums.kombiclub.com/threads/m- ... ombi.3759/</a>\n<br> G\n<br> \n<br> I remembered a post with Aussie paint codes and a chart and found it on thesamba.com\n<br> \n<br> \n<a href=\"https://www.thesamba.com/vw/archives/lit/63colors_australia.php\" class=\"postlink\">https://www.thesamba.com/vw/archives/li ... tralia.php</a>\n<br> \n<br>",
+    "lastEdited" : "Sat Feb 23, 2019 9:37 am"
+  }, {
+    "postId" : "920265",
+    "author" : {
+      "username" : "winerot",
+      "userId" : "920265",
+      "joined" : "Wed Sep 28, 2005 1:52 am",
+      "profileRank" : "Registered user",
+      "location" : "mid north coast aust",
+      "postCount" : "111",
+      "avatarPath" : "./download/file.php%3Favatar=1734_1334883291.jpg"
+    },
+    "content" : "You should read this, if you have a compliance plate behind the front seat then John (IN2VWS) is the man of knowledge here in Aust.\n<br> \n<a href=\"https://www.ssvc.org.uk/phpbb/viewtopic.php?f=2&amp;t=74504&amp;p=596107&amp;hilit=IN2VWS#p595577\" class=\"postlink\">https://www.ssvc.org.uk/phpbb/viewtopic ... WS#p595577</a>",
+    "lastEdited" : "Sat Mar 02, 2019 10:49 pm"
+  }, {
+    "postId" : "920272",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "920272",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15812",
+      "avatarPath" : null
+    },
+    "content" : "Cheers.. is for 8 bus whose mate Stu has just bought an Aussie 15w deluxe",
+    "lastEdited" : "Sun Mar 03, 2019 8:30 am"
+  } ]
+}

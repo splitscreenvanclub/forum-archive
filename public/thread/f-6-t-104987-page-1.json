@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "104987",
+  "title" : "Can someone identify these please",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=104987",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "797609",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "797609",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "I think wiper and lights but not sure \n<div class=\"inline-attachment\">\n <!-- ia0 -->ImageUploadedByTapatalk1407793281.056626.jpg\n <!-- ia0 -->\n</div>\n<div class=\"inline-attachment\">\n <!-- ia1 -->ImageUploadedByTapatalk1407793293.531880.jpg\n <!-- ia1 -->\n</div> \n<br> Thanks\n<br> Andy",
+    "lastEdited" : "Mon Aug 11, 2014 9:41 pm"
+  }, {
+    "postId" : "797645",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "797645",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15762",
+      "avatarPath" : null
+    },
+    "content" : "err no..\n<br> Lights and wiper\n<br> Large one for the lights should be IIRC a pull out two position switch side lights and then headlights on with a built in rheostat so as your turn the knob to the right it alters the lighting level of the dash board lighting...\n<br> The other is an on off switch for the wipers...which may or may not self park\n<br> \n<br> \n<img src=\"http://www.thesamba.com/vw/archives/manuals/mighetto/62t2_p06p07.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue Aug 12, 2014 9:07 am"
+  }, {
+    "postId" : "797703",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "797703",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Brilliant, thanks. We're getting there \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">\n<br> \n<br> Andy",
+    "lastEdited" : "Tue Aug 12, 2014 4:47 pm"
+  }, {
+    "postId" : "797705",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "797705",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15762",
+      "avatarPath" : null
+    },
+    "content" : "Just forgot to say the handook/ manual pages are from LH.. so flip the positions...for RHD.. just in case...\n<br> \n<br> Check the rheostat works too if you are going to re-use.\n<br> \n<br> Mine were in a similar state with a leaky screen...cleaned up well and work fine...",
+    "lastEdited" : "Tue Aug 12, 2014 4:52 pm"
+  } ]
+}

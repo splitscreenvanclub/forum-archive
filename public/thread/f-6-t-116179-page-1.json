@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "116179",
+  "title" : "Adjustable Spring plate position",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=116179",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "876153",
+    "author" : {
+      "username" : "Bar",
+      "userId" : "876153",
+      "joined" : "Sat Jan 23, 2010 9:34 am",
+      "profileRank" : "Registered user",
+      "location" : "S Wales",
+      "postCount" : "633",
+      "avatarPath" : null
+    },
+    "content" : "These have been fitted and the adjustment bolt extended nearly all the way, I will be locating them back into a better position with only using a little bit of the adjustment bolt, question is: as it sits at the moment, would this affect the handling as bus seems to wonder all over the road??? Front end all good\n<img src=\"//uploads.tapatalk-cdn.com/20160606/78028c00125a3a9785e3c6c7e80362d0.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20160606/90b3b0fe71f303b02f5fe29203f7debb.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Jun 06, 2016 4:52 pm"
+  }, {
+    "postId" : "876154",
+    "author" : {
+      "username" : "Bar",
+      "userId" : "876154",
+      "joined" : "Sat Jan 23, 2010 9:34 am",
+      "profileRank" : "Registered user",
+      "location" : "S Wales",
+      "postCount" : "633",
+      "avatarPath" : null
+    },
+    "content" : "Wander!! Predictive txt!! \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Jun 06, 2016 4:54 pm"
+  } ]
+}

@@ -1,0 +1,24 @@
+{
+  "forumId" : "42",
+  "threadId" : "102724",
+  "title" : "Rose Hill, Oxford",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=42&t=102724",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "782710",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "782710",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1129",
+      "avatarPath" : "http://www.charity-bolivia.org/vw/DOUGAL.jpg"
+    },
+    "content" : "Seen today in Oxford: numberplate NDB...E. Couldn't see properly because it was on the other side of the roundabout at Rose Hill. Looked like a lightgrey van (camper conversion) and had towel rails. \n<br>If it's you and live in Oxford come to the meet every 2nd Tuesday of the Month.\n<br>\n<br>Cheers,\n<br>Gertjan",
+    "lastEdited" : "Mon May 05, 2014 6:38 pm"
+  } ]
+}

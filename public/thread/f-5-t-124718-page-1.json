@@ -1,0 +1,79 @@
+{
+  "forumId" : "5",
+  "threadId" : "124718",
+  "title" : "‘64 Double Cab Rear Bench",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124718",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=eed905b24fab87e249c74fb9c583af95",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929881",
+    "author" : {
+      "username" : "Knoxxy",
+      "userId" : "929881",
+      "joined" : "Sun Oct 25, 2015 11:48 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "9",
+      "avatarPath" : null
+    },
+    "content" : "As title suggests, looking for a rear bench seat for a ‘64 Double Cab. \n<br> The pedestal is the flat top type. \n<br> Any one have one for sale or a lead on where I can get one, please let me know. \n<br> \n<br> Thanks. \n<br> Knoxxy.",
+    "lastEdited" : "Sat May 16, 2020 4:46 pm"
+  }, {
+    "postId" : "929896",
+    "author" : {
+      "username" : "james309",
+      "userId" : "929896",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "610",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "Do you need the pedestal or the seat ?\n<br> \n<br> Sent from my SM-G973F using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Sun May 17, 2020 7:51 am"
+  }, {
+    "postId" : "929918",
+    "author" : {
+      "username" : "Knoxxy",
+      "userId" : "929918",
+      "joined" : "Sun Oct 25, 2015 11:48 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "9",
+      "avatarPath" : null
+    },
+    "content" : "Just the seat, I have the pedestal. \n<br> \n<br> Knoxxy.",
+    "lastEdited" : "Sun May 17, 2020 4:20 pm"
+  }, {
+    "postId" : "929923",
+    "author" : {
+      "username" : "james309",
+      "userId" : "929923",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "610",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "Near impossible to find, you can use a front bench seat.\n<br> Originally they had an extra strengthening bar for support. \n<br> \n<br> Sent from my SM-G973F using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Sun May 17, 2020 6:56 pm"
+  }, {
+    "postId" : "929928",
+    "author" : {
+      "username" : "Knoxxy",
+      "userId" : "929928",
+      "joined" : "Sun Oct 25, 2015 11:48 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "9",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the info, I’ll look for a front bench.\n<br> Knoxxy.",
+    "lastEdited" : "Sun May 17, 2020 9:38 pm"
+  } ]
+}

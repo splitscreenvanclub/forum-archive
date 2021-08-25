@@ -1,0 +1,43 @@
+{
+  "forumId" : "10",
+  "threadId" : "124416",
+  "title" : "Fully Charged LIVE 2020 - 30th Oct to 1st Nov - Farnborough, UK",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=124416",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=f6fb8f24f80c3318b840a333df124e89",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=f6fb8f24f80c3318b840a333df124e89",
+    "label" : "Events"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928335",
+    "author" : {
+      "username" : "Kevin Sharpe",
+      "userId" : "928335",
+      "joined" : "Mon Sep 30, 2013 4:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "311",
+      "avatarPath" : "./download/file.php%3Favatar=38541_1503916432.jpg"
+    },
+    "content" : "Don't miss this event \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">\n<br> \n<br> \n<a href=\"https://fullycharged.show/events/fully-charged-live-2020/\" class=\"postlink\">https://fullycharged.show/events/fully- ... live-2020/</a>\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=38384&amp;sid=f6fb8f24f80c3318b840a333df124e89&amp;mode=view\"><img src=\"./download/file.php?id=38384&amp;t=1&amp;sid=f6fb8f24f80c3318b840a333df124e89\" class=\"postimage\" alt=\"Fully-charged-live-uk-events-banner-2020-1.jpg\" title=\"Fully-charged-live-uk-events-banner-2020-1.jpg (132.8 KiB) Viewed 774 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Sat Mar 14, 2020 12:23 pm"
+  }, {
+    "postId" : "930238",
+    "author" : {
+      "username" : "Kevin Sharpe",
+      "userId" : "930238",
+      "joined" : "Mon Sep 30, 2013 4:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "311",
+      "avatarPath" : "./download/file.php%3Favatar=38541_1503916432.jpg"
+    },
+    "content" : "Important Update: Fully Charged LIVE 2020\n<br> \n<br> In times of continued uncertainty around large events and gatherings this year we have made the difficult decision to push back our Fully Charged LIVE show scheduled for this Autumn to the Summer of 2021. Specifically the 18th, 19th &amp; 20th June.\n<br> \n<br> \n<a href=\"https://fullycharged.show/about/fully-charged-live-uk-update/\" class=\"postlink\">https://fullycharged.show/about/fully-c ... uk-update/</a>\n<br> \n<br> \n<a href=\"https://youtu.be/d8hfSAhgT1M\" class=\"postlink\">https://youtu.be/d8hfSAhgT1M</a>",
+    "lastEdited" : "Mon Jun 01, 2020 4:34 pm"
+  } ]
+}

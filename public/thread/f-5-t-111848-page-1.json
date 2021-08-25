@@ -1,0 +1,63 @@
+{
+  "forumId" : "5",
+  "threadId" : "111848",
+  "title" : "Front bench seat and ribbed rear bumper",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=111848",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "844229",
+    "author" : {
+      "username" : "Bar",
+      "userId" : "844229",
+      "joined" : "Sat Jan 23, 2010 9:34 am",
+      "profileRank" : "Registered user",
+      "location" : "S Wales",
+      "postCount" : "426",
+      "avatarPath" : "./download/file.php%3Favatar=33908_1429303835.jpg"
+    },
+    "content" : "Hi all, any of these about for a 58 bus?? Thanks.\n<br>\n<br>\n<br>Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Aug 03, 2015 6:35 pm"
+  }, {
+    "postId" : "847304",
+    "author" : {
+      "username" : "Bar",
+      "userId" : "847304",
+      "joined" : "Sat Jan 23, 2010 9:34 am",
+      "profileRank" : "Registered user",
+      "location" : "S Wales",
+      "postCount" : "426",
+      "avatarPath" : "./download/file.php%3Favatar=33908_1429303835.jpg"
+    },
+    "content" : "Anyone??\n<br>\n<br>\n<br>Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun Aug 30, 2015 9:50 pm"
+  }, {
+    "postId" : "847306",
+    "author" : {
+      "username" : "westy_mick",
+      "userId" : "847306",
+      "joined" : "Sat Feb 19, 2011 6:37 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "393",
+      "avatarPath" : "./download/file.php%3Favatar=35127_1319378793.jpg"
+    },
+    "content" : "Have a humpback bench seat in the for sale section",
+    "lastEdited" : "Sun Aug 30, 2015 10:02 pm"
+  }, {
+    "postId" : "847703",
+    "author" : {
+      "username" : "FBI",
+      "userId" : "847703",
+      "joined" : "Wed May 18, 2005 10:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "Swansea",
+      "postCount" : "2035",
+      "avatarPath" : "http://images.thesamba.com/vw/gallery/pix/323685.jpg"
+    },
+    "content" : "I have a bench seat base in good condition .",
+    "lastEdited" : "Thu Sep 03, 2015 6:32 am"
+  } ]
+}

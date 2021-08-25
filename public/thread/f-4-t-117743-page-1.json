@@ -1,0 +1,27 @@
+{
+  "forumId" : "4",
+  "threadId" : "117743",
+  "title" : "Garage winch",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=117743",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=775a69379945e20b02842ed281f69114",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "886129",
+    "author" : {
+      "username" : "Trigger",
+      "userId" : "886129",
+      "joined" : "Sun May 15, 2011 11:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "223",
+      "avatarPath" : null
+    },
+    "content" : "Garage winch for sale - only used a couple of times - so as new - comes with controller unit and wall/floor fixing plate - works from 12v battery.\n<br> Use to get your rolling restoration in/out of the garage!\n<br> £50.00\n<br> If pictures required, please send mail address or phone detail and I'll send direct.",
+    "lastEdited" : "Mon Oct 24, 2016 6:21 pm"
+  } ]
+}

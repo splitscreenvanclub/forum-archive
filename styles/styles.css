@@ -23,7 +23,7 @@ body {
     @apply h-screen;
     @apply font-sans;
     font-size: 16px;
-    background-color: #fdfdfd;
+    background-color: #f9f9f9;
 }
 
 footer {
@@ -72,9 +72,20 @@ input.gsc-input {
         background: #ECF3F7;
     }
 
-    .post image,
-    .post img {
+    .post image:not(.smilies),
+    .post img:not(.smilies):not(.avatar) {
         @apply max-w-full lg:max-w-prose border border-gray-200 bg-white shadow my-2 p-1;
+    }
+
+    .post img.avatar {
+        @apply py-2;
+    }
+
+    .post blockquote {
+        @apply border border-gray-200 bg-gray-50 p-3 my-3;
+    }
+    .post blockquote cite {
+        @apply block text-gray-600;
     }
 
 }

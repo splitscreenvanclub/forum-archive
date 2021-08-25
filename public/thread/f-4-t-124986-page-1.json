@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "124986",
+  "title" : "67 split bus front towel rail wanted",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124986",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=42c2d84bb3bef3919f7a4a24bf7da165",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931442",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "931442",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "450",
+      "avatarPath" : null
+    },
+    "content" : "as above mine has a couple dent ,anyone got a good spare please",
+    "lastEdited" : "Mon Jul 27, 2020 10:40 am"
+  }, {
+    "postId" : "931498",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "931498",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "450",
+      "avatarPath" : null
+    },
+    "content" : "got one thanks,",
+    "lastEdited" : "Fri Jul 31, 2020 8:34 pm"
+  } ]
+}

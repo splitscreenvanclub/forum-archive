@@ -1,0 +1,131 @@
+{
+  "forumId" : "6",
+  "threadId" : "120830",
+  "title" : "Headlight switch",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120830",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6fa8fae54d6786014033f71e27e0a7a6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "906958",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "906958",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "419",
+      "avatarPath" : null
+    },
+    "content" : "We have a dimming headlight switch, it dims the speedo and fuel guage when twisted, the problem is we think it might be faulty as the insrument lights always look dim.\n<br> Is there a way to check if its working as it should as its difficult to see the speedo in the dark.",
+    "lastEdited" : "Wed Dec 13, 2017 10:16 pm"
+  }, {
+    "postId" : "906961",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "906961",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "One way to check it is to bypass the connections which relate to the speedo dimming. I can’t remember which they are but look at the wiring diagrams on thesamba and it’ll tell you which terminals on the back of the switch to bypass. \n<br> \n<br> It is essentially a simple rheostat so adds variable resistance from max current downwards. I.e. it attenuates a max current downwards rather than turns up the brightness. When it’s turned to max it is effectively bypassing its own resistance circuit and just providing the current output at whatever it receives. \n<br> \n<br> I have had two break and when they do you lose dimming below where the break in the coiled resistance wire is, ie it starts to dim and then suddenly goes to nothing. So it is unlikely it has broken in a way in which it permanently slightly dims the lights as you describe. However check as above because there may be corrosion or poor connections which are limiting throughput when it’s at max. \n<br> \n<br> Hope that helps, I’m not an electrician so may have used the wrong terms, but I have taken a couple apart so I know roughly what they do.",
+    "lastEdited" : "Wed Dec 13, 2017 10:45 pm"
+  }, {
+    "postId" : "906963",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "906963",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "30 Red cable + supply unfused from battery\n<br> 56 White /black + supply to dip/main relay\n<br> 58 Grey Side light supply to fuse box\n<br> 58b Grey/ Orange Panel back light supply\n<br> \n<br> So 58 is the unattenuated supply and 58b is the attenuated / variable / dimming one for the dash lights. \n<br> \n<br> So from memory if you unplug your dash light wire from 58b and attach it to 58 you will see what full brightness looks like. \n<br> \n<br> By the way for what it’s worth my full brightness is pitiful by modern standards, I have to hide my satnav because it is too bright by comparison. You get used to it though. \n<br> \n<br> I’m sure someone does LEDs to replace dash bulbs these days too but don’t know whether they’d be dimmable.",
+    "lastEdited" : "Wed Dec 13, 2017 10:52 pm"
+  }, {
+    "postId" : "906969",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "906969",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15456",
+      "avatarPath" : null
+    },
+    "content" : "I have all my 12v dash instruments and 4 gauges illuminated by LEDs on my 64.\n<br> I really like being able to see the gauges...lol\n<br> \n<br> I bought them from USA from an advert on thesamba.com.\n<br> Sold by a hippy guy..\n<br> \n<br> They are dimmable but remember if you have an alternator you must buy the gizmo so it does charge.\n<br> \n<br> The seller could not remember if he had posted my order and sent me a second set.. which arrived first..\n<br> He apologised if the first lot arrived saying ENJOY..\n<br> If anything they are too bright on full!\n<br> I bought an NOS spare switch years ago...but have not had to use it yet..\n<br> \n<br> I fitted new 6v bulbs to my Firetruck and they are bright enough.\n<br> \n<br> \n<br> \n<br> \n<br>",
+    "lastEdited" : "Thu Dec 14, 2017 6:31 am"
+  }, {
+    "postId" : "907168",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "907168",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "419",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for all your help guys, going to try cleaning all the terminals first so see if it makes any difference first and then go through all the suggestions and see what happens, will post the results once its done, LED might be a route as we have gone LED with the interior lights.",
+    "lastEdited" : "Wed Dec 20, 2017 10:14 am"
+  }, {
+    "postId" : "907175",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "907175",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "Wizard pls post up your outcome as I have the same problem.\n<br> \n<br> Thanks\n<br> \n<br> Jason",
+    "lastEdited" : "Wed Dec 20, 2017 3:17 pm"
+  }, {
+    "postId" : "907267",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "907267",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "419",
+      "avatarPath" : null
+    },
+    "content" : "Well we cleaned up all the terminals and that did improve things a bit, we ran a live feed to a few of the connectors as clymo suggested and things brightened up, a change of the bulbs might help or led bulbs.\n<br> We have a new rev counter on the dash wired into the same system and thats working OK to a point, it dims the same as the others but is still brighter then the dash light, also the fuel guage needle keeps going across to full when we rev the engine, maybe another electrical fault to cure. Back to the drawing board.",
+    "lastEdited" : "Sat Dec 23, 2017 8:50 pm"
+  }, {
+    "postId" : "907278",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "907278",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "Fuel gauge should earth directly to the dash which if you’ve ever had a repaint or had the gauge out may not be making a proper connection. \n<br> \n<br> You can run a separate earth from the back of the gauge case to somewhere you have a better earth which may improve things. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun Dec 24, 2017 11:22 am"
+  }, {
+    "postId" : "907291",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "907291",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "419",
+      "avatarPath" : null
+    },
+    "content" : "Thanks, found out it was just a bad earth, maybe through looking at the other wires we disturbed something.",
+    "lastEdited" : "Sun Dec 24, 2017 6:32 pm"
+  } ]
+}

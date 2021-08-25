@@ -1,0 +1,144 @@
+{
+  "forumId" : "6",
+  "threadId" : "124237",
+  "title" : "Diagram for fitting a duel circuit master cylinder",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124237",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=7fdb812ea91fdf20d1ca993edf6fbd97",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 10,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927375",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "927375",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "Has anybody got one please \n<br> \n<br> \n<br> Thanks \n<img alt=\"😊\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f60a.svgz\">",
+    "lastEdited" : "Sun Jan 12, 2020 10:28 am"
+  }, {
+    "postId" : "927376",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "927376",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15325",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"https://www.csp-shop.com/en/wheels-brakes/master-cylinder-611-021-211-14-22005a.html\" class=\"postlink\">https://www.csp-shop.com/en/wheels-brak ... 2005a.html</a>\n<br> Fitting instructions on here..",
+    "lastEdited" : "Sun Jan 12, 2020 10:56 am"
+  }, {
+    "postId" : "927379",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "927379",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "Thank you",
+    "lastEdited" : "Sun Jan 12, 2020 11:46 am"
+  }, {
+    "postId" : "927414",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "927414",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "Does there have to be 2 brake light switches ? As",
+    "lastEdited" : "Tue Jan 14, 2020 11:58 am"
+  }, {
+    "postId" : "927415",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "927415",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15325",
+      "avatarPath" : null
+    },
+    "content" : "Nope. I took put in a T with the switch in one of the lines at the master cylinder.. I have a VWjim remote servo as well and belly pan fitted.",
+    "lastEdited" : "Tue Jan 14, 2020 12:03 pm"
+  }, {
+    "postId" : "927416",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "927416",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "There is a T piece in the middle and the rear very confusing\n<br> \n<br> Is it best to remove it ? As left hand rear front go to the rear of the master and the large long one to the front ?",
+    "lastEdited" : "Tue Jan 14, 2020 12:22 pm"
+  }, {
+    "postId" : "927417",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "927417",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15325",
+      "avatarPath" : null
+    },
+    "content" : "Edited above. Essentially you are measuring the increase in pressure at the master cylinder when the pedal is pressed! Then you are measuring a system increase, not the pressure in the front and rear systems",
+    "lastEdited" : "Tue Jan 14, 2020 12:27 pm"
+  }, {
+    "postId" : "927418",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "927418",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20054",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Graham you're doing better than me, I don't understand the questions",
+    "lastEdited" : "Tue Jan 14, 2020 8:04 pm"
+  }, {
+    "postId" : "927419",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "927419",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15325",
+      "avatarPath" : null
+    },
+    "content" : "Gemma is asking because she has a dual master cylinder does she have to fit two brake light switches. I am trying to explain I used a T fitting FROM YOU so that the switch was inboard and i could fit my belly pan..\n<br> PhotoF*ckit is down or they are holding nonners to ransom so I cannot access my 11244 pictures to find one of my installation.\n<br> Lol\n<br> Hope you are well! Happy New Decade! Welcome to the roaring twenties!",
+    "lastEdited" : "Tue Jan 14, 2020 8:31 pm"
+  }, {
+    "postId" : "927420",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "927420",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1041",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=43106&amp;sid=7fdb812ea91fdf20d1ca993edf6fbd97\">Gemmas</a> wrote: <a href=\"./viewtopic.php?p=927416&amp;sid=7fdb812ea91fdf20d1ca993edf6fbd97#p927416\" data-post-id=\"927416\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Tue Jan 14, 2020 12:22 pm\n   </div></cite> There is a T piece in the middle and the rear very confusing\n  <br> \n  <br> Is it best to remove it ? As left hand rear front go to the rear of the master and the large long one to the front ? \n </div>\n</blockquote> This description from the VW Heritage page might help?...\n<br> \n<blockquote class=\"uncited\">\n <div>\n  For upto 1966 and 1967 \n  <strong class=\"text-strong\">euro spec</strong> non servo brakes with a dual master cylinder: The rear brake line and brake light switch are fitted to the front two ports closest to the push rod. You should have two front brake lines, one to each of the left and right front brakes. These fit to the two rear ports on the dual circuit cylinder.\n </div>\n</blockquote> \n<blockquote class=\"uncited\">\n <div>\n  For 1967 \n  <strong class=\"text-strong\">US</strong> buses non servo brakes with a dual master cylinder: The rear line is fitted to one of the front ports closest to the pushrod. The front line is fitted to one of the rear ports. There are 2 brake light switches one in the front port and one in the rear\n </div>\n</blockquote> For the US-spec setup with two brake switches, two Tees are needed. One Tee goes at the rear and bolts to the transmission horns to split the long line from one of the front ports that serves the rear circuit. A brake switch is fitted in the other front port. A second Tee is used to split the front circuit from one of the rear ports because the other front circuit (rear) port is occupied by a second brake switch. I mounted that second Tee to the rear of the front crossmember when I converted mine.\n<br> \n<br> I didn't know there was any difference between US and Euro spec, but Heritage's page says there was. The Euro-spec version only used one brake switch on on the front ports serving the rear circuit, so both rear ports serving the front circuit are free and plumb direct to each wheel and an extra Tee is not needed.",
+    "lastEdited" : "Tue Jan 14, 2020 9:09 pm"
+  } ]
+}

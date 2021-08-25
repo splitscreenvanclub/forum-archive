@@ -1,0 +1,79 @@
+{
+  "forumId" : "2",
+  "threadId" : "40913",
+  "title" : "Bus Weight - Is this right???",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=40913",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "307107",
+    "author" : {
+      "username" : "orb",
+      "userId" : "307107",
+      "joined" : "Wed Jan 14, 2004 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kingston upon Thames",
+      "postCount" : "2475",
+      "avatarPath" : null
+    },
+    "content" : "Just found this over on the DDK forum - it looks like pretty official but I don't know where it's from or of it was produced by the factory.\n<br> What surprises me is that I always assumed that because a 21/23 window had more glass they would be heavier than a standard combi 11/13 window - not according to this - in fact it says a 21 window is lighter than a panel van - surely that can't be correct....\n<br> Your thoughts please\n<br> \n<br> Orb\n<br> \n<a href=\"http://www.ddk-online.com/phpBB2/viewtopic.php?t=19521\" class=\"postlink\">http://www.ddk-online.com/phpBB2/viewtopic.php?t=19521</a>",
+    "lastEdited" : "Mon Apr 14, 2008 11:33 am"
+  }, {
+    "postId" : "307116",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "307116",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4544",
+      "avatarPath" : null
+    },
+    "content" : "Cant see the images (due to firewall at work) but in general panel vans are lightest and ambulances are heaviest (with microbuses close behind).\n<br> The maximum vehicle weights are all pretty much the same apart from model year differences and special M codes for heavy duty axles (firetrucks etc)\n<br> \n<br> Here's an example\n<br> \n<img src=\"http://www.thesamba.com/vw/archives/manuals/60_64bus_replacement/page70.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Mon Apr 14, 2008 12:28 pm"
+  }, {
+    "postId" : "307125",
+    "author" : {
+      "username" : "orb",
+      "userId" : "307125",
+      "joined" : "Wed Jan 14, 2004 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kingston upon Thames",
+      "postCount" : "2475",
+      "avatarPath" : null
+    },
+    "content" : "Here is the other for comparison\n<br> \n<img src=\"http://img.photobucket.com/albums/v645/orb666/busdimensions.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Mon Apr 14, 2008 12:48 pm"
+  }, {
+    "postId" : "307133",
+    "author" : {
+      "username" : "orb",
+      "userId" : "307133",
+      "joined" : "Wed Jan 14, 2004 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kingston upon Thames",
+      "postCount" : "2475",
+      "avatarPath" : null
+    },
+    "content" : "So as you can see the one from the DDK site actually lists a deluxe bus as being lighter than a kombi - i always thought it was the other way round - maybe it's a mis-print\n<br> \n<br> Orb",
+    "lastEdited" : "Mon Apr 14, 2008 1:46 pm"
+  }, {
+    "postId" : "307137",
+    "author" : {
+      "username" : "Ollie",
+      "userId" : "307137",
+      "joined" : "Wed Oct 05, 2005 11:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "On the beach",
+      "postCount" : "961",
+      "avatarPath" : "./download/file.php%3Favatar=1749_1264418851.jpg"
+    },
+    "content" : "I don't think that can be right... as an example Dan Buzzo's (Akciddento) old samba weighed slightly more than my early bay dormobile which surprised us both! There's no way either can be lighter than a panel.\n<br> \n<br> Regards,\n<br> \n<br> Ollie",
+    "lastEdited" : "Mon Apr 14, 2008 1:51 pm"
+  } ]
+}

@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "115585",
+  "title" : "wiper spindles",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115585",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=7f49df35357c378328f8185dc04a98e8",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "871699",
+    "author" : {
+      "username" : "malum",
+      "userId" : "871699",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "558",
+      "avatarPath" : null
+    },
+    "content" : "How do they come off (and go back on)?\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14697&amp;sid=7f49df35357c378328f8185dc04a98e8&amp;mode=view\"><img src=\"./download/file.php?id=14697&amp;t=1&amp;sid=7f49df35357c378328f8185dc04a98e8\" class=\"postimage\" alt=\"2016-04-19 16.32.38.jpg\" title=\"2016-04-19 16.32.38.jpg (533.95 KiB) Viewed 506 times\"></a>\n  </dt> \n </dl> \n</div> It seems to be a Chinese puzzle which I can't work out!",
+    "lastEdited" : "Tue Apr 19, 2016 4:17 pm"
+  }, {
+    "postId" : "871822",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "871822",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "The brass bearing (to use VW's terminology) is held in place at the top of the shaft by a very small circlip that locates in a groove in the shaft, as per the pictures of an NOS pair I have available (shameless plug!):\n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1473403.jpg\" class=\"postimage\" alt=\"Image\">\n<br> The shaft/spindle itself can be carefully pried/pulled off the connecting lever.\n<br> Some diagrams of layout here:\n<br> \n<a href=\"http://www.thesamba.com/vw/forum/album_page.php?pic_id=1127962\" class=\"postlink\">http://www.thesamba.com/vw/forum/album_ ... id=1127962</a>\n<br> \n<a href=\"http://www.thesamba.com/vw/forum/album_page.php?pic_id=1091852\" class=\"postlink\">http://www.thesamba.com/vw/forum/album_ ... id=1091852</a>",
+    "lastEdited" : "Wed Apr 20, 2016 1:50 pm"
+  }, {
+    "postId" : "871826",
+    "author" : {
+      "username" : "malum",
+      "userId" : "871826",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "558",
+      "avatarPath" : null
+    },
+    "content" : "Thank you. Your shameless plug would be most welcome (as you can see the state of that spindle). If I didn't have a new set from C&amp;C sitting here.\n<br> I cannot for the life of me see the circlip on my old ones. I see it on the replacements. I shall look harder!",
+    "lastEdited" : "Wed Apr 20, 2016 2:31 pm"
+  }, {
+    "postId" : "871909",
+    "author" : {
+      "username" : "malum",
+      "userId" : "871909",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "558",
+      "avatarPath" : null
+    },
+    "content" : "Is that it marked in red?\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14741&amp;sid=7f49df35357c378328f8185dc04a98e8&amp;mode=view\"><img src=\"./download/file.php?id=14741&amp;t=1&amp;sid=7f49df35357c378328f8185dc04a98e8\" class=\"postimage\" alt=\"2016-04-21-08.30.14.jpg\" title=\"2016-04-21-08.30.14.jpg (681.41 KiB) Viewed 467 times\"></a>\n  </dt> \n </dl> \n</div> No wonder I couldn't see it!\n<br> \n<br> Thye replacment has a much larger C clip",
+    "lastEdited" : "Thu Apr 21, 2016 9:25 am"
+  }, {
+    "postId" : "871912",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "871912",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "Probably, or rather what is left of it!\n<br> Good luck!",
+    "lastEdited" : "Thu Apr 21, 2016 10:05 am"
+  }, {
+    "postId" : "871920",
+    "author" : {
+      "username" : "malum",
+      "userId" : "871920",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "558",
+      "avatarPath" : null
+    },
+    "content" : "I'll probably just cut the spinle off as it's trashed anyway",
+    "lastEdited" : "Thu Apr 21, 2016 10:49 am"
+  } ]
+}

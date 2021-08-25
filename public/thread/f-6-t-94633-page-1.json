@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "94633",
+  "title" : "Fitting a loom",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=94633",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "725404",
+    "author" : {
+      "username" : "robmccreedie",
+      "userId" : "725404",
+      "joined" : "Sun Jan 04, 2004 3:37 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Exeter, Devon",
+      "postCount" : "2377",
+      "avatarPath" : "http://www.mccreedie.co.uk/avslam.jpg"
+    },
+    "content" : "I've got a new loom to install from volksgoods and whilst the instructions are omprehensive i was wondering if there were any time saving hints and tips out there?\n<br>\n<br>All input appreciated, i mgh not respond thanking for input as im off to frane for a few days.\n<br>\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Tue May 28, 2013 7:51 pm"
+  }, {
+    "postId" : "725443",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "725443",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17997",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Do the install somewhere where there is good light and plenty of space to have the doors fully open.\n<br>\n<br>Take the dash out too if you can.",
+    "lastEdited" : "Tue May 28, 2013 9:25 pm"
+  }, {
+    "postId" : "725505",
+    "author" : {
+      "username" : "JacksHere",
+      "userId" : "725505",
+      "joined" : "Fri Apr 23, 2010 10:11 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "252",
+      "avatarPath" : null
+    },
+    "content" : "+1 on space, and jacking up your bus if its lowered.\n<br>\n<br>I laid the new loom out under the bus and attached the starter motor 1st, then fed/pulled the front forwards using the old loom and the rear backwards using the old loom.\n<br> \n<br>This worked really well \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Wed May 29, 2013 8:45 am"
+  }, {
+    "postId" : "725513",
+    "author" : {
+      "username" : "Jim the Van",
+      "userId" : "725513",
+      "joined" : "Sat Jan 05, 2008 5:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West London",
+      "postCount" : "2055",
+      "avatarPath" : "./download/file.php%3Favatar=14634_1242308132.jpg"
+    },
+    "content" : "I think I must of been really lucky as I had the bus up on a ramp and me and a mate both novices pulled it all through in 20mins. There really are only a few wires fuse board to the rear. Use a wire coat hanger or welding rod if you have one to tape the heads of the wires to ands then feed it through. Have some silicone spray to hand ( WD40 will do) in case it gets stuck and then one pull and one feed it in. I started in the engine bay and worked my way forward. Personally id feed a couple extra wires through for future use. If its a US bus a separate indicator light, possible a temp sender or rev counter. All this done now will make it so much easier in the future. I also ran the power for the radio and interior lights direct from the leisure battery so they will never drain my main battery.",
+    "lastEdited" : "Wed May 29, 2013 9:20 am"
+  }, {
+    "postId" : "725694",
+    "author" : {
+      "username" : "splitintwo",
+      "userId" : "725694",
+      "joined" : "Wed Jan 21, 2009 6:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "163",
+      "avatarPath" : "http://i248.photobucket.com/albums/gg194/splitintwo/P1100613-1.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>robmccreedie wrote:</cite>I've got a new loom to install from volksgoods and whilst the instructions are omprehensive i was wondering if there were any time saving hints and tips out there?\n  <br>\n  <br>All input appreciated, i mgh not respond thanking for input as im off to frane for a few days.\n  <br>\n  <br> \n  <img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">\n </div>\n</blockquote>\n<br>Hey Rob!! hows tricks?\n<br>Yes I do make sure that the loom is the right side of the steering box, as I found out \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" alt=\"8O\" title=\"eek\"> if it's not in the right place then the only way around this is to whip the steering box out or disconnect all the loom and re-feed back to fuse box. guess what I've done? just left it till the box comes out for a refurb. there are some tabs that bend over the loom. try and follow them.\n<br>Ben",
+    "lastEdited" : "Wed May 29, 2013 9:15 pm"
+  }, {
+    "postId" : "725771",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "725771",
+      "joined" : "Tue Apr 29, 2003 11:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leicester",
+      "postCount" : "1228",
+      "avatarPath" : "http://farm1.static.flickr.com/207/443424848_805aad5419_o.gif"
+    },
+    "content" : "<span style=\"font-weight: bold\">Make sure you don't feed the brake switch wires into the cab. </span>You'll never get them out again!\n<br>Don't ask me how I know this.",
+    "lastEdited" : "Thu May 30, 2013 10:34 am"
+  }, {
+    "postId" : "726753",
+    "author" : {
+      "username" : "robmccreedie",
+      "userId" : "726753",
+      "joined" : "Sun Jan 04, 2004 3:37 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Exeter, Devon",
+      "postCount" : "2377",
+      "avatarPath" : "http://www.mccreedie.co.uk/avslam.jpg"
+    },
+    "content" : "thanks for the tips guys.\n<br>\n<br>going to start on it this weekend \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" alt=\"8O\" title=\"eek\">",
+    "lastEdited" : "Tue Jun 04, 2013 2:44 pm"
+  } ]
+}

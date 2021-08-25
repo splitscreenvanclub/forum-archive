@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "117912",
+  "title" : "Automatic conversion",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=117912",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "887392",
+    "author" : {
+      "username" : "Dingbat",
+      "userId" : "887392",
+      "joined" : "Mon Mar 17, 2014 9:36 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "Hello all,, \n<br> I have a job in which is an early sixties Samba, the owner has wanted one for some time but has issues with a knee injury, who can guess what's coming next. he has asked about the possibility of a cinversion to automatic transmission, I am pretty familiar with Vw's but I am wondering about the specifics of a conversion. The obvious route would be a bay or maybe T25 gearbox but are they physically the same length as as the 1302 beetle box presently fitted, or close enough that I won't have to butcher too much to fit it. Also at the mo it has a poorly 1776 type one based engine , I'm guessing the obvious route would be a type four motor with a fan conversion etc. so I suppose I should be on the look out for a late bay autobox and gearbox as a basis to work from. Another issue is the ride height, when it turned up it was very low but so much so the from ball joints were locked out, it has a creative engineering weeded terms beam, and the rear torsion plates were resting on their stops meaning the ride was awful and the steering box has been knocked out and needstart rebuilding, hey ho, to get the rear wheels off I had to remove the rear hubs from the spring plates. as the wheels would not come down far enough, I raised the suspension back up so it would drive better but the pesky owner wants it low so for starters I am getting some lowered front stub axles and some adjustable spring plates so it can sit a bit lower but will ride better, I was wondering about air suspension as in theory it can run low on a good road and be raised to traverse campsites or to change a wheel, in real life is air suspension the answer ? These days it seems that air suspension is a relatively straightforward prospect but not a cheap one does anyone have any suggestions , many thanks Bill",
+    "lastEdited" : "Tue Nov 15, 2016 10:48 pm"
+  }, {
+    "postId" : "887417",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "887417",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Sorry Bill, I can't help you in any way with the above list, but if you go for the semi-automatic gearbox, I suggest you add 'electrics' to the significant aspects that need attention.\n<br> Peter Good",
+    "lastEdited" : "Wed Nov 16, 2016 4:29 pm"
+  }, {
+    "postId" : "887425",
+    "author" : {
+      "username" : "Thorbz",
+      "userId" : "887425",
+      "joined" : "Thu Jul 21, 2016 5:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "Try contacting these guy's. They are currently fitting a auto box into a splitty and may be able to offer some guidance. \n<a href=\"http://nustalgia.uk/\" class=\"postlink\">http://nustalgia.uk/</a>",
+    "lastEdited" : "Wed Nov 16, 2016 7:50 pm"
+  }, {
+    "postId" : "887458",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "887458",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1548",
+      "avatarPath" : null
+    },
+    "content" : "Pl sent",
+    "lastEdited" : "Thu Nov 17, 2016 11:09 am"
+  }, {
+    "postId" : "887459",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "887459",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1548",
+      "avatarPath" : null
+    },
+    "content" : "Or pm even!",
+    "lastEdited" : "Thu Nov 17, 2016 11:10 am"
+  }, {
+    "postId" : "887520",
+    "author" : {
+      "username" : "scottish splitty",
+      "userId" : "887520",
+      "joined" : "Sun Oct 08, 2006 4:39 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "stirling scotland",
+      "postCount" : "461",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> I've got an automatic type 3 gearbox in my splitty with a type1 engine,check out my posts for more info,or PM if you need any help,it's an easy conversion if you have IRS rear end.type 4 engine and auto gearbox will fit and is the preferred conversion if you can find/afford the parts\n<br> Good luck.",
+    "lastEdited" : "Fri Nov 18, 2016 12:44 pm"
+  }, {
+    "postId" : "887545",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "887545",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "Ollie from Beetle Magic in Dorset has done this conversion using a Type 3 box as I remember. He's a friendly helpful chap so might be worth calling him. 01305 852338",
+    "lastEdited" : "Sat Nov 19, 2016 12:09 pm"
+  } ]
+}

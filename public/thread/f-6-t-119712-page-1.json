@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "119712",
+  "title" : "Battery charging",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119712",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "900183",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "900183",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Hi\n<br> My bus had a new engine and electrics during its restoration. \n<br> It also had a alternator conversion\n<br> \n<br> It has been driven much over the last 2 years except to t2 detectives who did the engine and the painters \n<br> I had issues where the engine wouldn't turn over. You could hear the starter motor engage but not turn the motor. When I jumped started it it started fine\n<br> I replaced the battery and for the last 2 weeks no issues\n<br> \n<br> Now I have the same issue that the battery doesn't have the amps to start. \n<br> \n<br> When I start the bus the generator light is on but when I rev the engine it switches off which I believe is correct.\n<br> \n<br> I checked the wires from the alternator to the starter motor and back to the battery. The voltage reads about 12.17v\n<br> \n<br> When I start the engine I would expect to see it increase to 13-14v but it stays the same \n<br> \n<br> I'm not sure what the 2 other wires do. I guess one goes to the led in the speedo. Any idea where the blue and black wire go\n<br> \n<br> The voltage is about 6 v dc on these wires. When you rec the engine it goes up to about 10\n<br> \n<br> Any advice appreciate\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170714/bb690d7610e0d7a148cd730ab38a4bc3.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Fri Jul 14, 2017 6:57 pm"
+  }, {
+    "postId" : "900185",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "900185",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Forgot to say the voltage on the two wires is around 13-15v ac and increase with revs\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Fri Jul 14, 2017 6:59 pm"
+  }, {
+    "postId" : "900187",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "900187",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Please don't measure the voltage between the two cable connections; it is pretty irrelevant to the functioning of the alternator and you are at risk of doing damage. The voltage that matters is the one between the B+ stud connection and the alternator earth, and that should be as near as matters exactly the same as across the battery terminals. If the battery voltage stays at 12.2ish then the alternator is not charging. The black (or is it blue black?) cable possibly goes to a relay perhaps for a split charge relay? However, I suggest you remove just this cable until you have the alternator working. The likely reason for the alternator not working is the LED in the dash. They didn't exist when these alternators were designed, the only visual indicator was and is a filament bulb 12 volts and 2 watt, and that's what's needed instead of the LED in the speedo bulbholder. I can give the technical run-down if you so wish.\n<br> Peter Good",
+    "lastEdited" : "Fri Jul 14, 2017 7:44 pm"
+  }, {
+    "postId" : "900190",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "900190",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "I believe it is using the original bulb in the speedo and not a led\n<br> \n<br> \n<br> Sent from my iPad using Tapatalk",
+    "lastEdited" : "Fri Jul 14, 2017 7:52 pm"
+  }, {
+    "postId" : "900191",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "900191",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "I traced the black wire to a relay for the leisure battery. I disconnected it and left the blue one on the spade connector. Staring the engine again the voltage at the spade connector was around 1.5. The speedo bulb now shines a lot brighter and doesn't dim when the engine revs...\n<br> \n<br> Not sure if this is good. Anything I can test. The wife is giving me daggers if I Rev the engine after 9\n<br> \n<br> \n<br> Sent from my iPad using Tapatalk",
+    "lastEdited" : "Fri Jul 14, 2017 8:14 pm"
+  }, {
+    "postId" : "900208",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "900208",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "The reg' inside the alternator has failed by the sounds of it. Voltage should increase to 14.2-14.4v range",
+    "lastEdited" : "Sat Jul 15, 2017 7:19 am"
+  }, {
+    "postId" : "900209",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "900209",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Looks like a new alternator then ?\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sat Jul 15, 2017 7:23 am"
+  }, {
+    "postId" : "900211",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "900211",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Looking at the top of the alternator I believe it is the open top design. Hopefully I can get a new regulator\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170715/3f408057150d7d533062d24c278c46ec.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sat Jul 15, 2017 8:25 am"
+  }, {
+    "postId" : "900226",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "900226",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "It is indeed an 'open top' alternator and the regulators are obtainable. However, before you splash the cash, can I suggest you do one further check. With the key switch on the 'ignition' only (engine not running) pull the blue cable connector off the alternator D+ terminal (not touching anything) and with the help of your long suffering wife, check the generator light is fully off, then with the connector touching a good earth point the gen light should be fully on. Anything different then there is a wiring / connection fault. If all is well, then the alternator is probably faulty; however it could be the regulator, the rectifier or the rotor. A new regulator is the easiest to replace but has only a 40% probability of fixing the alternator.\n<br> Peter Good",
+    "lastEdited" : "Sat Jul 15, 2017 4:07 pm"
+  }, {
+    "postId" : "900257",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "900257",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Thanks Peter. the gen light tested ok. I removed the regulator and there was nothing obvious wrong with it,\n<br> ill take the cheaper option first I think and order a replacement REGULATOR from VWHeritage\n<br> thanks",
+    "lastEdited" : "Sun Jul 16, 2017 11:37 am"
+  }, {
+    "postId" : "900626",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "900626",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Ordered new regulator from VW Heritage. Fitted and started. No generator warning light. Measured battery voltage . Initially was same as before. After 5 minutes battery was measuring 13.6V\n<br> All sorted....\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Tue Jul 25, 2017 7:38 pm"
+  } ]
+}

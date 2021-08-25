@@ -1,0 +1,27 @@
+{
+  "forumId" : "5",
+  "threadId" : "124726",
+  "title" : "Banded wheels",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124726",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=7b5148465f77853d4b867b4297dbd816",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929935",
+    "author" : {
+      "username" : "Iroc-2",
+      "userId" : "929935",
+      "joined" : "Tue Dec 18, 2012 10:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "314",
+      "avatarPath" : null
+    },
+    "content" : "Hi all, looking for a change with my wheels. I have a few questions:My van is lowered so will banded wheels make any difference when I turn the wheel, will they foul on the arches\n<br> If not is there anything I should look out for. Cheers",
+    "lastEdited" : "Mon May 18, 2020 9:01 am"
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "101332",
+  "title" : "late bay hub to wide 5 adapter plates",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=101332",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "774190",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "774190",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Hi, I'm refurbing a set of late bay hubs and callipers and want to use my wide 5 wheels with a red 9 front setup. Can anyone tell me what sort of adapters I need to get?\n<br> \n<br> I'm sure I've read about this topic on here and problems with callipers rubbing on insides of wheels etc etc.\n<br> \n<br> Any help appreciated..\n<br> \n<br> Thanks\n<br> Steve",
+    "lastEdited" : "Sat Mar 08, 2014 5:39 pm"
+  }, {
+    "postId" : "774737",
+    "author" : {
+      "username" : "B1GVW",
+      "userId" : "774737",
+      "joined" : "Thu Apr 04, 2013 11:52 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "62",
+      "avatarPath" : null
+    },
+    "content" : "I've got a set of 5/112 to 5/205 adapters forsale if needed £100 inc post\n<br> Cheers John",
+    "lastEdited" : "Tue Mar 11, 2014 9:28 pm"
+  }, {
+    "postId" : "774761",
+    "author" : {
+      "username" : "yakboy",
+      "userId" : "774761",
+      "joined" : "Wed Apr 07, 2004 6:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "Malton, North Yorkshire",
+      "postCount" : "1048",
+      "avatarPath" : null
+    },
+    "content" : "I run a red 9 set up and am changing to 130 pcd so will have the 112 to 205 adaptors which came with my set up available soon. I run late bay callipers and there has never been an issue with rubbing. Give me a shout if you want them and I will work out a fair price.",
+    "lastEdited" : "Tue Mar 11, 2014 10:20 pm"
+  } ]
+}

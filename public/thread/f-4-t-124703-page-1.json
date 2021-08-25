@@ -1,0 +1,66 @@
+{
+  "forumId" : "4",
+  "threadId" : "124703",
+  "title" : "MPH Speedometer",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124703",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=b26cbd88631fc619a4eb444e45a78f7c",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929729",
+    "author" : {
+      "username" : "Rich Oakley",
+      "userId" : "929729",
+      "joined" : "Sun Jan 04, 2004 4:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "South East",
+      "postCount" : "998",
+      "avatarPath" : null
+    },
+    "content" : "Very nice 80MPH speedometer for 1961-66 Bus in fantastic condition. Stripped, cleaned, greased and new colour gels fitted. £180. Email: \n<a href=\"mailto:richoakley75@gmail.com\">richoakley75@gmail.com</a>",
+    "lastEdited" : "Mon May 11, 2020 3:39 pm"
+  }, {
+    "postId" : "929731",
+    "author" : {
+      "username" : "rhd15window",
+      "userId" : "929731",
+      "joined" : "Fri Mar 19, 2010 12:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "17",
+      "avatarPath" : null
+    },
+    "content" : "Interested in this will send you email. Thanks Dan",
+    "lastEdited" : "Mon May 11, 2020 7:29 pm"
+  }, {
+    "postId" : "929738",
+    "author" : {
+      "username" : "Rich Oakley",
+      "userId" : "929738",
+      "joined" : "Sun Jan 04, 2004 4:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "South East",
+      "postCount" : "998",
+      "avatarPath" : null
+    },
+    "content" : "SOLD",
+    "lastEdited" : "Tue May 12, 2020 7:46 am"
+  }, {
+    "postId" : "929739",
+    "author" : {
+      "username" : "Rich Oakley",
+      "userId" : "929739",
+      "joined" : "Sun Jan 04, 2004 4:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "South East",
+      "postCount" : "998",
+      "avatarPath" : null
+    },
+    "content" : "NOW SOLD",
+    "lastEdited" : "Tue May 12, 2020 7:47 am"
+  } ]
+}

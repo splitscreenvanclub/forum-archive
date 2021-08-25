@@ -1,0 +1,79 @@
+{
+  "forumId" : "4",
+  "threadId" : "123258",
+  "title" : "Pair of original wing mirror clamps",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123258",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=a2445a0df66b1b9d637263d95aa77542",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "921388",
+    "author" : {
+      "username" : "Arthur",
+      "userId" : "921388",
+      "joined" : "Fri Apr 25, 2003 7:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "400",
+      "avatarPath" : "./download/file.php%3Favatar=136_1418414059.jpg"
+    },
+    "content" : "Pair of original side mirror clamps\n<br> \n<br> £10 plus £2 postage",
+    "lastEdited" : "Sun Apr 14, 2019 12:40 pm"
+  }, {
+    "postId" : "921445",
+    "author" : {
+      "username" : "sistri",
+      "userId" : "921445",
+      "joined" : "Thu Sep 12, 2013 4:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "Will you take £10.00 posted for these?\n<br> \n<br> Sean.",
+    "lastEdited" : "Mon Apr 15, 2019 7:31 pm"
+  }, {
+    "postId" : "921449",
+    "author" : {
+      "username" : "Arthur",
+      "userId" : "921449",
+      "joined" : "Fri Apr 25, 2003 7:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "400",
+      "avatarPath" : "./download/file.php%3Favatar=136_1418414059.jpg"
+    },
+    "content" : "No.",
+    "lastEdited" : "Mon Apr 15, 2019 9:21 pm"
+  }, {
+    "postId" : "921474",
+    "author" : {
+      "username" : "sistri",
+      "userId" : "921474",
+      "joined" : "Thu Sep 12, 2013 4:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "Ok happy to pay the £12, please pm me your paypal address.\n<br> \n<br> Thanks,\n<br> \n<br> Sean.",
+    "lastEdited" : "Tue Apr 16, 2019 3:59 pm"
+  }, {
+    "postId" : "921480",
+    "author" : {
+      "username" : "Arthur",
+      "userId" : "921480",
+      "joined" : "Fri Apr 25, 2003 7:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "400",
+      "avatarPath" : "./download/file.php%3Favatar=136_1418414059.jpg"
+    },
+    "content" : "Ok Sean. Thanks",
+    "lastEdited" : "Tue Apr 16, 2019 6:15 pm"
+  } ]
+}

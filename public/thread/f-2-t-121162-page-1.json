@@ -1,0 +1,53 @@
+{
+  "forumId" : "2",
+  "threadId" : "121162",
+  "title" : "Are 6v jump starters available?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=121162",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2570c6f05dc303838785d10078000a11",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "909153",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "909153",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Exactly what it says really. I’ve been looking at some beetles which are 6v and I was wondering if you can get a jump starter to use in a 6v system. A quick google hasn’t yielded any results but I’m sure there must be some suppliers that cater for this market aren’t there?\n<br> \n<br> Cheers\n<br> \n<br> Steve",
+    "lastEdited" : "Sun Feb 11, 2018 8:07 am"
+  }, {
+    "postId" : "909157",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "909157",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Think I may have answered my own question as I’ve found this which implies there are two 5v output settings and one 12v. I hope I’m reading that correctly but I’ll drop them a note to ask. I have a feeling the 5v will be a usb charger however so any info still welcome.\n<br> \n<br> \n<a href=\"https://www.ebay.co.uk/itm/Lifeline-Ampstore-Classic-Car-Jump-Starter-and-Emergency-Power-Pack-/132232162989\" class=\"postlink\">https://www.ebay.co.uk/itm/Lifeline-Amp ... 2232162989</a>",
+    "lastEdited" : "Sun Feb 11, 2018 9:08 am"
+  }, {
+    "postId" : "909217",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "909217",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "^^^^ The 5v outputs on this unit above are for charging your phones/tablets ect - standard USB is 5v 1A or 2A (iPad charge etc) which is what they state on their ad....\n<br> \n<br> The 12V output is 10A - this is the starting circuit\n<br> \n<br> Its a good question though - I've never seen a 6V starter pack!",
+    "lastEdited" : "Tue Feb 13, 2018 11:40 am"
+  } ]
+}

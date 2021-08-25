@@ -1,0 +1,79 @@
+{
+  "forumId" : "2",
+  "threadId" : "122522",
+  "title" : "January magazine- maintenance table",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=122522",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=27fe092b346a84443c983942ecdcc6b2",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "915947",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "915947",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "922",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Repeating this here as I think it will be seen more...\n<br> \n<br> For those of you who need a copy of Jim's excellent maintenance table, I have the surplus magazines and I will be taking them to Busfest. Eddy has insisted these will be free to a good home. There will be a supply on the SSVC stand, but once they are gone, they're gone...\n<br> If you need me to keep you a copy then please put your name down on here or pm me.\n<br> \n<br> For those of you not going to Busfest but still want a copy, the magazine would be free but I would have to ask for p+p which would be £1.70. (only because it's club funds..)",
+    "lastEdited" : "Tue Sep 04, 2018 4:27 am"
+  }, {
+    "postId" : "915959",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "915959",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "I'll take one Dougie!\n<br> See you Friday,\n<br> DD",
+    "lastEdited" : "Tue Sep 04, 2018 10:33 am"
+  }, {
+    "postId" : "916011",
+    "author" : {
+      "username" : "supersvws",
+      "userId" : "916011",
+      "joined" : "Wed May 19, 2010 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "hi i will take one please can i get it of eddie on the gate when i turn up friday afternoon cheers :",
+    "lastEdited" : "Wed Sep 05, 2018 7:41 pm"
+  }, {
+    "postId" : "916018",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "916018",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "922",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=916011&amp;sid=27fe092b346a84443c983942ecdcc6b2#p916011\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=34258&amp;sid=27fe092b346a84443c983942ecdcc6b2\">supersvws</a> wrote: <a href=\"./viewtopic.php?p=916011&amp;sid=27fe092b346a84443c983942ecdcc6b2#p916011\" data-post-id=\"916011\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Wed Sep 05, 2018 7:41 pm</span></cite> hi i will take one please can i get it of eddie on the gate when i turn up friday afternoon cheers : \n </div>\n</blockquote> I'm sure we can arrange that...",
+    "lastEdited" : "Thu Sep 06, 2018 6:49 am"
+  }, {
+    "postId" : "916030",
+    "author" : {
+      "username" : "supersvws",
+      "userId" : "916030",
+      "joined" : "Wed May 19, 2010 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "cheers for that lets have a good weekend and the sun shines",
+    "lastEdited" : "Thu Sep 06, 2018 8:10 pm"
+  } ]
+}

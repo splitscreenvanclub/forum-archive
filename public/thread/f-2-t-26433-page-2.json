@@ -1,0 +1,206 @@
+{
+  "forumId" : "2",
+  "threadId" : "26433",
+  "title" : "TomTom POI for bus repairers",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=26433&start=15",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 44,
+  "pageNumber" : 2,
+  "totalPages" : 3,
+  "posts" : [ {
+    "postId" : "216652",
+    "author" : {
+      "username" : "Easty",
+      "userId" : "216652",
+      "joined" : "Sun May 04, 2003 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bagshot, Surrey",
+      "postCount" : "638",
+      "avatarPath" : "./download/file.php%3Favatar=201_1297718289.gif"
+    },
+    "content" : "Excellent! What a great idea. \n<br> \n<br>Unfortunately my machine isn't letting me open the files in the zip file (not even the bmp is opening in Paint and I can't copy files out of the zip) I have checked and my machine is opening other zips OK. \n<br> \n<br>Is anyone else having problems? Is the zip file corrupt?",
+    "lastEdited" : "Mon Apr 23, 2007 9:59 pm"
+  }, {
+    "postId" : "216680",
+    "author" : {
+      "username" : "mushroom",
+      "userId" : "216680",
+      "joined" : "Mon Oct 18, 2004 7:14 am",
+      "profileRank" : "Registered user",
+      "location" : "brighton",
+      "postCount" : "133",
+      "avatarPath" : "http://i1258.photobucket.com/albums/ii525/TheOneMushroom/sausagespeed_zpsqcdbc4gv.jpg"
+    },
+    "content" : "I used winrar and it worked for me",
+    "lastEdited" : "Tue Apr 24, 2007 2:43 am"
+  }, {
+    "postId" : "216700",
+    "author" : {
+      "username" : "DubDays",
+      "userId" : "216700",
+      "joined" : "Sat Jun 24, 2006 3:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "Whiteley, Nr Southampton",
+      "postCount" : "408",
+      "avatarPath" : "http://www.dubdays.co.uk/newav.jpg"
+    },
+    "content" : "you've probably got an older version of winzip. Try downloading a newer version, the trial one seems to be nonexpiring...",
+    "lastEdited" : "Tue Apr 24, 2007 7:46 am"
+  }, {
+    "postId" : "216764",
+    "author" : {
+      "username" : "Easty",
+      "userId" : "216764",
+      "joined" : "Sun May 04, 2003 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bagshot, Surrey",
+      "postCount" : "638",
+      "avatarPath" : "./download/file.php%3Favatar=201_1297718289.gif"
+    },
+    "content" : "Thanks guys, I was using XP's built in support for zips. \n<br> \n<br>I'll try the trial. \n<br> \n<br>Easty.",
+    "lastEdited" : "Tue Apr 24, 2007 11:02 am"
+  }, {
+    "postId" : "289682",
+    "author" : {
+      "username" : "bob65",
+      "userId" : "289682",
+      "joined" : "Mon Jan 29, 2007 12:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Here",
+      "postCount" : "984",
+      "avatarPath" : null
+    },
+    "content" : "Is this only open to SSVC members only.",
+    "lastEdited" : "Thu Feb 14, 2008 6:43 pm"
+  }, {
+    "postId" : "289798",
+    "author" : {
+      "username" : "DubDays",
+      "userId" : "289798",
+      "joined" : "Sat Jun 24, 2006 3:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "Whiteley, Nr Southampton",
+      "postCount" : "408",
+      "avatarPath" : "http://www.dubdays.co.uk/newav.jpg"
+    },
+    "content" : "nope. Free to all. \n<br> \n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.dubdays.co.uk/SSVC_traders.zip\">http://www.dubdays.co.uk/SSVC_traders.zip</a>\n<!-- m -->",
+    "lastEdited" : "Fri Feb 15, 2008 8:45 am"
+  }, {
+    "postId" : "300888",
+    "author" : {
+      "username" : "SAMBA VAN MAN",
+      "userId" : "300888",
+      "joined" : "Wed May 04, 2005 9:36 am",
+      "profileRank" : "SSVC Member",
+      "location" : "THE WESTSIDE",
+      "postCount" : "2819",
+      "avatarPath" : "./download/file.php%3Favatar=1370_1312644292.jpg"
+    },
+    "content" : "I cant open the file either \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> I have tried winzip evaluation and cant display.",
+    "lastEdited" : "Mon Mar 24, 2008 12:03 pm"
+  }, {
+    "postId" : "301032",
+    "author" : {
+      "username" : "DubDays",
+      "userId" : "301032",
+      "joined" : "Sat Jun 24, 2006 3:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "Whiteley, Nr Southampton",
+      "postCount" : "408",
+      "avatarPath" : "http://www.dubdays.co.uk/newav.jpg"
+    },
+    "content" : "Still works for me, even using the windows native 'compressed file' thing. Have you got the latest version of winzip?",
+    "lastEdited" : "Mon Mar 24, 2008 8:45 pm"
+  }, {
+    "postId" : "301245",
+    "author" : {
+      "username" : "SAMBA VAN MAN",
+      "userId" : "301245",
+      "joined" : "Wed May 04, 2005 9:36 am",
+      "profileRank" : "SSVC Member",
+      "location" : "THE WESTSIDE",
+      "postCount" : "2819",
+      "avatarPath" : "./download/file.php%3Favatar=1370_1312644292.jpg"
+    },
+    "content" : "Yeah i down loaded it from winzip unless im doing something wrong? \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Tue Mar 25, 2008 4:13 pm"
+  }, {
+    "postId" : "339951",
+    "author" : {
+      "username" : "eastwood",
+      "userId" : "339951",
+      "joined" : "Sat May 15, 2004 9:11 pm",
+      "profileRank" : "Registered user",
+      "location" : "Swindon",
+      "postCount" : "430",
+      "avatarPath" : "http://ebay.spiralsites.com/avatar.jpg"
+    },
+    "content" : "how up to date is this \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<br> \n<br>off to Devon for a week in the bus",
+    "lastEdited" : "Wed Aug 06, 2008 8:00 am"
+  }, {
+    "postId" : "339954",
+    "author" : {
+      "username" : "eastwood",
+      "userId" : "339954",
+      "joined" : "Sat May 15, 2004 9:11 pm",
+      "profileRank" : "Registered user",
+      "location" : "Swindon",
+      "postCount" : "430",
+      "avatarPath" : "http://ebay.spiralsites.com/avatar.jpg"
+    },
+    "content" : "downloaded it and it says its an .ov2 file but on my tom tom in the poi folder files are .tlv \n<br> \n<br>how do I get it on my tom tom one 3rd generation \n<br> \n<br>I dont want to mess the tom tom up",
+    "lastEdited" : "Wed Aug 06, 2008 8:07 am"
+  }, {
+    "postId" : "339977",
+    "author" : {
+      "username" : "Terry",
+      "userId" : "339977",
+      "joined" : "Sun Apr 27, 2003 2:47 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Silver End, Essex",
+      "postCount" : "1772",
+      "avatarPath" : "./download/file.php%3Favatar=148_1464560012.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>katastrophenschutzwagen wrote:</cite>isn't all this info in the club organiser?? \n  <img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">\n </div>\n</blockquote> \n<br> \n<br>I do not use sat nav so I have always relied on the SSVC Organiser/Handbook and used it in conjuction with the Membership list (we used to produce! for members) if I had a breakdown or needed assistance. \n<br>The club tried a seperate 'Assistace list' which was a list of members willing to assist (even if it was just by providing a cup of tea and a friendly face) but with internet access this died a death long ago. \n<br> \n<br>Maintaining such a list as the one in the current 'new' Handbook is very time taking and maybe this thread will generate feedback to the committee so that info gathered can also be available in print for members without sat nav or access to the internet when they are on the road. \n<br> \n<br>Just my thoughts \n<br>Terry",
+    "lastEdited" : "Wed Aug 06, 2008 9:32 am"
+  }, {
+    "postId" : "369385",
+    "author" : {
+      "username" : "woolie",
+      "userId" : "369385",
+      "joined" : "Tue Dec 09, 2003 10:21 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kenilworth",
+      "postCount" : "71",
+      "avatarPath" : null
+    },
+    "content" : "how do you get listed?",
+    "lastEdited" : "Wed Nov 19, 2008 3:05 pm"
+  }, {
+    "postId" : "370497",
+    "author" : {
+      "username" : "DubDays",
+      "userId" : "370497",
+      "joined" : "Sat Jun 24, 2006 3:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "Whiteley, Nr Southampton",
+      "postCount" : "408",
+      "avatarPath" : "http://www.dubdays.co.uk/newav.jpg"
+    },
+    "content" : "PM me your details and i'll update it when i get chance",
+    "lastEdited" : "Sun Nov 23, 2008 8:12 pm"
+  }, {
+    "postId" : "402367",
+    "author" : {
+      "username" : "siestacampers",
+      "userId" : "402367",
+      "joined" : "Wed Apr 02, 2008 10:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : "./download/file.php%3Favatar=19192_1237718100.jpg"
+    },
+    "content" : "let us know when your doing the Europe one. I can provide some good contacts for this end of Europe (Portugal) and some for Andalucia.",
+    "lastEdited" : "Sun Mar 22, 2009 10:26 am"
+  } ]
+}

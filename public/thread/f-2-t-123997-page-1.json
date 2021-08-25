@@ -1,0 +1,79 @@
+{
+  "forumId" : "2",
+  "threadId" : "123997",
+  "title" : "Bank transfers fir buses",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123997",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=572b170695a79a3e5a48bd1d5afb8e8a",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "926072",
+    "author" : {
+      "username" : "Robbievanguy",
+      "userId" : "926072",
+      "joined" : "Sun Feb 08, 2015 8:05 am",
+      "profileRank" : "Registered user",
+      "location" : "Middleofnowhere",
+      "postCount" : "233",
+      "avatarPath" : null
+    },
+    "content" : "Hi need some advice I've got a guy interested in buying my bus he is from the netherland and I'm in UK he wants to pay a deposit into my account t by bank transfer then the rest when he picks it up ? Is how safe is this method obviously he will need my a c no and sort code ,any advice",
+    "lastEdited" : "Sat Oct 19, 2019 7:35 pm"
+  }, {
+    "postId" : "926074",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "926074",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "391",
+      "avatarPath" : null
+    },
+    "content" : "I’ve both been paid and paid for a bus using a bank transfer. The BACS method cost about £20 but gave peace of mind for both sides. Money was in almost instantaneously. I’d have no problem doing it again.",
+    "lastEdited" : "Sat Oct 19, 2019 8:23 pm"
+  }, {
+    "postId" : "926079",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "926079",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20128",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I paid for mine via BAC's in two hits.",
+    "lastEdited" : "Sat Oct 19, 2019 10:10 pm"
+  }, {
+    "postId" : "926080",
+    "author" : {
+      "username" : "james309",
+      "userId" : "926080",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "607",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "No problem, safest &amp; quickest way. If transferring from a european account wont be instantaneous as if uk to uk bank. \n<br> Dont release until funds are clear in your account. \n<br> \n<br> James \n<br> \n<br> Sent from my SM-G960F using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Sat Oct 19, 2019 10:13 pm"
+  }, {
+    "postId" : "926081",
+    "author" : {
+      "username" : "Robbievanguy",
+      "userId" : "926081",
+      "joined" : "Sun Feb 08, 2015 8:05 am",
+      "profileRank" : "Registered user",
+      "location" : "Middleofnowhere",
+      "postCount" : "233",
+      "avatarPath" : null
+    },
+    "content" : "Ok guys thanks for that theres always an element of fear ,I suppose both sides need to show some trust.",
+    "lastEdited" : "Sun Oct 20, 2019 3:05 am"
+  } ]
+}

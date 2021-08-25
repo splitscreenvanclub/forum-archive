@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "123923",
+  "title" : "Safari catch rubber gasket thingy",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123923",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=86d1a93978c4abe8dde99ada0c2dc067",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925581",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "925581",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1483",
+      "avatarPath" : null
+    },
+    "content" : "Who sells the rubber under the safari catches, between frame and catch?\n<br> \n<br> I see them on diagrams but cannot find them for sale C&amp;C, AHSchofield etc...or do I make some out of thin rubber sheet?\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Sep 25, 2019 2:13 pm"
+  }, {
+    "postId" : "925617",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925617",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "No where seems to sell them, just make some, should be easy!",
+    "lastEdited" : "Thu Sep 26, 2019 8:13 am"
+  }, {
+    "postId" : "925618",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925618",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15521",
+      "avatarPath" : null
+    },
+    "content" : "Can buy sheet rubber on line..oooeeeer",
+    "lastEdited" : "Thu Sep 26, 2019 8:25 am"
+  }, {
+    "postId" : "925662",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "925662",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1449",
+      "avatarPath" : null
+    },
+    "content" : "old car tyre innertube? I literally pick these up off floor at our local tyre depot...",
+    "lastEdited" : "Fri Sep 27, 2019 1:46 pm"
+  }, {
+    "postId" : "925664",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925664",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15521",
+      "avatarPath" : null
+    },
+    "content" : "Yes, good suggestion!.. I am not into rubber like Ted",
+    "lastEdited" : "Fri Sep 27, 2019 1:48 pm"
+  }, {
+    "postId" : "925686",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "925686",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1483",
+      "avatarPath" : null
+    },
+    "content" : "Yep a sheet of rubber it is then.....cheers",
+    "lastEdited" : "Sat Sep 28, 2019 1:43 pm"
+  }, {
+    "postId" : "925688",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925688",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15521",
+      "avatarPath" : null
+    },
+    "content" : "As ted said ask at a commercial tyre fitters..\n<br> I used exactly this under the feet of my roof rack!",
+    "lastEdited" : "Sat Sep 28, 2019 3:32 pm"
+  } ]
+}

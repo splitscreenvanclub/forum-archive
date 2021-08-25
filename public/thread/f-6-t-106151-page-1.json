@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "106151",
+  "title" : "Changing gearbox mounts front & back",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=106151",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "805671",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "805671",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2674",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "While I have my engine out (again) I am going to change the 3 gearbox mounts, any tips before I get stuck in?\n<br> \n<br> Is it simply undo the bolts from the mounts, undo the clutch cable, undo the gear linkage and pull the gearbox out of the way? Or do I need to remove spring plates etc?\n<br> \n<br> Thanks in advance.",
+    "lastEdited" : "Mon Oct 06, 2014 4:29 pm"
+  }, {
+    "postId" : "805686",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "805686",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "473",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "hi, Richard, feel sure you don't need to undo spring plates. just gear rod joint and clutch cable. have heard that it is not advisable to fit the eurethane mountings as they are to stiff, or was that for spring plate mounts. not sure of that now, someone will put me right on this. on reassembly you have to fix front rubber first then the two rear mounts. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Mon Oct 06, 2014 5:44 pm"
+  }, {
+    "postId" : "805710",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "805710",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yes, use stock rubber mounts &amp; make sure the studs don't protrude any further into the bell-housing than the existing mounts.",
+    "lastEdited" : "Mon Oct 06, 2014 7:31 pm"
+  }, {
+    "postId" : "805725",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "805725",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2674",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Thanks, have bought stock mounts from the very helpful Nige at SSVC spares.\n<br> \n<br> Any tricks to moving the gearbox out or do I just jack it up a little and pull?",
+    "lastEdited" : "Mon Oct 06, 2014 7:58 pm"
+  }, {
+    "postId" : "805747",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "805747",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yep, remove things like clutch cable / gear coupling / handbrake cables / brake pipe mounts, then take the weight on a trolley jack, remove spring plate bolts after marking the \"before\" position, remove rear mounts, unbolt front bolt and ease rearwards.\n<br> \n<br> When you fit the new front mount make sure it's the correct way up. Seen lots recently upside down for some reason...\n<br> \n<br> If yours hasn't got the 15mm nut on upper nose cone stud, then getting a 17mm spanner in there is tricky.",
+    "lastEdited" : "Mon Oct 06, 2014 8:48 pm"
+  }, {
+    "postId" : "842536",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "842536",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3074",
+      "avatarPath" : null
+    },
+    "content" : "Hi Jim - just coming back to this, without lining up and semi installing the gearbox, what's the easiest way to tell which way up the mount should go ? Thin edge up or thick edge up ? Not sure it's obvious with the box out of the bus.\n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Sat Jul 18, 2015 8:04 pm"
+  }, {
+    "postId" : "842550",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "842550",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "If you fit it to the nose cone first, then you can't get it wrong.",
+    "lastEdited" : "Sat Jul 18, 2015 9:28 pm"
+  }, {
+    "postId" : "842680",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "842680",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3074",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>If you fit it to the nose cone first, then you can't get it wrong.\n </div>\n</blockquote> Which is quite correct - the mount has a very thin lip on three sides and the nosecone fits snugly into the lip. It's very easy to see when the box is out and the mount is in your hand. The way to check if your mount is already bolted to the chassis is to feel the face of the mount as it points at the back of the bus and you should have the lip at the bottom.",
+    "lastEdited" : "Mon Jul 20, 2015 11:41 am"
+  } ]
+}

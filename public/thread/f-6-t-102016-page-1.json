@@ -1,0 +1,37 @@
+{
+  "forumId" : "6",
+  "threadId" : "102016",
+  "title" : "fuel guage",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=102016",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "778458",
+    "author" : {
+      "username" : "jerry h",
+      "userId" : "778458",
+      "joined" : "Thu Mar 14, 2013 4:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "hampshire",
+      "postCount" : "156",
+      "avatarPath" : null
+    },
+    "content" : "hi is there a known place or person for fuel guage repairs ?\n<br>mine is not working \n<img class=\"smilies\" src=\"./images/smilies/icon_cry.gif\" alt=\":cry:\" title=\"Cry\">",
+    "lastEdited" : "Fri Apr 04, 2014 3:34 pm"
+  }, {
+    "postId" : "778691",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "778691",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "471",
+      "avatarPath" : null
+    },
+    "content" : "Used ones in working condition can be found for circa £40 upwards depending on the condition of the chrome ring. This I imagine would be cheaper than any professional repair, especially once you've factored in the postage costs in \n<span style=\"text-decoration: underline\">both</span> directions for it.\n<br>Beware anyone selling one where they don't state whether it works or not - it is after all only a 2 minute job to test one with two wires and a 6 volt power source.",
+    "lastEdited" : "Sun Apr 06, 2014 11:40 am"
+  } ]
+}

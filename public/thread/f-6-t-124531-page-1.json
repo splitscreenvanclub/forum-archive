@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "124531",
+  "title" : "So42 rear bed cushion",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124531",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=8112c43d2fbbd9617b80c10203453c5b",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928974",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "928974",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "479",
+      "avatarPath" : null
+    },
+    "content" : "Hi all , can anyone tell me the thickness of the rear bed foam over the engine bay please . Kind regards neil",
+    "lastEdited" : "Thu Apr 16, 2020 4:21 pm"
+  }, {
+    "postId" : "928989",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "928989",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3544",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "My original cushion is made of 4\" (100mm) foam Neil.",
+    "lastEdited" : "Fri Apr 17, 2020 10:01 am"
+  } ]
+}

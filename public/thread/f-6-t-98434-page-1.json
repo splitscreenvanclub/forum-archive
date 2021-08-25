@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "98434",
+  "title" : "Heater control redesign?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=98434",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "752852",
+    "author" : {
+      "username" : "Solan",
+      "userId" : "752852",
+      "joined" : "Mon Nov 16, 2009 10:02 am",
+      "profileRank" : "Registered user",
+      "location" : "Bergen, Norway",
+      "postCount" : "50",
+      "avatarPath" : "./download/file.php%3Favatar=33737_1286289027.png"
+    },
+    "content" : "I'm sorry if this has been discussed earlier, but I couldn't find it when searching.\n<br> \n<br> In my 1965 Microbus I've twisted two heater cables already, and the heater regulation stopped working each time. \n<br> \n<br> Now I'm curious if anyone has made changes to this system to make it work better. In a bay window bus (on the dashboard) there is a similar system to that of the Beetle, just levers, and not a knob to be turned. I would imagine this would be a better system, and prevent the heater wire from being twisted. \n<br> \n<br> So: Has anyone here done, or seen, a redesign of the heating adjustment? A link or a description would be really appreciated.\n<br> \n<br> Cheers from Norway\n<br> Svein",
+    "lastEdited" : "Fri Oct 18, 2013 2:05 pm"
+  }, {
+    "postId" : "752947",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "752947",
+      "joined" : "Tue Apr 29, 2003 11:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leicester",
+      "postCount" : "1280",
+      "avatarPath" : null
+    },
+    "content" : "Hi Svein,\n<br> Have you read the workshop manual on installing the heater cables? I recall there is a small detail in the fitting procedure that is easily overlooked. Pretty sure the cables shouldn't be twisting. I don't have my manual to hand to check though.",
+    "lastEdited" : "Fri Oct 18, 2013 11:54 pm"
+  }, {
+    "postId" : "760905",
+    "author" : {
+      "username" : "Solan",
+      "userId" : "760905",
+      "joined" : "Mon Nov 16, 2009 10:02 am",
+      "profileRank" : "Registered user",
+      "location" : "Bergen, Norway",
+      "postCount" : "50",
+      "avatarPath" : "./download/file.php%3Favatar=33737_1286289027.png"
+    },
+    "content" : "Hi, and thanks for the answer,\n<br> I have the Bentley manual for 1964-67 type 2, and I'll look it up \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\"> \n<br> Cheers!",
+    "lastEdited" : "Thu Dec 12, 2013 12:59 am"
+  }, {
+    "postId" : "760954",
+    "author" : {
+      "username" : "hopper van",
+      "userId" : "760954",
+      "joined" : "Tue Oct 29, 2013 8:25 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "241",
+      "avatarPath" : "./download/file.php%3Favatar=38646_1404902432.jpg"
+    },
+    "content" : "Well, I'm hoping it won't be too difficult, as I'll be fitting cables to my walkthrough soon and don't have manulas... \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\">",
+    "lastEdited" : "Thu Dec 12, 2013 10:50 am"
+  }, {
+    "postId" : "760971",
+    "author" : {
+      "username" : "Bren Ralls",
+      "userId" : "760971",
+      "joined" : "Mon Sep 12, 2011 6:16 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Deal, Kent.",
+      "postCount" : "1231",
+      "avatarPath" : null
+    },
+    "content" : "when you assemble just make sure the small dowel in the bottom part of tube attached to the chassis alligns with the slot in the heater knob turn screw mechanism. i had a similar issue as if not located it will twist the heater wires knotting them all up.",
+    "lastEdited" : "Thu Dec 12, 2013 1:23 pm"
+  }, {
+    "postId" : "761004",
+    "author" : {
+      "username" : "The Fordhams",
+      "userId" : "761004",
+      "joined" : "Wed Apr 23, 2003 10:01 am",
+      "profileRank" : "Registered user",
+      "location" : "North Carolina",
+      "postCount" : "519",
+      "avatarPath" : "./download/file.php%3Favatar=111_1262637716.jpg"
+    },
+    "content" : "Not mine, but I see this setup as an alternative to the original screw handle tap arrangement.\n<br> I think the handle would lever on the shuttle directly.\n<br> \n<a href=\"http://www.vintagewarehouse.com/store/product_info.php?cPath=1&amp;products_id=201\" class=\"postlink\">http://www.vintagewarehouse.com/store/p ... cts_id=201</a>\n<br> \n<br> \n<strong class=\"text-strong\">As for the original setup;</strong>\n<br> When you install the shuttle the groove should align with its peg/dowel on the bus side - failure to keep this alignment will fail the system fairly quickly. Perhaps cleaning up this area in case its all galled up will help. Plenty of anti sieze on the shuttle. \n<br> \n<br> As for the cable/wire/rod - make sure you can move the cables easily. When inserting the cables left and right should be observed and then you must not kink. Often overlooked - the return springs on the heater boxes should keep the cable tensioned - it is not the job of the shuttle to push the cables back in. Hence smooth cables will help the system work as designed.\n<br> \n<br> A clean shuttle without galling or damaged dowel slot;\n<br> \n<br> \n<img src=\"http://www.busandcamper.com/shop/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/e/heater_knob_cable_adjuster_1.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Thu Dec 12, 2013 5:13 pm"
+  }, {
+    "postId" : "761045",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "761045",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "My bus did'nt come with a working heater... Found out that the cables were broken (along with missing heat exchanger levers etc) . I bought new hardware, cleaned up the shuttle/slide assy in the cab, took me a few mins to suss out how it worked... But its simple one once you picture it in your mind. I fitted new a new cable and found out the hard way that one side of the cable is v slightly longer than the other... \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\"> Worth mentioning, after I could'nt connect the heat exhanger lever one one side! It also took me several (lots!) attempts to get the cables in the tubes correctly... I'd get them in almost all the way in, until the last 6inches to go, then 'twang' and they'd twist up solid... It took me more than a few attempts to feed them in straight, while keeping them greased , and annoyingly they would twang and cross over tight, right at the end... Eventually I mananged to get the cables in the tubes, and sort of 'spin' the cables in the tubes enough to get the twist out of them, to get it to go in straight and untwisted for the last few inches, i think this is the problem with breaking cables, you have to get the wires down the tubes with no twisting tension stored in the cables, it was harder than I thought.... Works great now though \n<img class=\"smilies\" src=\"./images/smilies/icon_bounce.gif\" width=\"15\" height=\"15\" alt=\":bounce:\" title=\"bounce\"> it doesn't help that new cables (actually wires) come coiled up in a circle, already storing twist &amp; tension!\n<br> \n<br> It's another one of those bus 5min jobs that takes over an hour \n<img class=\"smilies\" src=\"./images/smilies/icon_colors.gif\" width=\"15\" height=\"15\" alt=\":colors:\" title=\"colors\">",
+    "lastEdited" : "Thu Dec 12, 2013 10:01 pm"
+  }, {
+    "postId" : "761283",
+    "author" : {
+      "username" : "eddy",
+      "userId" : "761283",
+      "joined" : "Tue Jun 23, 2009 9:25 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "356",
+      "avatarPath" : "./download/file.php%3Favatar=33257_1477223492.jpg"
+    },
+    "content" : "Another idea I had was splaying the end of one of the old cables, putting it in a drill and running it up and down the inside of the tubes thus cleaning the crap of the inside of the tube first then greasing",
+    "lastEdited" : "Sat Dec 14, 2013 8:29 am"
+  }, {
+    "postId" : "784938",
+    "author" : {
+      "username" : "Wastedspark",
+      "userId" : "784938",
+      "joined" : "Mon Sep 02, 2013 8:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "Hi I'm working on my heaters at the moment, after finding I have no levers on my exchangers, no cables, I now find I have no shuttle on the end of my threaded knob.\n<br> \n<br> After reading this thread I see it says there should be a guide in the tube that is fixed in the body, I've had a look down the tube and I don't have anything inside, I can see the tubes for the cables but that's it, the rest of the tube is smooth, is the dowel removable?\n<br> Or has mine just worn away?\n<br> \n<br> I'm in the process of making a new shuttle and need to know what to machine, If any one could give me the dimensions that would be great.",
+    "lastEdited" : "Sat May 17, 2014 8:52 pm"
+  }, {
+    "postId" : "784968",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "784968",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15785",
+      "avatarPath" : null
+    },
+    "content" : "markp posted a piece explain this issue",
+    "lastEdited" : "Sun May 18, 2014 5:34 am"
+  }, {
+    "postId" : "784971",
+    "author" : {
+      "username" : "Wastedspark",
+      "userId" : "784971",
+      "joined" : "Mon Sep 02, 2013 8:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "Thanks, who's mark?",
+    "lastEdited" : "Sun May 18, 2014 5:50 am"
+  }, {
+    "postId" : "784972",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "784972",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15785",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Wastedspark wrote:</cite>Thanks, who's mark?\n </div>\n</blockquote> markp of gerry fame.... damn that predictive text!\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\">",
+    "lastEdited" : "Sun May 18, 2014 6:18 am"
+  }, {
+    "postId" : "784981",
+    "author" : {
+      "username" : "Wastedspark",
+      "userId" : "784981",
+      "joined" : "Mon Sep 02, 2013 8:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "Ah yes, I read marks bit about fitting the new shuttle. It doesn't show the guide dowel in the tube that I'm led to believe is there to stop the shuttle spinning.",
+    "lastEdited" : "Sun May 18, 2014 7:35 am"
+  }, {
+    "postId" : "784984",
+    "author" : {
+      "username" : "junglefacejake",
+      "userId" : "784984",
+      "joined" : "Wed Apr 13, 2011 7:10 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "128",
+      "avatarPath" : null
+    },
+    "content" : "I don't have anything in the shuttle tube either? I thought it was just the heater wires that prevent the shuttle from turning?\n<br> I was unaware that the operating wires were slightly different lengths. Think I might have to remove and reassemble.\n<br> I did notice that one of the heat exchanger controls lined up better with the cable than the other, it meant the cables exit from the tube was at a sharp angle therefore rubbing on the side of the tube. The only way of improving the angle looks to be by bending the heat exchanger control bracket. \n<br> Any other suggestions greatly appreciated\n<br> (Apologies for hi- jacking your thread)",
+    "lastEdited" : "Sun May 18, 2014 8:06 am"
+  }, {
+    "postId" : "784986",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "784986",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15785",
+      "avatarPath" : null
+    },
+    "content" : "i like thread jackers...it spreads the knowledge ...like a Technical working groups bringing \"sufferers\" and \"people under treatment\" and \"people in remission\" and \"subject matter experts\" all together!\n<br> I know nothing...I am a researcher...",
+    "lastEdited" : "Sun May 18, 2014 8:10 am"
+  } ]
+}

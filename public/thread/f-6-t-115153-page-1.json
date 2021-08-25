@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "115153",
+  "title" : "12v headlamp flash relay 311 941 583",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115153",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868369",
+    "author" : {
+      "username" : "1deaky1969",
+      "userId" : "868369",
+      "joined" : "Tue Aug 04, 2015 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "I intend to retain and service my existing relay which I believe may be sticking.\n<br>Please see my earlier posts.\n<br>For the minute however I have purchased a replacement from VW heritage only to find it's a 5 pin, not 6 as per the original.\n<br>I am anxious to resolve for my mot retest but lack the skills to adapt 5 pin\n<br>\n<br>Could Any body please offer any advice? It would be very much appreciated \n<br>\n<br>Heritage offere the following by way of their website\n<br>Fitting Info\n<br>Terminals: \n<br>56 - To Light switch (switched live) \n<br>30 - To fuse box (Direct live) \n<br>S - To dip switch (switched negative)\n<br>56a - To High Beam \n<br>56b - To Low Beam\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=13692&amp;sid=d90458f330f34bdc75d90e6cb934ed3c&amp;mode=view\"><img src=\"./download/file.php?id=13692&amp;t=1&amp;sid=d90458f330f34bdc75d90e6cb934ed3c\" class=\"postimage\" alt=\"image.jpeg\" title=\"image.jpeg (88.21 KiB) Viewed 146 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>Kind regards paul",
+    "lastEdited" : "Mon Mar 21, 2016 11:34 pm"
+  }, {
+    "postId" : "868405",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "868405",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "470",
+      "avatarPath" : null
+    },
+    "content" : "The correct relay part number for a 12 volt Bus from August '65 onwards is 311 941 583 B.\n<br>You do not appear to have this. If you look at this wiring diagram on the samba you can see the correct relay (J1) only has 5 terminals.\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.thesamba.com/vw/archives/info/wiring/bus_67.jpg\">http://www.thesamba.com/vw/archives/inf ... bus_67.jpg</a>\n<!-- m -->\n<br>Also, below is a picture of a NOS one that passed through my hands and matches the wiring diagram.\n<br>\n<img src=\"http://images.thesamba.com/vw/gallery/pix/713755.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue Mar 22, 2016 3:09 pm"
+  }, {
+    "postId" : "868438",
+    "author" : {
+      "username" : "1deaky1969",
+      "userId" : "868438",
+      "joined" : "Tue Aug 04, 2015 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "Hi vwed\n<br>\n<br>But looking at the wiring diagram there is no terminal 30!\n<br>\n<br>I'm easily confused by wiring so pardon my ignorance again.\n<br>I'm now thinking the problem may actually be with the steering column stalk switch as I have noted that if I pull and let go quite aggressively the issue is resolved.\n<br>I've tried to remove to inspect and clean but Sod's law as, usual there is one stubborn screw !\n<br>Regards paul",
+    "lastEdited" : "Tue Mar 22, 2016 7:44 pm"
+  }, {
+    "postId" : "868447",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "868447",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "470",
+      "avatarPath" : null
+    },
+    "content" : "You're right, however by definition it must be the red wire going to the fuse box, which matches the info Heritage gave you.",
+    "lastEdited" : "Tue Mar 22, 2016 8:16 pm"
+  }, {
+    "postId" : "868482",
+    "author" : {
+      "username" : "1deaky1969",
+      "userId" : "868482",
+      "joined" : "Tue Aug 04, 2015 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "Ok thanks I've traced all of the cables from relay outwards\n<br>Terminals S &amp; J appear to be cross connected \n<br>\n<br>Regards \n<br>Paul",
+    "lastEdited" : "Tue Mar 22, 2016 10:38 pm"
+  } ]
+}

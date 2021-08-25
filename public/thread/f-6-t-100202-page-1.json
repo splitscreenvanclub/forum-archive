@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "100202",
+  "title" : "Fitting Hazard lights to my Split Screen",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=100202",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "766098",
+    "author" : {
+      "username" : "Arthur",
+      "userId" : "766098",
+      "joined" : "Fri Apr 25, 2003 7:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "400",
+      "avatarPath" : "./download/file.php%3Favatar=136_1418414059.jpg"
+    },
+    "content" : "I want to fit hazard lights to my Camper. \n<br> \n<br> I'd like to use one of these switches any idea where I could get one and what else I would need and how I would do it?\n<br> \n<br> Thanks\n<br> \n<br> Arthur\n<br> \n<br> \n<br> \n<br> \n<a href=\"http://s73.photobucket.com/user/sixofonehalfadozonoftheother/media/1524780_10202750960552939_429949082_n.jpg.html\" class=\"postlink\"><img src=\"http://i73.photobucket.com/albums/i211/sixofonehalfadozonoftheother/1524780_10202750960552939_429949082_n.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Sun Jan 19, 2014 12:49 pm"
+  }, {
+    "postId" : "766728",
+    "author" : {
+      "username" : "skipps",
+      "userId" : "766728",
+      "joined" : "Mon Oct 02, 2006 9:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new barn kent",
+      "postCount" : "422",
+      "avatarPath" : null
+    },
+    "content" : "hi like Arthur I also would like to know what's needed and how to make them work as I already have the switch cheers all \n<br> \n<br> skipps (Dave)",
+    "lastEdited" : "Wed Jan 22, 2014 10:32 pm"
+  }, {
+    "postId" : "766748",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "766748",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "I have a wiring diagram for this but don't know how to attach it so that you can see it. I will find a way.",
+    "lastEdited" : "Thu Jan 23, 2014 6:17 am"
+  }, {
+    "postId" : "766749",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "766749",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "Type this into Google and it will give you all the info you need -VW 9 Prong Box Troubleshooting and Replacement,(click on the second item down)",
+    "lastEdited" : "Thu Jan 23, 2014 6:22 am"
+  }, {
+    "postId" : "766752",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "766752",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2674",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Slippers wrote:</cite>Type this into Google and it will give you all the info you need -VW 9 Prong Box Troubleshooting and Replacement,(click on the second item down)\n </div>\n</blockquote> \n<a href=\"http://www.type2.com/library/electris/vw-9prong.html\" class=\"postlink\">http://www.type2.com/library/electris/vw-9prong.html</a>\n<br> \n<br> This one?",
+    "lastEdited" : "Thu Jan 23, 2014 7:26 am"
+  }, {
+    "postId" : "766753",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "766753",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "That's the one \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Thu Jan 23, 2014 7:28 am"
+  }, {
+    "postId" : "766916",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "766916",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "The '9 prong' relay was intended for USA models requiring both hazard lights and the combined rear indicator and brake lights using a single filament in the rear bulb. Basically, I would suggest the use of the 9 prong relay is significantly more complicated and expensive than is required just to achieve hazard lights. All that is needed is a hazard relay with switch, or can use an external switch as in the photo and a warning lamp if the switch doesn't have one in built. For most models it can be done with a total of 3 connections and to the existing wiring loom and an earth and certainly under £20. Email me with your year model for details peter@ volksgoods. co. uk without the spaces\n<br> Peter Good",
+    "lastEdited" : "Fri Jan 24, 2014 6:42 am"
+  }, {
+    "postId" : "766955",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "766955",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "Peter - Email incoming \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> \n<br> Its always been a worry that my Van doesn't have hazards... I looked at the 9 prong info, and came to the same conclusion that it seems overly complicated for a UK van.\n<br> \n<br> Any advice, or if you could put together a kit I would be very interested. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Fri Jan 24, 2014 11:55 am"
+  }, {
+    "postId" : "767054",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "767054",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2859",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "I'm with Ted698 , go on do a kit",
+    "lastEdited" : "Fri Jan 24, 2014 9:03 pm"
+  }, {
+    "postId" : "767056",
+    "author" : {
+      "username" : "OXON TED",
+      "userId" : "767056",
+      "joined" : "Thu Oct 18, 2012 7:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "136",
+      "avatarPath" : null
+    },
+    "content" : "A kit would be good! \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Fri Jan 24, 2014 9:10 pm"
+  }, {
+    "postId" : "767455",
+    "author" : {
+      "username" : "tallandrew",
+      "userId" : "767455",
+      "joined" : "Fri Oct 06, 2006 7:41 pm",
+      "profileRank" : "Registered user",
+      "location" : "ashby de la zouch",
+      "postCount" : "293",
+      "avatarPath" : null
+    },
+    "content" : "i spent ages researching this\n<br> \n<br> the factory instructions 4 fitting a 9 pin box are on samba archives, wolfsberg west do them new and karmann connection import them\n<br> \n<br> or \n<br> \n<br> hella and bosch do 6/12v accessory switches including the relays.\n<br> \n<br> or \n<br> \n<br> alternatively a 4 prong flasher relay, a light relay, a repro wiper switch and some wiring and you can achieve what i did. all parts except the switch can be bought in 6 or 12v from vehicle electrics . co .uk in derby.\n<br> \n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1004510.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> look on page 4\n<br> \n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=8&amp;t=32658&amp;start=45\" class=\"postlink\">viewtopic.php?f=8&amp;t=32658&amp;start=45</a>\n<br> \n<br> the switch you pictured looks illuminated not sure what its out of, if you like mine its original bus or ghia from 62 onwards, bought mine on here but they can be found on ebay or samba, on my grey bus i used a repro wiper switch which is the same back and a factory style knob, i guess i'll paint it red or put a stick on graphic one day....... if 3d printers get cheap enough maybe i'll make one. lets see need a new garage first, fed up working in a prefab single.",
+    "lastEdited" : "Sun Jan 26, 2014 10:00 pm"
+  } ]
+}

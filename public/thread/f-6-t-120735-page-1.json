@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "120735",
+  "title" : "Gear selection",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120735",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=94d3e4339627f26c4344a7f1d6d4751e",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "906491",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "906491",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Help, really struggling to get gear selection after trying all ways for couple of weeks on and off. Berg shifter, new rods and bushes, IRS gearbox with new nosecone, will start to make progress tighten bolts try again and lost selection, usually trouble with 2nd and 4th. Any advice appreciated.",
+    "lastEdited" : "Fri Dec 01, 2017 9:48 pm"
+  }, {
+    "postId" : "906502",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "906502",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Where’s your front rod from ? I had issues with my bus for months with a repro rod. Turns out the profile was different to an OG.\n<br> \n<br> PPP (Pat on here) sorted me out with a brand new OG and cured all my headaches in one go.",
+    "lastEdited" : "Sat Dec 02, 2017 8:26 am"
+  }, {
+    "postId" : "906510",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "906510",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1478",
+      "avatarPath" : null
+    },
+    "content" : "Had to elongate the holes on my Berg shift so it could twist slightly to get all gears. Initially it was fine but after a couple of thousand miles I struggled with 1st.....been fine since. Similar set up to you.....",
+    "lastEdited" : "Sat Dec 02, 2017 1:46 pm"
+  }, {
+    "postId" : "906516",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "906516",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Rods came from Autocraft and seemed to be the same, may look opening out the holes to see if it helps, thanks.",
+    "lastEdited" : "Sat Dec 02, 2017 7:38 pm"
+  }, {
+    "postId" : "906838",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "906838",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Are you sure you've got the rear coupler fitted properly ? Reach under the back of the bus and grab the coupler and try twisting....any movement and the grub screws not seated properly. Find the centre position and tighten up the screws Its an easy thing to check and a little play makes a big difference to gear selection.",
+    "lastEdited" : "Sun Dec 10, 2017 2:37 pm"
+  }, {
+    "postId" : "906849",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "906849",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for that, will give it a try as not had chance to do anything with it over the last week.",
+    "lastEdited" : "Sun Dec 10, 2017 9:51 pm"
+  } ]
+}

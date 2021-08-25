@@ -1,0 +1,118 @@
+{
+  "forumId" : "2",
+  "threadId" : "122495",
+  "title" : "E10 fuel on its way",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=122495",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=4012c4f8c0560be0e164402a80f4021e",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "915826",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "915826",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1456",
+      "avatarPath" : null
+    },
+    "content" : "Should we be worried?\n<br> \n<br> Will it be 'just' more fuel hose issues or are the head and valve implications too?\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Thu Aug 30, 2018 9:02 am"
+  }, {
+    "postId" : "915834",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "915834",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3071",
+      "avatarPath" : null
+    },
+    "content" : "E10 contains up to 10% ethanol. A lot of peeps on here use this stuff which is 100% ethanol friendly. \n<a href=\"https://m.vwaircooledworks.co.uk/Fuel-Hose-Kit---Full-details.html\" class=\"postlink\">https://m.vwaircooledworks.co.uk/Fuel-H ... tails.html</a>",
+    "lastEdited" : "Thu Aug 30, 2018 6:54 pm"
+  }, {
+    "postId" : "915846",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "915846",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1447",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "I don't know but when I used E10 in France earlier this year the bus didn't seem to like it that much. However it could have been another problem as I broke down on the way back which turned out to be a spark problem.\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Fri Aug 31, 2018 2:34 pm"
+  }, {
+    "postId" : "915852",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "915852",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20060",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I don't know about the implications for the heads, but as the % increases they'll be more carb issues as the ethanol isn't friendly to carb internals.",
+    "lastEdited" : "Fri Aug 31, 2018 5:47 pm"
+  }, {
+    "postId" : "915854",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "915854",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "904",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "I know it's more expensive, but isn't the super unleaded a bit more carb and fuel line friendly?",
+    "lastEdited" : "Fri Aug 31, 2018 6:00 pm"
+  }, {
+    "postId" : "915876",
+    "author" : {
+      "username" : "splitscreensteve",
+      "userId" : "915876",
+      "joined" : "Mon Feb 28, 2011 9:52 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Grantham",
+      "postCount" : "43",
+      "avatarPath" : "./download/file.php%3Favatar=35159_1364660023.gif"
+    },
+    "content" : "The super unleaded burns at a higher temperature, so I`m unsure of the implications for our cylinder heads long term.\n<br> Supermarket fuels tend to have a different mix of additives to the big companies and we have lots of issues with this.\n<br> What the long term effects of the higher ethanol content will have, especially on the fuel line internals, only time will tell.\n<br> If we believe the fuel companies hype, then there won`t be any issues. Don`t believe it for a second!\n<br> As Jim says, carb internals will probably suffer first.",
+    "lastEdited" : "Sat Sep 01, 2018 6:22 pm"
+  }, {
+    "postId" : "915902",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "915902",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3071",
+      "avatarPath" : null
+    },
+    "content" : "Google ethanol free fuel stations near me and you’ll get a list of petrol stations that have a no ethanol option.\n<br> \n<br> Apparently there are also additives available to reduce ethanol separation \n<a href=\"http://www.fuelsystemguide.com/what-is-the-best-ethanol-fuel-treatment/\" class=\"postlink\">http://www.fuelsystemguide.com/what-is- ... treatment/</a>",
+    "lastEdited" : "Sun Sep 02, 2018 1:08 pm"
+  }, {
+    "postId" : "916012",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "916012",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1456",
+      "avatarPath" : null
+    },
+    "content" : "Looks like we may have to wait and see",
+    "lastEdited" : "Wed Sep 05, 2018 8:18 pm"
+  } ]
+}

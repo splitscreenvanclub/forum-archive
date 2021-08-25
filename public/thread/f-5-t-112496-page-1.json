@@ -1,0 +1,76 @@
+{
+  "forumId" : "5",
+  "threadId" : "112496",
+  "title" : "Need to borrow a set of wheels for paintshop please!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112496",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "848402",
+    "author" : {
+      "username" : "AdrianReeve",
+      "userId" : "848402",
+      "joined" : "Tue Jul 03, 2012 9:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "Greenhithe, Kent",
+      "postCount" : "153",
+      "avatarPath" : null
+    },
+    "content" : "Hi there, does any kind person, preferably in Kent or London, have a set of wheels and tyres I can borrow / rent to roll my van around the paint shop while mine are being painted? I'd only need them for a couple of weeks.\n<br>\n<br>Many thanks\n<br>\n<br>Adrian",
+    "lastEdited" : "Thu Sep 10, 2015 10:03 am"
+  }, {
+    "postId" : "848420",
+    "author" : {
+      "username" : "aircoolsteve",
+      "userId" : "848420",
+      "joined" : "Mon Nov 10, 2003 11:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "kent",
+      "postCount" : "433",
+      "avatarPath" : null
+    },
+    "content" : "Hi. I have some wide five 14\" wheels but the tyres are shot. you are welcome to them. I'm in Chatham.",
+    "lastEdited" : "Thu Sep 10, 2015 2:18 pm"
+  }, {
+    "postId" : "848421",
+    "author" : {
+      "username" : "AdrianReeve",
+      "userId" : "848421",
+      "joined" : "Tue Jul 03, 2012 9:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "Greenhithe, Kent",
+      "postCount" : "153",
+      "avatarPath" : null
+    },
+    "content" : "If the tyres hold air, that'd be great!\n<br>\n<br>Could you pm me your number, and I'll call to arrange pick up\n<br>\n<br>Thanks\n<br>Adrian",
+    "lastEdited" : "Thu Sep 10, 2015 2:40 pm"
+  }, {
+    "postId" : "848445",
+    "author" : {
+      "username" : "aircoolsteve",
+      "userId" : "848445",
+      "joined" : "Mon Nov 10, 2003 11:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "kent",
+      "postCount" : "433",
+      "avatarPath" : null
+    },
+    "content" : "I'll check tomorrow if they hold air but they are not pretty!",
+    "lastEdited" : "Thu Sep 10, 2015 5:41 pm"
+  }, {
+    "postId" : "848478",
+    "author" : {
+      "username" : "AdrianReeve",
+      "userId" : "848478",
+      "joined" : "Tue Jul 03, 2012 9:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "Greenhithe, Kent",
+      "postCount" : "153",
+      "avatarPath" : null
+    },
+    "content" : "Think I have some now thanks.",
+    "lastEdited" : "Thu Sep 10, 2015 8:52 pm"
+  } ]
+}

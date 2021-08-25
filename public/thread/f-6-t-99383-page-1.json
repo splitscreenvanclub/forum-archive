@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "99383",
+  "title" : "Camber compensator",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=99383",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=495a85444e8ee76a26594ecdb7697d72",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "759787",
+    "author" : {
+      "username" : "RON SMITH",
+      "userId" : "759787",
+      "joined" : "Wed Sep 02, 2009 10:10 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Andover, Hants",
+      "postCount" : "1378",
+      "avatarPath" : "./download/file.php%3Favatar=33498_1323473225.jpg"
+    },
+    "content" : "As i have Camber i am not too keen on with the rear of my bus, would a camber compensater be any good, running a beetle IRS set up with Fuchs, not really up on info on one of these and has anyone used one on a bus ?\n<br> \n<br> Thanks in advance.\n<br> \n<br> Ron",
+    "lastEdited" : "Tue Dec 03, 2013 7:34 am"
+  }, {
+    "postId" : "759810",
+    "author" : {
+      "username" : "JacksHere",
+      "userId" : "759810",
+      "joined" : "Fri Apr 23, 2010 10:11 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "252",
+      "avatarPath" : null
+    },
+    "content" : "I believe camber compensators are for swing axle suspension, To prevent wheel tuck when cornering.",
+    "lastEdited" : "Tue Dec 03, 2013 10:07 am"
+  } ]
+}

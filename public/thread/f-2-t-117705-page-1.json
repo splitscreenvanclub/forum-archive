@@ -1,0 +1,105 @@
+{
+  "forumId" : "2",
+  "threadId" : "117705",
+  "title" : "winter storage warmth",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=117705",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=4d5542f4dd06338a2cf69fd0133e870a",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "885923",
+    "author" : {
+      "username" : "mikey52",
+      "userId" : "885923",
+      "joined" : "Mon Sep 09, 2013 8:03 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "hi \n<br> I am having to put my splitscreen under a loose cover for the winter is it a good idea to put a small greenhouse heater (mains electric type ) in the van to keep cosy or does this cause other problems \n<br> \n<br> thanks mike",
+    "lastEdited" : "Tue Oct 18, 2016 6:10 am"
+  }, {
+    "postId" : "886240",
+    "author" : {
+      "username" : "Bugzy Malone",
+      "userId" : "886240",
+      "joined" : "Sun Sep 18, 2011 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Banbury",
+      "postCount" : "398",
+      "avatarPath" : "./download/file.php%3Favatar=35874_1316382490.jpg"
+    },
+    "content" : "I wondered if the same for my Elise. Decided no point, so it's just on a maintenance charger with a moisture zapper thing in it. Much cheaper than heating your garden \n<img class=\"smilies\" src=\"./images/smilies/razz.gif\" width=\"15\" height=\"15\" alt=\":p\" title=\"Razz\">",
+    "lastEdited" : "Wed Oct 26, 2016 12:25 am"
+  }, {
+    "postId" : "886256",
+    "author" : {
+      "username" : "Hongkongphooey",
+      "userId" : "886256",
+      "joined" : "Wed Dec 15, 2010 11:39 am",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "565",
+      "avatarPath" : null
+    },
+    "content" : "Cold and dry is what you want, if it is a loose cover then it should be able to breath ok as there will always be some moisture in the air so if you introduce any warmth (Heater) under a nice dark cover you will probably end up with a furry mouldy interior very quickly...",
+    "lastEdited" : "Wed Oct 26, 2016 12:04 pm"
+  }, {
+    "postId" : "886267",
+    "author" : {
+      "username" : "susta",
+      "userId" : "886267",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "12volt dehumidifier run off a solar panel",
+    "lastEdited" : "Wed Oct 26, 2016 2:30 pm"
+  }, {
+    "postId" : "886273",
+    "author" : {
+      "username" : "Aspro",
+      "userId" : "886273",
+      "joined" : "Tue Oct 23, 2012 7:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "554",
+      "avatarPath" : null
+    },
+    "content" : "What? It would probably cost less to store it in a proper facility then to run an electric heater day and night.\n<br> Plus heat inside cold outside will create major condensation issues.\n<br> Don't do it.\n<br> Open up the windows a tad and let it all breath",
+    "lastEdited" : "Wed Oct 26, 2016 4:46 pm"
+  }, {
+    "postId" : "886291",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "886291",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "As above. Or even better, just use it....",
+    "lastEdited" : "Thu Oct 27, 2016 6:22 am"
+  }, {
+    "postId" : "886718",
+    "author" : {
+      "username" : "BusBug&KG",
+      "userId" : "886718",
+      "joined" : "Sun Oct 07, 2007 9:33 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Buckinghamshire",
+      "postCount" : "3423",
+      "avatarPath" : null
+    },
+    "content" : "^^^^^^^^^^^^^^^\n<br> WHS",
+    "lastEdited" : "Thu Nov 03, 2016 9:51 am"
+  } ]
+}

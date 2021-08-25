@@ -1,0 +1,27 @@
+{
+  "forumId" : "28",
+  "threadId" : "86049",
+  "title" : "spark plug choice",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=86049",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=9ce598a6b0111c8a4667504a0ae06f1a",
+    "label" : "BWA"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "663471",
+    "author" : {
+      "username" : "phil me up",
+      "userId" : "663471",
+      "joined" : "Tue Nov 04, 2008 9:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Southampton",
+      "postCount" : "434",
+      "avatarPath" : "./download/file.php%3Favatar=31302_1234302042.jpg"
+    },
+    "content" : "Hi, Im running a turbo engine with cb044 heads one spark plug thread had been cross threaded so a new thread which is 14mm instead of the 12mm standard had been cut in, so I have had all the plug holes machined to 14mm thread, the old plugs fitted were \n<br> NGK-R/DPR8EA-9 one was a DR9EA So I have found some on ebay france for a motorbike BPR8 EA-9 which are the same as were fitted but with a 14mm thread\n<br> after doing some research I found this chart\n<br> \n<img src=\"http://i406.photobucket.com/albums/pp147/goldstar1/ngk_sparkplug_symbol_key.gif\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> So I need \n<br> B=14mm\n<br> P= projected insulator [the electrode sticks out further]\n<br> R= resistor type\n<br> 8= heat rating 2 cold 11 hot\n<br> E= thread reach/length 19mm on mine\n<br> A= firing end construction/ mine being special design\n<br> 9= wide gap 0.9mm\n<br> After doing a google search I found some on ebay France for a motorbike. I dont really understand what can happen if I put the wrong plugs in, can I do any damage to the engine\n<br> I'm also running trigger wheel ignition so no distributor &amp; Ford EDIS control box with megajolt box\n<br> Any recommendations for a make &amp; part number appreciated \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\"> Phil\n<br> \n<img src=\"http://i406.photobucket.com/albums/pp147/goldstar1/turboenginenearlyfinished015.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Jun 16, 2012 7:04 pm"
+  } ]
+}

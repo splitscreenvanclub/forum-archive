@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "124233",
+  "title" : "Refurb Samba Sunroof",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124233",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=369584e0074a13ca12131dfe088492de",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927345",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "927345",
+      "joined" : "Sun Jan 26, 2003 12:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "Clowne, Derbyshire",
+      "postCount" : "598",
+      "avatarPath" : "./download/file.php%3Favatar=5_1421762655.jpg"
+    },
+    "content" : "A friend with a Deluxe needs their tired sunroof fixing/refurbing - any suggestions as to someone in the midlands who could do this?\n<br> \n<br> Thanks in advance.",
+    "lastEdited" : "Thu Jan 09, 2020 12:34 pm"
+  }, {
+    "postId" : "927347",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "927347",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2659",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "I'd speak to Bromosgrove Autotrimmers.\n<br> \n<br> \n<a href=\"http://www.bromsgroveautotrim.com/\" class=\"postlink\">http://www.bromsgroveautotrim.com/</a>",
+    "lastEdited" : "Thu Jan 09, 2020 12:36 pm"
+  }, {
+    "postId" : "927354",
+    "author" : {
+      "username" : "james309",
+      "userId" : "927354",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "604",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "I had mine sorted by Kens Customs, done a super job. Highly recommended. \n<br> James \n<br> \n<br> Sent from my SM-G973F using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Thu Jan 09, 2020 7:40 pm"
+  }, {
+    "postId" : "927571",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "927571",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1448",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "What needs to be done to it? New cover or replacing parts?\n<br> You can buy all parts and replace like for like.\n<br> \n<a href=\"https://grumpysmetal.com/bus/bus-1964-67.html\" class=\"postlink\">https://grumpysmetal.com/bus/bus-1964-67.html</a>",
+    "lastEdited" : "Fri Jan 24, 2020 12:40 pm"
+  } ]
+}

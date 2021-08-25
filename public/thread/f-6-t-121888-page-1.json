@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "121888",
+  "title" : "Fuel cut off solenoid - where and how?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=121888",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=9a59f9c97c4896888aed42ffa73edccb",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "912705",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "912705",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "I've searched the web but haven't found satisfying answers.\n<br> Where is the best location for the fuel cut off solenoid to be mounted. I know not in the engine bay but where do you fix it to the bus? \n<br> Is it better to have the fuel filter before or after the solenoid? (before = between tank and solenoid, after = between solenoid and carb).\n<br> How does this get wired so it only works with the ignition on and where do you install the inline fuse?\n<br> Hopefully someone can help as although it might be straight forward I can't find the info I want.\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Mon May 21, 2018 12:09 pm"
+  }, {
+    "postId" : "912706",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "912706",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "350",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "Mine is fitted under the fuel tank mounted to the chassis and wired to the fire extinguisher and feed is from the coil. Any questions ring Pete Shaw at vw Aircooled works\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon May 21, 2018 12:19 pm"
+  }, {
+    "postId" : "912708",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "912708",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20147",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Before the filter I'd say, to make replacing the filter easier.",
+    "lastEdited" : "Mon May 21, 2018 12:26 pm"
+  }, {
+    "postId" : "912709",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "912709",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "350",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "The shut off solenoid has a built in filter!\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon May 21, 2018 12:34 pm"
+  }, {
+    "postId" : "912710",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "912710",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15640",
+      "avatarPath" : null
+    },
+    "content" : "Not all...\n<br> I fitted a 12v 0-3 bar Durite cut off solenoid and ceramic filter under the bus.\n<br> My fuel cut off valve is just below the fuel tank. I cleaned the tank and mesh filter and fitted a new outlet seal. I increased the bore of feed pipe from tank to 8mm. The fuel cut off valve feeds into an alloy bodied ceramic filter. All out of sight in the region of the gearbox tunnel.\n<br> G\n<br>",
+    "lastEdited" : "Mon May 21, 2018 12:47 pm"
+  }, {
+    "postId" : "912711",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "912711",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "350",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "<img src=\"//uploads.tapatalk-cdn.com/20180521/e8a7a96bd01f01bbf8abaef9b673cab3.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20180521/6662dadf368258afa7195ac393408ce0.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon May 21, 2018 12:56 pm"
+  }, {
+    "postId" : "912713",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "912713",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Mine is the same as Stevep. Mounted to the chassis rail just as the pipe comes out of the tank.\n<br> Filter is included in it with this version and it’s shuts the fuel off if the extinguisher is activated.\n<br> Great bit of kit to have.",
+    "lastEdited" : "Mon May 21, 2018 1:44 pm"
+  }, {
+    "postId" : "912715",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "912715",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=912709&amp;sid=9a59f9c97c4896888aed42ffa73edccb#p912709\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39116&amp;sid=9a59f9c97c4896888aed42ffa73edccb\">Stevep</a> wrote: <a href=\"./viewtopic.php?p=912709&amp;sid=9a59f9c97c4896888aed42ffa73edccb#p912709\" data-post-id=\"912709\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Mon May 21, 2018 12:34 pm</span></cite> The shut off solenoid has a built in filter!\n  <br> \n  <br> \n  <br> Sent from my iPhone using Tapatalk \n </div>\n</blockquote> Not the one I got!",
+    "lastEdited" : "Mon May 21, 2018 1:58 pm"
+  }, {
+    "postId" : "912716",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "912716",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=912713&amp;sid=9a59f9c97c4896888aed42ffa73edccb#p912713\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36896&amp;sid=9a59f9c97c4896888aed42ffa73edccb\">Sjtw</a> wrote: <a href=\"./viewtopic.php?p=912713&amp;sid=9a59f9c97c4896888aed42ffa73edccb#p912713\" data-post-id=\"912713\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Mon May 21, 2018 1:44 pm</span></cite> Mine is the same as Stevep. Mounted to the chassis rail just as the pipe comes out of the tank.\n  <br> Filter is included in it with this version and it’s shuts the fuel off if the extinguisher is activated.\n  <br> Great bit of kit to have. \n </div>\n</blockquote> I don't have an extinguisher where I can connect it to either.",
+    "lastEdited" : "Mon May 21, 2018 2:01 pm"
+  }, {
+    "postId" : "912717",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "912717",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "350",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "I would look into the full fireboy system for peace of mind it could save your bus !!!\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon May 21, 2018 2:09 pm"
+  }, {
+    "postId" : "912718",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "912718",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Yes but I've spent the money on an extinguisher quite a few years ago and it is still in good order. And I don't want to spend another couple of hundred as I've got all the parts. \n<br> I just want to install a fuel cut off solenoid (which I bought a few years back but have not fitted yet).\n<br> \n<br> If it's fed from the coil it will only be live when the ignition is on, correct? Does an inline fuse need to be installed?",
+    "lastEdited" : "Mon May 21, 2018 2:16 pm"
+  }, {
+    "postId" : "912720",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "912720",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "350",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "Yes, I fit a new inline fuse to everything electrical I put on my bus!\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon May 21, 2018 2:31 pm"
+  }, {
+    "postId" : "912721",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "912721",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "350",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "VW Aircooled Works – Installation guidance for Fuel cut-off solenoid kit\n<br> \n<br> The kit that you have purchased contains a state of the art combined filter and shut off valve. The unit has been pre-assembled including tail fittings that have been secured using biofuel resistant thread sealant. The filter is replaceable and the ceramic filter and “O” ring kit can be purchased from VW Aircooled Works, we would recommend the filter is replaced every 24 months under normal conditions. This solenoid does away with the nasty plastic filters that are prone to cracking, but ensure your tank is in good rust free condition to avoid prematurely blocking the ceramic filter.\n<br> \n<br> The kit also comes with fuel line that is resistant to 100% ethanol and is basically ‘fit and forget’ with a minimum 25 year life expectancy under normal conditions. It is therefore essential that time is spent ensuring that the kit is fitted correctly to ensure years of trouble free motoring.\n<br> \n<br> Installation recommendations:\n<br> \n<br> 1. Fully drain the fuel tank. You can check the state of the tank for rust or residue coming out\n<br> 2. The vehicle should be carefully and safely jacked up at the back, or ideally speak to a friend with a ramp to gain access to the fuel tank. Never rely on a trolley jack alone always use axle stands and ensure van is on firm ground.\n<br> 3. Remove the fuel line at the bottom of the fuel tank outlet. Be careful not to bend the swan neck outlet as if the cracks it will be an engine and fuel tank out job.\n<br> 4. Remove all the existing fuel line taking note of the inlet and outlet for the fuel pump.\n<br> 5. Ensure that your vehicle has a hard line made of cupro-nickel that runs through the bell housing tinware over the inlet manifold of pistons 3 &amp; 4 and follows round to the fuel pump on a standard set up. If this was fuel pipe this must be replaced.\n<br> 6. Locate the fuel cut-off solenoid on the inside of the RHS (as viewed from engine bay looking forward) chassis leg using the ‘P’ clip provided. Ensure the arrow on the body of the solenoid points towards the engine. See picture below.\n<br> 7. Cut the Biofuel line into appropriate segments with a sharp Stanley or similar this is reinforced hose so take your time. Connect the fuel line and secure with the fuel clips provided. Do not over tighten the clips but ensure that the clips do not turn when finger pressure applied.\n<br> 8. The fuel solenoid should be wired in series using the twin core cable that came with the VW Aircooled Works Fire suppression system as per the diagram below. The solenoid has two black wires and the positive and negative can be connected to either, using the blue butt connectors provided. Cut the twin cable and bare both the positive cut ends and then insert them into one side of the butt connector together. Insert one of the black wires from the solenoid in the other end. Repeat for the negative wires. So basically the solenoid is now connected in series and when the extinguisher activates the solenoid will cut off.\n<br> \n<br> \n<br> \n<br> Once all the fuel lines have been replaced and the fire extinguisher and solenoid connected then the system needs to be checked carefully to ensure no fuel leaks. Run the engine up and check around the tank, solenoid and all the fuel clips for any fuel leaks. Rectify any leaks by retightening the fastenings. The tails for the solenoids have been pre-fitted and sealed with E85 resistant thread sealant these should be leak free.\n<br> To test the system remove one the wires going from earth to the pressure sender. The engine will continue to run for a short while until the float chamber in the carburettor empties. The engine should then stall which confirms that the solenoid has closed off as the negative side of the circuit has been disconnected, as it would if the extinguisher activated.\n<br> In the event of activation once the repair to the engine has been made to operate the solenoid you will need to by-pass the pressure sender. Simply remove the two lucar connectors from the pressure sender on the extinguisher head and connect the two wires together using the male/male connector provided in the kit.\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon May 21, 2018 2:48 pm"
+  }, {
+    "postId" : "912857",
+    "author" : {
+      "username" : "mickyh",
+      "userId" : "912857",
+      "joined" : "Tue Sep 18, 2012 12:29 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "22",
+      "avatarPath" : null
+    },
+    "content" : "This maybe a silly question but why do you need one? If you have a mechanical pump this stops the fuel when the ignition is switched off. I understand the solenoid is connected to a fire extinguisher but if your extinguisher is not electric once again why do you need one?",
+    "lastEdited" : "Thu May 24, 2018 7:14 am"
+  }, {
+    "postId" : "912858",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "912858",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "350",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "In a fire situation the fuel lines in the engine bay will fail so without a shut off valve fuel will still leak out of the tank by gravity and feed the fire.\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Thu May 24, 2018 7:36 am"
+  } ]
+}

@@ -1,0 +1,131 @@
+{
+  "forumId" : "2",
+  "threadId" : "61313",
+  "title" : "just seen a 15 window on ebay for 5 grand!!!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=61313",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=13e9c4c51b407e5bce511da0a64d89c6",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "473779",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "473779",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "4053",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Just spotted a 15 window in manchester for £5k!!!!!!!!!!with mot!!!!!not mine and may may dodgy,but if I was still after 1 £5k!!!on ebay item 220518529239 .Now it looks a bit strange to me but if its legit !!even brazillian worth looking into .I am in no position for another one but 5 grand? \n<img class=\"smilies\" src=\"./images/smilies/icon_exclaim.gif\" width=\"15\" height=\"15\" alt=\":!:\" title=\"Exclaim\">",
+    "lastEdited" : "Mon Nov 30, 2009 9:30 pm"
+  }, {
+    "postId" : "473785",
+    "author" : {
+      "username" : "coleman keith",
+      "userId" : "473785",
+      "joined" : "Sun Apr 20, 2003 11:09 am",
+      "profileRank" : "Registered user",
+      "location" : "Bridgwater, Somerset",
+      "postCount" : "1156",
+      "avatarPath" : null
+    },
+    "content" : "I just took a look at that and my anti virus kicked in suggesting suspisious activity possible Phishing site\n<br> Take care !",
+    "lastEdited" : "Mon Nov 30, 2009 9:43 pm"
+  }, {
+    "postId" : "473841",
+    "author" : {
+      "username" : "flojo",
+      "userId" : "473841",
+      "joined" : "Fri May 22, 2009 8:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cambridgeshire",
+      "postCount" : "219",
+      "avatarPath" : "./download/file.php%3Favatar=33145_1526010033.jpg"
+    },
+    "content" : "Definately a phishing site..........................\n<span style=\"color:#FF0000\"><span style=\"text-decoration:underline\"><strong class=\"text-strong\">DO NOT ASK THE SELLER ANY QUESTIONS</strong></span></span>\n<br> \n<br> Dodgy URL - \n<a href=\"http://cgi.ebay.co.uk\" class=\"postlink\">http://cgi.ebay.co.uk</a>\n<span style=\"color:#FF0000\">.ic-ebay.com</span>/ws/eBayISAPI.dll?ViewItem&amp;item=220518529239\n<br> \n<br> Genuine URL - Genuine URL - \n<a href=\"http://cgi.ebay.co.uk/1967-VOLKSWAGEN-T2-SPLIT-SCREEN-RED-PANEL-VAN_W0QQitemZ330378976999QQcmdZViewItemQQptZUK_Campers_Caravans_Motorhomes?hash=item4cec1f1ee7\" class=\"postlink\">http://cgi.ebay.co.uk/1967-VOLKSWAGEN-T ... 4cec1f1ee7</a>\n<br> \n<br> The red part highlighted above should definately not be there!\n<br> When you click on ask the seller a question it immediately asks you to log in.....................strange as I already am logged in under a different window! Plus look again at the URL where it asks you to log in\n<br> \n<br> Dodgy login URL - \n<span style=\"color:#FF0000\">http</span>://signin.ebay.co.uk.ic-ebay.com/ws/eBayISAPI.dll?SignIn&amp;UsingSSL=1&amp;pUserId=&amp;co_partnerId=2&amp;siteid=3&amp;requested=tushay2001&amp;iid=220518529239&amp;title=Volkswagen Splitscreen 15 window Camper Van&amp;enddate=27-Dec-09 14:26:54 GMT&amp;i1=1&amp;pagetype=2725\n<br> \n<br> Genuine login URL - \n<span style=\"color:#0000FF\">https</span>://signin.ebay.co.uk/ws/eBayISAPI.dll?SignIn\n<br> \n<br> Notice the blue is a secure login form as it has a HTTP\n<span style=\"color:#0000FF\">S</span> where as the dodgy link does not have the S for secure. Also on the top right of the URL bar there is a padlock which confirms it is 'Veri signed' identified and secure\n<br> \n<br> Finally when you right click on the dodgy login pages 'sign in' button and click on properties then 'certificates' you will notice that the pop up box says 'this type of document does not have a security certificate', but when you do this on the genuine log in page it states 'Veri Sign class 3 extended validation SSL CA' as it should!\n<br> \n<br> Steer well clear and the more that complain to ebay the sooner this will be removed!\n<br> \n<br> Will post this over at VZI too to make them all aware!\n<br> \n<br> If you could post this on any other VW sites you visit so no poor unsuspecting sole gets phished that would be great!!\n<br> \n<br> Erran",
+    "lastEdited" : "Tue Dec 01, 2009 2:25 am"
+  }, {
+    "postId" : "473843",
+    "author" : {
+      "username" : "flojo",
+      "userId" : "473843",
+      "joined" : "Fri May 22, 2009 8:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cambridgeshire",
+      "postCount" : "219",
+      "avatarPath" : "./download/file.php%3Favatar=33145_1526010033.jpg"
+    },
+    "content" : "Feels like a spot the difference competition\n<br> \n<br> Genuine Ebay auction page\n<br> \n<br> \n<img src=\"http://i73.photobucket.com/albums/i201/smokey182/GenuineAuction.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Fake 'overlay' Ebay auction page\n<br> \n<br> \n<img src=\"http://i73.photobucket.com/albums/i201/smokey182/FakeAuction.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Those with good eyes will see the change from real page to fake page happen the moment the genuine page loads up!!\n<br> \n<br> Remember the points raised in my above post and you should be fine when ever on ebay................sorry if this stinks of teaching you to suck eggs \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\"> \n<br> \n<br> Anyone would think I didnt have anything better to do at almost 3am \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" width=\"15\" height=\"27\" alt=\":drunken:\" title=\"drunken\"> \n<br> \n<br> Erran",
+    "lastEdited" : "Tue Dec 01, 2009 2:53 am"
+  }, {
+    "postId" : "473871",
+    "author" : {
+      "username" : "Sooty",
+      "userId" : "473871",
+      "joined" : "Sun Dec 09, 2007 10:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Upt Norfff........ Bingley.",
+      "postCount" : "10076",
+      "avatarPath" : null
+    },
+    "content" : "err...... what is phishing? \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Tue Dec 01, 2009 8:57 am"
+  }, {
+    "postId" : "473876",
+    "author" : {
+      "username" : "slammeddeluxe",
+      "userId" : "473876",
+      "joined" : "Fri Oct 12, 2007 8:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "bishop auckland",
+      "postCount" : "1685",
+      "avatarPath" : "./download/file.php%3Favatar=10784_1233095807.jpg"
+    },
+    "content" : "Sooty\n<br> \n<br> Its where you buy loads of kit, tent, seat, waders, cap, bivvy and a phishing rod !\n<br> \n<br> hahaha !",
+    "lastEdited" : "Tue Dec 01, 2009 9:17 am"
+  }, {
+    "postId" : "473887",
+    "author" : {
+      "username" : "pye1man",
+      "userId" : "473887",
+      "joined" : "Wed Sep 08, 2004 8:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Forest of Dean",
+      "postCount" : "1306",
+      "avatarPath" : "./download/file.php%3Favatar=997_1226786986.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>slammeddeluxe wrote:</cite>Sooty\n  <br> \n  <br> Its where you buy loads of kit, tent, seat, waders, cap, bivvy and a phishing rod !\n  <br> \n  <br> hahaha !\n </div>\n</blockquote> Just choked on my sugar puffs \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Tue Dec 01, 2009 10:08 am"
+  }, {
+    "postId" : "473926",
+    "author" : {
+      "username" : "flojo",
+      "userId" : "473926",
+      "joined" : "Fri May 22, 2009 8:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cambridgeshire",
+      "postCount" : "219",
+      "avatarPath" : "./download/file.php%3Favatar=33145_1526010033.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Sooty wrote:</cite>err...... what is phishing? \n  <img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">\n </div>\n</blockquote> Phishing is the art of trying to get someones log in details so that they can hijack your account and then your account will be used for scams such as this one!\n<br> \n<br> Anyone who clicks on ask the seller a question and inputs there user name and password then clicks log in, has just given the scammer full access to your ebay account and most likely your paypal account if your passwords are the same.............................which they shouldnt be!!",
+    "lastEdited" : "Tue Dec 01, 2009 1:05 pm"
+  }, {
+    "postId" : "474242",
+    "author" : {
+      "username" : "peter the plumber",
+      "userId" : "474242",
+      "joined" : "Wed May 12, 2004 6:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Sutton Coldfield/Birmingham",
+      "postCount" : "705",
+      "avatarPath" : null
+    },
+    "content" : "<span style=\"color:#FF0000\">NOW REMOVED </span> \n<img class=\"smilies\" src=\"./images/smilies/wav.gif\" width=\"225\" height=\"33\" alt=\":wav:\" title=\"wav\">",
+    "lastEdited" : "Wed Dec 02, 2009 9:52 pm"
+  } ]
+}

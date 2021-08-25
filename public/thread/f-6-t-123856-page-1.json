@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "123856",
+  "title" : "Reaming cargo door hinge pins",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123856",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=9f8bbf44aec0477639c954c60da2e325",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925168",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925168",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> The oversized pins are 6.3mm, and the original pins were 5.8mm\n<br> So what reamer do I buy, do you buy exactly the same (6.3) or slightly smaller, if so how much?\n<br> Cheers everyone",
+    "lastEdited" : "Wed Sep 11, 2019 7:23 pm"
+  }, {
+    "postId" : "925235",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925235",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "A 6.3 mm reamer equates to 0.248 inches, just a smidgen under a quarter of an inch. Maybe a 1/4” would work?",
+    "lastEdited" : "Fri Sep 13, 2019 3:02 pm"
+  }, {
+    "postId" : "925437",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925437",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "Even a 1/4” is to small, im awaiting an adjustable reamer",
+    "lastEdited" : "Thu Sep 19, 2019 5:54 pm"
+  }, {
+    "postId" : "925488",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925488",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "Adjustable reamer did the job. Youll need a 6.3 - 7mm. \n<br> \n<br> Job done",
+    "lastEdited" : "Sun Sep 22, 2019 5:44 pm"
+  } ]
+}

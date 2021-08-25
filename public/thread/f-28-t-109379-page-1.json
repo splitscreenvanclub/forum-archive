@@ -1,0 +1,50 @@
+{
+  "forumId" : "28",
+  "threadId" : "109379",
+  "title" : "is full flow oil set up needed?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=109379",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "828112",
+    "author" : {
+      "username" : "piran",
+      "userId" : "828112",
+      "joined" : "Thu Jul 24, 2014 5:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "234",
+      "avatarPath" : null
+    },
+    "content" : "hi\n<br>i have a 1914 motor which at the moment has a full flow oil set up.....i have bought the motor used but don't know if it will really need this set up or not.\n<br>it has a dog house cooler and an external fan set up.\n<br>any advice would be great.\n<br>thank you",
+    "lastEdited" : "Sat Mar 28, 2015 12:44 pm"
+  }, {
+    "postId" : "828113",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "828113",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "716",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "Imo big yes",
+    "lastEdited" : "Sat Mar 28, 2015 12:49 pm"
+  }, {
+    "postId" : "828117",
+    "author" : {
+      "username" : "henk",
+      "userId" : "828117",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "165",
+      "avatarPath" : null
+    },
+    "content" : "i think this is one off those questions where some people will say that you needed and others will sayn it is overkill.\n<br>i never had it on my 1776,on my 2110 i di have it now.\n<br>but if you all ready have it on the engine i would sure leave it on it.\n<br>\n<br>henk!!!",
+    "lastEdited" : "Sat Mar 28, 2015 1:31 pm"
+  } ]
+}

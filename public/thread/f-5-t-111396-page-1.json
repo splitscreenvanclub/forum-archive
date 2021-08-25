@@ -1,0 +1,37 @@
+{
+  "forumId" : "5",
+  "threadId" : "111396",
+  "title" : "repair part",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=111396",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "841344",
+    "author" : {
+      "username" : "henk",
+      "userId" : "841344",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "106",
+      "avatarPath" : null
+    },
+    "content" : "hallo,\n<br>\n<br>i'm missing a piece off metal on both sides on my bus to get my floors back in.\n<br>you can see in the picture what i'm talking about,it is the ribbed part where the brake lines go true.\n<br>is there sombody who has a piece off this laying from a scrapped bus or knows where i can find that part.\n<br>i don't want to weld a flat piece in it.\n<br>henk!!!",
+    "lastEdited" : "Tue Jul 07, 2015 7:04 pm"
+  }, {
+    "postId" : "847146",
+    "author" : {
+      "username" : "irvmeister",
+      "userId" : "847146",
+      "joined" : "Mon Nov 29, 2010 6:36 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "266",
+      "avatarPath" : null
+    },
+    "content" : "hi , yes I have that part ill take a picture later but its the full section of the bus from the bulkhead to cab floor",
+    "lastEdited" : "Sat Aug 29, 2015 9:29 am"
+  } ]
+}

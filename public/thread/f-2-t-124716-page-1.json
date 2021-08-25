@@ -1,0 +1,92 @@
+{
+  "forumId" : "2",
+  "threadId" : "124716",
+  "title" : "A Question of jacks",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=124716",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=eb8ddd8697f50f4414a596712e40a61c",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929853",
+    "author" : {
+      "username" : "BernardSamba",
+      "userId" : "929853",
+      "joined" : "Sat Dec 27, 2008 2:48 pm",
+      "profileRank" : "Registered user",
+      "location" : "Estepona Spain",
+      "postCount" : "80",
+      "avatarPath" : "./download/file.php%3Favatar=31451_1413137603.jpg"
+    },
+    "content" : "Hi,\n<br> \n<br> I seem to have a few Bilstein jacks but cannot remember which is for my 63 bus. I am thinking it is the one with the cast head as opposed to the pressed steel type.\n<br> \n<br> Anyone got any ideas?\n<br> \n<br> Thanks",
+    "lastEdited" : "Fri May 15, 2020 7:28 pm"
+  }, {
+    "postId" : "929854",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "929854",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "correct.....",
+    "lastEdited" : "Fri May 15, 2020 7:58 pm"
+  }, {
+    "postId" : "929856",
+    "author" : {
+      "username" : "BernardSamba",
+      "userId" : "929856",
+      "joined" : "Sat Dec 27, 2008 2:48 pm",
+      "profileRank" : "Registered user",
+      "location" : "Estepona Spain",
+      "postCount" : "80",
+      "avatarPath" : "./download/file.php%3Favatar=31451_1413137603.jpg"
+    },
+    "content" : "Thanks,\n<br> I assume the pressed steel could be bay window versions",
+    "lastEdited" : "Fri May 15, 2020 8:04 pm"
+  }, {
+    "postId" : "929857",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "929857",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "Whats stamped on the top of the jack...?",
+    "lastEdited" : "Fri May 15, 2020 8:39 pm"
+  }, {
+    "postId" : "929858",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "929858",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15635",
+      "avatarPath" : null
+    },
+    "content" : "Correct. The others are later and correct for Split and Bay..",
+    "lastEdited" : "Fri May 15, 2020 9:27 pm"
+  }, {
+    "postId" : "929876",
+    "author" : {
+      "username" : "BernardSamba",
+      "userId" : "929876",
+      "joined" : "Sat Dec 27, 2008 2:48 pm",
+      "profileRank" : "Registered user",
+      "location" : "Estepona Spain",
+      "postCount" : "80",
+      "avatarPath" : "./download/file.php%3Favatar=31451_1413137603.jpg"
+    },
+    "content" : "The two with the pressed steel heads have nothing on the head but have Bilstein on the cast metal foot and the arm. The arm also has the VW logo.\n<br> The one with the cast head has Bilstein in the casting, the arm has only the VW logo and it has a pressed steel foot.\n<br> \n<br> The one with the cast head looks more familiar to me so that means I have two going spare but they are in Southern Spain!",
+    "lastEdited" : "Sat May 16, 2020 11:34 am"
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "forumId" : "2",
+  "threadId" : "114383",
+  "title" : "Handbrake part",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114383",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=d84877013796bb81a923b545c0cc42a2",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "862551",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "862551",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "653",
+      "avatarPath" : null
+    },
+    "content" : "Does anyone know if there are any suppliers of the triangular fitting that joins the cab end of the handbrake cables that allows it to hook to the handbrake lever under the cab floor. I can't find them anywhere! It's for a 57 Kombi.",
+    "lastEdited" : "Tue Feb 02, 2016 2:07 pm"
+  }, {
+    "postId" : "862664",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "862664",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "Which number on here ?:\n<br> \n<a href=\"http://www.thesamba.com/vw/forum/album_page.php?pic_id=1460498\" class=\"postlink\">http://www.thesamba.com/vw/forum/album_ ... id=1460498</a>",
+    "lastEdited" : "Wed Feb 03, 2016 12:34 pm"
+  }, {
+    "postId" : "862674",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "862674",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "653",
+      "avatarPath" : null
+    },
+    "content" : "34, 35, 36 and 38. I have the triangular part number 37.",
+    "lastEdited" : "Wed Feb 03, 2016 2:11 pm"
+  }, {
+    "postId" : "862676",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "862676",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "34 = 211 711 345. Link. The good news is that this is still available from VW via their Classic Parts section via Heritage. £2.46!\n<br> 35 = 211 711 347. Pin. NLA.\n<br> 36 = N 12458. Circlip 10 DIN 9045. NLA.\n<br> 38 = N124581. Bolt. 10 x 23 x19 DIN 1234.NLA.\n<br> Although 35,36, and 38 are no longer available they shouldn't be too hard to source/adapt from a good fixings supplier once you've got 34 in your actual hands.",
+    "lastEdited" : "Wed Feb 03, 2016 3:19 pm"
+  }, {
+    "postId" : "862704",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "862704",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "653",
+      "avatarPath" : null
+    },
+    "content" : "Vwed you're a star. Yeah that's the key part. I can get round the rest. Cheers mate.",
+    "lastEdited" : "Wed Feb 03, 2016 6:35 pm"
+  }, {
+    "postId" : "862705",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "862705",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "653",
+      "avatarPath" : null
+    },
+    "content" : "You sure that's the right part number for the link piece mate as its coming back as a 'lock washer' ?\n<br> \n<br> Thanks",
+    "lastEdited" : "Wed Feb 03, 2016 6:43 pm"
+  }, {
+    "postId" : "862716",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "862716",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "Yes, it's the right part number.\n<br> On their website everything is computer \"translated\" from the German original so some weirdness does occur.",
+    "lastEdited" : "Wed Feb 03, 2016 8:14 pm"
+  }, {
+    "postId" : "862741",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "862741",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "653",
+      "avatarPath" : null
+    },
+    "content" : "Ok lovely. Lock washer it is tomorrow then followed by some jiggery pokery on the other bits. Thanks mate big help that.",
+    "lastEdited" : "Wed Feb 03, 2016 10:31 pm"
+  } ]
+}

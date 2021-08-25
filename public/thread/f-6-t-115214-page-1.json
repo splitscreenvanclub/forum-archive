@@ -1,0 +1,50 @@
+{
+  "forumId" : "6",
+  "threadId" : "115214",
+  "title" : "Clutch adjustment?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115214",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868825",
+    "author" : {
+      "username" : "58and60",
+      "userId" : "868825",
+      "joined" : "Thu Jun 06, 2013 11:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Towcester",
+      "postCount" : "144",
+      "avatarPath" : "./download/file.php%3Favatar=38012_1371138261.jpg"
+    },
+    "content" : "I know I should know this, but I get a mental block every time I come to do this as it always seems counter intuitive ! If the clutch is biting in the middle of the pedal travel how do I adjust it. Which way do I turn the nut on the cable by the box (tighten or slacken) if I want it to bite lower to the floor or higher up. \n<br>In my case the clutch is engaging / dis engaging close to the floor and I want it to bite higher in its travel. It's a new clutch but is not adjusted correctly. I could do trial and error I realise, but it's a faff to do it so would rather grovel under the bus just the once!",
+    "lastEdited" : "Fri Mar 25, 2016 6:52 pm"
+  }, {
+    "postId" : "868826",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "868826",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "421",
+      "avatarPath" : null
+    },
+    "content" : "If it's biting too near the floor then you need to adjust it up(tighten it)",
+    "lastEdited" : "Fri Mar 25, 2016 7:05 pm"
+  }, {
+    "postId" : "868842",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "868842",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5148",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "As above, do the wingnut up, clockwise as you look from the back to the front. If you carry a spare cable, always a good idea to carry a spare wingnut as well because Sod's law says when the cable breaks (rare I know) you'll never be able to find the end bit with the nut still on it. \n<br>\n<br>Cheers, Lee.",
+    "lastEdited" : "Fri Mar 25, 2016 10:10 pm"
+  } ]
+}

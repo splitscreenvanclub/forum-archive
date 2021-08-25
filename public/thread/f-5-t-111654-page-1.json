@@ -1,0 +1,167 @@
+{
+  "forumId" : "5",
+  "threadId" : "111654",
+  "title" : "twin solex carb linkage",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=111654",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 12,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "843033",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "843033",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "LOOKING FOR A LINKAGE TO FIT TWIN SOLEX CARB KIT, JUST BOUGHT THE CARBS BUT NOW REQUIRE A BELL CRANK AND RODS TO FIT, THEY ARE 34s.",
+    "lastEdited" : "Thu Jul 23, 2015 9:01 am"
+  }, {
+    "postId" : "843428",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "843428",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "Been told that there might be a hex bar linkage that works on this twin carb set up, anyone seen or got one we could look at.",
+    "lastEdited" : "Mon Jul 27, 2015 6:50 pm"
+  }, {
+    "postId" : "844939",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "844939",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "Looks like I'll have to make a one off linkage to suit.",
+    "lastEdited" : "Mon Aug 10, 2015 8:29 am"
+  }, {
+    "postId" : "844941",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "844941",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5513",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "ANY of the main online VW parts places will sell linkage kits for these…hex bar or bell house style…off the shelf…check machine7 as a start..loads to choose from",
+    "lastEdited" : "Mon Aug 10, 2015 8:40 am"
+  }, {
+    "postId" : "845358",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "845358",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "Thanks mate will have a look.",
+    "lastEdited" : "Thu Aug 13, 2015 7:43 am"
+  }, {
+    "postId" : "862044",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "862044",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "Been having a look around for a good linkage kit for the Solex carbs, the only ones that fit are a bell crank type, CSP and Scat do kits but I really wanted a hex bar linkage, it may be that the solex/brosol carbs are made in Mexico and not often found in the UK.\n<br>So it looks like a bellcrank kit unless someone else knows any different.",
+    "lastEdited" : "Fri Jan 29, 2016 12:35 pm"
+  }, {
+    "postId" : "862139",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "862139",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "320",
+      "avatarPath" : null
+    },
+    "content" : "would type3 linkages be any good?\n<br>They had twin 32-34s too IIRC.\n<br>The pivot point would be different on a vertical fan engine but the connections with the carbs would be the same\n<br>DD",
+    "lastEdited" : "Sat Jan 30, 2016 10:34 am"
+  }, {
+    "postId" : "862252",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "862252",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "I will have to have a look into this as I am not quite sure, I did manage to fit a twin carb set up from a Type 3 some years ago with the standard carbs into a beetle, so it might be another option for us.",
+    "lastEdited" : "Sat Jan 30, 2016 10:19 pm"
+  }, {
+    "postId" : "867530",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "867530",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "Finally managed to get a twin carb linkage for the solex carbs, ordered one from Machine 7, its a CSP bellcrank linkage they said it would fit with a little modifications, so far the centre section was simple just bolt on to the case, smooth opperation and a good return spring to help close the carbs.\n<br>When looking at the engine, the right carb linkage needed a small plate making up to make it work and get full throttle, its pushed open when we move the centre section, the left carb is not going to be as easy as the linkage is designed to pull the carb open, and it need to push as on the right side.\n<br>Anyone else done this mod or advise on how to make it work.",
+    "lastEdited" : "Sun Mar 13, 2016 8:11 pm"
+  }, {
+    "postId" : "867610",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "867610",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1570",
+      "avatarPath" : null
+    },
+    "content" : "Theres different types of bellcrank. Some push/push some pull/pull and some push one side and pull the other. You haven't got the right type by the sounds of it. You can flip the leaver arm on one carb so one points up and the other one down...but it looks naff.",
+    "lastEdited" : "Mon Mar 14, 2016 2:47 pm"
+  }, {
+    "postId" : "867751",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "867751",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "Looks like I'll have to make some changes, either to the centre section where adding another mounting would work, and keep the linkage looking right, or like you say modifying the lever on the left carb to open the throttle, pulling it open as the other side pushes, would work with a bit of thought, i'll put a photo up once it's done.",
+    "lastEdited" : "Tue Mar 15, 2016 10:33 pm"
+  }, {
+    "postId" : "868436",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "868436",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "300",
+      "avatarPath" : null
+    },
+    "content" : "The CSP carb linkage arrived from machine 7, they said it would need some mods as its to fit solex 40s, the two rods have plenty of adjustment on them so we should be able to make it work, didn't know when we bought it that it only pushes the right carb open and has to be modified to pull the left carb.\n<br>\n<a href=\"http://s497.photobucket.com/user/probikesecurity/media/DSCF5063.jpg.html\" class=\"postlink\"><img src=\"http://i497.photobucket.com/albums/rr332/probikesecurity/DSCF5063.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>The centre section just bolts onto the case and the grub screw is used to make sure its lined up correctly, the rods ware adjusted to reach amd then the carb linkages had to be made to allow it to rotate in the right direction.\n<br>\n<a href=\"http://s497.photobucket.com/user/probikesecurity/media/DSCF5068.jpg.html\" class=\"postlink\"><img src=\"http://i497.photobucket.com/albums/rr332/probikesecurity/DSCF5068.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>Right carb rotates in an anticlockwise direction to open.\n<br>\n<a href=\"http://s497.photobucket.com/user/probikesecurity/media/DSCF5066.jpg.html\" class=\"postlink\"><img src=\"http://i497.photobucket.com/albums/rr332/probikesecurity/DSCF5066.jpg\" class=\"postimage\" alt=\"Image\"></a> \n<br>The left carb will need to have its link moved round to the top to make it turn clockwise, to open the carb.\n<br>\n<a href=\"http://s497.photobucket.com/user/probikesecurity/media/DSCF5067.jpg.html\" class=\"postlink\"><img src=\"http://i497.photobucket.com/albums/rr332/probikesecurity/DSCF5067.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>Now that its all on and working together and in sinc, we need to cut some thread off the rods to enable some adjustment for idle and free play, as we have a spare engine for mock up its been a lot easier to set up, only need to make up the fuel lines and we should be able to fit it them on our van.",
+    "lastEdited" : "Tue Mar 22, 2016 7:39 pm"
+  } ]
+}

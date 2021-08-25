@@ -1,0 +1,167 @@
+{
+  "forumId" : "6",
+  "threadId" : "115009",
+  "title" : "steering very stiff after fitting dropped spindles",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115009",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 12,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867432",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "867432",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "950",
+      "avatarPath" : null
+    },
+    "content" : "Hi a,,\n<br>\n<br>Fitted my dropped spindles today - look good (although a bit low!), but the steering is very heavy since fitting them?\n<br>\n<br>Haven;t been for a drive in it yet, and the tracking is probably a mile off, but I mean like just driving it out of the garage and turning it round in the road, the feeling seems very very stiff &amp; doesn't centre very well.\n<br>\n<br>Any ides &amp; best way to check to see what's up?\n<br>\n<br>It's the first time i've fitted dropped spindles to a bus - followed the instructions &amp; also fitted brand new track rod ends. I haven't pumped any grease into the spindles yet, but thing they have been used for about 4000 miles since being flipped, so wouldn't have thought they were dry?\n<br>\n<br>Thanks",
+    "lastEdited" : "Sat Mar 12, 2016 4:42 pm"
+  }, {
+    "postId" : "867440",
+    "author" : {
+      "username" : "67USA",
+      "userId" : "867440",
+      "joined" : "Tue Nov 23, 2010 11:21 pm",
+      "profileRank" : "Registered user",
+      "location" : "Preston, Lancashire NW UK",
+      "postCount" : "548",
+      "avatarPath" : "./download/file.php%3Favatar=34857_1293666952.jpg"
+    },
+    "content" : "Grease em up dude.",
+    "lastEdited" : "Sat Mar 12, 2016 6:10 pm"
+  }, {
+    "postId" : "867444",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "867444",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1570",
+      "avatarPath" : null
+    },
+    "content" : "Theyve done 4K miles and not been greased.....there's your problem!",
+    "lastEdited" : "Sat Mar 12, 2016 6:21 pm"
+  }, {
+    "postId" : "867450",
+    "author" : {
+      "username" : "mclarni",
+      "userId" : "867450",
+      "joined" : "Wed Oct 15, 2008 12:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Angmering West Sussex",
+      "postCount" : "1786",
+      "avatarPath" : "http://i455.photobucket.com/albums/qq276/mclarni/147-1.jpg"
+    },
+    "content" : "Check the lower bolts for the trailing arms. You'll probably find its dragging on the spindle when the weight of the bus is on it.\n<br>\n<br> Nick",
+    "lastEdited" : "Sat Mar 12, 2016 7:41 pm"
+  }, {
+    "postId" : "867451",
+    "author" : {
+      "username" : "mclarni",
+      "userId" : "867451",
+      "joined" : "Wed Oct 15, 2008 12:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Angmering West Sussex",
+      "postCount" : "1786",
+      "avatarPath" : "http://i455.photobucket.com/albums/qq276/mclarni/147-1.jpg"
+    },
+    "content" : "As in the where the lower trailing arm from the beam connects to the spindle.\n<br>\n<br> I had to change the bolts on mine for shallower heads as it was dragging on the spindle under load.",
+    "lastEdited" : "Sat Mar 12, 2016 7:47 pm"
+  }, {
+    "postId" : "867460",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "867460",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17997",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Get the bus in the air, and see if its still stiff and whitness marks for rubbing.",
+    "lastEdited" : "Sat Mar 12, 2016 9:01 pm"
+  }, {
+    "postId" : "867467",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "867467",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "950",
+      "avatarPath" : null
+    },
+    "content" : "Thanks guys - will check all this issues out when I get chance and report back.\n<br>\n<br>The spindles have been on someones but for the 4K miles, so would hope that they run them with grease in!\n<br>\n<br>thanks",
+    "lastEdited" : "Sat Mar 12, 2016 9:42 pm"
+  }, {
+    "postId" : "868149",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "868149",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "950",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>mclarni wrote:</cite>Check the lower bolts for the trailing arms. You'll probably find its dragging on the spindle when the weight of the bus is on it.\n  <br>\n  <br> Nick\n </div>\n</blockquote>\n<br>\n<br>Bang on mate - just had a look &amp; the bolt holding the link pin into the trailing arms is rubbing on the bottom of the spindle arm. I put the bolts back in as they came out - nut on the top, but guess I should have turned them round so the bolt goes in from the top with the nut on the botom, doh!\n<br>\n<br>reckon they should be ok with standard bolts, but otherwise will have to find some shallow headed bolts.\n<br>\n<br>thanks again buddy !",
+    "lastEdited" : "Sat Mar 19, 2016 6:28 pm"
+  }, {
+    "postId" : "868169",
+    "author" : {
+      "username" : "mclarni",
+      "userId" : "868169",
+      "joined" : "Wed Oct 15, 2008 12:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Angmering West Sussex",
+      "postCount" : "1786",
+      "avatarPath" : "http://i455.photobucket.com/albums/qq276/mclarni/147-1.jpg"
+    },
+    "content" : "No worries.\n<br>\n<br> Had a similar experience with mine when I fitted to a narrowed beam. New beam caused the bus to sit a bit lower which caused the issue.\n<br>\n<br> Hope it's sorted easily.\n<br>\n<br> Nick",
+    "lastEdited" : "Sat Mar 19, 2016 10:45 pm"
+  }, {
+    "postId" : "868238",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "868238",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1015",
+      "avatarPath" : null
+    },
+    "content" : "I've just refitted my stock spindles and found this problem, on the lower arm only I had to put the link pin bolt in from the bottom up, as with it in from the top the nut and protruding part of the bolt fouled the spindle when turning. Turn the bolt around and it was fine...\n<br>\n<br>Make sure *you* pump some grease in the spindles too, then you know it definitely has some in! Lol",
+    "lastEdited" : "Sun Mar 20, 2016 7:57 pm"
+  }, {
+    "postId" : "868270",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "868270",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "950",
+      "avatarPath" : null
+    },
+    "content" : "Will do, got a new grease gun for my birthday so gonna make the most of it all around front beam ans suspension. \n<br>Not really used one much before, do I keep pumping till the grease oozes out of the joints?",
+    "lastEdited" : "Sun Mar 20, 2016 10:13 pm"
+  }, {
+    "postId" : "868272",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "868272",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1015",
+      "avatarPath" : null
+    },
+    "content" : "Yep, pump it in until you see it start to ooze out of the seals....",
+    "lastEdited" : "Sun Mar 20, 2016 10:23 pm"
+  } ]
+}

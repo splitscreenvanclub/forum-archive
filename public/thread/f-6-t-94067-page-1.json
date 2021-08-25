@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "94067",
+  "title" : "Gearbox oil quantity",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=94067",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "721636",
+    "author" : {
+      "username" : "joannedoyle",
+      "userId" : "721636",
+      "joined" : "Mon Aug 17, 2009 5:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Littleborough, Lancs",
+      "postCount" : "513",
+      "avatarPath" : "./download/file.php%3Favatar=33443_1409222692.jpg"
+    },
+    "content" : "I have just fitted a replacment gearbox to the bus.\n<br> I emptied the old oil out( not much in it) and proceeded to fill it up. I managed to get in about 2 1/4 litres before it reached the filler hole and start to spill.\n<br> \n<br> Im just wondering Is thats how much oil the AH beetle box takes?\n<br> \n<br> Cheers\n<br> Simon",
+    "lastEdited" : "Fri May 10, 2013 6:53 pm"
+  }, {
+    "postId" : "721640",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "721640",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "From memory book quantity is 3L from a dry rebuild and 2.5L from an oil change",
+    "lastEdited" : "Fri May 10, 2013 7:12 pm"
+  }, {
+    "postId" : "721641",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "721641",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15809",
+      "avatarPath" : null
+    },
+    "content" : "<img src=\"http://www.thesamba.com/vw/archives/manuals/oct64bus/65t2_p36p37.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri May 10, 2013 7:16 pm"
+  }, {
+    "postId" : "721643",
+    "author" : {
+      "username" : "joannedoyle",
+      "userId" : "721643",
+      "joined" : "Mon Aug 17, 2009 5:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Littleborough, Lancs",
+      "postCount" : "513",
+      "avatarPath" : "./download/file.php%3Favatar=33443_1409222692.jpg"
+    },
+    "content" : "Cheers. That answers it \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Fri May 10, 2013 7:25 pm"
+  } ]
+}

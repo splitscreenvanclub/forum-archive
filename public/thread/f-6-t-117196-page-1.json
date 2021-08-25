@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "117196",
+  "title" : "fire suppression",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=117196",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=1c30cedc269cd6a8a895517d77571fb8",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "882552",
+    "author" : {
+      "username" : "mikey52",
+      "userId" : "882552",
+      "joined" : "Mon Sep 09, 2013 8:03 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "hi \n<br> has anyone thoughts on investing in a fire suppression system for the engine bay \n<br> \n<br> have been reading comments about the blazecut tube system and can understand the worries of the fan sucking the gas away from the engine area \n<br> \n<br> any ideas thanks mike",
+    "lastEdited" : "Fri Sep 02, 2016 6:34 am"
+  }, {
+    "postId" : "882555",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "882555",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20123",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "There's loads of threads on here, try the search function.",
+    "lastEdited" : "Fri Sep 02, 2016 6:56 am"
+  }, {
+    "postId" : "882580",
+    "author" : {
+      "username" : "Hongkongphooey",
+      "userId" : "882580",
+      "joined" : "Wed Dec 15, 2010 11:39 am",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "565",
+      "avatarPath" : null
+    },
+    "content" : "Or just get a Firetec system from vwJim. Loads of info on here about fire suppression.",
+    "lastEdited" : "Fri Sep 02, 2016 12:05 pm"
+  }, {
+    "postId" : "882581",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "882581",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2857",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "Firetech, they have saved a few buses already",
+    "lastEdited" : "Fri Sep 02, 2016 12:06 pm"
+  } ]
+}

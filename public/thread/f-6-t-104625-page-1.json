@@ -1,0 +1,131 @@
+{
+  "forumId" : "6",
+  "threadId" : "104625",
+  "title" : "csp rear brake pad help",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=104625",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=2b1b43661dd93df1bc660773170e260f",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "795100",
+    "author" : {
+      "username" : "etiennevert",
+      "userId" : "795100",
+      "joined" : "Sun Aug 06, 2006 11:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "275",
+      "avatarPath" : null
+    },
+    "content" : "Does anyone know if Euro car parts sell brake pads to fit rear cap disc kit (early kit)? And if so do you know the part number? Am stuck on a campsite in Norfolk with v poor mobile/internet connection (if I move I lose I :-/ and one of my pads has chosen toccompletely disintegrate. I know there's a Euro car parts in Norwich and can charge a lift. Am wanting to try everything I can before resorting to the AA. \n<br> \n<br> I ideally need to get it sorted tomorrow before we get booted off campsite - any help/knowledge appreciated.",
+    "lastEdited" : "Thu Jul 24, 2014 10:59 pm"
+  }, {
+    "postId" : "795105",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "795105",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "I saved this from another forum, I assume this was for the front though, no idea if the back are the same as I never changed those:\n<br> \n<br> \"CSP Pads\n<br> after popping a pad out and a trip down to local car spares shop, i found the pads are identical to most early vauxhalls. i now have part numbers to save you the trouble of doing the same! so stick these part numbers in a file ready for when you need them \n<br> Quinton Hazel part number: QH-BP141\n<br> Trusting part number (originally supplied): FT1011EF\n<br> EBC 'greenstuff': DP2325 \"\n<br> \n<br> Hope you get sorted, have you posted on the Facebook group? They're normally quick to respond.",
+    "lastEdited" : "Thu Jul 24, 2014 11:33 pm"
+  }, {
+    "postId" : "795414",
+    "author" : {
+      "username" : "etiennevert",
+      "userId" : "795414",
+      "joined" : "Sun Aug 06, 2006 11:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "275",
+      "avatarPath" : null
+    },
+    "content" : "Cheers for the reply - just limped back home - fitted new pads but the problem lies deeper... for some reason the rear hub nut is being forced off despite being torqued up to spec and beyond... It just breaks through the split pins (second one remained until a couple of miles from home). As it happens the rears are different - and are readily available at Euro car parts. For anyone in need they are as follows:\n<br> \n<br> \n<a href=\"http://s222.photobucket.com/user/etiennevert/media/Mobile%20Uploads/DSC_0770.jpg.html\" class=\"postlink\"><img src=\"http://i222.photobucket.com/albums/dd159/etiennevert/Mobile%20Uploads/DSC_0770.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> \n<a href=\"http://s222.photobucket.com/user/etiennevert/media/Mobile%20Uploads/DSC_0769.jpg.html\" class=\"postlink\"><img src=\"http://i222.photobucket.com/albums/dd159/etiennevert/Mobile%20Uploads/DSC_0769.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Sun Jul 27, 2014 10:19 pm"
+  }, {
+    "postId" : "832615",
+    "author" : {
+      "username" : "gazmate",
+      "userId" : "832615",
+      "joined" : "Sat Jul 29, 2006 3:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "hastings england",
+      "postCount" : "462",
+      "avatarPath" : null
+    },
+    "content" : "This is Very helpful!\n<br> \n<br> Dont suppose the callipers themselves are off something stock? (csp rear 5x130 pattern kit)",
+    "lastEdited" : "Wed Apr 29, 2015 6:08 pm"
+  }, {
+    "postId" : "832676",
+    "author" : {
+      "username" : "etiennevert",
+      "userId" : "832676",
+      "joined" : "Sun Aug 06, 2006 11:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "275",
+      "avatarPath" : null
+    },
+    "content" : "The hub etc is a work if art and I assume it's bespoke by csp. Calipers and carriers are compatible with mk3 golf gti rears iirc",
+    "lastEdited" : "Wed Apr 29, 2015 10:19 pm"
+  }, {
+    "postId" : "832684",
+    "author" : {
+      "username" : "gazmate",
+      "userId" : "832684",
+      "joined" : "Sat Jul 29, 2006 3:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "hastings england",
+      "postCount" : "462",
+      "avatarPath" : null
+    },
+    "content" : "Thanks ill check that out \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\"> . I assume the disc is made for CSP as its a bit specialist rather than fit several cars",
+    "lastEdited" : "Wed Apr 29, 2015 11:53 pm"
+  }, {
+    "postId" : "832687",
+    "author" : {
+      "username" : "etiennevert",
+      "userId" : "832687",
+      "joined" : "Sun Aug 06, 2006 11:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "275",
+      "avatarPath" : null
+    },
+    "content" : "Not sure about the discs - could well be off the shelf items - but the hub assembly they are bolted to must be csp's design to fit with the rear axle splines etc..",
+    "lastEdited" : "Thu Apr 30, 2015 12:36 am"
+  }, {
+    "postId" : "832823",
+    "author" : {
+      "username" : "gazmate",
+      "userId" : "832823",
+      "joined" : "Sat Jul 29, 2006 3:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "hastings england",
+      "postCount" : "462",
+      "avatarPath" : null
+    },
+    "content" : "Went to GSF today and got these which also fit the Rear of the CSP Disk Brake Kit.\n<br> \n<br> Thanks for all the info!!\n<br> \n<br> \n<img src=\"https://scontent-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11162083_10153046222536263_54633261597152446_n.jpg?oh=7a28a0fabc45f8efa180439bb11fe154&amp;oe=55C54445\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> \n<img src=\"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/11188378_10153046222751263_7259580707646514499_n.jpg?oh=ca33e7c5009c616ed284267e84af3e6a&amp;oe=559B18CB&amp;__gda__=1438964445_5390ac793fa13e8dc5b72762ba06717b\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Thu Apr 30, 2015 9:44 pm"
+  }, {
+    "postId" : "832846",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "832846",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "From another forum a couple of years ago when I had these brakes:\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=6352&amp;sid=2b1b43661dd93df1bc660773170e260f&amp;mode=view\"><img src=\"./download/file.php?id=6352&amp;t=1&amp;sid=2b1b43661dd93df1bc660773170e260f\" class=\"postimage\" alt=\"ImageUploadedByTapatalk1430441922.207030.jpg\" title=\"ImageUploadedByTapatalk1430441922.207030.jpg (64.32 KiB) Viewed 2324 times\"></a>\n  </dt> \n </dl> \n</div> Just the pads so I think duplicates info you already have?",
+    "lastEdited" : "Fri May 01, 2015 1:00 am"
+  } ]
+}

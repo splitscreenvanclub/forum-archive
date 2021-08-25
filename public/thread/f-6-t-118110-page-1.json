@@ -1,0 +1,27 @@
+{
+  "forumId" : "6",
+  "threadId" : "118110",
+  "title" : "Insurance Valuation required",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=118110",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=372766464a67aecdb39975422a19de61",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "888819",
+    "author" : {
+      "username" : "Trigger",
+      "userId" : "888819",
+      "joined" : "Sun May 15, 2011 11:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "223",
+      "avatarPath" : null
+    },
+    "content" : "I need an insurance valuation for my bus - I live near leicester and would be able to meet for the valuation \n<br> Is there anyone in the midlands who can do this for me - so I can supply to my broker.\n<br> \n<br> Thanks\n<br> Trigger",
+    "lastEdited" : "Fri Dec 16, 2016 10:27 am"
+  } ]
+}

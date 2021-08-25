@@ -1,0 +1,43 @@
+{
+  "forumId" : "46",
+  "threadId" : "89125",
+  "title" : "Dudley cooker/Easicool",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=89125",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=455ac321296f49db500e37a59eb07d42",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=46&sid=455ac321296f49db500e37a59eb07d42",
+    "label" : "Devon"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "686263",
+    "author" : {
+      "username" : "Bernard8353",
+      "userId" : "686263",
+      "joined" : "Fri Sep 21, 2012 10:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Estepona Malaga Spain",
+      "postCount" : "6",
+      "avatarPath" : "./download/file.php%3Favatar=37051_1348998112.jpg"
+    },
+    "content" : "A shot in the dark but does anyone know of the whereabouts of a Dudley foldaway cooker to fit in the door cupboard (green and black) and an easicool fridge.",
+    "lastEdited" : "Thu Oct 11, 2012 7:03 pm"
+  }, {
+    "postId" : "686454",
+    "author" : {
+      "username" : "delux 67",
+      "userId" : "686454",
+      "joined" : "Thu Jun 30, 2005 10:36 am",
+      "profileRank" : "SSVC Member",
+      "location" : "manchester",
+      "postCount" : "3807",
+      "avatarPath" : null
+    },
+    "content" : "hi mate\n<br> \n<br> as for easicool i would keep an eye on e-bay they do come up often \n<br> \n<br> Brian",
+    "lastEdited" : "Fri Oct 12, 2012 4:26 pm"
+  } ]
+}

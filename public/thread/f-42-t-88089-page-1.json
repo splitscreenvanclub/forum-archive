@@ -1,0 +1,50 @@
+{
+  "forumId" : "42",
+  "threadId" : "88089",
+  "title" : "Green and White",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=42&t=88089",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "678668",
+    "author" : {
+      "username" : "VioletVW",
+      "userId" : "678668",
+      "joined" : "Sun Jan 03, 2010 8:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cardiff",
+      "postCount" : "228",
+      "avatarPath" : "./download/file.php%3Favatar=33840_1262622037.gif"
+    },
+    "content" : "As above seen passing Sarn, Junction 36. LHD with German plates. Earlyish bus with small rear window. Very nice.",
+    "lastEdited" : "Sun Sep 02, 2012 2:56 pm"
+  }, {
+    "postId" : "735856",
+    "author" : {
+      "username" : "germanbulli",
+      "userId" : "735856",
+      "joined" : "Sat Jul 17, 2010 7:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br>\n<br>long time ago, but I think it was me. We come back again this year to stay a few days in Wales and then we go to busfest...",
+    "lastEdited" : "Mon Jul 22, 2013 8:16 am"
+  }, {
+    "postId" : "754673",
+    "author" : {
+      "username" : "Le Counte de JAYFOR",
+      "userId" : "754673",
+      "joined" : "Mon Jul 04, 2005 10:01 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Normandie/Londres",
+      "postCount" : "8653",
+      "avatarPath" : "http://i25.photobucket.com/albums/c83/jossy_bakhsh/Mobile%20Uploads/42c71524-8bee-4e0b-acca-909a271d024d_zps0f684f88.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>germanbulli wrote:</cite>Hi,\n  <br>\n  <br>long time ago, but I think it was me. We come back again this year to stay a few days in Wales and then we go to busfest...\n </div>\n</blockquote>\n<br>\n<br>Has this bus got green and white seats?...",
+    "lastEdited" : "Mon Oct 28, 2013 11:17 pm"
+  } ]
+}

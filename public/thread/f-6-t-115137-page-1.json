@@ -1,0 +1,141 @@
+{
+  "forumId" : "6",
+  "threadId" : "115137",
+  "title" : "Bus speedo",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115137",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 10,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868229",
+    "author" : {
+      "username" : "toby72",
+      "userId" : "868229",
+      "joined" : "Tue Feb 28, 2006 12:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wickford essex",
+      "postCount" : "177",
+      "avatarPath" : "http://i68.photobucket.com/albums/i35/toby72/clip.jpg"
+    },
+    "content" : "Hi all I've just got a 1958 speedo for my bus, I've put a new needle on it and painted the ring I've never had it in the bus before but it doesn't read the speed correctly jumps from one speed to another and is running about 10-20 mph out can anyone help\n<br>Cheers toby",
+    "lastEdited" : "Sun Mar 20, 2016 6:52 pm"
+  }, {
+    "postId" : "868271",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "868271",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5129",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Try pulling the inner cable out and giving it a once over with some emery cloth then coat it with oil and put it back in again. It sounds like it's not turning properly and then whipping round and causing the speedo to jump. \n<br>Also check that the end where it goes into the hub is square and so is the hole it goes into on the grease cap and it has the little C-clip holding it nice and snug. \n<br>\n<br>Cheers, Lee.",
+    "lastEdited" : "Sun Mar 20, 2016 10:22 pm"
+  }, {
+    "postId" : "868276",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "868276",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10322",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Does sound like a cable problem..\n<br>Need to check...\n<br>It can break your nice new needle..\n<br>G",
+    "lastEdited" : "Sun Mar 20, 2016 10:55 pm"
+  }, {
+    "postId" : "868328",
+    "author" : {
+      "username" : "toby72",
+      "userId" : "868328",
+      "joined" : "Tue Feb 28, 2006 12:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wickford essex",
+      "postCount" : "177",
+      "avatarPath" : "http://i68.photobucket.com/albums/i35/toby72/clip.jpg"
+    },
+    "content" : "Cheers for the help cable worked fine on my last speedo literally took the old speedo out put the new one in could it need calibrating ? May it be the shaft in the back of the clock ? the c-clip and square look good and I defo don't want to break that needle \n<br>Toby",
+    "lastEdited" : "Mon Mar 21, 2016 7:24 pm"
+  }, {
+    "postId" : "868329",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "868329",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10322",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "I had my speedo refurbished by Thorsten...\n<br>I bought it second hand with a broken needle but on strip down the gear drive was chewed up, which may have been the cause of the broken needle...\n<br>He replaced the drive...works lovely now..\n<br>G",
+    "lastEdited" : "Mon Mar 21, 2016 7:27 pm"
+  }, {
+    "postId" : "868338",
+    "author" : {
+      "username" : "toby72",
+      "userId" : "868338",
+      "joined" : "Tue Feb 28, 2006 12:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wickford essex",
+      "postCount" : "177",
+      "avatarPath" : "http://i68.photobucket.com/albums/i35/toby72/clip.jpg"
+    },
+    "content" : "Cheers G any details on thorsten do you know weather he can recalibrate to my tire size ?\n<br>Cheers toby",
+    "lastEdited" : "Mon Mar 21, 2016 8:07 pm"
+  }, {
+    "postId" : "868340",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "868340",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10322",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "He can..I believe.\n<br>I will dig out details and add to this post.\n<br>Email and he replies with cost and delivery times.\n<br>G",
+    "lastEdited" : "Mon Mar 21, 2016 8:16 pm"
+  }, {
+    "postId" : "868346",
+    "author" : {
+      "username" : "toby72",
+      "userId" : "868346",
+      "joined" : "Tue Feb 28, 2006 12:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wickford essex",
+      "postCount" : "177",
+      "avatarPath" : "http://i68.photobucket.com/albums/i35/toby72/clip.jpg"
+    },
+    "content" : "Cheers G thanks for that \n<br>Toby",
+    "lastEdited" : "Mon Mar 21, 2016 8:37 pm"
+  }, {
+    "postId" : "868355",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "868355",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10322",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Contact Thorsten Schneider at \n<br>\n<br>\n<!-- e -->\n<a href=\"mailto:vw-museum@freenet.de\">vw-museum@freenet.de</a>\n<!-- e -->\n<br>\n<br>My thread..\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=107002&amp;p=811101&amp;hilit=schneider#p811101\">http://www.ssvc.org.uk/phpbb/viewtopic. ... er#p811101</a>\n<!-- m -->\n<br>\n<br>G",
+    "lastEdited" : "Mon Mar 21, 2016 9:34 pm"
+  }, {
+    "postId" : "868362",
+    "author" : {
+      "username" : "toby72",
+      "userId" : "868362",
+      "joined" : "Tue Feb 28, 2006 12:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wickford essex",
+      "postCount" : "177",
+      "avatarPath" : "http://i68.photobucket.com/albums/i35/toby72/clip.jpg"
+    },
+    "content" : "Wow thanks G they look amazing il be emailing him tomorrow \n<br>Thanks again toby",
+    "lastEdited" : "Mon Mar 21, 2016 10:36 pm"
+  } ]
+}

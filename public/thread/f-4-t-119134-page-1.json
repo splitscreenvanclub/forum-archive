@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "119134",
+  "title" : "## SOLD ##",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=119134",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=b319e9455b06f6997d24d2c9e63ccccc",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "896345",
+    "author" : {
+      "username" : "busben",
+      "userId" : "896345",
+      "joined" : "Tue Oct 07, 2008 11:33 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "592",
+      "avatarPath" : null
+    },
+    "content" : "Looking for £60 each for these ............\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=21188&amp;sid=b319e9455b06f6997d24d2c9e63ccccc&amp;mode=view\"><img src=\"./download/file.php?id=21188&amp;t=1&amp;sid=b319e9455b06f6997d24d2c9e63ccccc\" class=\"postimage\" alt=\"IMG_3979 (Small).JPG\" title=\"IMG_3979 (Small).JPG (88.49 KiB) Viewed 1159 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=21189&amp;sid=b319e9455b06f6997d24d2c9e63ccccc&amp;mode=view\"><img src=\"./download/file.php?id=21189&amp;t=1&amp;sid=b319e9455b06f6997d24d2c9e63ccccc\" class=\"postimage\" alt=\"IMG_3980 (Small).JPG\" title=\"IMG_3980 (Small).JPG (77.77 KiB) Viewed 1159 times\"></a>\n  </dt> \n </dl> \n</div> \n<br> Can pack'n'post at your cost, deliver to a show, or you can come and collect from Kettering.\n<br> \n<br> Thanks for looking,\n<br> \n<br> Ben\n<br> 07742 408558",
+    "lastEdited" : "Thu Apr 27, 2017 2:17 pm"
+  }, {
+    "postId" : "896351",
+    "author" : {
+      "username" : "Aspro",
+      "userId" : "896351",
+      "joined" : "Tue Oct 23, 2012 7:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "554",
+      "avatarPath" : null
+    },
+    "content" : "No switches Ben? Is it easy enough to use a switch of a later base?",
+    "lastEdited" : "Thu Apr 27, 2017 2:50 pm"
+  }, {
+    "postId" : "896358",
+    "author" : {
+      "username" : "busben",
+      "userId" : "896358",
+      "joined" : "Tue Oct 07, 2008 11:33 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "592",
+      "avatarPath" : null
+    },
+    "content" : "Good speaking to you dude. See you at Stanford Hall.",
+    "lastEdited" : "Thu Apr 27, 2017 5:09 pm"
+  } ]
+}

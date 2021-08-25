@@ -1,0 +1,92 @@
+{
+  "forumId" : "2",
+  "threadId" : "123089",
+  "title" : "timmers and interiors",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123089",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=56de36c06fce256a71998fbe2eacf1e1",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920302",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "920302",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "does anyone know of a decent trimmer / interior company anywhere near leeds? the oily bits on the bus are nearly done now and i need to find someone who ideally can do both the trimming and the wooden bits of the interior etc not a million miles from where i live..... the van is in kennilworth so i really just want to find somewhere thats at least on the way to me from kennilworth....\n<br> \n<br> cheers",
+    "lastEdited" : "Mon Mar 04, 2019 9:58 am"
+  }, {
+    "postId" : "920303",
+    "author" : {
+      "username" : "bowie",
+      "userId" : "920303",
+      "joined" : "Sat Jul 15, 2017 3:57 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "463",
+      "avatarPath" : null
+    },
+    "content" : "Richard Booth for woodwork, and Kens customs for trimming. Not to far from Kenilworth.",
+    "lastEdited" : "Mon Mar 04, 2019 10:58 am"
+  }, {
+    "postId" : "920307",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "920307",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "cheers, have already spoked to those guys unfortunately they have no slots till september which is too far away i think",
+    "lastEdited" : "Mon Mar 04, 2019 11:43 am"
+  }, {
+    "postId" : "920317",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "920317",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15456",
+      "avatarPath" : null
+    },
+    "content" : "Kevin Jackson ...but you know of him. He will make interior panels and Interior wood work to your requirements.\n<br> He will fit you in!\n<br> G",
+    "lastEdited" : "Mon Mar 04, 2019 2:49 pm"
+  }, {
+    "postId" : "920319",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "920319",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "he's in shropshire now graham..... ideally i want to send to where i can get them done at the same time so that i dont have to continue to ferry the van about etc...... you back from bonnie scotland yet?",
+    "lastEdited" : "Mon Mar 04, 2019 3:59 pm"
+  }, {
+    "postId" : "920320",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "920320",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15456",
+      "avatarPath" : null
+    },
+    "content" : "Indeed he is! You or he could get a set of Interior panel, cab seat covers if you need and a set of cushions from J&amp;S?\n<br> Fitted by Kevin with his interior?\n<br> LHD WT? \n<br> Remember you had headlining fitted.. but cannot remember are\n<br> Cab seats covered?\n<br> Any Interior panels?\n<br> Any clear shopping list?",
+    "lastEdited" : "Mon Mar 04, 2019 4:05 pm"
+  } ]
+}

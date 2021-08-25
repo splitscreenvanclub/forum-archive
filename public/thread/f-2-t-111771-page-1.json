@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "111771",
+  "title" : "Wiper motor 211 955 111a",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=111771",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=93af27f128e43685df55e181aee5b017",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "843737",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "843737",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3260",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "I have a wiper motor that I want to put up for sale as I think it will be of use to somebody here\n<br> \n<br> it number is \n<br> \n<br> 211 955 111a\n<br> \n<br> Has SWF on the top\n<br> \n<br> I believe it's a 6v\n<br> \n<br> I only have a 12v battery to test it on. I think I'm right in saying it will run twice as fast but obviously I don't want to brake it.\n<br> \n<br> so \n<br> \n<br> Is it ok to just earth it and then connect it to a battery or should I connect after the fuse board on my 12v van.\n<br> \n<br> also should I convert it to 12v ? \n<br> \n<br> I hear it's quite simple and I'm sure I've seen instructions before in the past on how to do it.\n<br> \n<br> Jason\n<br> \n<br> I found this quote from BJ1 on a thread that I wanted to copy a link to but when I change page I lose the text i've written and dont fancy losing this lot again so here it is, mine is exactly the same as BJ1's pic\n<br> \n<blockquote>\n <div>\n  <cite>BJ1 wrote:</cite>Here you go. 211 955 111A 1955-64 complete with bracket and one arm. Full working order - the brushes are only slightly worn so this motor has not seen much use. I'll want £75 plus £6 postage for this one please.\n  <br> \n  <a href=\"http://s218.photobucket.com/user/brianj07/media/VW%20bits/DSCF3232_zpscceewapj.jpg.html\" class=\"postlink\"><img src=\"http://i218.photobucket.com/albums/cc142/brianj07/VW%20bits/DSCF3232_zpscceewapj.jpg\" class=\"postimage\" alt=\"Image\"></a>\n  <br> \n  <a href=\"http://s218.photobucket.com/user/brianj07/media/VW%20bits/DSCF3233_zpskcb7nucq.jpg.html\" class=\"postlink\"><img src=\"http://i218.photobucket.com/albums/cc142/brianj07/VW%20bits/DSCF3233_zpskcb7nucq.jpg\" class=\"postimage\" alt=\"Image\"></a>\n  <br> \n  <a href=\"http://s218.photobucket.com/user/brianj07/media/VW%20bits/DSCF3234_zpsaoz72zl1.jpg.html\" class=\"postlink\"><img src=\"http://i218.photobucket.com/albums/cc142/brianj07/VW%20bits/DSCF3234_zpsaoz72zl1.jpg\" class=\"postimage\" alt=\"Image\"></a>\n  <br> \n  <br> Pm me for payment details etc.\n  <br> Cheers\n  <br> Brian\n </div>\n</blockquote>",
+    "lastEdited" : "Wed Jul 29, 2015 10:04 pm"
+  }, {
+    "postId" : "843792",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "843792",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "I can confirm it is 6 volt.\n<br> Why don't you go to Wilkos and buy a cheap 6 volt household battery (they are about 65 mm square by 100mm tall with spring terminals on the top) for about £2.50 and then just connect up to the wiper motor. Saves any issues. \n<br> Alternatively bring it round to my house and I'll test it with one of my 6 volt batteries (as above) that I use for motor testing.",
+    "lastEdited" : "Thu Jul 30, 2015 11:48 am"
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "119753",
+  "title" : "Thread size for fuel filter flap fixings?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119753",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6b635cf2c8f6ff5b3d67fb073a62f793",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "900419",
+    "author" : {
+      "username" : "PIPKIN",
+      "userId" : "900419",
+      "joined" : "Thu Jul 03, 2008 6:58 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "314",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> \n<br> Fixing a new long side panel to my 62 and need to weld in the nuts for the 2 bolts that hold the fuel filler flap. \n<br> \n<br> Does anyone know the thread for the nuts and bolts?\n<br> \n<br> Cheers\n<br> \n<br> Paul",
+    "lastEdited" : "Fri Jul 21, 2017 9:16 am"
+  }, {
+    "postId" : "900484",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "900484",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "Taken from this diagram: \n<a href=\"http://www.oacdp.org/5867part/423.png\" class=\"postlink\">http://www.oacdp.org/5867part/423.png</a>\n<br> \n<br> The fuel flap is either 117 or 121, so whichever you have, the details for the fixings are on this page: \n<a href=\"http://www.oacdp.org/5867part/433.png\" class=\"postlink\">http://www.oacdp.org/5867part/433.png</a>\n<br> \n<br> Hope it helps.",
+    "lastEdited" : "Sat Jul 22, 2017 11:26 pm"
+  }, {
+    "postId" : "901299",
+    "author" : {
+      "username" : "PIPKIN",
+      "userId" : "901299",
+      "joined" : "Thu Jul 03, 2008 6:58 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "314",
+      "avatarPath" : null
+    },
+    "content" : "Cheers Samba 63\n<br> \n<br> It's a M4!\n<br> \n<br> Paul",
+    "lastEdited" : "Tue Aug 08, 2017 8:24 pm"
+  } ]
+}

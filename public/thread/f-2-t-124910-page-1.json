@@ -1,0 +1,27 @@
+{
+  "forumId" : "2",
+  "threadId" : "124910",
+  "title" : "AGM cancelled...",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=124910",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=fb95fdbfad39aaf32f78ccf30716517d",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931034",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "931034",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "914",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "I'm sure this will not come as unexpected news but unfortunately we have had to cancel this years AGM and Annual Rally. It has not been an easy decision and one we have tried very hard to avoid.\n<br> There does not appear any chance of government guidelines regarding mass gatherings relaxing to the extent where we could legally go ahead with the event.\n<br> We also have to put the safety and wellbeing of all the members first and foremost.\n<br> I am very sorry that we have had to cancel, but I'm sure you will all understand that going ahead with the event was not an option.\n<br> \n<br> Roll on next year, back bigger and better with the Bank Holiday reinstated as well.\n<br> \n<br> Mods - I put this on the end of a couple of AGM threads but it appears it was getting missed there. Hopefully everyone will see it now. Thanks",
+    "lastEdited" : "Mon Jul 06, 2020 11:48 am"
+  } ]
+}

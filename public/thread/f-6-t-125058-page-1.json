@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "125058",
+  "title" : "Wiring issues",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125058",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=46e717ef963743b9be0e6dae6437f34f",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931774",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931774",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Rhd 65. Having issues with lights. Both headlights work on full and dipped. Neither sidelights work. Rear drivers side tail light doesn't work, passenger does. Both brake lights work. Number plate light doesn't work, I know it gets it power from drivers tail light though.. lastly rear indicator, drivers side, doesn't work, front and passengers do. \n<br> \n<br> I have checked the tail light bulbs, all ok. Not checked the indicator bulb yet. I have temporarily run a wire from passenger side to drivers side tail light, which then works, so guessing the earth is ok?\n<br> \n<br> I'm thinking light switch? Not checked yet a we need the van for next 2 days and have looked at the switch before which took a while \n<img alt=\"😁\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f601.svg\">\n<br> \n<br> Any help appreciated!",
+    "lastEdited" : "Fri Aug 21, 2020 6:42 pm"
+  }, {
+    "postId" : "931777",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "931777",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "923",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "I can't do anything electrical without a multimeter. They only cost about £20 but make sure it measures continuity. With a tester wire long enough to easily reach the back of the van and a crocodile clip at each end you can easily check all your wires and switches are good, connected properly and getting power. It's just a question of being methodical taking each light in turn.",
+    "lastEdited" : "Fri Aug 21, 2020 7:34 pm"
+  }, {
+    "postId" : "931779",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931779",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Hi, thanks. Yes I have one and know there is no power to the rear trail light, I know I will have to look at the switch, but it is spaghetti behind the Speedo and not a quick job, I normally cause more problems than I solve initially\n<img alt=\"😁\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f601.svg\"> just hoping that it would be something easy that I have missed. Normally I would have days to spend on this, typical.",
+    "lastEdited" : "Fri Aug 21, 2020 7:45 pm"
+  }, {
+    "postId" : "931780",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931780",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Hi, thanks. Yes I have one and know there is no power to the rear trail light, I know I will have to look at the switch, but it is spaghetti behind the Speedo and not a quick job, I normally cause more problems than I solve initially\n<img alt=\"😁\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f601.svg\"> just hoping that it would be something easy that I have missed. Normally I would have days to spend on this, typical.",
+    "lastEdited" : "Fri Aug 21, 2020 7:46 pm"
+  }, {
+    "postId" : "931802",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931802",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "All sorted, my fault, put in new headlights and not put the screw holder thing on properly, so the sidelights contact was shorting on the headlight housing!",
+    "lastEdited" : "Sat Aug 22, 2020 8:10 pm"
+  }, {
+    "postId" : "931803",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931803",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "All sorted, my fault, put in new headlights and not put the screw holder thing on properly, so the sidelights contact was shorting on the headlight housing!",
+    "lastEdited" : "Sat Aug 22, 2020 8:11 pm"
+  } ]
+}

@@ -1,0 +1,170 @@
+{
+  "forumId" : "6",
+  "threadId" : "93107",
+  "title" : "Cooling with J Tubes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=93107",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 12,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "715377",
+    "author" : {
+      "username" : "gazzahazza",
+      "userId" : "715377",
+      "joined" : "Wed Feb 20, 2013 12:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "210",
+      "avatarPath" : null
+    },
+    "content" : "Dear All,\n<br> \n<br> have recently bought my bus and trying to understand some of the do's and dont's behind the technology. The engine is a 1600 TP with a 4 into 1 header for the exhaust connected by J tubes (as in no heat exchangers). Looking at the fan housing the cardboard tubing is still in place as if the original heating sytem were intact. Is this wise or even wortwhile? Would i be better off blanking off these tubes and forcing the air to take a different, and hopefully more beneficial in terms of cooling, path? \n<br> \n<br> Cheers\n<br> \n<br> GH",
+    "lastEdited" : "Thu Apr 11, 2013 11:22 am"
+  }, {
+    "postId" : "715388",
+    "author" : {
+      "username" : "Splitster",
+      "userId" : "715388",
+      "joined" : "Mon Mar 18, 2013 5:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "13",
+      "avatarPath" : null
+    },
+    "content" : "You have answered your own question. The tube off the fan housing are to blow air into the heat exchangers nothing else. So yes go ahead and blank the fan housing outlets. Make sure the flaps and thermostat are fitted and working correctly too. \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Thu Apr 11, 2013 12:10 pm"
+  }, {
+    "postId" : "715391",
+    "author" : {
+      "username" : "Banger",
+      "userId" : "715391",
+      "joined" : "Tue Jul 19, 2011 6:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "242",
+      "avatarPath" : "./download/file.php%3Favatar=35663_1320695493.jpg"
+    },
+    "content" : "Have a read of this...\n<br> \n<br> \n<a href=\"http://www.awesomepowdercoat.com/Industrial_Shields.html\" class=\"postlink\">http://www.awesomepowdercoat.com/Indust ... ields.html</a>",
+    "lastEdited" : "Thu Apr 11, 2013 12:20 pm"
+  }, {
+    "postId" : "715496",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "715496",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "4060",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Im in the same boat,thought about blanking mine, seen blanks on ebay:-) also was going to leave the tubes in after blanking the fan shroud to fill the tinwear holes and still look stock for now.",
+    "lastEdited" : "Thu Apr 11, 2013 7:45 pm"
+  }, {
+    "postId" : "715598",
+    "author" : {
+      "username" : "gazzahazza",
+      "userId" : "715598",
+      "joined" : "Wed Feb 20, 2013 12:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "210",
+      "avatarPath" : null
+    },
+    "content" : "Well on the back of this discussion I have ordered a couple of blanking plugs. I cant imagine I will be converting back to the original heating system any time soon.\n<br> \n<br> Thanks for the advice.\n<br> \n<br> GH",
+    "lastEdited" : "Fri Apr 12, 2013 10:23 am"
+  }, {
+    "postId" : "715611",
+    "author" : {
+      "username" : "thesickness",
+      "userId" : "715611",
+      "joined" : "Sun Nov 28, 2010 8:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "459",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Marvelwear wrote:</cite>Im in the same boat,thought about blanking mine, seen blanks on ebay:-) also was going to leave the tubes in after blanking the fan shroud to fill the tinwear holes and still look stock for now.\n </div>\n</blockquote> Tennis ball cut up \"serves\" well as blanking plugs \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> I also left the air hose in place going just under the tinwear so it looks tidier.",
+    "lastEdited" : "Fri Apr 12, 2013 12:07 pm"
+  }, {
+    "postId" : "715626",
+    "author" : {
+      "username" : "gazzahazza",
+      "userId" : "715626",
+      "joined" : "Wed Feb 20, 2013 12:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "210",
+      "avatarPath" : null
+    },
+    "content" : "You could have a bit of a \"racquet\" going with those tennis balls.......",
+    "lastEdited" : "Fri Apr 12, 2013 1:25 pm"
+  }, {
+    "postId" : "715658",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "715658",
+      "joined" : "Wed Dec 21, 2011 6:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northampton",
+      "postCount" : "1263",
+      "avatarPath" : null
+    },
+    "content" : "Mini Coke cans worked for me (dremel'd the top out and they just push fit) \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> \n<img src=\"http://i840.photobucket.com/albums/zz328/chenowthnik/613010FB-F5D2-43BB-8954-39C8B9260B51-3357-00000EA07545516B.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Replaced them with the bought blanking caps ventual, but these did a perfectly good job for many miles.\n<br> \n<br> Red bull cans are the same diameter and work too \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br> \n<br> All right for a laugh or a stopgap\n<br> \n<br> Nik",
+    "lastEdited" : "Fri Apr 12, 2013 5:01 pm"
+  }, {
+    "postId" : "715677",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "715677",
+      "joined" : "Tue Apr 29, 2003 11:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leicester",
+      "postCount" : "1280",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Splitster wrote:</cite>The tube off the fan housing are to blow air into the heat exchangers nothing else. \n </div>\n</blockquote> True, but bear in mind that the role of the heat exchanger is to remove excess heat from the cylinder heads, irrespective of the heating system.\n<br> Your engine will still run without heat exchangers but it is a part of the \n<strong class=\"text-strong\">cooling</strong> system, so you will run slightly hotter in summer and heat is going to reduce longevity.\n<br> \n<br> Good thread here:\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=434051&amp;highlight=heater+tutorial\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewto ... r+tutorial</a>\n<br> \n<br> You see a lot of air cooled VW's in the hard shoulder overheated in summer - vw didn't design them that way!",
+    "lastEdited" : "Fri Apr 12, 2013 7:03 pm"
+  }, {
+    "postId" : "716059",
+    "author" : {
+      "username" : "M J D",
+      "userId" : "716059",
+      "joined" : "Fri Jan 19, 2007 9:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Somerset",
+      "postCount" : "649",
+      "avatarPath" : "./download/file.php%3Favatar=4207_1298320884.jpg"
+    },
+    "content" : "Hi I was in the same dilemma as you I have a vintage speed exhaust running with j tubes, I used to have the outlets on the fan housing blocked off with blank off plugs ,but have now swapped back to letting the air just blow through the tin ware on to the header after reading an in-depth study a chap called jake rabby had posted on the samba.com . He carried out temperature readings on the heads while using the different methods . He found that if you blank off the horns on the fan housing with plugs it causes turbulence in the housing it's self leading to a lack of cooling to one side of the engine saying that it is more beneficial to leave it with the tubes on and let it vent under the tin ware. It says in his findings to gain the most cooling you should use the tubes conected to the housing with a plug in the end of them to which you drill a 40 mm hole in the centre this creates the same amount of back pressure that you would get if they were connected to heat exchangers. If I can find the article on the samba again I will post a link to it. \n<br> \n<br> Cheers Martin",
+    "lastEdited" : "Sun Apr 14, 2013 3:21 pm"
+  }, {
+    "postId" : "716471",
+    "author" : {
+      "username" : "gazzahazza",
+      "userId" : "716471",
+      "joined" : "Wed Feb 20, 2013 12:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "210",
+      "avatarPath" : null
+    },
+    "content" : "Blimey after reading through all of that lot it has scared me to death that the engine is going to overheat because of a lack of standard exhaust/system and heat exchangers! Well it seems that blocking off the fan shroud is not a good move so will forget that for the time being. Having read the article about the whole system it sees that the stock exhaust system is a masterpiece of design and shouldnt be messed with. Might have to buy me some heat exchangers after all.....",
+    "lastEdited" : "Tue Apr 16, 2013 12:02 pm"
+  }, {
+    "postId" : "716495",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "716495",
+      "joined" : "Tue Apr 29, 2003 11:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leicester",
+      "postCount" : "1280",
+      "avatarPath" : null
+    },
+    "content" : "Well VW's focus was more on reliability and economy than power. You can get a lot more power from these engines, but it's a bit if a balancing act. So as long as you are aware of the knock on consequences of any given change you can either try to design the consequences out, or be happy to live with them. \n<br> There are, undoubtedly, some experts out there, but personally I have neither the time or knowledge to feel I could improve on Vw's work. Mind you I am going through something of a stock revival! \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" width=\"15\" height=\"27\" alt=\":drunken:\" title=\"drunken\">",
+    "lastEdited" : "Tue Apr 16, 2013 2:30 pm"
+  } ]
+}

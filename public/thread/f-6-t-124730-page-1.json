@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "124730",
+  "title" : "67 radio",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124730",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ce9eaa37cc42f29b42fd45bc2b606db1",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929961",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "929961",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "428",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys, could anyone tell me what radio would be correct for a 67 westy ? Kind regards Neil",
+    "lastEdited" : "Mon May 18, 2020 8:23 pm"
+  }, {
+    "postId" : "929972",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "929972",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15466",
+      "avatarPath" : null
+    },
+    "content" : "Does your 67 have the later larger DIN sized radio aperture?\n<br> Blaupunkt made radios to that new standard. I believe these listed Radios were all transistor and more compact than the earlier ones with a seperate power pack based on valves. \n<br> If a US LHD bus you could examine thesamba.com threads for US aftermarket radios.\n<br> \n<br> First search the Forum in the \"For sale\" threads from Rich Oakley. He sells Blaupunkts of all ages. Some as fitted by VW with VW knobs/ logos.",
+    "lastEdited" : "Tue May 19, 2020 7:14 am"
+  }, {
+    "postId" : "929973",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "929973",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15466",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"https://www.thesamba.com/vw/forum/viewtopic.php?p=2303997\" class=\"postlink\">https://www.thesamba.com/vw/forum/viewt ... ?p=2303997</a>\n<br> \n<br> Pictures of radios start here?\n<br> \n<br> \n<a href=\"https://www.thesamba.com/vw/forum/viewtopic.php?p=2303997\" class=\"postlink\">https://www.thesamba.com/vw/forum/viewt ... ?p=2303997</a>",
+    "lastEdited" : "Tue May 19, 2020 7:18 am"
+  }, {
+    "postId" : "929977",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "929977",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "391",
+      "avatarPath" : null
+    },
+    "content" : "I have a 67 only blaupunkt I bought from Rich about 6 weeks ago. It’s FM, works perfectly and in really great condition. I’ve managed to fix the one already fitted so PM me if you’re still looking.",
+    "lastEdited" : "Tue May 19, 2020 11:36 am"
+  }, {
+    "postId" : "930038",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "930038",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15466",
+      "avatarPath" : null
+    },
+    "content" : "I assume for your LHD Westy. There is a US Bendix Sapphire in the \"For sale\" thread\n<br> \n<br>",
+    "lastEdited" : "Fri May 22, 2020 9:46 am"
+  } ]
+}

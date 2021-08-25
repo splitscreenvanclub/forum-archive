@@ -1,0 +1,196 @@
+{
+  "forumId" : "6",
+  "threadId" : "6432",
+  "title" : "will a 6v fuel gauge work in 12v system ?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=6432",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=5462e040dfdb2026dd265708dd050f48",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 14,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "31008",
+    "author" : {
+      "username" : "utting30",
+      "userId" : "31008",
+      "joined" : "Wed Jun 25, 2003 4:06 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "360",
+      "avatarPath" : null
+    },
+    "content" : "Will a 6v fuel gauge work in a 12v system ? or will i need a voltage dropper ? cheers guys paul \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Jan 10, 2005 3:30 pm"
+  }, {
+    "postId" : "31009",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "31009",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11921",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "yip you need one of them, cheap enough though\n<br> \n<br> \n<a href=\"http://www.bigboystoys-uk.com/\" class=\"postlink\">http://www.bigboystoys-uk.com/</a>\n<br> \n<br> Voltage reducers 12v - 6v \n<br> \n<br> For use with low current devices such as chokes, semaphores etc. 12v - 6v. Solid state \n<br> Price - 9.95 GBP",
+    "lastEdited" : "Mon Jan 10, 2005 3:38 pm"
+  }, {
+    "postId" : "31010",
+    "author" : {
+      "username" : "utting30",
+      "userId" : "31010",
+      "joined" : "Wed Jun 25, 2003 4:06 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "360",
+      "avatarPath" : null
+    },
+    "content" : "cheers for that dude \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Jan 10, 2005 3:42 pm"
+  }, {
+    "postId" : "31011",
+    "author" : {
+      "username" : "shawn",
+      "userId" : "31011",
+      "joined" : "Wed Apr 23, 2003 6:49 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Brighton",
+      "postCount" : "2558",
+      "avatarPath" : null
+    },
+    "content" : "Got mine from Peter Good on here, £6 inc postage, works well \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> ,",
+    "lastEdited" : "Mon Jan 10, 2005 4:41 pm"
+  }, {
+    "postId" : "31089",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "31089",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "I think you can get them from Maplin electronics cheap as chips. Try looking at order code AW69A on their website as I was told this is what I was after when I enquired a few weeks back.\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Jan 11, 2005 9:27 am"
+  }, {
+    "postId" : "31091",
+    "author" : {
+      "username" : "shawn",
+      "userId" : "31091",
+      "joined" : "Wed Apr 23, 2003 6:49 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Brighton",
+      "postCount" : "2558",
+      "avatarPath" : null
+    },
+    "content" : "I tried to make my own before I bought one from Peter, the Maplin one is the same as he uses. The only trouble I had was that you've almost got to keep it/solder it in sterile conditions! or any static in the slightest will render it usless, I made 3 or 4 and when I ran a test meter through them it kept showing 12v. Got one from Peter, it showed 6v and worked!! \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Jan 11, 2005 9:51 am"
+  }, {
+    "postId" : "31260",
+    "author" : {
+      "username" : "splitscreencharlie",
+      "userId" : "31260",
+      "joined" : "Wed Jan 05, 2005 12:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "Wood End, Atherstone, Warwickshire",
+      "postCount" : "164",
+      "avatarPath" : null
+    },
+    "content" : "My bus runs on 6v at the min. what would be the pro's/con's of converting it to 12v??????",
+    "lastEdited" : "Wed Jan 12, 2005 5:52 pm"
+  }, {
+    "postId" : "31290",
+    "author" : {
+      "username" : "coleman keith",
+      "userId" : "31290",
+      "joined" : "Sun Apr 20, 2003 11:09 am",
+      "profileRank" : "Registered user",
+      "location" : "Bridgwater, Somerset",
+      "postCount" : "1156",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>splitscreencharlie wrote:</cite>My bus runs on 6v at the min. what would be the pro's/con's of converting it to 12v??????\n </div>\n</blockquote> thats easy Headlights in stead of candles \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Wed Jan 12, 2005 9:32 pm"
+  }, {
+    "postId" : "31296",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "31296",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11921",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "<blockquote class=\"uncited\">\n <div>\n  splitscreencharlie\n  <br> \n  <br> My bus runs on 6v at the min. what would be the pro's/con's of converting it to 12v?????? \n </div>\n</blockquote> \n<a href=\"http://www.type2.com/library/electris/wire6v12.htm\" class=\"postlink\">http://www.type2.com/library/electris/wire6v12.htm</a>\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Wed Jan 12, 2005 10:47 pm"
+  }, {
+    "postId" : "31310",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "31310",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Sorry VW Buzzers; that link is not really the most helpfull or technically accurate I regret to say - in my opinion of course.\n<br> I have a range of technical guide on converting from 6 to 12 volt systems giving far more practical options, including changing generators. Please email me if antone wants a copy. \n<a href=\"mailto:peter@volksgoods.fsnet.co.uk\">peter@volksgoods.fsnet.co.uk</a> Peter Good",
+    "lastEdited" : "Thu Jan 13, 2005 5:49 am"
+  }, {
+    "postId" : "31316",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "31316",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11921",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "<blockquote class=\"uncited\">\n <div>\n  Sorry VW Buzzers; that link is not really the most helpfull or technically accurate I regret to say - in my opinion of course. \n  <br> I have a range of technical guide on converting from 6 to 12 volt systems giving far more practical options, including changing generators. Please email me if antone wants a copy. \n  <a href=\"mailto:peter@volksgoods.fsnet.co.uk\">peter@volksgoods.fsnet.co.uk</a> Peter \n </div>\n</blockquote> sorry about that peter your dead right i was on my way out and did a quick post. I have done a couple of conversions but defo put my hands up to the king of electrics. Don't suppose you have a decent size diagram of how to wire in my footswitch i only have a wire running to each headlight/ no main or side lights and my eyesight doesn't seem to work on the small pics. (1962 lhd us import)\n<br> \n<br> \n<a href=\"mailto:vwbuzzers@hotmail.com\">vwbuzzers@hotmail.com</a>",
+    "lastEdited" : "Thu Jan 13, 2005 10:04 am"
+  }, {
+    "postId" : "31430",
+    "author" : {
+      "username" : "bigbulli",
+      "userId" : "31430",
+      "joined" : "Thu Apr 17, 2003 8:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Barnstaple, NORTH DEVON",
+      "postCount" : "2850",
+      "avatarPath" : "./download/file.php%3Favatar=22_1364739473.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>shawn wrote:</cite>Got mine from Peter Good on here, £6 inc postage, works well \n  <img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> ,\n </div>\n</blockquote> Me too! Works vry well!",
+    "lastEdited" : "Thu Jan 13, 2005 7:44 pm"
+  }, {
+    "postId" : "31438",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "31438",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for all the good comments guys - much appreciated. \n<br> It is quite true to say there is a lot of really useful stuff for VW owners on the web and through the forums like this one.\n<br> Unfortunately, and with no doubt the best of intentions, some technical write-ups do fall a little short, and I think it right to point this out on the fairly rare occassions when it happens.\n<br> Enough of my rambling! Haven't got a diagram, but will knock one up and email it to you... Peter G",
+    "lastEdited" : "Thu Jan 13, 2005 8:12 pm"
+  }, {
+    "postId" : "31441",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "31441",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11921",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "<blockquote class=\"uncited\">\n <div>\n  Haven't got a diagram, but will knock one up and email it to you... Peter G\n </div>\n</blockquote> thanks peter\n<br> \n<br> \n<a href=\"mailto:vwbuzzers@hotmail.com\">vwbuzzers@hotmail.com</a>",
+    "lastEdited" : "Thu Jan 13, 2005 9:34 pm"
+  } ]
+}

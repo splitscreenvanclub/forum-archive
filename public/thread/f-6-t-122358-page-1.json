@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "122358",
+  "title" : "Press brake pedal and headlights on",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122358",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=23158e33af45c51ce5e8e08a52675fbd",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "915136",
+    "author" : {
+      "username" : "Rob E",
+      "userId" : "915136",
+      "joined" : "Sun Dec 25, 2016 5:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "91",
+      "avatarPath" : null
+    },
+    "content" : "any ideas?\n<br> \n<br> bad earth on the tail lights?",
+    "lastEdited" : "Mon Aug 06, 2018 8:57 am"
+  }, {
+    "postId" : "915138",
+    "author" : {
+      "username" : "Rob E",
+      "userId" : "915138",
+      "joined" : "Sun Dec 25, 2016 5:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "91",
+      "avatarPath" : null
+    },
+    "content" : "fixed! dual filament bulb in rear lights was installed the wrong way! easy fix.",
+    "lastEdited" : "Mon Aug 06, 2018 9:43 am"
+  } ]
+}

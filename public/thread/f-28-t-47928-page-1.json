@@ -1,0 +1,206 @@
+{
+  "forumId" : "28",
+  "threadId" : "47928",
+  "title" : "BWA Website Update - Top 20 Updated!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=47928",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 70,
+  "pageNumber" : 1,
+  "totalPages" : 5,
+  "posts" : [ {
+    "postId" : "365535",
+    "author" : {
+      "username" : "Jules",
+      "userId" : "365535",
+      "joined" : "Sat May 17, 2003 9:59 am",
+      "profileRank" : "SSVC Member",
+      "location" : "K.K.",
+      "postCount" : "417",
+      "avatarPath" : "http://www.julianhunt.net/photos/i-BGS3fJN/0/O/i-BGS3fJN.png"
+    },
+    "content" : "The 'movies' button on the BWA website is now working and it could do with a bit of testing please, if you find any glitches please let me know.\n<br>\n<br>I have noticed that if you click a thumbnail before the page has fully loaded it opens in a window that is 'full' screen size and it shouldn't do that, it should be a small window in the middle of your screen.\n<br>\n<br>If anyone knows of any BWA movies that are not on there please let me know about them!",
+    "lastEdited" : "Sun Nov 02, 2008 9:15 pm"
+  }, {
+    "postId" : "365778",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "365778",
+      "joined" : "Sun May 09, 2004 3:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Shameless estate",
+      "postCount" : "3211",
+      "avatarPath" : "http://i37.photobucket.com/albums/e89/fleetline15/57%20Kombi/78042867-055d-49d5-9706-9eeca5406b30_zpsf385771a.jpg"
+    },
+    "content" : "Some seriously cool vids \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n<br>\n<br>I have to click a thumb nail &amp; then press pause quickly, then play to watch a vid.\n<br>If i dont pause it jumps to the next vid without playing \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Mon Nov 03, 2008 8:23 pm"
+  }, {
+    "postId" : "365783",
+    "author" : {
+      "username" : "Jules",
+      "userId" : "365783",
+      "joined" : "Sat May 17, 2003 9:59 am",
+      "profileRank" : "SSVC Member",
+      "location" : "K.K.",
+      "postCount" : "417",
+      "avatarPath" : "http://www.julianhunt.net/photos/i-BGS3fJN/0/O/i-BGS3fJN.png"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Menace wrote:</cite>Some seriously cool vids \n  <img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n  <br>\n  <br>I have to click a thumb nail &amp; then press pause quickly, then play to watch a vid.\n  <br>If i dont pause it jumps to the next vid without playing \n  <img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">\n </div>\n</blockquote>\n<br>\n<br>Yeah, it's not working quite right, try this....\n<br>\n<br>Click on the movie page and then leave it for a while until you are sure the page has finished loading, can take a while... like 20-30 seconds. Then click a thunbnail.... it should just open in a small window in the middle of the screen.... and not flick on to the next one!",
+    "lastEdited" : "Mon Nov 03, 2008 8:36 pm"
+  }, {
+    "postId" : "365805",
+    "author" : {
+      "username" : "pye1man",
+      "userId" : "365805",
+      "joined" : "Wed Sep 08, 2004 8:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Forest of Dean",
+      "postCount" : "1301",
+      "avatarPath" : "./download/file.php%3Favatar=997_1226786986.jpg"
+    },
+    "content" : "Hi jules,\n<br>\n<br>Here's a couple of mine you could add;\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://uk.youtube.com/watch?v=YnPcpU6zSK0\" onclick=\"window.open(this.href);return false;\">http://uk.youtube.com/watch?v=YnPcpU6zSK0</a>\n<!-- m -->\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://uk.youtube.com/watch?v=7_uAk3nYeNU\" onclick=\"window.open(this.href);return false;\">http://uk.youtube.com/watch?v=7_uAk3nYeNU</a>\n<!-- m -->\n<br>\n<br>\n<br>\n<br>Cheers\n<br>\n<br>\n<br>Andy",
+    "lastEdited" : "Mon Nov 03, 2008 9:20 pm"
+  }, {
+    "postId" : "365882",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "365882",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17445",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Jules wrote:</cite>Yeah, it's not working quite right, try this....\n  <br>\n  <br>Click on the movie page and then leave it for a while until you are sure the page has finished loading, can take a while... like 20-30 seconds. Then click a thunbnail.... it should just open in a small window in the middle of the screen.... and not flick on to the next one!\n </div>\n</blockquote>\n<br>\n<br>That's how it works for me. Looks good Jules.",
+    "lastEdited" : "Tue Nov 04, 2008 8:47 am"
+  }, {
+    "postId" : "365985",
+    "author" : {
+      "username" : "pye1man",
+      "userId" : "365985",
+      "joined" : "Wed Sep 08, 2004 8:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Forest of Dean",
+      "postCount" : "1301",
+      "avatarPath" : "./download/file.php%3Favatar=997_1226786986.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwjim wrote:</cite>\n  <blockquote>\n   <div>\n    <cite>Jules wrote:</cite>Yeah, it's not working quite right, try this....\n    <br>\n    <br>Click on the movie page and then leave it for a while until you are sure the page has finished loading, can take a while... like 20-30 seconds. Then click a thunbnail.... it should just open in a small window in the middle of the screen.... and not flick on to the next one!\n   </div>\n  </blockquote>\n  <br>\n  <br>That's how it works for me. Looks good Jules.\n </div>\n</blockquote>\n<br>\n<br>\n<br>And me!!!!",
+    "lastEdited" : "Tue Nov 04, 2008 5:25 pm"
+  }, {
+    "postId" : "366151",
+    "author" : {
+      "username" : "Jules",
+      "userId" : "366151",
+      "joined" : "Sat May 17, 2003 9:59 am",
+      "profileRank" : "SSVC Member",
+      "location" : "K.K.",
+      "postCount" : "417",
+      "avatarPath" : "http://www.julianhunt.net/photos/i-BGS3fJN/0/O/i-BGS3fJN.png"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Menace wrote:</cite>Some seriously cool vids \n  <img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n  <br>\n  <br>I have to click a thumb nail &amp; then press pause quickly, then play to watch a vid.\n  <br>If i dont pause it jumps to the next vid without playing \n  <img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">\n </div>\n</blockquote>\n<br>\n<br>Could you check it again please, I think I have just sorted that little problem... hope so!!\n<br>\n<br>\n<blockquote>\n <div>\n  <cite>pye1man wrote:</cite>Hi jules,\n  <br>\n  <br>Here's a couple of mine you could add;\n  <br>\n  <br>\n  <!-- m -->\n  <a class=\"postlink\" href=\"http://uk.youtube.com/watch?v=YnPcpU6zSK0\" onclick=\"window.open(this.href);return false;\">http://uk.youtube.com/watch?v=YnPcpU6zSK0</a>\n  <!-- m -->\n  <br>\n  <br>\n  <!-- m -->\n  <a class=\"postlink\" href=\"http://uk.youtube.com/watch?v=7_uAk3nYeNU\" onclick=\"window.open(this.href);return false;\">http://uk.youtube.com/watch?v=7_uAk3nYeNU</a>\n  <!-- m -->\n  <br>\n  <br>Cheers\n  <br>Andy\n </div>\n</blockquote>\n<br>\n<br>Thats great, thanks Andy, I will get them on there tonight for sure!\n<br>\n<br>Any others out there I should know about?",
+    "lastEdited" : "Wed Nov 05, 2008 1:33 pm"
+  }, {
+    "postId" : "372052",
+    "author" : {
+      "username" : "Fast Eddie",
+      "userId" : "372052",
+      "joined" : "Sat Nov 05, 2005 5:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "rutland",
+      "postCount" : "22",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://s17.photobucket.com/albums/b54/jiffyvanman/?action=view&amp;current=MOV00035.flv\" class=\"postlink\"><img src=\"http://i17.photobucket.com/albums/b54/jiffyvanman/th_MOV00035.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>heres a video of one of my runs, not brilliant but all i got...\n<br>\n<br>i got your email jules, im trying to sort them out onto youtube, but its taking some time!",
+    "lastEdited" : "Mon Dec 01, 2008 11:39 pm"
+  }, {
+    "postId" : "372069",
+    "author" : {
+      "username" : "ploon",
+      "userId" : "372069",
+      "joined" : "Thu Apr 17, 2003 2:25 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "One of them islands in the south-west of Holland",
+      "postCount" : "1111",
+      "avatarPath" : "./download/file.php%3Favatar=44_1227282166.gif"
+    },
+    "content" : "it doesn't work over here. when i click a thumbnail it goes nearly full screen, but it the loads the next video and then the next and so on.\n<br>\n<br>i've just uploaded a clip of bob doing a run with his limo. it's from big bang 2003.\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.youtube.com/watch?v=qWTEOSEqSdQ\">http://www.youtube.com/watch?v=qWTEOSEqSdQ</a>\n<!-- m -->",
+    "lastEdited" : "Tue Dec 02, 2008 9:10 am"
+  }, {
+    "postId" : "372300",
+    "author" : {
+      "username" : "Jules",
+      "userId" : "372300",
+      "joined" : "Sat May 17, 2003 9:59 am",
+      "profileRank" : "SSVC Member",
+      "location" : "K.K.",
+      "postCount" : "417",
+      "avatarPath" : "http://www.julianhunt.net/photos/i-BGS3fJN/0/O/i-BGS3fJN.png"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Fast Eddie wrote:</cite>i got your email jules, im trying to sort them out onto youtube, but its taking some time!\n </div>\n</blockquote>\n<br>\n<blockquote>\n <div>\n  <cite>ploon wrote:</cite>i've just uploaded a clip of bob doing a run with his limo. it's from big bang 2003.\n </div>\n</blockquote>\n<br>Thanks for those guy's, 3 new movies up on the BWA site tonight!\n<br>\n<br>\n<br>\n<br>\n<br>\n<blockquote>\n <div>\n  <cite>ploon wrote:</cite>it doesn't work over here. when i click a thumbnail it goes nearly full screen, but it the loads the next video and then the next and so on.\n </div>\n</blockquote>\n<br>This is strange, thanks for the feedback! This sounds like the problem mentioned towards the top of this thread and I thought it was fixed.\n<br>\n<br>How is it for everyone else?",
+    "lastEdited" : "Wed Dec 03, 2008 12:41 am"
+  }, {
+    "postId" : "372969",
+    "author" : {
+      "username" : "Fast Eddie",
+      "userId" : "372969",
+      "joined" : "Sat Nov 05, 2005 5:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "rutland",
+      "postCount" : "22",
+      "avatarPath" : null
+    },
+    "content" : "ive found that if i try watch them while using internet explorer they dont work, but fine on mozilla.....",
+    "lastEdited" : "Fri Dec 05, 2008 9:44 pm"
+  }, {
+    "postId" : "380420",
+    "author" : {
+      "username" : "Jules",
+      "userId" : "380420",
+      "joined" : "Sat May 17, 2003 9:59 am",
+      "profileRank" : "SSVC Member",
+      "location" : "K.K.",
+      "postCount" : "417",
+      "avatarPath" : "http://www.julianhunt.net/photos/i-BGS3fJN/0/O/i-BGS3fJN.png"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ploon wrote:</cite>it doesn't work over here. when i click a thumbnail it goes nearly full screen, but it the loads the next video and then the next and so on.\n </div>\n</blockquote>\n<br>\n<br>The BWA movie pages have been fun &amp; games, they have been displaying perfectly for me in both Firefox and IE7 but, as Pim says above, for others they have been showing full screen, which they shouldn't, and also loading the next movie, and it shouldn't do that either!\n<br>\n<br>So, with a lot of help from my favorite Web adviser and general genius I have made some more changes, I'm hoping it should be displaying correctly for everyone now.\n<br>\n<br>I need some feedback, so if you have read this please go and check out the BWA movie page and let me know if it's working OK, it should display like in the picture below.... which you can click and it will take you to the movie's!\n<br>\n<br>\n<a href=\"http://www.buseswithattitude.co.uk/cms/index.php/bwa_movies\" class=\"postlink\"><img src=\"http://img.photobucket.com/albums/v191/Jules.r/movie_page.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Fri Jan 09, 2009 7:51 pm"
+  }, {
+    "postId" : "380425",
+    "author" : {
+      "username" : "pye1man",
+      "userId" : "380425",
+      "joined" : "Wed Sep 08, 2004 8:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Forest of Dean",
+      "postCount" : "1301",
+      "avatarPath" : "./download/file.php%3Favatar=997_1226786986.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Jules wrote:</cite>\n  <blockquote>\n   <div>\n    <cite>ploon wrote:</cite>it doesn't work over here. when i click a thumbnail it goes nearly full screen, but it the loads the next video and then the next and so on.\n   </div>\n  </blockquote>\n  <br>\n  <br>The BWA movie pages have been fun &amp; games, they have been displaying perfectly for me in both Firefox and IE7 but, as Pim says above, for others they have been showing full screen, which they shouldn't, and also loading the next movie, and it shouldn't do that either!\n  <br>\n  <br>So, with a lot of help from my favorite Web adviser and general genius I have made some more changes, I'm hoping it should be displaying correctly for everyone now.\n  <br>\n  <br>I need some feedback, so if you have read this please go and check out the BWA movie page and let me know if it's working OK, it should display like in the picture below.... which you can click and it will take you to the movie's!\n  <br>\n  <br>\n  <a href=\"http://www.ssvc.org.uk/cms/index.php/bwa_movies\" class=\"postlink\"><img src=\"http://img.photobucket.com/albums/v191/Jules.r/movie_page.jpg\" class=\"postimage\" alt=\"Image\"></a>\n </div>\n</blockquote>\n<br>\n<br>\n<br>\n<br>\n<br>Jules,\n<br>\n<br>As seems to be working perfectly for the 2 random video's I watched \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<br>\n<br>Keep up the good work and roll on Big Bang!!!!!!!\n<br>\n<br>\n<br>Take care\n<br>\n<br>\n<br>Andy",
+    "lastEdited" : "Fri Jan 09, 2009 8:06 pm"
+  }, {
+    "postId" : "380521",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "380521",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17445",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yeah, the new ones you hosted works for me.",
+    "lastEdited" : "Sat Jan 10, 2009 2:56 am"
+  }, {
+    "postId" : "420953",
+    "author" : {
+      "username" : "Jules",
+      "userId" : "420953",
+      "joined" : "Sat May 17, 2003 9:59 am",
+      "profileRank" : "SSVC Member",
+      "location" : "K.K.",
+      "postCount" : "417",
+      "avatarPath" : "http://www.julianhunt.net/photos/i-BGS3fJN/0/O/i-BGS3fJN.png"
+    },
+    "content" : "I have just added a gallery page to the BWA website for 2009, so far it has BWA pictures from Big Bang.\n<br>\n<br>I'm looking forward to adding more pictures throughout the year, and hopefully a few new members too!!\n<br>\n<br>Don't forget, if you have any BWA pictures or movies send 'em my way please!",
+    "lastEdited" : "Mon May 18, 2009 6:59 pm"
+  } ]
+}

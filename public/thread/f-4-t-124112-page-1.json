@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "124112",
+  "title" : "Early spindles/kingpins refurbished SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124112",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=7ababba7c56418aaf62b3dda83851ac7",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "926761",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "926761",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "I have a set of 55-62 spindles. They will be completely refurbished. Kingpins reground, new bushes, seals, grease nipples and nos link pin bearings. All genuine parts. £350 outright Inc UK shipping.\n<br> Email for pics: \n<a href=\"mailto:typ241@gmail.com\">typ241@gmail.com</a>\n<br> Simon",
+    "lastEdited" : "Mon Nov 25, 2019 2:21 pm"
+  }, {
+    "postId" : "927240",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "927240",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "Now sold.",
+    "lastEdited" : "Fri Jan 03, 2020 4:39 pm"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "124939",
+  "title" : "1965 Leaky nose cone",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124939",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=338885e193530d6f55d7d005f0bda952",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931201",
+    "author" : {
+      "username" : "paulster",
+      "userId" : "931201",
+      "joined" : "Wed Aug 14, 2019 4:09 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "13",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br> \n<br> Got a leaky nose cone, should I be deeply concerned or just top up and keep an eye on it?\n<br> Its not thumping out but dripping onto my drive!\n<br> \n<br> I presume these leaks were fitted as standard at the factory \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Tue Jul 14, 2020 12:56 pm"
+  }, {
+    "postId" : "931735",
+    "author" : {
+      "username" : "joannedoyle",
+      "userId" : "931735",
+      "joined" : "Mon Aug 17, 2009 5:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Littleborough, Lancs",
+      "postCount" : "513",
+      "avatarPath" : "./download/file.php%3Favatar=33443_1409222692.jpg"
+    },
+    "content" : "Hi.\n<br> I had a leak on a nose one once. It was where the hockey stick went through. There is a small brass bush fitted in there. I replaced this and all was good.\n<br> Simon",
+    "lastEdited" : "Wed Aug 19, 2020 11:38 am"
+  } ]
+}

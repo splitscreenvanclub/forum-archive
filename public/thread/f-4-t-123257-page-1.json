@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "123257",
+  "title" : "Volkswagen Transporter Instruction Manual November 1963",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123257",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=f4532eb4e7bf4aaf070b0971f536d9da",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "921387",
+    "author" : {
+      "username" : "Arthur",
+      "userId" : "921387",
+      "joined" : "Fri Apr 25, 2003 7:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "400",
+      "avatarPath" : "./download/file.php%3Favatar=136_1418414059.jpg"
+    },
+    "content" : "November 1963 Volkswagen Transporter Instruction Manual \n<br> \n<br> Front cover a bit tatty but generally in good condition\n<br> \n<br> £20 plus £2 postage\n<br> \n<br> SOLD",
+    "lastEdited" : "Sun Apr 14, 2019 12:28 pm"
+  }, {
+    "postId" : "921392",
+    "author" : {
+      "username" : "james309",
+      "userId" : "921392",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "610",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "I'll take this. Please PM me payment details. \n<br> \n<br> Sent from my SM-G960F using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Sun Apr 14, 2019 1:38 pm"
+  }, {
+    "postId" : "921472",
+    "author" : {
+      "username" : "Arthur",
+      "userId" : "921472",
+      "joined" : "Fri Apr 25, 2003 7:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "400",
+      "avatarPath" : "./download/file.php%3Favatar=136_1418414059.jpg"
+    },
+    "content" : "Posted thanks James",
+    "lastEdited" : "Tue Apr 16, 2019 3:42 pm"
+  } ]
+}

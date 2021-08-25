@@ -1,0 +1,79 @@
+{
+  "forumId" : "2",
+  "threadId" : "118247",
+  "title" : "Split screen wiring",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=118247",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=e8d9ff7751736e9eda4ccd992d16bfaf",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "889844",
+    "author" : {
+      "username" : "SAMARSHY",
+      "userId" : "889844",
+      "joined" : "Sun Jul 27, 2014 4:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "150",
+      "avatarPath" : null
+    },
+    "content" : "I'm looking for someone to help me out with re wiring my dash board on my 59 splitty. Does anyone know someone that does this sort of thing ?",
+    "lastEdited" : "Sat Jan 07, 2017 5:55 pm"
+  }, {
+    "postId" : "889871",
+    "author" : {
+      "username" : "BlastingDiePast",
+      "userId" : "889871",
+      "joined" : "Sat Feb 02, 2013 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "1802",
+      "avatarPath" : null
+    },
+    "content" : "Vw jim",
+    "lastEdited" : "Sat Jan 07, 2017 9:52 pm"
+  }, {
+    "postId" : "889980",
+    "author" : {
+      "username" : "susta",
+      "userId" : "889980",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "where are you?",
+    "lastEdited" : "Mon Jan 09, 2017 3:42 pm"
+  }, {
+    "postId" : "890067",
+    "author" : {
+      "username" : "SAMARSHY",
+      "userId" : "890067",
+      "joined" : "Sun Jul 27, 2014 4:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "150",
+      "avatarPath" : null
+    },
+    "content" : "West Midlands (Worcester)",
+    "lastEdited" : "Wed Jan 11, 2017 12:15 am"
+  }, {
+    "postId" : "890278",
+    "author" : {
+      "username" : "susta",
+      "userId" : "890278",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "Well, you could try Iain at Air cooled Electrics. I had a bad time, but he was not well, so guess everyone is worth a second shot!!",
+    "lastEdited" : "Sat Jan 14, 2017 4:33 pm"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "6503",
+  "title" : "Engine Rebuild",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=6503",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=05adde7a7d5d73e9bb2573e8cf7cea7c",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "31495",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "31495",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Hi folks a few idiots guide questions if I can about engine rebuilds. I have a 1500cc engine which I am hoping to pull out and rebuild. My main concern is availability of parts etc so I'll be giving the SSVC parts people a call first. I have watched bugmevideo engine tear down and rebuild to see what I need to do and how to identify worn parts a little better but my main concern is if I need new pistons etc the impression I get is that I can upgrade to 1600cc without any problem is this correct or do I need additional tinware etc to compensate for any additional heat? Also if my 1500 case is damaged I presume I can't get a replacement so does this then mean a new/secondhand engine and if so would a 1600 dual port be best or are loads of mods required?\n<br> \n<br> Clearly I am hoping it all looks fine but anyone who can give advice on the likely senarios I may face then your help will be very much appreciated.\n<br> \n<br> Regards\n<br> \n<br> RD \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Fri Jan 14, 2005 12:40 pm"
+  }, {
+    "postId" : "31530",
+    "author" : {
+      "username" : "Nic B-C",
+      "userId" : "31530",
+      "joined" : "Tue Oct 14, 2003 4:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "Durham NE England",
+      "postCount" : "1456",
+      "avatarPath" : null
+    },
+    "content" : "You can upgrade to 1600 barrels and pistons and use same tin making a 1600 single port.\n<br> \n<br> May be cheaper to buy a secondhand unit though, either going for a late twinport 1300 or 1600. Anywhere from £50-150.\n<br> \n<br> Im just about to rebuild a 1500 unit I have as it had been helicoiled but had actually had a bit of a head meltdown in the past and then been badly done which wasnt found until the fanbelt snapped and spat out the plug.",
+    "lastEdited" : "Fri Jan 14, 2005 3:47 pm"
+  } ]
+}

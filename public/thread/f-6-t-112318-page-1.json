@@ -1,0 +1,115 @@
+{
+  "forumId" : "6",
+  "threadId" : "112318",
+  "title" : "Test running engine outside bus",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112318",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847281",
+    "author" : {
+      "username" : "Haycoxs",
+      "userId" : "847281",
+      "joined" : "Sun Jan 28, 2007 4:14 pm",
+      "profileRank" : "Registered user",
+      "location" : "Walsall",
+      "postCount" : "1102",
+      "avatarPath" : "./download/file.php%3Favatar=4332_1401467983.png"
+    },
+    "content" : "Hi\n<br>I'd like to test run my engine before fitting it to the bus as it's been built by me from a Type 4 longblock and I'd like to find any weaknesses/leaks before it goes in.\n<br>Has anyone done this and what do I need to do?\n<br>Anyone got a test set up (electrics) local to west mids?\n<br>Do u need to fit exhaust headers?\n<br>Do I need a proper engine stand?\n<br>So many questions - any help would be appreciated\n<br>Ta\n<br>Steve",
+    "lastEdited" : "Sun Aug 30, 2015 5:15 pm"
+  }, {
+    "postId" : "847297",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "847297",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "346",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "you will need the exhaust fitting as it would not run smoothly enough. be loud as well. only electrics you would need is a 12v to a starter motor on a bell house fitted over flywheel, earth to engine, 12v to coil, small tank of fuel, and then just touch a wire from small terminal on starter to the positive feed, energising the solenoid and it should run. if you have the timing set up ok.",
+    "lastEdited" : "Sun Aug 30, 2015 8:20 pm"
+  }, {
+    "postId" : "847298",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "847298",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "346",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "ps forgot to mention. as for a stand . have done it before with engine on the floor on a small trolley, does not move much, about the same as if it were in a bus \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Sun Aug 30, 2015 8:23 pm"
+  }, {
+    "postId" : "847312",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "847312",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffs",
+      "postCount" : "645",
+      "avatarPath" : null
+    },
+    "content" : "I have a bell housing you can borrow if you need one.",
+    "lastEdited" : "Sun Aug 30, 2015 11:00 pm"
+  }, {
+    "postId" : "847329",
+    "author" : {
+      "username" : "Haycoxs",
+      "userId" : "847329",
+      "joined" : "Sun Jan 28, 2007 4:14 pm",
+      "profileRank" : "Registered user",
+      "location" : "Walsall",
+      "postCount" : "1102",
+      "avatarPath" : "./download/file.php%3Favatar=4332_1401467983.png"
+    },
+    "content" : "Thanks DoubleD - I have one but it's catching on the teeth of the flywheel at the mo - need to clearance it a little.\n<br>Thanks for the info Rich - was worried it might torque move when started.\n<br>What's the best way to wire oil pressure warning light - just a bulb to earth?",
+    "lastEdited" : "Mon Aug 31, 2015 10:11 am"
+  }, {
+    "postId" : "847490",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "847490",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "346",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "i believe if you connect a positive to a bulb and then to the pressure switch. the light should come on. then when engine reaches pressure it will go out. not tried this but think thats how it works. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Tue Sep 01, 2015 5:11 pm"
+  }, {
+    "postId" : "847515",
+    "author" : {
+      "username" : "211vanman",
+      "userId" : "847515",
+      "joined" : "Wed Mar 03, 2004 10:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "MidlandSplitBusMeet",
+      "postCount" : "1433",
+      "avatarPath" : "http://i67.photobucket.com/albums/h303/dazyip/newpl7sa1.gif"
+    },
+    "content" : "<img src=\"http://i.imgur.com/Jz2APwB.png\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue Sep 01, 2015 7:07 pm"
+  }, {
+    "postId" : "847976",
+    "author" : {
+      "username" : "Haycoxs",
+      "userId" : "847976",
+      "joined" : "Sun Jan 28, 2007 4:14 pm",
+      "profileRank" : "Registered user",
+      "location" : "Walsall",
+      "postCount" : "1102",
+      "avatarPath" : "./download/file.php%3Favatar=4332_1401467983.png"
+    },
+    "content" : "Thanks all - getting there",
+    "lastEdited" : "Sat Sep 05, 2015 11:01 pm"
+  } ]
+}

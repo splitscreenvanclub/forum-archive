@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "120767",
+  "title" : "Cargo door seal advice please...",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120767",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "906638",
+    "author" : {
+      "username" : "SplitMind",
+      "userId" : "906638",
+      "joined" : "Sat May 14, 2016 7:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "All the kits on the market seem to consist of 9 pieces, of which 7 fit to the doors and only two fit to the body - top and bottom.\n<br> \n<br> My (Brazilian) 15 window has a seal channel all the way around on the body, and had seals glued in at top, bottom and both sides.\n<br> \n<br> Do German busses not have channels for vertical seals on the body?",
+    "lastEdited" : "Tue Dec 05, 2017 2:23 pm"
+  }, {
+    "postId" : "906645",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "906645",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15808",
+      "avatarPath" : null
+    },
+    "content" : "Not AFAIK 62 64 or 65",
+    "lastEdited" : "Tue Dec 05, 2017 4:46 pm"
+  }, {
+    "postId" : "907518",
+    "author" : {
+      "username" : "easy e",
+      "userId" : "907518",
+      "joined" : "Sun Jan 05, 2014 10:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "55",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote class=\"uncited\">\n <div>\n  My (Brazilian) 15 window has a seal channel all the way around on the body, and had seals glued in at top, bottom and both sides.\n </div>\n</blockquote>Seals do not belong on the sides (of the body).\n<br> \n<blockquote class=\"uncited\">\n <div>\n  Do German busses not have channels for vertical seals on the body?\n </div>\n</blockquote>German buses have an unused channel on each forward &amp; rear side of the body opening.\n<br> \n<br> Body seals only go across the top and bottom of the opening. No up and down seals. \n<br> The cargo doors have seals around the entire perimeter.\n<br> \n<img src=\"https://www.thesamba.com/vw/archives/lit/60trucks2/page9.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Mon Jan 01, 2018 8:46 pm"
+  }, {
+    "postId" : "907522",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "907522",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Mon Jan 01, 2018 9:12 pm"
+  }, {
+    "postId" : "907548",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "907548",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3074",
+      "avatarPath" : null
+    },
+    "content" : "He’s pretty good that easy e !",
+    "lastEdited" : "Tue Jan 02, 2018 11:27 am"
+  }, {
+    "postId" : "907552",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "907552",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15808",
+      "avatarPath" : null
+    },
+    "content" : "Good picture..\n<br> G",
+    "lastEdited" : "Tue Jan 02, 2018 11:56 am"
+  } ]
+}

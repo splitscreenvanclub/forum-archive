@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "117678",
+  "title" : "new fuel tank",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=117678",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "885788",
+    "author" : {
+      "username" : "tonygnu",
+      "userId" : "885788",
+      "joined" : "Wed Feb 17, 2016 10:03 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Newport",
+      "postCount" : "112",
+      "avatarPath" : null
+    },
+    "content" : "I have an aftermarket fuel tank in my bus.but it's not a very good fit, to be honest it's .... ! When it was sat in the bus it was sat on pieces of wood to get the neck to clear the wheel arch, and at the filling point it sat too high, which meant the rubber seal sat too high creating a large gap in the plate hole at the bottom. I had to fight with the whole lot just to remove it from my bus. I know you can get 2 priced tanks which are aftermarket, do any of them fit properly. Or is my tank the wrong one ? On my last bus I took the tank out which was original to the bus.and there was no problem there ?",
+    "lastEdited" : "Sat Oct 15, 2016 6:15 pm"
+  }, {
+    "postId" : "885803",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "885803",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "542",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "The Wolfsburg West tank fits fine. There are other aftermarket tanks where the filler neck is wrong, so the neck needs cutting and welding. I had no problem with the Wolfsburg West tank though.",
+    "lastEdited" : "Sat Oct 15, 2016 8:57 pm"
+  }, {
+    "postId" : "885813",
+    "author" : {
+      "username" : "tonygnu",
+      "userId" : "885813",
+      "joined" : "Wed Feb 17, 2016 10:03 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Newport",
+      "postCount" : "112",
+      "avatarPath" : null
+    },
+    "content" : "OK. Cheers, I will have a look. I did think about cutting and welding it. I've washed it out twice, but apprehensive about doing it !",
+    "lastEdited" : "Sun Oct 16, 2016 7:16 am"
+  }, {
+    "postId" : "886018",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "886018",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1048",
+      "avatarPath" : null
+    },
+    "content" : "If it's just the neck that needs welding fill your main tank with water.....",
+    "lastEdited" : "Sat Oct 22, 2016 8:53 pm"
+  }, {
+    "postId" : "886019",
+    "author" : {
+      "username" : "tonygnu",
+      "userId" : "886019",
+      "joined" : "Wed Feb 17, 2016 10:03 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Newport",
+      "postCount" : "112",
+      "avatarPath" : null
+    },
+    "content" : "OK. Cheers Ted will try that.",
+    "lastEdited" : "Sat Oct 22, 2016 10:03 pm"
+  } ]
+}

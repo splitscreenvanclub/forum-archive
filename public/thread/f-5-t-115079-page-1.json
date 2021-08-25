@@ -1,0 +1,37 @@
+{
+  "forumId" : "5",
+  "threadId" : "115079",
+  "title" : "1959 speedo wanted...",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115079",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867869",
+    "author" : {
+      "username" : "steve j l",
+      "userId" : "867869",
+      "joined" : "Fri Aug 26, 2011 12:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northamptonshire",
+      "postCount" : "333",
+      "avatarPath" : "./download/file.php%3Favatar=35781_1333722071.jpg"
+    },
+    "content" : "As above, I am after a 59 speedo for my bus.\n<br>\n<br>Pm me please.\n<br>\n<br>Thanks.\n<br>Steve. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Mar 16, 2016 9:08 pm"
+  }, {
+    "postId" : "868454",
+    "author" : {
+      "username" : "steve j l",
+      "userId" : "868454",
+      "joined" : "Fri Aug 26, 2011 12:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northamptonshire",
+      "postCount" : "333",
+      "avatarPath" : "./download/file.php%3Favatar=35781_1333722071.jpg"
+    },
+    "content" : "Anybody?\n<br>\n<br>\n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Tue Mar 22, 2016 8:33 pm"
+  } ]
+}

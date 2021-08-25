@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "63710",
+  "title" : "EMPI Trigger shift",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=63710",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "493123",
+    "author" : {
+      "username" : "Hayley VW",
+      "userId" : "493123",
+      "joined" : "Wed Mar 03, 2010 10:52 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "31",
+      "avatarPath" : null
+    },
+    "content" : "Hi all, I have an old EMPI trigger shift that I took out of my late bay and wondered if it will fit my new '65 splittie (both RHD - Both 1600 engines). I see adverts for the shifter but they all say '68 upwards and I see none for splits.\n<br>\n<br>Thanks in advance.",
+    "lastEdited" : "Wed Mar 03, 2010 6:55 pm"
+  }, {
+    "postId" : "493133",
+    "author" : {
+      "username" : "57aircooled",
+      "userId" : "493133",
+      "joined" : "Wed Jun 14, 2006 8:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "newmarket",
+      "postCount" : "848",
+      "avatarPath" : "http://i5.photobucket.com/albums/y195/aircooled72/IMG_0959.jpg"
+    },
+    "content" : "i had one on my 65 there all the same lhd/rhd just a spacer plate (tin thingy)\n<br>for early models i think",
+    "lastEdited" : "Wed Mar 03, 2010 7:16 pm"
+  }, {
+    "postId" : "493517",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "493517",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "762",
+      "avatarPath" : null
+    },
+    "content" : "Hope you can help - my EMPI change fell apart a couple of weeks ago - the 4 rivets that hold the 2 halves together don't look like they were peened over very much. When the gearstick came up in my hand I realised there was something wrong! On the floor a spring appeared - can you see on yours where it goes?",
+    "lastEdited" : "Fri Mar 05, 2010 3:04 pm"
+  }, {
+    "postId" : "493520",
+    "author" : {
+      "username" : "Hayley VW",
+      "userId" : "493520",
+      "joined" : "Wed Mar 03, 2010 10:52 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "31",
+      "avatarPath" : null
+    },
+    "content" : "Sorry dude, I don't have mine at home. I won't see it for at least another month or so.",
+    "lastEdited" : "Fri Mar 05, 2010 3:32 pm"
+  }, {
+    "postId" : "493552",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "493552",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "762",
+      "avatarPath" : null
+    },
+    "content" : "No problem, I was being lazy. When I get around to fixing it I'm sure if I stare at it long enough inspiration will hit me...",
+    "lastEdited" : "Fri Mar 05, 2010 6:42 pm"
+  } ]
+}

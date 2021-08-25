@@ -1,0 +1,209 @@
+{
+  "forumId" : "8",
+  "threadId" : "86279",
+  "title" : "AWD 964/911 Bus",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=86279&start=90",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=8a4c604a661ffa06a63b361233079fdb",
+    "label" : "Rides and Projects"
+  } ],
+  "totalPosts" : 195,
+  "pageNumber" : 7,
+  "totalPages" : 13,
+  "posts" : [ {
+    "postId" : "921057",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "921057",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "375",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "Thanks Mo. Let me know how the cable shifter goes as I will have to go down that route myself. Would love to see some pictures of the motor and gearbox in place.",
+    "lastEdited" : "Mon Apr 01, 2019 7:42 am"
+  }, {
+    "postId" : "921206",
+    "author" : {
+      "username" : "67dubcab",
+      "userId" : "921206",
+      "joined" : "Sat Aug 14, 2010 4:27 am",
+      "profileRank" : "Registered user",
+      "location" : "NorCal",
+      "postCount" : "21",
+      "avatarPath" : null
+    },
+    "content" : "Glad to see you back at your project!\n<br> There is a 964 AWD powered split on the Speedhunter website if you have not seen it before, don't know if there is a build thread somewhere, would be nice to see as the feature they ran does not show any mechanicals.\n<br> I had to go custom cable shift on my mid-engine bus and it works pretty well, only had one missed shift early on.\n<br> I like the rocker arm front suspension, looks like you might have to go with a custom upper A arm to make it work which to me is better than the stock strut front suspension.\n<br> To me figuring it out is the hardest/funnest part.\n<br> Stephen",
+    "lastEdited" : "Sat Apr 06, 2019 4:42 am"
+  }, {
+    "postId" : "921207",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "921207",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "375",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "Thanks Stephen. Just looked at the speedhunter site and shame no build pictures, I will try and track some down. Which cable system did you go for? Agree about the top wish bone for the front. I have ordered an adjustable A frame one and will then use the strut mounting pointing on the hub to build a top mount point off and then the coil over on top of that. Simples",
+    "lastEdited" : "Sat Apr 06, 2019 6:34 am"
+  }, {
+    "postId" : "921224",
+    "author" : {
+      "username" : "67dubcab",
+      "userId" : "921224",
+      "joined" : "Sat Aug 14, 2010 4:27 am",
+      "profileRank" : "Registered user",
+      "location" : "NorCal",
+      "postCount" : "21",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=34101&amp;sid=8a4c604a661ffa06a63b361233079fdb&amp;mode=view\"><img src=\"./download/file.php?id=34101&amp;t=1&amp;sid=8a4c604a661ffa06a63b361233079fdb\" class=\"postimage\" alt=\"IMG_5856.jpg\" title=\"IMG_5856.jpg (242.83 KiB) Viewed 1908 times\"></a>\n  </dt> \n </dl> \n</div>Basically made my own, fabricated the trans-axle end and used a Porsche 996 cable shifter (around $75) not pretty but plan on covering it with a aluminum cowling.\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=34102&amp;sid=8a4c604a661ffa06a63b361233079fdb&amp;mode=view\"><img src=\"./download/file.php?id=34102&amp;t=1&amp;sid=8a4c604a661ffa06a63b361233079fdb\" class=\"postimage\" alt=\"IMG_5857.jpg\" title=\"IMG_5857.jpg (262.47 KiB) Viewed 1908 times\"></a>\n  </dt> \n </dl> \n</div>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=34103&amp;sid=8a4c604a661ffa06a63b361233079fdb&amp;mode=view\"><img src=\"./download/file.php?id=34103&amp;t=1&amp;sid=8a4c604a661ffa06a63b361233079fdb\" class=\"postimage\" alt=\"IMG_6112.jpg\" title=\"IMG_6112.jpg (229.4 KiB) Viewed 1908 times\"></a>\n  </dt> \n </dl> \n</div> depending on how low you plan to go there may be room for a coil-over shock without the pivot mounting, I have a 15\" shock with 5\" of travel under the seat pan, though with your front drive shafts am guessing the issue is room front to back.\n<br> Stephen",
+    "lastEdited" : "Sun Apr 07, 2019 4:06 am"
+  }, {
+    "postId" : "921228",
+    "author" : {
+      "username" : "mo",
+      "userId" : "921228",
+      "joined" : "Thu Mar 17, 2005 1:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "201",
+      "avatarPath" : null
+    },
+    "content" : "What gearbox are you running Stephen that doesn’t look like a 915, is it a G50 ? Believe some of the gearboxes allow side cable fitment. Btw love the work to get the cables in !!",
+    "lastEdited" : "Sun Apr 07, 2019 8:15 am"
+  }, {
+    "postId" : "921231",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "921231",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "375",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "Love the fabrication, nice work. My G64 box has the gear select through the nose so another challenge.",
+    "lastEdited" : "Sun Apr 07, 2019 9:59 am"
+  }, {
+    "postId" : "921276",
+    "author" : {
+      "username" : "67dubcab",
+      "userId" : "921276",
+      "joined" : "Sat Aug 14, 2010 4:27 am",
+      "profileRank" : "Registered user",
+      "location" : "NorCal",
+      "postCount" : "21",
+      "avatarPath" : null
+    },
+    "content" : "Hello Mo, it is a 944 transaxle as I am running the 3.2 mid-engine, it will make more sense if you check out my build thread, and thanks for the kind remarks!",
+    "lastEdited" : "Tue Apr 09, 2019 3:40 am"
+  }, {
+    "postId" : "921277",
+    "author" : {
+      "username" : "mo",
+      "userId" : "921277",
+      "joined" : "Thu Mar 17, 2005 1:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "201",
+      "avatarPath" : null
+    },
+    "content" : "Had already checked your build bro its immense !? Loving all the fabrication work, for me thats where the real skill lays - ingenuity to problems. There is a company that makes a kit for those gearboxes with a forward facing gear shaft i’ll dig out the details and put them up.",
+    "lastEdited" : "Tue Apr 09, 2019 6:01 am"
+  }, {
+    "postId" : "921328",
+    "author" : {
+      "username" : "mo",
+      "userId" : "921328",
+      "joined" : "Thu Mar 17, 2005 1:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "201",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://www.cableshift.com/Website/catalog%20page.html\" class=\"postlink\">http://www.cableshift.com/Website/catalog%20page.html</a>",
+    "lastEdited" : "Wed Apr 10, 2019 8:34 pm"
+  }, {
+    "postId" : "921482",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "921482",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "375",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "So got round to fabricating and welding the front sub frame mounting points today (well the off-side one at any rate)\n<br> \n<br> I have lost count how many times i have put the front sub frame together to measure something to then have to take it apart to fabricate. Guess that's the game.\n<br> \n<br> \n<a href=\"https://flic.kr/p/2fyk1tR\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/47623523911_592dabf60a_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2fyk1tR\" class=\"postlink\">Front sub frame mounting point</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/2fyk1sZ\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/47623523861_dfe3b643f0_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2fyk1sZ\" class=\"postlink\">Front sub frame mounting point</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/Tq3kvW\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/33746246948_1e5b99d104_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/Tq3kvW\" class=\"postlink\">Front sub frame mounting point</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/24WJrsv\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/40657133973_19350a2622_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/24WJrsv\" class=\"postlink\">Front sub frame mounting point</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr",
+    "lastEdited" : "Tue Apr 16, 2019 7:04 pm"
+  }, {
+    "postId" : "921515",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "921515",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "375",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "so tonight was all about the nearside mount and i now have may front subframe rear mounting points \n<img class=\"smilies\" src=\"./images/smilies/icon_compress.gif\" width=\"15\" height=\"15\" alt=\":compress:\" title=\"compress\"> \n<br> \n<br> near side mount \n<br> \n<a href=\"https://flic.kr/p/24Xt8ea\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/40665462463_74c0b58a4a_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/24Xt8ea\" class=\"postlink\">Back seat driver</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> Drive shaft and front trans in place\n<br> \n<a href=\"https://flic.kr/p/2fz4LTZ\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/47631868031_572bd46444_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2fz4LTZ\" class=\"postlink\">Back seat driver</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> Offered up the new chassis panel to get a feel for clearance etc. I already knew i would be cutting a new panel up so thanks to C&amp;C for the panel but it will be under the plasma cutter soon.\n<br> \n<a href=\"https://flic.kr/p/24Xt8xM\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/40665463543_b4b61492cc_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/24Xt8xM\" class=\"postlink\">Back seat driver</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/24Xt8zR\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/40665463663_b40c55c684_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/24Xt8zR\" class=\"postlink\">Back seat driver</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> The gear change has been causing some head scratching until i offered up the original 964 torque tube and the solution hit me. Voice activated gear changes. All i need to do is teach the kids how to change gear and they can operate the gear stick whilst sat in the back which is where it currently pokes through the chassis. Genius! Yet to solve what i do when driving alone............\n<br> \n<br> \n<a href=\"https://flic.kr/p/2ebaeue\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/46716296865_39e0f512fd_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2ebaeue\" class=\"postlink\">Back seat driver</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr",
+    "lastEdited" : "Wed Apr 17, 2019 9:25 pm"
+  }, {
+    "postId" : "921522",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "921522",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15341",
+      "avatarPath" : null
+    },
+    "content" : "Lol.. \n<br> My kids are 40 n 35.. Never have been able to get them to do a thing I say!\n<br> Looking good..\n<br> Mira testing for type approval next?",
+    "lastEdited" : "Thu Apr 18, 2019 6:54 am"
+  }, {
+    "postId" : "921563",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "921563",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "375",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "So yesterday and today was all about the front chassis arms and trying to work out where they need to be in relation to the cab floor. Normally this would be easy as you would refer to your bus and take the measurements. Unfortunately for me my bus has already been 'renovated' which from what i can see was done like this - \n<br> Welder in Country B on phone to Bus owner in Country A - \"whats this bus meant to look like when i have finished\"?\n<br> Owner - 'I will send you over some photos'\n<br> Welder - ' Have not got internet, just describe it and i will have a go...........'\n<br> \n<br> Thats about it really. Reminds me of this advert - \n<a href=\"https://youtu.be/No26JKQKZNE\" class=\"postlink\">https://youtu.be/No26JKQKZNE</a>\n<br> \n<br> Anyway this is where we have got to - \n<br> \n<br> \n<a href=\"https://flic.kr/p/24Z5xcz\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/40683688523_165718013a_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/24Z5xcz\" class=\"postlink\">Front chassis arms</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/Tsoh1N\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/33772770398_4396ef020d_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/Tsoh1N\" class=\"postlink\">Front chassis arms</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/24Z5xfR\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/40683688713_2dae3d020a_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/24Z5xfR\" class=\"postlink\">Front chassis arms</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/2ecMcnR\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/46734630295_d414326f21_z.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2ecMcnR\" class=\"postlink\">Front chassis arms</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> Even the 964 steering rack fits albeit swung through 180 degrees and a small amount of alloy cutting and tiging to be done to get it fixed in\n<br> \n<br> \n<a href=\"https://flic.kr/p/Tsoh4d\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/33772770538_44837305a6_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/Tsoh4d\" class=\"postlink\">Front chassis arms</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> Offered up the inner leg panels and the tool box. This is going to be the tricky bit because as mentioned above my bus is bucking VW dimension convention!\n<br> \n<br> \n<a href=\"https://flic.kr/p/2edJMUB\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/46745477615_746b20f6cd_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2edJMUB\" class=\"postlink\">Garage phot</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> Gratuitous peeking out of garage shot\n<br> \n<br> \n<a href=\"https://flic.kr/p/2edJMYz\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/46745477845_e5d63bf02f_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2edJMYz\" class=\"postlink\">Garage phot</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr",
+    "lastEdited" : "Sun Apr 21, 2019 7:23 pm"
+  }, {
+    "postId" : "921564",
+    "author" : {
+      "username" : "mo",
+      "userId" : "921564",
+      "joined" : "Thu Mar 17, 2005 1:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "201",
+      "avatarPath" : null
+    },
+    "content" : "Great \n<img alt=\"👍🏾\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f44d-1f3fe.svgz\"> pics and progress, get excited whenever im notified there’s more work been done \n<img alt=\"🤣\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f923.svgz\">\n<img alt=\"🤣\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f923.svgz\">",
+    "lastEdited" : "Sun Apr 21, 2019 7:32 pm"
+  }, {
+    "postId" : "921756",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "921756",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "375",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "got the rear subframe in today and the front mounting points tagged on before the welder torch wire sheath snagged and stopped play for the day. Lots of measuring remeasuring and then a bit more measuring.\n<br> \n<br> \n<a href=\"https://flic.kr/p/RWCpqg\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/32779675227_b25ec3676e_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/RWCpqg\" class=\"postlink\">Rear subframe</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/RWCpq6\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/32779675217_105c0628fd_k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/RWCpq6\" class=\"postlink\">Rear subframe</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr",
+    "lastEdited" : "Sun Apr 28, 2019 5:28 pm"
+  } ]
+}

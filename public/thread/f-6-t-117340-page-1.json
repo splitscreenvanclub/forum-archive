@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "117340",
+  "title" : "JIC fuel line fittings?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=117340",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=a0d5bd44a178fa91710ae080ff6c4221",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "883531",
+    "author" : {
+      "username" : "65babylonbus",
+      "userId" : "883531",
+      "joined" : "Sun Apr 27, 2014 5:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Walsall",
+      "postCount" : "51",
+      "avatarPath" : null
+    },
+    "content" : "Hi all..\n<br> \n<br> Im just doing a bit of armchair shopping for my winter engine project, I want to use Jic Fuel fittings through out from the tank to the twin 44's, Would anyone that has done this, would they have a list of the fittings needed and rough dimensions of sizes? I've got a 2276 with rotary fuel pump so far and a set of weber 44 idfs, I've got lots of r9 and r6 around but wanted to use the ptfe and ideally black fittings if anyone has a link...\n<br> \n<br> \n<br> thanks \n<br> \n<br> J",
+    "lastEdited" : "Wed Sep 14, 2016 6:27 pm"
+  }, {
+    "postId" : "883660",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "883660",
+      "joined" : "Tue Oct 04, 2005 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Taunton, cider capital",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "look on torques website everything you need is there, its a custom fitting exercise so each system is different, for instance I use AN-8 Teflon hose for EFi so you just match the fitting size to suit the size hose you use, at a guess for carbs/low pressure fuel lines I would use AN-6 hose and fittings but I would do a bit of research or match the internal size of your existing hose to the AN/JIC size.",
+    "lastEdited" : "Fri Sep 16, 2016 9:00 am"
+  }, {
+    "postId" : "883676",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "883676",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Ok I may get slated but here goes. \n<br> \n<br> I've used AN-6 with Teflon pipes from tank to carbs and it wasn't cheap. Got all I needed from the above mentioned eBay seller. \n<br> \n<br> From concept tank I used a 90' elbow\n<br> \n<br> \n<img src=\"http://i1077.photobucket.com/albums/w462/grantddavies/99b495e5f4a089f32859a4c42aeb48d4.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Push on fittings for the CB rotary pump\n<br> \n<br> \n<img src=\"http://i1077.photobucket.com/albums/w462/grantddavies/1f1de162230bd500ace52e6a4377ee3e.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Straight AN-6 connectors through a bulkhead connection \n<br> \n<br> \n<br> AN-6 through Malpassi filter king\n<br> \n<br> \n<img src=\"http://i1077.photobucket.com/albums/w462/grantddavies/77d2d95b1369ead4f8534b8d8f9101ed.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Then T'd off to carbs with AN-6 banjos. I've used elbows at each bend as a precaution as this is where the pipes tend to perish.\n<br> \n<br> And all finished off with a firetec. \n<br> \n<br> \n<img src=\"http://i1077.photobucket.com/albums/w462/grantddavies/839b6e2fdf48ac367ac4f7366a9d2d7d.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri Sep 16, 2016 12:50 pm"
+  }, {
+    "postId" : "883677",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "883677",
+      "joined" : "Tue Oct 04, 2005 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Taunton, cider capital",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "That's a brilliant example of what to do and use and it looks very nice too, much better than rubber hoses.",
+    "lastEdited" : "Fri Sep 16, 2016 1:08 pm"
+  }, {
+    "postId" : "883682",
+    "author" : {
+      "username" : "65babylonbus",
+      "userId" : "883682",
+      "joined" : "Sun Apr 27, 2014 5:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Walsall",
+      "postCount" : "51",
+      "avatarPath" : null
+    },
+    "content" : "Ah thanks for your replys! Yes thats pretty much where I've been looking for them I've just been holding off getting i did see a package on eBay:\n<br> \n<br> \n<a href=\"http://www.ebay.co.uk/itm/AN-6-AN6-6-AN-Fitting-8MM-5-16-Nylon-Braided-Fuel-Oil-Hose-Line-10-Metre/152150860787?_trksid=p2060778.c100278.m3478&amp;_trkparms=ao%3D1%26asc%3D20150520071046%26meid%3Da720336a81234563b1441ecfee2248c0%26pid%3D100278%26\" class=\"postlink\">http://www.ebay.co.uk/itm/AN-6-AN6-6-AN ... D100278%26</a>\n<br> But I'm always bit dubious of getting important bits off eBay, I'm going to have a good think about exactly whats needed. and get cracking, il see about getting some pics up along the way! \n<br> \n<br> RE the Pipe, would you recommend, Teflon braided PTFE or Nylon braided? I love both of your guys set ups and hope I get something close Myself!, Thanks again\n<br> \n<br> J",
+    "lastEdited" : "Fri Sep 16, 2016 2:43 pm"
+  }, {
+    "postId" : "883699",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "883699",
+      "joined" : "Tue Oct 04, 2005 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Taunton, cider capital",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>65babylonbus wrote:</cite>Ah thanks for your replys! Yes thats pretty much where I've been looking for them I've just been holding off getting i did see a package on eBay:\n  <br> \n  <br> \n  <a href=\"http://www.ebay.co.uk/itm/AN-6-AN6-6-AN-Fitting-8MM-5-16-Nylon-Braided-Fuel-Oil-Hose-Line-10-Metre/152150860787?_trksid=p2060778.c100278.m3478&amp;_trkparms=ao%3D1%26asc%3D20150520071046%26meid%3Da720336a81234563b1441ecfee2248c0%26pid%3D100278%26\" class=\"postlink\">http://www.ebay.co.uk/itm/AN-6-AN6-6-AN ... D100278%26</a>\n  <br> But I'm always bit dubious of getting important bits off eBay, I'm going to have a good think about exactly whats needed. and get cracking, il see about getting some pics up along the way! \n  <br> \n  <br> RE the Pipe, would you recommend, Teflon braided PTFE or Nylon braided? I love both of your guys set ups and hope I get something close Myself!, Thanks again\n  <br> \n  <br> J\n </div>\n</blockquote> I've just come across your message on fb messenger! \n<br> \n<br> I'd stay clear of that fabric coloured nylon stuff and use ptfe braided hose, it's what most drag racers etc use for fuel lines as it compatible with any type of fuel including methanol plus it's not pourus like rubber fuel lines. \n<br> You must use ptfe fittings with ptfe hose, they're about £7 each not cheap but your fuel lines will never leak!\n<br> Use torques on eBay he stocks everything you'll need or hose fittings uk is another",
+    "lastEdited" : "Fri Sep 16, 2016 7:27 pm"
+  }, {
+    "postId" : "883700",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "883700",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Yep what tufty said, I've used Teflon ptfe pipe and fittings from torques_uk. Make sure you order the Teflon fittings not the fastflow ones. \n<br> \n<br> Grant",
+    "lastEdited" : "Fri Sep 16, 2016 7:38 pm"
+  }, {
+    "postId" : "883852",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "883852",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "Check out SpeedFlow....got a great selection of all the various hoses and AN fittings and a whole load more....",
+    "lastEdited" : "Sun Sep 18, 2016 5:50 pm"
+  } ]
+}

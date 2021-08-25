@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "61238",
+  "title" : "distance between beam end p[lates",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=61238",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "472932",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "472932",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "whats the width between the end plates of a front beam please.....exact",
+    "lastEdited" : "Fri Nov 27, 2009 8:51 am"
+  }, {
+    "postId" : "473206",
+    "author" : {
+      "username" : "Bergy",
+      "userId" : "473206",
+      "joined" : "Fri May 30, 2003 8:37 am",
+      "profileRank" : "Registered user",
+      "location" : "Dorset",
+      "postCount" : "3854",
+      "avatarPath" : "./download/file.php%3Favatar=294_1256210293.jpg"
+    },
+    "content" : "from memory I think its 750mm",
+    "lastEdited" : "Sat Nov 28, 2009 2:40 pm"
+  }, {
+    "postId" : "473242",
+    "author" : {
+      "username" : "paddy700d",
+      "userId" : "473242",
+      "joined" : "Sun Oct 01, 2006 11:28 am",
+      "profileRank" : "Registered user",
+      "location" : "Aberdeen, Scotland",
+      "postCount" : "139",
+      "avatarPath" : "./download/file.php%3Favatar=3129_1244759868.jpg"
+    },
+    "content" : "I measured mine with a stick micrometer last week and it was 29.448\" which equals 748 mm for the chassis so add 1mm (0.04\") clearance a side for the beam to fit over the chassis and Bergy would appear pap on \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<br>\n<br>Cheers,\n<br>Paddy",
+    "lastEdited" : "Sat Nov 28, 2009 5:39 pm"
+  }, {
+    "postId" : "473364",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "473364",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "coolio - ta",
+    "lastEdited" : "Sun Nov 29, 2009 9:56 am"
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "forumId" : "28",
+  "threadId" : "112882",
+  "title" : "The fastest side by side Split Screen race ever",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=112882",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=02930bcd6cb2080507c4f3f098dfc240",
+    "label" : "BWA"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "850974",
+    "author" : {
+      "username" : "VeeDubRacing",
+      "userId" : "850974",
+      "joined" : "Sat Sep 06, 2014 4:43 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "5",
+      "avatarPath" : null
+    },
+    "content" : "Just back from VW Action - Gti Festival, where there was some awesome times run by Phil in the Fire Bus and Andy in the Bugs VW Bus.\n<br> \n<br> They lined up for one race, and produced the fastest side by side split screen race ever.\n<br> \n<br> View it here on Youtube - \n<a href=\"https://youtu.be/Q0LjSLllM04\" class=\"postlink\">https://youtu.be/Q0LjSLllM04</a>\n<br> \n<br> or see further details of the show on Facebook - \n<a href=\"https://www.facebook.com/VeeDubRacing\" class=\"postlink\">https://www.facebook.com/VeeDubRacing</a>\n<br> \n<br> Phil went on to run an 11.62 and The Bugs VW Bus driven by Chez Williams went on to run an 11.84.\n<br> \n<br> Videos to follow.\n<br> \n<br> Simon\n<br> VeeDubRacing",
+    "lastEdited" : "Mon Oct 05, 2015 4:23 pm"
+  }, {
+    "postId" : "852488",
+    "author" : {
+      "username" : "Justinwest",
+      "userId" : "852488",
+      "joined" : "Sat Sep 05, 2015 1:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "7",
+      "avatarPath" : null
+    },
+    "content" : "That was awesome!!!!!!",
+    "lastEdited" : "Sun Oct 18, 2015 3:58 pm"
+  }, {
+    "postId" : "852514",
+    "author" : {
+      "username" : "EeVeeWee",
+      "userId" : "852514",
+      "joined" : "Mon Oct 12, 2015 2:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Amersfoort, The Netherlands",
+      "postCount" : "312",
+      "avatarPath" : null
+    },
+    "content" : "Great!!!",
+    "lastEdited" : "Sun Oct 18, 2015 5:28 pm"
+  } ]
+}

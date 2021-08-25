@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "123533",
+  "title" : "Front bench seat",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123533",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=fb65dfa33207aedc0f1601e6569ad97e",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "922951",
+    "author" : {
+      "username" : "grant",
+      "userId" : "922951",
+      "joined" : "Sat Apr 19, 2003 1:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wirral",
+      "postCount" : "2563",
+      "avatarPath" : null
+    },
+    "content" : "Brand new frame and pads from c and c and covered professionally in a stunning grey leatherette material. Free uk post \n<br> £650",
+    "lastEdited" : "Sun Jun 16, 2019 7:43 am"
+  }, {
+    "postId" : "923613",
+    "author" : {
+      "username" : "Panelman",
+      "userId" : "923613",
+      "joined" : "Thu Aug 12, 2010 6:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "12",
+      "avatarPath" : null
+    },
+    "content" : "Hi, can I have some pictures please? Also is it flat backs or hump backed. \n<br> Thanks",
+    "lastEdited" : "Sat Jul 13, 2019 1:17 pm"
+  }, {
+    "postId" : "923614",
+    "author" : {
+      "username" : "grant",
+      "userId" : "923614",
+      "joined" : "Sat Apr 19, 2003 1:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wirral",
+      "postCount" : "2563",
+      "avatarPath" : null
+    },
+    "content" : "Sold sorry",
+    "lastEdited" : "Sat Jul 13, 2019 2:50 pm"
+  } ]
+}

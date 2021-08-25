@@ -1,0 +1,50 @@
+{
+  "forumId" : "49",
+  "threadId" : "87754",
+  "title" : "Which interior is this?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=87754",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "676033",
+    "author" : {
+      "username" : "Cheeky",
+      "userId" : "676033",
+      "joined" : "Wed Sep 07, 2011 9:50 am",
+      "profileRank" : "Registered user",
+      "location" : "Brentwood, Essex",
+      "postCount" : "114",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys, I'm looking at different interiors to decide what to do with my bus. I have found this interior which I really like the look of, the bed extends over the bay, what is this called? Flickr link below to a photo of it\n<br>\n<br>\n<a href=\"http://www.flickr.com/photos/85376002@N02/7823164612\" class=\"postlink\">http://www.flickr.com/photos/85376002@N02/7823164612</a>",
+    "lastEdited" : "Mon Aug 20, 2012 1:01 pm"
+  }, {
+    "postId" : "676091",
+    "author" : {
+      "username" : "Dr Grub",
+      "userId" : "676091",
+      "joined" : "Wed Nov 05, 2008 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Jersey in the Channel Islands",
+      "postCount" : "561",
+      "avatarPath" : "./download/file.php%3Favatar=31304_1293980264.jpg"
+    },
+    "content" : "The interior itself looks custom built rather than a factory conversion. The bed mechanism is the standard 3/4 width rock and roll bed mechanism, you can buy the hinges or the complete units from most well known VW places.\n<br>\n<br>Cheers\n<br>\n<br>Dr. G. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Aug 20, 2012 5:34 pm"
+  }, {
+    "postId" : "676173",
+    "author" : {
+      "username" : "Cheeky",
+      "userId" : "676173",
+      "joined" : "Wed Sep 07, 2011 9:50 am",
+      "profileRank" : "Registered user",
+      "location" : "Brentwood, Essex",
+      "postCount" : "114",
+      "avatarPath" : null
+    },
+    "content" : "Cheers guys, it's mainly the bed I'm interested in, I've been looking at campers for some time but still havent got the hang of all the lingo.",
+    "lastEdited" : "Mon Aug 20, 2012 11:21 pm"
+  } ]
+}

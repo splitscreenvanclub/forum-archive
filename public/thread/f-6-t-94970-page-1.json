@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "94970",
+  "title" : "Engine keeps leaking oil",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=94970",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=f318458197bfe2a11e790686dac7b71d",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 20,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "727799",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727799",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "My engine keeps leaking oil it has only done 300 miles since a major overhaul it was fine at first then went on a 50 mile run and it leaks all over the exhaust I have had the petrol pump and alternator stand of and replaced the gaskets and re fitted them using rtv and they seem ok now I was using 10/40 semi synthetic as the engine has all new parts on it I have changed to 10/40 mineral now is this To thin or do these engines suffer from crank oil seal as that is were I think it might be coming from any advice welcome as I am about to get the matches out cheers mick.",
+    "lastEdited" : "Sun Jun 09, 2013 5:07 pm"
+  }, {
+    "postId" : "727832",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "727832",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Crank shaft oil seal is at the back (as in the end nearest the front of the bus). It is common that they leak here but it wouldn't go over the exhaust, it would drip down between the engine and the gearbox via the bell housing. Do you mean it's leaking from behind the bottom pulley? \n<br> If you do then what type of bottom pulley do you have as some (all) of the el-cheapo chrome Chinese Sh!t ones that you get don't fit properly or the groove that's (badly) machined into them doesn't do it's job in stopping the oil leaking out. I run a scat bottom pulley and that's fine as are genuine OG vw ones. Before that I had an empi ally one that looked like it was made by a 2 year old from melted down bean cans and it leaked like a sieve. \n<br> \n<br> Shalom, Lee.",
+    "lastEdited" : "Sun Jun 09, 2013 7:21 pm"
+  }, {
+    "postId" : "727836",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727836",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Cheers lee that would make sense I have had to change loads of sh!t cheap stuff on the engine like dizzy cap you can see the sparks through(nice ) I will get a new skat pulley thanks again bud \n<br> \n<br> Mick",
+    "lastEdited" : "Sun Jun 09, 2013 7:32 pm"
+  }, {
+    "postId" : "727840",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727840",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Where is a good place to get a scat pulley from ? Cheers",
+    "lastEdited" : "Sun Jun 09, 2013 7:41 pm"
+  }, {
+    "postId" : "727856",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "727856",
+      "joined" : "Tue Apr 29, 2003 11:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leicester",
+      "postCount" : "1280",
+      "avatarPath" : null
+    },
+    "content" : "9 to 1 Original GERMAN OE parts are better than 90% of aftermarket stuff (IMO), unless your engine is an exotic high power unit. I have an £80 crank pulley - complete waste of money and I'd rather go back to a vw one!\n<br> \n<br> Back to the original point - these type of symptoms come up so often, and I suffered with them myself. It's important to understand the original engine breather design (even, and especially on a modified from oe engine). I think it's called a pressurised case breather system ( even though it plumbs into the vacuum at the carb intake). Long and short of it, is people usually rush to upgrade the carb - even just the air filter - and in doing so remove the tube giving the case breathing it's vacuum, this upsetting the case pressure balance.\n<br> \n<br> The second important thing to understand is that there is actually an angular slot in the case behind the crank pulley. This is actually to allow air into the case, again as part of the original breather concept. On the original design an oil slinger is used her to keep the oil in the case. If your case pressure is even marginally high the oil will overcome the slinger behind the crank pulley and get onto the pulley.\n<br> \n<br> Net result: oil everywhere, misguided replacement and siliconing of gaskets on the fuel pump, distributor etc. ect.\n<br> \n<br> A sand seal will probably stop the oil coming out but won't address the underlying case pressure issue.\n<br> \n<br> If this sounds like the problem I'd suggest you look to get the case pressure balanced through either an OE or a considered breather system.",
+    "lastEdited" : "Sun Jun 09, 2013 8:25 pm"
+  }, {
+    "postId" : "727864",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "727864",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "No worries mate. Not saying that is deffo your problem but if it's a cheapo chrome pulley they are notoriously Sh!t and tend to throw oil all over the engine bay. Hence the saying \"chrome don't get you home\".\n<br> I didn't think you could still get them see through dizzy caps any more \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> Used to have one on my bug back in about 91-ish. Made it run like a bag of cr@p. along with the day glow pink tinware that didn't fit \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> let's not even mention the rad shorts......It was the 90's though......\n<br> I did think maybe crank case pressure but not sure what carbs he's running but on a stock engine I wouldn't have thought it would build p that much pressure. \n<br> \n<br> Shalom, Lee.",
+    "lastEdited" : "Sun Jun 09, 2013 8:36 pm"
+  }, {
+    "postId" : "727879",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727879",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Oh dear I think this one will cost a bit to sort out ok a bit about the engine it has been rebuilt to a 1776 running twin sole carbs I have fitted a big sump on it and it seems to bleed more when I use the a bit of throttle so possibly a breathing problem after all this is the pulley I have on the engine\n<br> \n<a href=\"http://s840.photobucket.com/user/mickg234/media/DSCN3303_zpsb85c8881.jpg.html\" class=\"postlink\"><img src=\"http://i840.photobucket.com/albums/zz329/mickg234/DSCN3303_zpsb85c8881.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> I would like to thank you all in advance as I think this will be a long one I thought these engines were supposed to be simple or is that just me being simple ?",
+    "lastEdited" : "Sun Jun 09, 2013 8:48 pm"
+  }, {
+    "postId" : "727880",
+    "author" : {
+      "username" : "Ted",
+      "userId" : "727880",
+      "joined" : "Thu Jun 21, 2012 8:11 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "103",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>mickg wrote:</cite>My engine keeps leaking oil it has only done 300 miles since a major overhaul it was fine at first then went on a 50 mile run and it leaks all over the exhaust I have had the petrol pump and alternator stand of and replaced the gaskets and re fitted them using rtv and they seem ok now I was using 10/40 semi synthetic as the engine has all new parts on it I have changed to 10/40 mineral now is this To thin or do these engines suffer from crank oil seal as that is were I think it might be coming from any advice welcome as I am about to get the matches out cheers mick.\n </div>\n</blockquote> 1-Stock pulley\n<br> 2-Big breather box not a small bug pack one . CSP one is good \n<br> Problem solved \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sun Jun 09, 2013 8:49 pm"
+  }, {
+    "postId" : "727888",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727888",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Thanks all were does the breather box live then I don't remember seeing that",
+    "lastEdited" : "Sun Jun 09, 2013 8:56 pm"
+  }, {
+    "postId" : "727894",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "727894",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>mickg wrote:</cite>..........I thought these engines were supposed to be simple or is that just me being simple ?\n </div>\n</blockquote> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> they are simple until you start p!ssing about with them and making them produce double the BHP that they were designed for \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> The breather box lives wherever you put it, you have to buy it and fit it yourself. \n<br> I've got a 1776 with 40's and it always used to leak out of behind the front pulley until I changed it then it leaked out of the crankshaft oil seal. I've fitted one of the cheapo empi breather boxes that connect to the filler neck then to each rocker cover and that's cured it. just make sure if you fit a breather box that it's positioned in the engine bay higher than where it comes off the engine so that it doesn't fill up with gunk. Oh and if it's one of the empi ones you have the lid with the nice empi logo facing upwards so no one can see it or it'll just dribble out all over your nice clean engine bay......\n<br> \n<br> Shalom, Lee.",
+    "lastEdited" : "Sun Jun 09, 2013 9:03 pm"
+  }, {
+    "postId" : "727895",
+    "author" : {
+      "username" : "Ted",
+      "userId" : "727895",
+      "joined" : "Thu Jun 21, 2012 8:11 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "103",
+      "avatarPath" : null
+    },
+    "content" : "If you don't have one already ?\n<br> Then you will need to get one for sure .",
+    "lastEdited" : "Sun Jun 09, 2013 9:05 pm"
+  }, {
+    "postId" : "727897",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "727897",
+      "joined" : "Tue Apr 29, 2003 11:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leicester",
+      "postCount" : "1280",
+      "avatarPath" : null
+    },
+    "content" : "They are a simple engine, but not crude - like the old GM V8. Don't be daunted; oil pi**ing out often seems worse than it is.\n<br> \n<br> The 'size' of the breather box is not \n<strong class=\"text-strong\"><em class=\"text-italics\">necessarily</em></strong> going to solve the problem - it may. Getting the 'concept' of the breathe system right is more effective. There are some useful links towards the end of my build thread re breathers.\n<br> Page 16 and 18",
+    "lastEdited" : "Sun Jun 09, 2013 9:05 pm"
+  }, {
+    "postId" : "727898",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727898",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Cheers",
+    "lastEdited" : "Sun Jun 09, 2013 9:09 pm"
+  }, {
+    "postId" : "727900",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "727900",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Just had a thought......volkswoRld did a how to on fitting one, I will see if I can dig it out for you and scan it in if you send me an email address but it's pretty straight forwards. If you buy the empi one chuck the hoses with the kit in the bin and go to a local motor factors and get some decent ones. \n<br> should only take an hour or so to fit. I got some L brackets and screwed them to the top,of the engine bay then bolted the breather box to them so it's nice and high and out of the way. \n<br> \n<br> Shalom, Lee",
+    "lastEdited" : "Sun Jun 09, 2013 9:10 pm"
+  }, {
+    "postId" : "727919",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727919",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Cheers lee that would be a great help thinking about it the only breather on the engine is on the oil filler the rocker covers are just plain rocker covers no pipes were do the vents go I have looked on the Internet and there seems to be a lot of breather pipes going to the breather box but were do they come from ?",
+    "lastEdited" : "Sun Jun 09, 2013 9:38 pm"
+  } ]
+}

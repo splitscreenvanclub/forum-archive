@@ -1,0 +1,183 @@
+{
+  "forumId" : "2",
+  "threadId" : "123117",
+  "title" : "Brake problems",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123117",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=5d18bd548107123eb0e8335e6a5523b8",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 13,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920570",
+    "author" : {
+      "username" : "Redthelmem",
+      "userId" : "920570",
+      "joined" : "Fri Oct 26, 2018 8:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "Hi all not been able to do much to my 66 Brazilian split for a while hence not been on here for a while. \n<br> \n<br> I’m currently doing the brakes on it, had a disc conversion installed. I’ve changed the master cylinder for a duel circuit and changed the brake pipes, all have been bled through and no air in the system as far as I can see. The brake pedal still travels to the floor. The bus won’t move when the brakes are applied and I try driving it forward but im not happy that there is nothing until the floor.\n<br> \n<br> I’m toying with retro fitting a brake booster with a vacum pump but I don’t know really to be honest.\n<br> \n<br> My Karmann brakes are the same system and behave as I’d expect and that is a 68.\n<br> \n<br> Before I go spending a bucket full I’d appreciate any advice.\n<br> \n<br> Do I need to bleed more or is this how bus brakes work? Not had one before so I’m scratching my head really. \n<br> \n<br> Appreciate any advice or tips\n<br> \n<br> Thanks\n<br> \n<br> Iain",
+    "lastEdited" : "Sun Mar 10, 2019 8:41 pm"
+  }, {
+    "postId" : "920571",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920571",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20060",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Fix the issue you have before you fit a servo. You've got a fault or air in the system",
+    "lastEdited" : "Sun Mar 10, 2019 8:49 pm"
+  }, {
+    "postId" : "920572",
+    "author" : {
+      "username" : "Redthelmem",
+      "userId" : "920572",
+      "joined" : "Fri Oct 26, 2018 8:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "Cheers Jim, I’m assuming that the travel shouldn’t be to the floor.",
+    "lastEdited" : "Sun Mar 10, 2019 9:32 pm"
+  }, {
+    "postId" : "920579",
+    "author" : {
+      "username" : "BlastingDiePast",
+      "userId" : "920579",
+      "joined" : "Sat Feb 02, 2013 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "1802",
+      "avatarPath" : null
+    },
+    "content" : "Is your rod adjusted correctly on the master ? And is it the correct one? The rod should just touch the cylinder inside the master",
+    "lastEdited" : "Mon Mar 11, 2019 7:08 am"
+  }, {
+    "postId" : "920581",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920581",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20060",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37363&amp;sid=5d18bd548107123eb0e8335e6a5523b8\">BlastingDiePast</a> wrote: <a href=\"./viewtopic.php?p=920579&amp;sid=5d18bd548107123eb0e8335e6a5523b8#p920579\" data-post-id=\"920579\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Mon Mar 11, 2019 7:08 am\n   </div></cite> Is your rod adjusted correctly on the master ? And is it the correct one? The rod should just touch the cylinder inside the master \n </div>\n</blockquote> VW instructions say 1mm clearance. \n<br> \n<br> If a CSP style upgrade fitted, their instructions say slightly more, (I forget the exact amount but the instructions are clear)",
+    "lastEdited" : "Mon Mar 11, 2019 8:51 am"
+  }, {
+    "postId" : "920582",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920582",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20060",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=42963&amp;sid=5d18bd548107123eb0e8335e6a5523b8\">Redthelmem</a> wrote: <a href=\"./viewtopic.php?p=920572&amp;sid=5d18bd548107123eb0e8335e6a5523b8#p920572\" data-post-id=\"920572\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Mar 10, 2019 9:32 pm\n   </div></cite> Cheers Jim, I’m assuming that the travel shouldn’t be to the floor. \n </div>\n</blockquote> \n<br> No, definitely not. Depending on the parts installed, I wouldn't expect the pedal to move anywhere near that far.",
+    "lastEdited" : "Mon Mar 11, 2019 8:52 am"
+  }, {
+    "postId" : "920612",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "920612",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1444",
+      "avatarPath" : null
+    },
+    "content" : "Are your rear brakes (I’m assuming still drums) adjusted up ok? Maybe try adjusting them up tight... have you got more pedal then? If you pump the pedal do you get a much higher pedal?",
+    "lastEdited" : "Mon Mar 11, 2019 10:35 pm"
+  }, {
+    "postId" : "920677",
+    "author" : {
+      "username" : "Redthelmem",
+      "userId" : "920677",
+      "joined" : "Fri Oct 26, 2018 8:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys \n<br> Appreciate the advice, new rear drum set is are here so I’ll be tackling this this weekend. I’ll report back. Much appreciated",
+    "lastEdited" : "Thu Mar 14, 2019 11:09 pm"
+  }, {
+    "postId" : "920678",
+    "author" : {
+      "username" : "Redthelmem",
+      "userId" : "920678",
+      "joined" : "Fri Oct 26, 2018 8:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "To add, I am assuming the brake light switch goes at the back near side? From reading other threads do the front brakes get fed from the rear ports and the rear from the front? I’ve punch an all in one bleeding kit off a friend, should I bleed front discs first then rear drums or all at once as the tool is designed to do? I’ve an afternoon to play and probably Sunday, which I’m hoping I won’t need \n<img alt=\"😂\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f602.svgz\">Tvm in advance",
+    "lastEdited" : "Thu Mar 14, 2019 11:12 pm"
+  }, {
+    "postId" : "920683",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920683",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20060",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Usually you start at the furthest brake and work towards the m/c. No idea if that tool is a good is a good idea or not.",
+    "lastEdited" : "Fri Mar 15, 2019 9:35 am"
+  }, {
+    "postId" : "920696",
+    "author" : {
+      "username" : "Wigsplitta",
+      "userId" : "920696",
+      "joined" : "Tue Aug 29, 2017 7:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "If its a gunson eezibleed then you shouldn't have any problems. I think they're a great piece of kit and make bleeding any brake system or hydralic clutch on your own a doddle. It keeps pressure on the system using a spare wheel/tyre so allows you to locate any leaks also. Just remember to follow the instructions and deflate the tyre to 20psi IIRC as to not put too much pressure through the system. Start with the offside rear, then nearside rear, offside front and finally nearside front. Good luck!",
+    "lastEdited" : "Fri Mar 15, 2019 8:34 pm"
+  }, {
+    "postId" : "920743",
+    "author" : {
+      "username" : "Redthelmem",
+      "userId" : "920743",
+      "joined" : "Fri Oct 26, 2018 8:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "All done and using the eezee bleed kit done the job, changed the rear drum servo’ too while I was there.\n<br> \n<br> Still a bit of travel but they are now working as I’d expect \n<br> \n<br> Really appreciate your help and advice. \n<br> \n<br> Now onto the next issue. \n<br> \n<br> Thanks again \n<br> \n<br> Iain",
+    "lastEdited" : "Sun Mar 17, 2019 2:19 pm"
+  }, {
+    "postId" : "921257",
+    "author" : {
+      "username" : "Redthelmem",
+      "userId" : "921257",
+      "joined" : "Fri Oct 26, 2018 8:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "Adjusted the pedal drive into the master cylinder and now working as expected. Thanks for the advice as always. Nearly time for it to go to Johnny Java for the rest of it to be done l, I’ve already warned him to be gentle with me",
+    "lastEdited" : "Mon Apr 08, 2019 8:17 am"
+  } ]
+}

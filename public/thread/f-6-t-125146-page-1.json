@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "125146",
+  "title" : "Solex H30/31 problems",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125146",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=5ade2a84d83d06db773fc711096c4efc",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932251",
+    "author" : {
+      "username" : "CliveG",
+      "userId" : "932251",
+      "joined" : "Tue Sep 15, 2020 4:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hi everyone,\n<br> Picked up my first Split only broke down 3 times on the way home and can't start at all how. It sometimes starts but stalls within a minute or two, it even did this while hot an hour or two into the drive home a strong smell of fuel everytime. I have bought a rebuild kit but this Solex H30/31 carb is a bit of a mistery what is this lever for and should if be floppy, is there supposed to be a spring here?\n<br> \n<br> Thanks for your help.",
+    "lastEdited" : "Wed Sep 16, 2020 7:21 am"
+  }, {
+    "postId" : "932572",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "932572",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3539",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Looks like a stock H30/31 - the lever is fine. Most likely the needle valve in the float camber is not closing properly, possible due to crud in the fuel lines. Renew the fuel hoses, check the needle valve and remove and clean the idle jet which could also be blocked.\n<br> \n<br> And get rid of that useless pancake air filter. Put a proper original filter back on the bus with a hose from that to the case oil filler otherwise you will always have oil leaks due to high case pressure.",
+    "lastEdited" : "Tue Oct 06, 2020 8:21 am"
+  }, {
+    "postId" : "932752",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "932752",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "You also have an aftermarket fuel pump.\n<br> Check the fuel pressure to the carburettor. This might be too high. \n<br> Can't remember but I think it should be 3 PSI.",
+    "lastEdited" : "Sat Oct 17, 2020 10:10 am"
+  }, {
+    "postId" : "932871",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "932871",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3539",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=932752&amp;sid=5ade2a84d83d06db773fc711096c4efc#p932752\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=2243&amp;sid=5ade2a84d83d06db773fc711096c4efc\">DOUGAL</a> wrote: <a href=\"./viewtopic.php?p=932752&amp;sid=5ade2a84d83d06db773fc711096c4efc#p932752\" data-post-id=\"932752\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sat Oct 17, 2020 10:10 am</span></cite> You also have an aftermarket fuel pump.\n  <br> Check the fuel pressure to the carburettor. This might be too high. \n  <br> Can't remember but I think it should be 3 PSI. \n </div>\n</blockquote> That pump is fine for H30/31 carb. You only need lower pressure for Weber carbs like ICTs.",
+    "lastEdited" : "Sat Oct 24, 2020 1:05 pm"
+  }, {
+    "postId" : "932878",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "932878",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=932871&amp;sid=5ade2a84d83d06db773fc711096c4efc#p932871\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=8751&amp;sid=5ade2a84d83d06db773fc711096c4efc\">BJ1</a> wrote: <a href=\"./viewtopic.php?p=932871&amp;sid=5ade2a84d83d06db773fc711096c4efc#p932871\" data-post-id=\"932871\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sat Oct 24, 2020 1:05 pm</span></cite> \n  <blockquote cite=\"./viewtopic.php?p=932752&amp;sid=5ade2a84d83d06db773fc711096c4efc#p932752\">\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=2243&amp;sid=5ade2a84d83d06db773fc711096c4efc\">DOUGAL</a> wrote: <a href=\"./viewtopic.php?p=932752&amp;sid=5ade2a84d83d06db773fc711096c4efc#p932752\" data-post-id=\"932752\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sat Oct 17, 2020 10:10 am</span></cite> You also have an aftermarket fuel pump.\n    <br> Check the fuel pressure to the carburettor. This might be too high. \n    <br> Can't remember but I think it should be 3 PSI. \n   </div>\n  </blockquote> That pump is fine for H30/31 carb. You only need lower pressure for Weber carbs like ICTs. \n </div>\n</blockquote> I always thought it had to be 3PSI. Good to know that those pumps are ok.\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Sat Oct 24, 2020 9:10 pm"
+  } ]
+}

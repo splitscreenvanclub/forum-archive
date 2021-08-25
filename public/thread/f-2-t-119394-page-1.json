@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "119394",
+  "title" : "a nice story from many moons ago...",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=119394",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ef5ce3f8caf154a697dfc6366f8896ed",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "898214",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "898214",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "On most forums There is always talk about classic vehicle values with someone always asking how much things cost years ago and how much they think it's worth now etc etc. This then reminded me of a letter written in to another (classic) car club magazine many years ago which basically said the following....\n<br> \n<br> (Paraphrasing slightly here!)\n<br> \n<br> \"I was recently offered a ridiculous amount of money for my car by a guy who saw me filling it up in a petrol station but I kindly refused their offer. If I had accepted it then I would have just been another guy with a nice healthy bank balance and there's loads of them on the planet. I, on the other hand am the guy with the old car that puts a smile on my face and everyone else's' every time I drive it, and there certainly ain't many of us around so I will stick with my old rust bucket thanks very much!\"\n<br> \n<br> This was in the 1980s admittedly but it made me smile when I read that the other day.\n<br> Cheers\n<br> DD\n<br> A.k.a one man and his Doka",
+    "lastEdited" : "Sun Jun 04, 2017 8:53 pm"
+  }, {
+    "postId" : "898221",
+    "author" : {
+      "username" : "james309",
+      "userId" : "898221",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "604",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "Nice story Dave, and very true !\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun Jun 04, 2017 10:16 pm"
+  } ]
+}

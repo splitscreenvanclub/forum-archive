@@ -1,0 +1,63 @@
+{
+  "forumId" : "2",
+  "threadId" : "90665",
+  "title" : "Posts Now with images :)",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=90665",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "698146",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "698146",
+      "joined" : "Tue Aug 07, 2007 3:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1082",
+      "avatarPath" : "http://www.bbc.co.uk/cult/ilove/years/1977/images/citizensmith173.jpg"
+    },
+    "content" : "Sorry for the forum being down for so long. Totally my fault \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" alt=\":oops:\" title=\"Red Face\"> \n<br>\n<br>We've now moved to a much better hosting solution so as a reward for your patience, you can now attach pics to your posts \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">\n<br>\n<br>Images have an auto resized version created on upload. The max file size is 1MB and the max dimensions are 1024px to keep things sensible. Any file over that width will be displayed as an inline attachment. You can attach up to 3 images to each post.\n<br>\n<br>Enjoy!",
+    "lastEdited" : "Sun Jan 13, 2013 4:16 pm"
+  }, {
+    "postId" : "698158",
+    "author" : {
+      "username" : "seand37",
+      "userId" : "698158",
+      "joined" : "Mon Aug 10, 2009 10:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "LINCOLNSHIRE COAST",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=33420_1260212417.jpg"
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> That must have been one hell of a Xmas party..... \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Sun Jan 13, 2013 4:50 pm"
+  }, {
+    "postId" : "698180",
+    "author" : {
+      "username" : "SSVC Van Register",
+      "userId" : "698180",
+      "joined" : "Thu May 04, 2006 10:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "90",
+      "avatarPath" : "./download/file.php%3Favatar=2355_1351277882.jpg"
+    },
+    "content" : "how does that work then ????\n<br>\n<br>Steve.",
+    "lastEdited" : "Sun Jan 13, 2013 5:46 pm"
+  }, {
+    "postId" : "698182",
+    "author" : {
+      "username" : "SSVC Van Register",
+      "userId" : "698182",
+      "joined" : "Thu May 04, 2006 10:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "90",
+      "avatarPath" : "./download/file.php%3Favatar=2355_1351277882.jpg"
+    },
+    "content" : "MMMmmmmm I see.",
+    "lastEdited" : "Sun Jan 13, 2013 5:48 pm"
+  } ]
+}

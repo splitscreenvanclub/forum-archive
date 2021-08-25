@@ -1,0 +1,24 @@
+{
+  "forumId" : "5",
+  "threadId" : "115188",
+  "title" : "Indicator switch",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115188",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868663",
+    "author" : {
+      "username" : "morts",
+      "userId" : "868663",
+      "joined" : "Sat May 09, 2009 10:32 am",
+      "profileRank" : "Registered user",
+      "location" : "The Land of Oz",
+      "postCount" : "36",
+      "avatarPath" : null
+    },
+    "content" : "Hi all\n<br>\n<br>I am looking for a RHD, 12 volt indicator switch for my 1967 Canterbury Pitt camper. The one on the bus does not stay on when turning left or right and even after the auto electrician giving it a 'birthday' it isn't any better - thanks.",
+    "lastEdited" : "Thu Mar 24, 2016 10:51 am"
+  } ]
+}

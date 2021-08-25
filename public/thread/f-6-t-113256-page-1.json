@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "113256",
+  "title" : "Chassis beam dimensions",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=113256",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "853971",
+    "author" : {
+      "username" : "DJDUNKY",
+      "userId" : "853971",
+      "joined" : "Sun May 18, 2014 8:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br> \n<br> Can anyone help me with dimensions for the I beams and top hats please. Especially the rear top hat that fits over the heater y tube. \n<br> I only need the distances between each other as I have the complete sections from autocraft. \n<br> \n<br> Thanks\n<br> Duncan",
+    "lastEdited" : "Sat Oct 31, 2015 10:27 am"
+  }, {
+    "postId" : "854069",
+    "author" : {
+      "username" : "DJDUNKY",
+      "userId" : "854069",
+      "joined" : "Sun May 18, 2014 8:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "Anyone?",
+    "lastEdited" : "Sun Nov 01, 2015 9:04 am"
+  }, {
+    "postId" : "854126",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "854126",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "I don't know if this is what you're after:\n<br> \n<br> \n<a href=\"http://www.vintagebus.com/techinfo/dim2.jpg\" class=\"postlink\">http://www.vintagebus.com/techinfo/dim2.jpg</a>\n<br> \n<br> \n<a href=\"http://www.vintagebus.com/techinfo/dim2k.jpg\" class=\"postlink\">http://www.vintagebus.com/techinfo/dim2k.jpg</a>",
+    "lastEdited" : "Sun Nov 01, 2015 5:17 pm"
+  }, {
+    "postId" : "854163",
+    "author" : {
+      "username" : "DJDUNKY",
+      "userId" : "854163",
+      "joined" : "Sun May 18, 2014 8:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for that. \n<br> In the picture I'm looking for the dims between the cross members. These don't appear to be shown",
+    "lastEdited" : "Sun Nov 01, 2015 8:53 pm"
+  }, {
+    "postId" : "854178",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "854178",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "Dimension 'O' is shown between front outrigger to centre outrigger as 1282mm, measured from outside.\n<br> \n<br> I can't confirm the actual dimensions, but the three in between look equally spaced in the diagram.",
+    "lastEdited" : "Sun Nov 01, 2015 11:12 pm"
+  } ]
+}

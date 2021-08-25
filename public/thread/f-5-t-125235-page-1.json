@@ -1,0 +1,53 @@
+{
+  "forumId" : "5",
+  "threadId" : "125235",
+  "title" : "Front and rear towel rails",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=125235",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=8ac9c63e9b164f223de642b486537831",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932776",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "932776",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "450",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys , looking for us spec front and rear towel rails . Any condition considered . Kind regards Neil",
+    "lastEdited" : "Sun Oct 18, 2020 8:45 pm"
+  }, {
+    "postId" : "932787",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "932787",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "488",
+      "avatarPath" : null
+    },
+    "content" : "hy neil got a front towel rail couple small dents but not bad .. bought a new one from a/s",
+    "lastEdited" : "Mon Oct 19, 2020 4:49 pm"
+  }, {
+    "postId" : "932794",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "932794",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "450",
+      "avatarPath" : null
+    },
+    "content" : "Hi Gerald , yes we spoke before I think but postage was to high to send. Kind regards Neil",
+    "lastEdited" : "Mon Oct 19, 2020 8:50 pm"
+  } ]
+}

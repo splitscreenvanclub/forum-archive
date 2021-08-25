@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "124704",
+  "title" : "Rear drums of a 66",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124704",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=4f8491f5af099b35af7c75572608a36b",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929733",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "929733",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "111",
+      "avatarPath" : null
+    },
+    "content" : "In good usable condition £60 pair plus post",
+    "lastEdited" : "Mon May 11, 2020 8:59 pm"
+  }, {
+    "postId" : "929922",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "929922",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "111",
+      "avatarPath" : null
+    },
+    "content" : "£40",
+    "lastEdited" : "Sun May 17, 2020 6:03 pm"
+  } ]
+}

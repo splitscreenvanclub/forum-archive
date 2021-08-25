@@ -1,0 +1,66 @@
+{
+  "forumId" : "2",
+  "threadId" : "122993",
+  "title" : "Wedding bus",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=122993",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ba48b060bffaffbf4a436e7c2c42d90d",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "919657",
+    "author" : {
+      "username" : "Summerlin",
+      "userId" : "919657",
+      "joined" : "Mon Jan 21, 2019 10:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hi there,\n<br> We are thinking about starting a wedding transport business with our bus and been wondering what we need to do about it. Do we need liability insurance or any special licences?\n<br> \n<br> Thanks,\n<br> Maggie and Richard",
+    "lastEdited" : "Fri Feb 08, 2019 8:32 pm"
+  }, {
+    "postId" : "919709",
+    "author" : {
+      "username" : "jonny7",
+      "userId" : "919709",
+      "joined" : "Sun Dec 29, 2013 2:51 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "15",
+      "avatarPath" : null
+    },
+    "content" : "I use the wedding insurance group for mine. It covers me for evrything i need",
+    "lastEdited" : "Sun Feb 10, 2019 11:56 am"
+  }, {
+    "postId" : "920301",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "920301",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "have you a link to this?\n<br> \n<br> cheers",
+    "lastEdited" : "Mon Mar 04, 2019 9:44 am"
+  }, {
+    "postId" : "920311",
+    "author" : {
+      "username" : "malum",
+      "userId" : "920311",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "554",
+      "avatarPath" : null
+    },
+    "content" : "Literally 2 seconds on Google\n<br> \n<br> \n<a href=\"https://www.weddinginsurancegroup.co.uk/\" class=\"postlink\">https://www.weddinginsurancegroup.co.uk/</a>",
+    "lastEdited" : "Mon Mar 04, 2019 12:19 pm"
+  } ]
+}

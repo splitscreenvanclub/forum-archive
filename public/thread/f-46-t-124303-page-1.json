@@ -1,0 +1,69 @@
+{
+  "forumId" : "46",
+  "threadId" : "124303",
+  "title" : "Flooring ideas",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=124303",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=4fdff2745179c9a5c2bece6718cfb935",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=46&sid=4fdff2745179c9a5c2bece6718cfb935",
+    "label" : "Devon"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927798",
+    "author" : {
+      "username" : "NateBug",
+      "userId" : "927798",
+      "joined" : "Fri Nov 01, 2019 1:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=38010&amp;sid=4fdff2745179c9a5c2bece6718cfb935&amp;mode=view\"><img src=\"./download/file.php?id=38010&amp;t=1&amp;sid=4fdff2745179c9a5c2bece6718cfb935\" class=\"postimage\" alt=\"IMG_5002.jpg\" title=\"IMG_5002.jpg (67.75 KiB) Viewed 901 times\"></a>\n  </dt> \n </dl> \n</div>Hi \n<br> \n<br> Looking for some inspiration for the flooring to my Devon Spaceway. The Van is Velvet green/cream on the outside with a mostly original green interior - see photo. Was thinking of a chequed pattern??\n<br> \n<br> thanks in advance!",
+    "lastEdited" : "Fri Feb 07, 2020 2:00 pm"
+  }, {
+    "postId" : "927799",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "927799",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15460",
+      "avatarPath" : null
+    },
+    "content" : "I have a 65MY Devon Caravette in Velvet Green and blue white and I used the Mad Matz kit of Glue Polish and 50 9'' tiles on 4mm ply so that the interior still sat correctly (25 each of two colours). I used the charcoal and ice tiles very similar to colours available when the bus was fitted out.\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20200207/05e638182c9e821a3f12bb3cb9a070f5.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20200207/380ff53c2b5691a74461fa61b98041f8.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri Feb 07, 2020 2:19 pm"
+  }, {
+    "postId" : "927800",
+    "author" : {
+      "username" : "NateBug",
+      "userId" : "927800",
+      "joined" : "Fri Nov 01, 2019 1:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=38011&amp;sid=4fdff2745179c9a5c2bece6718cfb935&amp;mode=view\"><img src=\"./download/file.php?id=38011&amp;t=1&amp;sid=4fdff2745179c9a5c2bece6718cfb935\" class=\"postimage\" alt=\"1.jpg\" title=\"1.jpg (67.38 KiB) Viewed 895 times\"></a>\n  </dt> \n </dl> \n</div>thanks for the advice - looks similar to mine",
+    "lastEdited" : "Fri Feb 07, 2020 2:52 pm"
+  }, {
+    "postId" : "927801",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "927801",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15460",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"https://www.ebay.co.uk/itm/223894682530\" class=\"postlink\">https://www.ebay.co.uk/itm/223894682530</a>\n<br> Devon used 5' x5' sheet of 4mm ply and the p profile finishing trim removed from the bottom of the division.\n<br> As in my picture!\n<br> Not 9mm ply.\n<br> \n<br>",
+    "lastEdited" : "Fri Feb 07, 2020 6:00 pm"
+  } ]
+}

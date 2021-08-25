@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "123308",
+  "title" : "Bus judders when pulling away",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123308",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=5ab228cad80b7fb32e748b86c2e15caa",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 17,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "921696",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "921696",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "176",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Hi like most I recently pulled my van out for the summer. last month when I went to Ninove I noticed when driving along the motorway about half throttle the bus would occasional judder only very briefly.\n<br> it progressively has got worst pulling away under load I now start kangarooing down the road in 2,3 or 4th. would this be a clutch issue or something else ? \n<br> \n<br> the gearbox/clutch ir only a couple of years old with 2k miles done.\n<br> any advice appreciated\n<br> thanks\n<br> Aaron",
+    "lastEdited" : "Fri Apr 26, 2019 8:17 pm"
+  }, {
+    "postId" : "921705",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "921705",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20133",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Check the clutch cable adjustment / bowden tube is correctly installed / main clutch cable conduit hasn't broken free. Other than that I'd suspect oil contamination of the friction plate.",
+    "lastEdited" : "Sat Apr 27, 2019 1:27 am"
+  }, {
+    "postId" : "921707",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "921707",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "176",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Thanks Jim I’ll take a look. If it’s oil contamination I’m guessing the engine needs to come out then\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sat Apr 27, 2019 6:21 am"
+  }, {
+    "postId" : "921709",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "921709",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20133",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yes, if oil or the conduit broken free, then it's an engine out job. \n<br> \n<br> New seal(s) + new friction plate if oil. \n<br> \n<br> Weld the conduit in position if broken free.",
+    "lastEdited" : "Sat Apr 27, 2019 8:17 am"
+  }, {
+    "postId" : "921714",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "921714",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "176",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Thanks Jim\n<br> \n<br> Bowden tune looks ok and has the right amount of bend\n<br> \n<br> Conduct if this the tube the Bowden connects to which then runs under the belly pans then that looks ok 2\n<br> \n<br> Clutch looking the likely culprit \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20190427/a0b1a567b484a58c46b95691dbe48140.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sat Apr 27, 2019 8:57 am"
+  }, {
+    "postId" : "921729",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "921729",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20133",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Is the engine wet where it joins the gearbox?",
+    "lastEdited" : "Sat Apr 27, 2019 7:12 pm"
+  }, {
+    "postId" : "921731",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "921731",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "176",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>Is the engine wet where it joins the gearbox?\n </div>\n</blockquote> There is a wet patch at the bottom of the box\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sat Apr 27, 2019 7:26 pm"
+  }, {
+    "postId" : "921732",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "921732",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20133",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "That's often where the flywheel or gearbox seal leaks collect",
+    "lastEdited" : "Sat Apr 27, 2019 7:29 pm"
+  }, {
+    "postId" : "921843",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "921843",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "176",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Clutch is out. Didn’t see any oil contamination on the friction plate. Looks a cheap clutch and pretty rough looking seeing it was only put in before I bought the bus 3 years ago. I bought a new kit from Machine7. \n<img src=\"//uploads.tapatalk-cdn.com/20190501/f1a3f8fcc4d5145541a344b89aa07f6c.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20190501/7dd0e6808333e3db75ad9d200e7a4c39.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20190501/361babbf481ee2c607caaf382b641cf9.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20190501/43c8a067a4205924959873a913ab895c.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20190501/ca6da63a2f5140984d227ae3f642712d.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20190501/f30415fb6f0de84ef7718610b2fc7109.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Still not 100% think this solve the issue and it might be electrical. Fingers cross\n<br> \n<br> Old clutch\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20190501/c4add1a8d6fe790f616c79783dd28711.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Wed May 01, 2019 12:10 pm"
+  }, {
+    "postId" : "921888",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "921888",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3538",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Electrical? How so? that old clutch plate look oil soaked to me. Have you found the leak? No point putting in a new clutch if the crank oil seal is leaking.",
+    "lastEdited" : "Thu May 02, 2019 1:20 pm"
+  }, {
+    "postId" : "921922",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "921922",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Hi Aaron,\n<br> \n<br> Did you get it fixed?\n<br> Also check gearbox mounts.",
+    "lastEdited" : "Fri May 03, 2019 12:21 pm"
+  }, {
+    "postId" : "921923",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "921923",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "176",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Just back from the Garage\n<br> \n<br> Turned out the vacuum distributor was faulty... At least the bus got a good service\n<br> \n<br> Valve tapper check\n<br> Weber ICT 34 rejected and cleaned\n<br> New ignition leads\n<br> \n<br> Looking forward to getting to the AGM now !!\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Fri May 03, 2019 12:36 pm"
+  }, {
+    "postId" : "921924",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "921924",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "See you there!",
+    "lastEdited" : "Fri May 03, 2019 12:44 pm"
+  }, {
+    "postId" : "921932",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "921932",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15528",
+      "avatarPath" : null
+    },
+    "content" : "See you there.!",
+    "lastEdited" : "Fri May 03, 2019 8:02 pm"
+  }, {
+    "postId" : "921934",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "921934",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "176",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>type21f wrote:</cite>See you there.!\n </div>\n</blockquote> Be nice to meet you Mr G and see your Devon\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Fri May 03, 2019 8:19 pm"
+  } ]
+}

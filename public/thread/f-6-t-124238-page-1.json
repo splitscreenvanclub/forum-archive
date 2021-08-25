@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "124238",
+  "title" : "Bolts...",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124238",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6f264236fab52668b27318ccc19a5aa3",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927378",
+    "author" : {
+      "username" : "molmeister",
+      "userId" : "927378",
+      "joined" : "Mon Jan 06, 2020 12:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "10",
+      "avatarPath" : null
+    },
+    "content" : "Hi All\n<br> \n<br> Is there a tech sheet somewhere with a clear description of what bolt sizes go where. Having to measure a few and clearly I’m incompetent as buying slightly the wrong size or threads not quiet right. Any pointers would be really (really), appreciated as it’s a step forward and a step back at the moment \n<img class=\"smilies\" src=\"./images/smilies/icon_razz.gif\" width=\"15\" height=\"15\" alt=\":P\" title=\"Razz\">",
+    "lastEdited" : "Sun Jan 12, 2020 11:32 am"
+  }, {
+    "postId" : "927380",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "927380",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15456",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://oacdp.org/progref6268.html\" class=\"postlink\">http://oacdp.org/progref6268.html</a>\n<br> \n<br> I always start here to find bolt size, length and pitch but with DIN spec!\n<br> \n<br> Has diagrams and numbered guide.\n<br> Lots of fun. Then I search VW suppliers and check what they say and then visit fixing suppliers to remove VW tax!",
+    "lastEdited" : "Sun Jan 12, 2020 11:52 am"
+  } ]
+}

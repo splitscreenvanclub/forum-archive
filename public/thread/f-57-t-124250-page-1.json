@@ -1,0 +1,105 @@
+{
+  "forumId" : "57",
+  "threadId" : "124250",
+  "title" : "club code",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=124250",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=eadd2f8df66518d4d93ecdbfeb0372a7",
+    "label" : "Magazine"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927485",
+    "author" : {
+      "username" : "DRDOOLITTLE",
+      "userId" : "927485",
+      "joined" : "Mon Apr 09, 2012 7:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "13",
+      "avatarPath" : null
+    },
+    "content" : "I know I am a bit early but is the code out yet for ordering tickets for Busfest, if so which club book is it in.\n<br> Carole",
+    "lastEdited" : "Mon Jan 20, 2020 4:11 pm"
+  }, {
+    "postId" : "927486",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "927486",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "908",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Sorry Carole, ignore my first pm, I wrote it before I saw this. As far as I'm aware we haven't had the new code through from Busfest yet, usually the code from the year before will work until the new one is set up. I'll send you that code, can you let us know if it works please?",
+    "lastEdited" : "Mon Jan 20, 2020 4:45 pm"
+  }, {
+    "postId" : "927487",
+    "author" : {
+      "username" : "percyp72",
+      "userId" : "927487",
+      "joined" : "Mon Sep 10, 2012 9:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "AFternoon Dougie\n<br> \n<br> Would you be able to forward to myself also\n<br> \n<br> Regards\n<br> \n<br> Craig",
+    "lastEdited" : "Mon Jan 20, 2020 4:50 pm"
+  }, {
+    "postId" : "927488",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "927488",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "908",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "No problem Craig, if you can pm me your real name and membership number I'll send you the code.",
+    "lastEdited" : "Mon Jan 20, 2020 4:55 pm"
+  }, {
+    "postId" : "927489",
+    "author" : {
+      "username" : "percyp72",
+      "userId" : "927489",
+      "joined" : "Mon Sep 10, 2012 9:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Dougie will do when back from Work",
+    "lastEdited" : "Mon Jan 20, 2020 4:58 pm"
+  }, {
+    "postId" : "927493",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "927493",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "908",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Pm sent",
+    "lastEdited" : "Mon Jan 20, 2020 7:41 pm"
+  }, {
+    "postId" : "927535",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "927535",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "908",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "We now have the new code for club camping at Busfest. It is on the Busfest 2020 thread in the members only area of the forum. Any members who want to go but don't yet have access to that bit of the forum can pm me with their real name and membership number and I'll send you the code.",
+    "lastEdited" : "Wed Jan 22, 2020 9:28 pm"
+  } ]
+}

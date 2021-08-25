@@ -1,0 +1,154 @@
+{
+  "forumId" : "6",
+  "threadId" : "13503",
+  "title" : "dual circuit brakes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=13503&start=210",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 221,
+  "pageNumber" : 15,
+  "totalPages" : 15,
+  "posts" : [ {
+    "postId" : "821803",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "821803",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "629",
+      "avatarPath" : null
+    },
+    "content" : "I have a Schofields DC Kit to fit that I bought recently. Does anyone have a set of instructions for the procedure they could email to me please? If so please pm me for email address. Thanks.",
+    "lastEdited" : "Fri Feb 13, 2015 3:11 pm"
+  }, {
+    "postId" : "821991",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "821991",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "456",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Crooky wrote:</cite>I have a Schofields DC Kit to fit that I bought recently. Does anyone have a set of instructions for the procedure they could email to me please? If so please pm me for email address. Thanks.\n </div>\n</blockquote>\n<br>\n<br>I started fitting the Schofields kit this afternoon. Same procedure as on CSP's website...\n<br>\n<br>\n<a href=\"http://www.csp-shop.com/cgi-bin/cshop2/front/shop_main.cgi?func=htmlserv&amp;tmpl=shop_text_csp.html&amp;content=std_technik_montageanleitungen&amp;wkid=649413210314#montage_adapter_1\" class=\"postlink\">http://www.csp-shop.com/cgi-bin/cshop2/front/shop_main.cgi?func=htmlserv&amp;tmpl=shop_text_csp.html&amp;content=std_technik_montageanleitungen&amp;wkid=649413210314#montage_adapter_1</a>\n<br>\n<br>It doesn't say in the instructions, but the reservoir needs to go with the filler at the front of the cylinder to line up with the hole in the cab floor.\n<br>\n<br>I'm only part way through because I'm replacing all the hard lines at the same time and adding a t-piece to the front circuit so I can have brake light switches on both circuits.",
+    "lastEdited" : "Sat Feb 14, 2015 9:48 pm"
+  }, {
+    "postId" : "822005",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "822005",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "629",
+      "avatarPath" : null
+    },
+    "content" : "Mate you're exactly where I'm at. Gotta fit pipes too as PO did a strange bodge job and I want to do the same with brake light switches too. I'll check it out. Thank you.",
+    "lastEdited" : "Sun Feb 15, 2015 12:36 am"
+  }, {
+    "postId" : "822018",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "822018",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "456",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Couple of useful pictures on this page that might help you visualise the connections...\n<br>\n<br>\n<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=242594&amp;postdays=0&amp;postorder=asc&amp;start=20\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewtopic.php?t=242594&amp;postdays=0&amp;postorder=asc&amp;start=20</a>\n<br>\n<br>The picture posted by iveedubbin near the bottom of the page that shows a rusty old master cylinder with brake light switches on both circuits was helpful to me (although I think that's the original '67 dual circuit master cylinder type).\n<br>\n<br>The Varga unit is longer, so it reaches all the way back to the transverse panel, like in the picture posted by Robzkombi so I routed the short line to the t-piece under the transverse panel and up, rather than through the hole that is already there. The bend would be too tight otherwise.\n<br>\n<br>FYI, the \n<span style=\"font-style: italic\">rear</span> t-piece is a ***** to get at with the rear on its wheels - it sits on top of the upper engine mounting frame horns, so you can't see the bolt or pipe connections, and mine was buried in crud. There is also a pipe clamp for a brake line in the same position on the opposite engine mounting frame horn and was also buried in crud on mine.",
+    "lastEdited" : "Sun Feb 15, 2015 10:05 am"
+  }, {
+    "postId" : "857500",
+    "author" : {
+      "username" : "DaveyMoon",
+      "userId" : "857500",
+      "joined" : "Fri Oct 17, 2014 9:46 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "18",
+      "avatarPath" : "./download/file.php%3Favatar=39791_1420570114.gif"
+    },
+    "content" : "There are lots of references to adjusting the pushrod when fitting the DCMC but has anyone had an issue with the pushrod being too long to allow the required freeplay?\n<br>\n<br>My '61 project had no MC or brake pedal pushrod so I'm fitting a new dual circuit MC (from VWH) and new pushrod (from C&amp;C). They are both definitely correct for the year etc. and the MC is fitted correctly with spacer etc.\n<br>\n<br>But the pushrod seems too long? Even adjusted to make it as short as possible, its a tight fit with no room for any free play and is pushing on the MC piston.\n<br>\n<br>The brake pedal seems to be in the correct place (nicely aligned with clutch pedal and not stuck part way down) so that doesn't seem to be the issue.\n<br>\n<br>Shortening the pushrod by about 10mm looks like it would work but that feels a bit drastic for something that should have just gone in without a fuss.\n<br>\n<br>Anyone else had this issue and/or got any other suggestions? Can the brake pedal be adjusted somehow to give a bigger gap and if so how?\n<br>\n<br>Thanks",
+    "lastEdited" : "Wed Dec 09, 2015 9:46 pm"
+  }, {
+    "postId" : "857508",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "857508",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Probably just the replacement parts are the wrong length.",
+    "lastEdited" : "Wed Dec 09, 2015 11:26 pm"
+  }, {
+    "postId" : "857835",
+    "author" : {
+      "username" : "DaveyMoon",
+      "userId" : "857835",
+      "joined" : "Fri Oct 17, 2014 9:46 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "18",
+      "avatarPath" : "./download/file.php%3Favatar=39791_1420570114.gif"
+    },
+    "content" : "Thanks Jim, Pushrod shortened and all good now.\n<br>\n<br>Just wondering whether anyone swapping to front discs and doing the dual-circuit conversion is also fitting a brake pressure regulator? I've seen a few threads where people say they aren't readily available and not experiencing any issues without.",
+    "lastEdited" : "Mon Dec 14, 2015 9:30 am"
+  }, {
+    "postId" : "858839",
+    "author" : {
+      "username" : "stevefhot",
+      "userId" : "858839",
+      "joined" : "Thu May 04, 2006 12:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "clacton-on-sea",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "I have just fitted a dual circuit M/C and adapter on my 67 RHD, it all went ok until i went to fit the under tray i thought it was going to be a straight swap but as you can see it isn't.",
+    "lastEdited" : "Wed Dec 30, 2015 10:14 am"
+  }, {
+    "postId" : "858853",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "858853",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10322",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "I had a bump grafted onto that area to accommodate the end of the dual m/c.\n<br>\n<br>OG 67 buses that were dual circuit had a VW special m/c.\n<br>\n<br>Aftermarket ones with a spacer are longee which pushes the m/c out more..\n<br>\n<br>Pictures of my instal in Peeble thread. I\n<br>fitted a T in line to move the brake switch from sticking out the side and avoid a clash but I still had to have bump installed..\n<br>Will find a picture..\n<br>G\n<br>\n<br>\n<br>\n<img src=\"https://uploads.tapatalk-cdn.com/20151230/b16dc7827fb530da2507751c3514653b.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>\n<img src=\"https://uploads.tapatalk-cdn.com/20151230/14d245c55d53ed8586a5b37492a456f0.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>\n<img src=\"https://uploads.tapatalk-cdn.com/20151230/ba8c6db6836a9cded330f3acaa5c2b4d.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Wed Dec 30, 2015 12:52 pm"
+  }, {
+    "postId" : "858858",
+    "author" : {
+      "username" : "stevefhot",
+      "userId" : "858858",
+      "joined" : "Thu May 04, 2006 12:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "clacton-on-sea",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "Just doing the same but i have made a bit up for the brake switch sticking out the side. Its taken a lot longer to do that then to fit the M/C",
+    "lastEdited" : "Wed Dec 30, 2015 1:55 pm"
+  }, {
+    "postId" : "866908",
+    "author" : {
+      "username" : "amarisJones",
+      "userId" : "866908",
+      "joined" : "Fri Mar 04, 2016 3:09 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "Thank you for sharing so I found a solution convenient, thank you very much.",
+    "lastEdited" : "Tue Mar 08, 2016 9:55 am"
+  } ]
+}

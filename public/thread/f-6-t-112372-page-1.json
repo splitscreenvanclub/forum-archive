@@ -1,0 +1,89 @@
+{
+  "forumId" : "6",
+  "threadId" : "112372",
+  "title" : "Rewiring whole bus",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112372",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847555",
+    "author" : {
+      "username" : "Bengie",
+      "userId" : "847555",
+      "joined" : "Mon Sep 07, 2009 8:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "London",
+      "postCount" : "52",
+      "avatarPath" : "./download/file.php%3Favatar=33527_1268589638.jpg"
+    },
+    "content" : "Quick question from someone with no idea about electrics. My bus is still using its original 1966 loom. This winter I was planning on replacing it on the grounds of 'it's getting on a bit'. Before I do though I wanted to check if this is wise? The original loom still seems to work fine and hasn't been completely abused (some odd wires here and there). Is it dangerous (risk of fire) to still be using the original? Any advice would be great. Thanks\n<br>\n<br>Sent from my SM-N910F using Tapatalk",
+    "lastEdited" : "Tue Sep 01, 2015 9:33 pm"
+  }, {
+    "postId" : "847562",
+    "author" : {
+      "username" : "split999",
+      "userId" : "847562",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2122",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : "Check for wear to the sheathing. Also look close at the terminals just to make sure the wire isn't breaking away.\n<br>\n<br>If all good, there's no reason why it shouldn't continue to function properly and safely.\n<br>\n<br>Hth",
+    "lastEdited" : "Wed Sep 02, 2015 12:30 am"
+  }, {
+    "postId" : "847567",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "847567",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "874",
+      "avatarPath" : null
+    },
+    "content" : "Hi, I'm Rocket, I build new looms for buses, been doing it for well over ten years now.\n<br>From what I've seen over the years, I'd say change it, it's your pride and joy, and for the cost, around £300, and a weekends work, it's peace of mind.\n<br>I am in no way trying to scare you into buying one of my looms , you say what you see is ok, fine, but what about what you can't see.\n<br>I've opened up many looms and find inside the copper has a white powder forming over it, this is I believe caused by damp, some looms I take out are full of water which will build up over time or in a damp situation.\n<br>Modern looms are now built using thin wall cable, it is what it says and due to this it has more copper strands inside to carry the current allowing you to use a smaller cable to do the job of a bigger one.\n<br>As has been said, if it's a van that's not had a cowboy electrician having a go at it and generally it's in good order then yes, you can leave it in, but why restore all else then leave this in.\n<br>Hope this gives you an idea about the loom but in my experience people are more often than not leave well alone until something stops working, electrics seen to be a dark art, big sign saying do not touch.\n<br>Heh, my intention is not to scare you but make you aware, as all should be, vans are old.....\n<br>If I can be of assistance then you can contac me or come and have a chat in the SSVC field at Bus Fest, ask for Rocket, they all know me, OK\n<br>All the best\n<br>Ron",
+    "lastEdited" : "Wed Sep 02, 2015 6:51 am"
+  }, {
+    "postId" : "847570",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "847570",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "629",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Should or not, I can't really say but I can say that I really enjoyed rewiring my 65'. When it all worked , it felt really cool.",
+    "lastEdited" : "Wed Sep 02, 2015 7:24 am"
+  }, {
+    "postId" : "847886",
+    "author" : {
+      "username" : "Bertiebusboy",
+      "userId" : "847886",
+      "joined" : "Mon Jul 13, 2015 7:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "I rewired mine, got the original wiring diagram, got all the wire colours and matched them then got new wire from 'Vehicle Wiring Products' sheaths and everything, removed the old loom and hung across the garage, then just built the new one to match. great satisfaction in doing so and also know now where every cable starts and finishes.\n<br>I agree with Rocket here, once loom was off I found numerous dodgy bits so glad I changed it.\n<br>\n<br>Good luck with what ever way you do it.",
+    "lastEdited" : "Fri Sep 04, 2015 7:57 pm"
+  }, {
+    "postId" : "847974",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "847974",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2419",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1337002549.jpg"
+    },
+    "content" : "new loom is the way forward",
+    "lastEdited" : "Sat Sep 05, 2015 10:30 pm"
+  } ]
+}

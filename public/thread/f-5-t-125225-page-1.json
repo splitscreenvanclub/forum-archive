@@ -1,0 +1,66 @@
+{
+  "forumId" : "5",
+  "threadId" : "125225",
+  "title" : "Grease cap",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=125225",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=4079e8f65bb89cd3ad5042c7f5502888",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932732",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "932732",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "451",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys, looking for a front beam grease cap , the one where Speedo cable exits. . Kind regards Neil",
+    "lastEdited" : "Thu Oct 15, 2020 9:49 pm"
+  }, {
+    "postId" : "932733",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "932733",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "451",
+      "avatarPath" : null
+    },
+    "content" : "Front hub bearing cap to be correct ( Speedo drive cap) ! Kind regards Neil",
+    "lastEdited" : "Thu Oct 15, 2020 10:08 pm"
+  }, {
+    "postId" : "932734",
+    "author" : {
+      "username" : "Rhodrich",
+      "userId" : "932734",
+      "joined" : "Tue Feb 27, 2007 3:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "Thames Ditton, Surrey",
+      "postCount" : "60",
+      "avatarPath" : "./download/file.php%3Favatar=4533_1605262204.jpg"
+    },
+    "content" : "To be honest, when a new one is only £6, you're probably just better off buying that...\n<br> \n<br> \n<a href=\"https://www.customandcommercial.com/vw-split_screen/splitscreen_front--and--rear_axle_parts/splitscreen_front_stub_axle_drum--and--bearing_parts/german_quality_grease_cap_for_left_side_with_hole_for_speedo_cable_bus_8fslash63-7fslash70_2335/\" class=\"postlink\">https://www.customandcommercial.com/vw- ... sh70_2335/</a>\n<br> \n<br> Unless anyone has one that's never been used, any second hand one is likely to be dented, filthy, and may well have a speedo cable hole that is less than square.",
+    "lastEdited" : "Fri Oct 16, 2020 7:11 am"
+  }, {
+    "postId" : "932742",
+    "author" : {
+      "username" : "Paul L",
+      "userId" : "932742",
+      "joined" : "Sun Feb 26, 2012 9:59 am",
+      "profileRank" : "Registered user",
+      "location" : "Newton Abbot",
+      "postCount" : "231",
+      "avatarPath" : null
+    },
+    "content" : "I have a good one. Pm me",
+    "lastEdited" : "Fri Oct 16, 2020 7:44 pm"
+  } ]
+}

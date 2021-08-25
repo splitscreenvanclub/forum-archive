@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "124491",
+  "title" : "67 Headlight & wiper switches",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124491",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=16bd19f26898562d39bdf79d463fa101",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928749",
+    "author" : {
+      "username" : "John82",
+      "userId" : "928749",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "170",
+      "avatarPath" : null
+    },
+    "content" : "Hello. I need wiper and headlight switches for my 67 kombi. Do I have to find 12V switches only for my 67 bus or are the same with the other 6V switches from earlier buses?",
+    "lastEdited" : "Mon Apr 06, 2020 4:26 pm"
+  }, {
+    "postId" : "928751",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "928751",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "Wiper switch for 67 is two speed if you have the correct wiper motor?",
+    "lastEdited" : "Mon Apr 06, 2020 4:33 pm"
+  }, {
+    "postId" : "928752",
+    "author" : {
+      "username" : "John82",
+      "userId" : "928752",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "170",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=928751&amp;sid=16bd19f26898562d39bdf79d463fa101#p928751\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=5773&amp;sid=16bd19f26898562d39bdf79d463fa101\">type21f</a> wrote: <a href=\"./viewtopic.php?p=928751&amp;sid=16bd19f26898562d39bdf79d463fa101#p928751\" data-post-id=\"928751\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Mon Apr 06, 2020 4:33 pm</span></cite> Wiper switch for 67 is two speed if you have the correct wiper motor? \n </div>\n</blockquote> Thank You! I have to check first my wiper motor. If it has one speed will it work with 12V?",
+    "lastEdited" : "Mon Apr 06, 2020 5:06 pm"
+  }, {
+    "postId" : "928756",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "928756",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "Need to check what the part number is and google to try to find if 6v or 12v one or two speed.\n<br> Some late splits were indeed 12v!",
+    "lastEdited" : "Mon Apr 06, 2020 5:46 pm"
+  }, {
+    "postId" : "928774",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "928774",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3540",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "67 splits were almost all 12V. The switches are the same except, as Graham says, most 67s were fitted with two speed wiper switches. The knobs are different - flat rubber rather than plastic acorns. 6V switches work with 12v systems.",
+    "lastEdited" : "Tue Apr 07, 2020 7:31 am"
+  }, {
+    "postId" : "928778",
+    "author" : {
+      "username" : "John82",
+      "userId" : "928778",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "170",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=928756&amp;sid=16bd19f26898562d39bdf79d463fa101#p928756\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=5773&amp;sid=16bd19f26898562d39bdf79d463fa101\">type21f</a> wrote: <a href=\"./viewtopic.php?p=928756&amp;sid=16bd19f26898562d39bdf79d463fa101#p928756\" data-post-id=\"928756\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Mon Apr 06, 2020 5:46 pm</span></cite> Need to check what the part number is and google to try to find if 6v or 12v one or two speed.\n  <br> Some late splits were indeed 12v! \n </div>\n</blockquote> This is what I have...",
+    "lastEdited" : "Tue Apr 07, 2020 2:14 pm"
+  }, {
+    "postId" : "928807",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "928807",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "That part number is correct for the last wiper motor fitted up to July 67. \n<br> If you now check on the 67 wiring diagram the terminal numbers on the wiper should correspond to those on the diagram and requires a two speed wiper and requires a two speed switch. These are harder to find..vwed used to be an excellent source for wiper parts and switches and door locks!\n<br> If you look online there is an electronic copy of tge parts list and details of which parts are required can be found with part number related to ViN number.\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20200409/fd9147746a5dcb4399ce43fead5434b0.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Thu Apr 09, 2020 8:24 am"
+  } ]
+}

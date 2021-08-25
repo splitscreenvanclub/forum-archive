@@ -1,0 +1,50 @@
+{
+  "forumId" : "4",
+  "threadId" : "115169",
+  "title" : "Sold",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115169",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868481",
+    "author" : {
+      "username" : "andy66split",
+      "userId" : "868481",
+      "joined" : "Sat Feb 13, 2010 6:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "728",
+      "avatarPath" : null
+    },
+    "content" : "sold",
+    "lastEdited" : "Tue Mar 22, 2016 10:36 pm"
+  }, {
+    "postId" : "868495",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "868495",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10322",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Price and pictures of underneath",
+    "lastEdited" : "Wed Mar 23, 2016 3:14 am"
+  }, {
+    "postId" : "868506",
+    "author" : {
+      "username" : "dubdjs",
+      "userId" : "868506",
+      "joined" : "Wed Dec 30, 2015 1:54 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "12",
+      "avatarPath" : null
+    },
+    "content" : "pm sent",
+    "lastEdited" : "Wed Mar 23, 2016 8:53 am"
+  } ]
+}

@@ -1,0 +1,206 @@
+{
+  "forumId" : "28",
+  "threadId" : "85864",
+  "title" : "2276 EFI map",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=85864",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "662093",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "662093",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "663",
+      "avatarPath" : "http://i602.photobucket.com/albums/tt103/andydlc/split%20works/f019d84b-caa7-4939-b9a9-8724942ec03c.jpg"
+    },
+    "content" : "Dear All,\n<br>\n<br>Im hoping you guys an offer some assistance and advice.. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\"> \n<br>\n<br>I know this is a verrrrryyyyyyyy long shot but was wondering whether anyone would have an ignition and fuel map for EFI to give me something to compare my own to. Im running 9.8 CR and and FK8 cam and CB 044 heads with 42 inlet / 37.3 exh.\n<br>\n<br>If no maps are available then I would also really appreciate advice also. As Im in Jersey its not as easy as going to my local rolling road..!\n<br>\n<br>The ECU is a wolf v4 3D but im happy to adapt a map from any other ECU manufacturers also.\n<br>\n<br>So who can help me??\n<br>\n<br>Thanks in advance, Andy",
+    "lastEdited" : "Sat Jun 09, 2012 11:09 pm"
+  }, {
+    "postId" : "662098",
+    "author" : {
+      "username" : "shambly",
+      "userId" : "662098",
+      "joined" : "Mon Aug 20, 2007 8:09 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Salisbury",
+      "postCount" : "139",
+      "avatarPath" : null
+    },
+    "content" : "I run a 2270 Type4 with Jenvey ITBs and DTA ECU on my Chesil.\n<br>\n<br>I'm using TPS for load with MAP correction so my fuel map won't be much use unless your ECU enables you to do the same (and you want to do so). Gave up on using MAP as primary load very quickly due to ITBs...\n<br>\n<br>I tuned this without a rolling road but to do this a wideband AFR (I'm using an Innovate LC-1) is _essential_ along with decent engine instrumentation.\n<br>\n<br>Having said that I wouldn't trust my map at maximum load as it is difficult to operate at that performance point in a lightweight Chesil. I imagine a bus would operate at higher load sites more readily.\n<br>\n<br>I'm currently away in asia on business but might be able to send you something next weekend when back in the uk. You'd be able to load it up on the (free) DTA software to take a look.\n<br>\n<br>Let me know,\n<br>\n<br>Simon",
+    "lastEdited" : "Sun Jun 10, 2012 4:55 am"
+  }, {
+    "postId" : "662102",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "662102",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "What units is your fuel map in?\n<br>\n<br>For your fuel map with careful logging and wideband lambda you can start to build up a map.\n<br>\n<br>For the timing, a safe start is to copy the advance curve of a mallory distributor with grey/grey springs as that is the combo that everybody used to recommend a few years back\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://prestoliteperformance.com/media/instructions/mallory/Mallory_Instructions_yh_series_mechanical_advance_kit_29014.pdf\">http://prestoliteperformance.com/media/ ... _29014.pdf</a>\n<!-- m -->\n<br>\n<br>Ie idle timing of about 8 degrees, and then 30 degrees by about 2500 rpm",
+    "lastEdited" : "Sun Jun 10, 2012 6:35 am"
+  }, {
+    "postId" : "662177",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "662177",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "663",
+      "avatarPath" : "http://i602.photobucket.com/albums/tt103/andydlc/split%20works/f019d84b-caa7-4939-b9a9-8724942ec03c.jpg"
+    },
+    "content" : "Thanks for the replies guys - much appreciated.. \n<br>\n<br>The Fuel map is measured in RPM/Load% and timing by crank trigger.. \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<br>\n<br>Here is my current maps for fuel / ign: This runs pretty well.. What do you think? \n<br>\n<br>I have a lambda but think its narrow band, its a Bosch item\n<br>\n<br>Fuel:\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/0-1250_fuel.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/1500-2750.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/2875-4250.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/4375-5625.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/5750-7000.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>Ign:\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/0-1250_ign.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/1375-2750_ign.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/2875-4250_ign.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/4375-5750_ign.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<img src=\"http://i602.photobucket.com/albums/tt103/andydlc/5875-7250_ign.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>Cheers guys..",
+    "lastEdited" : "Sun Jun 10, 2012 7:26 pm"
+  }, {
+    "postId" : "662191",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "662191",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Wow they are some large maps... but totally different units to mine.\n<br>\n<br>Has it been mapped before at all?\n<br>\n<br>If you want to map it yourself you will have to get a wideband lambda setup - I have heard good things about the NGK and AEM ones, they are around 160 quid.\n<br>\n<br>TO confirm your current lambda sensor type count the number of wires in the connector",
+    "lastEdited" : "Sun Jun 10, 2012 7:53 pm"
+  }, {
+    "postId" : "662193",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "662193",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "663",
+      "avatarPath" : "http://i602.photobucket.com/albums/tt103/andydlc/split%20works/f019d84b-caa7-4939-b9a9-8724942ec03c.jpg"
+    },
+    "content" : "im pretty sure its a 3 wire type which hooks up to the built in AFR program on the ECU. I can see the AFR at all times but its pretty hard in a panel van while driving on my own and looking at the screen - lol!\n<br>\n<br>The ECU has been mapped before at Raceshack for a 2332 motor but my spec is running a slightly tamer cam and slight reduction in cc's.. It does run pretty well once started but think its pinking under load.",
+    "lastEdited" : "Sun Jun 10, 2012 7:59 pm"
+  }, {
+    "postId" : "662194",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "662194",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Does your ecu have datalogging facilities\n<br>\n<br>You lambda sensor won't give you any information about whether the engine is safe under load, but you can try reducing the timing to 30degrees for all points that are currently set to 32. And then maybe get rid of all the additional timing at the lower load points",
+    "lastEdited" : "Sun Jun 10, 2012 8:05 pm"
+  }, {
+    "postId" : "662201",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "662201",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "663",
+      "avatarPath" : "http://i602.photobucket.com/albums/tt103/andydlc/split%20works/f019d84b-caa7-4939-b9a9-8724942ec03c.jpg"
+    },
+    "content" : "are you able to share your map at all so I can get an idea on what timing at what load etc etc.. (please) \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">\n<br>\n<br>I believe I can datalog but would have no idea how to interpret the results.. i'll try it and let you know on that one..",
+    "lastEdited" : "Sun Jun 10, 2012 8:25 pm"
+  }, {
+    "postId" : "662217",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "662217",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Yes I will email you it in excel format, is your email address in your profile the correct one?",
+    "lastEdited" : "Sun Jun 10, 2012 8:56 pm"
+  }, {
+    "postId" : "662246",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "662246",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "663",
+      "avatarPath" : "http://i602.photobucket.com/albums/tt103/andydlc/split%20works/f019d84b-caa7-4939-b9a9-8724942ec03c.jpg"
+    },
+    "content" : "ive just changed it to my yahoo a/c.. thanks Paul, look forward to receiving. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Sun Jun 10, 2012 9:58 pm"
+  }, {
+    "postId" : "662364",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "662364",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Sent it\n<br>\n<br>Cheers\n<br>Paul",
+    "lastEdited" : "Mon Jun 11, 2012 5:56 pm"
+  }, {
+    "postId" : "662455",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "662455",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "663",
+      "avatarPath" : "http://i602.photobucket.com/albums/tt103/andydlc/split%20works/f019d84b-caa7-4939-b9a9-8724942ec03c.jpg"
+    },
+    "content" : "Hi Paul,\n<br>\n<br>Got it thanks, will try and make mine a little simpler now.. \n<img class=\"smilies\" src=\"./images/smilies/icon_cyclops_ani.gif\" alt=\":cyclopsani:\" title=\"cyclops_ani\"> \n<br>\n<br>I have asked you a couple of other questions which I guess are relevant to this.. \n<br>\n<br>Thanks, Andy",
+    "lastEdited" : "Mon Jun 11, 2012 10:43 pm"
+  }, {
+    "postId" : "880607",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "880607",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "663",
+      "avatarPath" : "http://i602.photobucket.com/albums/tt103/andydlc/split%20works/f019d84b-caa7-4939-b9a9-8724942ec03c.jpg"
+    },
+    "content" : "So.... Life got in the way quite a bit and I've never really got the van running to its full potential... Who would you all recommend to map in the south of the U.K.? Think I'm gonna take a trip over and get this sorted once and for all.. \n<br>\n<br>Thanks\n<br>\n<br>Andrew",
+    "lastEdited" : "Fri Aug 05, 2016 11:54 pm"
+  }, {
+    "postId" : "880698",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "880698",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Track and road in Rainham Essex - well worth the extra travel",
+    "lastEdited" : "Sun Aug 07, 2016 7:55 pm"
+  }, {
+    "postId" : "880714",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "880714",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "663",
+      "avatarPath" : "http://i602.photobucket.com/albums/tt103/andydlc/split%20works/f019d84b-caa7-4939-b9a9-8724942ec03c.jpg"
+    },
+    "content" : "Thanks Paul, hope my ECU isn't too complicated for them - it's not overly common.. \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Sun Aug 07, 2016 9:47 pm"
+  } ]
+}

@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "120107",
+  "title" : "Engine lid question",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120107",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6cbfff9a30fcabaf13c337fb0a691afc",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "902596",
+    "author" : {
+      "username" : "Wigsplitta",
+      "userId" : "902596",
+      "joined" : "Tue Aug 29, 2017 7:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "I am in the process of restoring a '66 bus and wondered if anyone can tell me if the '59-'65 church key style engine lid/rear valance and the 66-67 push button engine lid/rear valance are interchangable. The engine lid that was on the bus when I bought it is in need of major repair and I have since found out that these are as rare as hens teeth! So I'm looking for an easy option until I can find a good condition '66 engine lid or have the time to put mine right. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Sep 05, 2017 11:38 am"
+  }, {
+    "postId" : "902604",
+    "author" : {
+      "username" : "george21",
+      "userId" : "902604",
+      "joined" : "Tue Jul 06, 2010 9:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "389",
+      "avatarPath" : null
+    },
+    "content" : "Just get a new one from Wolfsburg west",
+    "lastEdited" : "Tue Sep 05, 2017 12:38 pm"
+  }, {
+    "postId" : "902618",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "902618",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "Hmmm - I think you'd have to change both lid &amp; valance to match - but I can't see why they'd be different to actually fit - but the earlier you go the more changes to the lid - ie flatter, no hump etc.\n<br> \n<br> you do see 66/67 lids come up occasionally - worth checking with someone like FBI in swansea or MCJ imports?",
+    "lastEdited" : "Tue Sep 05, 2017 4:14 pm"
+  }, {
+    "postId" : "902649",
+    "author" : {
+      "username" : "Wigsplitta",
+      "userId" : "902649",
+      "joined" : "Tue Aug 29, 2017 7:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the replies. Wolfsburg west don't do them either and FBI wanted £400!",
+    "lastEdited" : "Tue Sep 05, 2017 8:13 pm"
+  } ]
+}

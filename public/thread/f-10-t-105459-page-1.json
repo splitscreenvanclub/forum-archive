@@ -1,0 +1,63 @@
+{
+  "forumId" : "10",
+  "threadId" : "105459",
+  "title" : "Busfest camping",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=105459",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "800684",
+    "author" : {
+      "username" : "Splity62",
+      "userId" : "800684",
+      "joined" : "Mon Aug 25, 2014 9:11 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "8",
+      "avatarPath" : null
+    },
+    "content" : "We have a split screen van and we are a member but we also have a vwt4 and was wondering if it will be ok to camp in the t4 as the split isn't very well",
+    "lastEdited" : "Wed Sep 03, 2014 5:53 pm"
+  }, {
+    "postId" : "800699",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "800699",
+      "joined" : "Sun May 09, 2004 3:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Shameless estate",
+      "postCount" : "3211",
+      "avatarPath" : "http://i37.photobucket.com/albums/e89/fleetline15/57%20Kombi/78042867-055d-49d5-9706-9eeca5406b30_zpsf385771a.jpg"
+    },
+    "content" : "Yes as long as you have your membership card with you \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Sep 03, 2014 6:26 pm"
+  }, {
+    "postId" : "800746",
+    "author" : {
+      "username" : "Splity62",
+      "userId" : "800746",
+      "joined" : "Mon Aug 25, 2014 9:11 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "8",
+      "avatarPath" : null
+    },
+    "content" : "Ok cheers \n<br>\n<br>I have paid my membership up and have a email to confirm that but as of yet I haven't got a membership card",
+    "lastEdited" : "Wed Sep 03, 2014 9:08 pm"
+  }, {
+    "postId" : "800758",
+    "author" : {
+      "username" : "split bus kev",
+      "userId" : "800758",
+      "joined" : "Thu May 19, 2005 3:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Notts",
+      "postCount" : "1447",
+      "avatarPath" : "./download/file.php%3Favatar=1406_1231534967.gif"
+    },
+    "content" : "Snap",
+    "lastEdited" : "Wed Sep 03, 2014 11:48 pm"
+  } ]
+}

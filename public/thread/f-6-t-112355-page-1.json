@@ -1,0 +1,154 @@
+{
+  "forumId" : "6",
+  "threadId" : "112355",
+  "title" : "Gearbox R&P questions",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112355",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847470",
+    "author" : {
+      "username" : "Karl_F",
+      "userId" : "847470",
+      "joined" : "Tue Mar 11, 2014 9:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "408",
+      "avatarPath" : "./download/file.php%3Favatar=38997_1427102855.jpg"
+    },
+    "content" : "I'm in need of upgrading my 1300 SWA box for something with a more suitable cruising speed. Looking through JMR calculator a Freeway flyer 3.874 will give me cruising speed of 68mph compared to a pro street 4.125 at 59mph. \n<br>\n<br>\n<br>I'm considering building a 2110 next year, but was advised the pro street would be better suited. I don't understand why if the freeway flyer has a better cruising speed. I was also told my current 1600 would struggle on hills with a 4.125, surely it will struggle more with a 3.874! or am I missing something?\n<br>\n<br>This is all hypercritical at the moment!",
+    "lastEdited" : "Tue Sep 01, 2015 12:52 pm"
+  }, {
+    "postId" : "847486",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "847486",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1190",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "Depends what it will be used for, a Pro street will give you better acceleration but rev its nuts off on Motorways, the Freeway flyer opposite. Also depends on the spec of the box as you can have a Freeway flyer built with Pro street internals but with a different final drive. Agree that a 1600 will struggle in a bus though with a 3.88 R&amp;P. \n<br>\n<br>What size rear wheels and tyres are you running?",
+    "lastEdited" : "Tue Sep 01, 2015 4:18 pm"
+  }, {
+    "postId" : "847489",
+    "author" : {
+      "username" : "Banger",
+      "userId" : "847489",
+      "joined" : "Tue Jul 19, 2011 6:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "154",
+      "avatarPath" : "./download/file.php%3Favatar=35663_1320695493.jpg"
+    },
+    "content" : "<a href=\"http://s1231.photobucket.com/user/Banger1963/media/1950-1967Type2GearRatiosedited_zpsc9e21aca.jpg.html\" class=\"postlink\"><img src=\"http://i1231.photobucket.com/albums/ee505/Banger1963/1950-1967Type2GearRatiosedited_zpsc9e21aca.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>This might help as a guide to stock ratios...",
+    "lastEdited" : "Tue Sep 01, 2015 4:50 pm"
+  }, {
+    "postId" : "847522",
+    "author" : {
+      "username" : "Karl_F",
+      "userId" : "847522",
+      "joined" : "Tue Mar 11, 2014 9:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "408",
+      "avatarPath" : "./download/file.php%3Favatar=38997_1427102855.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>wejjy wrote:</cite>Depends what it will be used for, a Pro street will give you better acceleration but rev its nuts off on Motorways, the Freeway flyer opposite. Also depends on the spec of the box as you can have a Freeway flyer built with Pro street internals but with a different final drive. Agree that a 1600 will struggle in a bus though with a 3.88 R&amp;P. \n  <br>\n  <br>What size rear wheels and tyres are you running?\n </div>\n</blockquote>\n<br>\n<br>\n<br>Cheers Guys, I'm running 185/65 R15 tyres. Looking at JMR calculator the 4.125 will let me cruise at 60mph at 3000 RPM, which is better than my 1300 box as I need to be at 3500rpm for 60, which isn't great for motorway miles as it starts to get hot and the dells get thirsty, but its fine for most of Norfolk's daily roads speeds.\n<br>I was confused as they recommend the pro street for a 2110, Id have thought that would have been the other way round. As for the freeway flyer 3.875, 3000 RPM is 69MPH, fine for cruising but surely it will struggle on hills!",
+    "lastEdited" : "Tue Sep 01, 2015 7:43 pm"
+  }, {
+    "postId" : "847525",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "847525",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5572",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "Im running the bay 2.0l 091 6rib box with a 1776 twin baby Dells (36's), i run 185, 65 R15 &amp; it sits on 60/65 on motorways at just under 3000rpms, i run an external cooler also as it doesnt rev to help cooling.",
+    "lastEdited" : "Tue Sep 01, 2015 7:52 pm"
+  }, {
+    "postId" : "847528",
+    "author" : {
+      "username" : "Karl_F",
+      "userId" : "847528",
+      "joined" : "Tue Mar 11, 2014 9:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "408",
+      "avatarPath" : "./download/file.php%3Favatar=38997_1427102855.jpg"
+    },
+    "content" : "Thats fair enough Kev, but nothing to do with a type 1 box R&amp;P. I'm not changing to a rib box, conflicting information from suppliers as always!!",
+    "lastEdited" : "Tue Sep 01, 2015 7:57 pm"
+  }, {
+    "postId" : "847534",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "847534",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7399",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Now I do not know anything about gearbox ratios..\n<br>Read a lot and also thought a lot but \n<br>I have a 1776cc CPR built engine (built for my bus with 40s showing around 90bhp) mated to a Benco version of a freeway flyer swingaxle gearbox with a 4:12 and 0.82 fourth and a bus nose cone. This set up works great with my reduction boxes, 14\" 80 profile stock rims and tyres. It goes up 12% hills on the tour de Yorkshire route and cruises/at just over 60mph at 3000 rpm.\n<br>\n<br>Suits me..",
+    "lastEdited" : "Tue Sep 01, 2015 8:17 pm"
+  }, {
+    "postId" : "847825",
+    "author" : {
+      "username" : "Karl_F",
+      "userId" : "847825",
+      "joined" : "Tue Mar 11, 2014 9:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "408",
+      "avatarPath" : "./download/file.php%3Favatar=38997_1427102855.jpg"
+    },
+    "content" : "Cheers G, I'm not running reduction boxes though. not sure how much the affect the final drive. Turns out the Pro street is actually a 3.88 with a .82, at 3000 rpm Id cruise at 68mph, I don't think the 1600 will have the torque in that ratio though.",
+    "lastEdited" : "Fri Sep 04, 2015 7:37 am"
+  }, {
+    "postId" : "847850",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "847850",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7399",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "That was the issue I believe was agreed...Hence my engine from CPR...was built for torque with a cam to develop torque with slightly lower bhp.\n<br>My phrase was bhp sells parts...torque wins races...\n<br>There are others who have bin dare dun dat ..",
+    "lastEdited" : "Fri Sep 04, 2015 2:22 pm"
+  }, {
+    "postId" : "847859",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "847859",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1190",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "I would stick with the standard box until you get the 2110 up and running and then go for the 3.88 with a .82. Otherwise you will be compromising in order to run it on the 1600 and then losing the top end you could have when running the 2110.",
+    "lastEdited" : "Fri Sep 04, 2015 3:11 pm"
+  }, {
+    "postId" : "847862",
+    "author" : {
+      "username" : "Karl_F",
+      "userId" : "847862",
+      "joined" : "Tue Mar 11, 2014 9:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "408",
+      "avatarPath" : "./download/file.php%3Favatar=38997_1427102855.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>wejjy wrote:</cite>I would stick with the standard box until you get the 2110 up and running and then go for the 3.88 with a .82. Otherwise you will be compromising in order to run it on the 1600 and then losing the top end you could have when running the 2110.\n </div>\n</blockquote>\n<br>\n<br>Thanks wejjy, agree I need to wait.",
+    "lastEdited" : "Fri Sep 04, 2015 4:06 pm"
+  } ]
+}

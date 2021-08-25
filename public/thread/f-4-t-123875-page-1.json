@@ -1,0 +1,27 @@
+{
+  "forumId" : "4",
+  "threadId" : "123875",
+  "title" : "Vintage speed quick shifter",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123875",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=31656ef04d2999ca7c008c68733850c1",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925295",
+    "author" : {
+      "username" : "Steve Trott",
+      "userId" : "925295",
+      "joined" : "Sat May 09, 2009 2:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "20",
+      "avatarPath" : null
+    },
+    "content" : "Vintage speed 23\" quick shifter for sale, unused and unopened box, ( unwanted present ), stainless steel shaft with black knob, fits buses 1960 - 1967, full detail on the Vintage speed website, item number 155-795-50SPT. List price is £ 241.00 from VW Heritage, will sell for £ 190.00, free postage or can take to Brighton Breeze.",
+    "lastEdited" : "Sun Sep 15, 2019 3:01 pm"
+  } ]
+}

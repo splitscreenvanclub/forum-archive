@@ -1,0 +1,105 @@
+{
+  "forumId" : "4",
+  "threadId" : "121691",
+  "title" : "Mango interior cards",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=121691",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=8a46263061a6cfb9344de7999639a8f8",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "911592",
+    "author" : {
+      "username" : "vwxyz",
+      "userId" : "911592",
+      "joined" : "Wed Dec 21, 2005 9:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "141",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=28506&amp;sid=8a46263061a6cfb9344de7999639a8f8&amp;mode=view\"><img src=\"./download/file.php?id=28506&amp;t=1&amp;sid=8a46263061a6cfb9344de7999639a8f8\" class=\"postimage\" alt=\"20180420_171755.jpg\" title=\"20180420_171755.jpg (358.98 KiB) Viewed 2204 times\"></a>\n  </dt> \n </dl> \n</div> Mango cards £60 pair",
+    "lastEdited" : "Fri Apr 20, 2018 4:20 pm"
+  }, {
+    "postId" : "912637",
+    "author" : {
+      "username" : "vwxyz",
+      "userId" : "912637",
+      "joined" : "Wed Dec 21, 2005 9:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "141",
+      "avatarPath" : null
+    },
+    "content" : "Up",
+    "lastEdited" : "Sat May 19, 2018 7:47 pm"
+  }, {
+    "postId" : "913104",
+    "author" : {
+      "username" : "vwxyz",
+      "userId" : "913104",
+      "joined" : "Wed Dec 21, 2005 9:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "141",
+      "avatarPath" : null
+    },
+    "content" : "And again",
+    "lastEdited" : "Thu May 31, 2018 3:44 pm"
+  }, {
+    "postId" : "913970",
+    "author" : {
+      "username" : "vwxyz",
+      "userId" : "913970",
+      "joined" : "Wed Dec 21, 2005 9:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "141",
+      "avatarPath" : null
+    },
+    "content" : "New price £55 + post",
+    "lastEdited" : "Sun Jun 24, 2018 5:54 am"
+  }, {
+    "postId" : "914386",
+    "author" : {
+      "username" : "vwxyz",
+      "userId" : "914386",
+      "joined" : "Wed Dec 21, 2005 9:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "141",
+      "avatarPath" : null
+    },
+    "content" : "Up",
+    "lastEdited" : "Sat Jul 07, 2018 3:00 pm"
+  }, {
+    "postId" : "914606",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "914606",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "Hi\n<br> \n<br> Where about are you for collection? \n<br> Cheers\n<br> Loz",
+    "lastEdited" : "Sun Jul 15, 2018 11:10 am"
+  }, {
+    "postId" : "914835",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "914835",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "Never had a reply to my enquiry?",
+    "lastEdited" : "Mon Jul 23, 2018 3:37 pm"
+  } ]
+}

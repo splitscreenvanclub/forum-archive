@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "121807",
+  "title" : "Fitting of Accuspark Dizzy - Timing questions",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=121807",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=456289c18cd97787ea7e535f31ee3ef3",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "912181",
+    "author" : {
+      "username" : "boardman411",
+      "userId" : "912181",
+      "joined" : "Sun Apr 02, 2017 12:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "UK",
+      "postCount" : "220",
+      "avatarPath" : "./download/file.php%3Favatar=42067_1498211092.gif"
+    },
+    "content" : "Hi All, Just looking for some advice make sure I'm doing the right thing..\n<br> \n<br> Have 1600TP with a Solex 34 pic 3 carb, currently got a 009 Dizzy (main reason for swapping is know flat spot issues with this dizzy.) So I've gone for a Accuspark SVDA, seems like these are getting good reviews.. Number of questions, before I jump ahead and fit..\n<br> \n<ul>\n <li>My Pully only has two markings - 7.5 &amp; 10 degrees BTDC. No marking for TDC, so how do I mark TDC on the pully..Can I measure backwards from the 7.5 degree marking.</li>\n</ul> \n<ul>\n <li>The Accuspark wiring, has two different options depending on whether a standard ignition setup is being used or a Ballast wire/resistor setup is being used, I have no idea - what I'm using.</li>\n</ul> \n<ul>\n <li>I was going to static time to 7.5 degrees, but Accuspark suggest using a strobe light (not used one before) They say the distributor should be advanced until the best fastest idle can be achieved.. Th total advance should be checked at 4-5000 revs, around 30-40 BDTC.</li>\n</ul> How do I know what REV's the engine are at without a REV counter &amp; how do I advanced between 30-40 BDTC if I don't have these markings..\n<br> \n<br> Any advice, on what I need to do here on the timing side.\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> Shaun",
+    "lastEdited" : "Mon May 07, 2018 1:12 pm"
+  }, {
+    "postId" : "912188",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "912188",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1070",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "For TDC, use a piston stop (M14 x 1.25). I got one for a few quid off ebay to check the markings on my old graduated pulley and I used it to mark the stock pulley I replaced it with.\n<br> \n<br> You pull #1 plug and screw the stop in, then you turn the crank gently with a spanner on the pulley nut until #1 piston comes up against the stop. Make a temporary mark on the pulley where it lines up with the case join. Then reverse direction until #1 comes up against the stop in the other direction and make another temporary mark. Half way between the two marks is exactly TDC. Measure half way and make your permanent TDC mark.\n<br> \n<br> Off the top of my head, I think if you do the same with #3, you'll get 180 degrees from TDC too (useful marking to have when setting the valve gaps).\n<br> \n<br> Remember to remove the stop before you try cranking the engine!!! Stick some tape over the ignition key hole or something.\n<br> \n<br> If you buy a stop, clean the threads up with a fine file and some wet and dry to smooth out any burrs rather than risk damaging your spark plug hole threads.\n<br> \n<br> Don't know about the ballast wire.\n<br> \n<br> Regarding the timing light, I'd be surprised if you could get one without a tach function (rev meter) nowerdays, but check that it's got one. Ideally get one with high rpm and low rpm (High is a coarse scale good for timing the dizzy at high revs. Low is a finer scale that's good for tuning the carb at idle speed.\n<br> \n<br> Choose one that has a variable advance function too...\n<br> \n<br> Variable advance allows you to use the TDC mark for timing at any degrees of advance. You dial in the advance you want (e.g. 30 degrees) and it adjusts the strobe timing to flash at 30 degrees. The strobe then highlights the TDC mark and you adjust the dizzy until it lines up with the case joint.\n<br> \n<br> If you don't get one with an advance, you'll have to either measure the circumference of the pulley and work out where the 30 degree mark is from TDC, or take the pulley off and use a protractor to mark it at whatever degrees you want to time the engine at. That's more restrictive though as you can only time to the mark(s) you've made. In some circumstances you might want to go a little bit advanced or retarded. A variable advance dizzy makes it easier for you to do that and to know what you've actually timed it to.\n<br> \n<br> If you weren't getting an electronic dizzy, I'd recommend getting one with a dwell function to check your points dwell, but that would be 'pointless' with your dizzy. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon May 07, 2018 5:47 pm"
+  }, {
+    "postId" : "912200",
+    "author" : {
+      "username" : "boardman411",
+      "userId" : "912200",
+      "joined" : "Sun Apr 02, 2017 12:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "UK",
+      "postCount" : "220",
+      "avatarPath" : "./download/file.php%3Favatar=42067_1498211092.gif"
+    },
+    "content" : "Thanks Who.Me\n<br> \n<br> This is why the forum is so invaluable, when people like yourself share valuable knowledge with the more inexperienced members. Thanks this is very helpful, so my next step is o purchase a 'piston stop' as you've mentioned (never heard of one of these before) but like you say, will be helpful when marking opposite of TDC for value adjustment's later on.\n<br> \n<br> I did purchase an AccuSpark timing light at the same time, tho this was a basic model, thinking it would be sufficient for the job.. I will send this back to the Accuspark and replace for one of their more expensive models which has rev counter display &amp; advance functionality - now I know what I need..\n<br> \n<br> As they say - use the right tools for the right job and things are a lot easier.. \n<br> \n<br> Once again thanks for the advice.\n<br> Shaun.",
+    "lastEdited" : "Mon May 07, 2018 8:37 pm"
+  }, {
+    "postId" : "912234",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "912234",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "TDC on the pulley is usually marked with a soft dimple which isn't always obvious... you probably won't have the 5deg ATDC notch - most pulleys just have the TDC dimple, 7.5deg notch and 10deg notch.\n<br> \n<br> \n<img src=\"http://members.trainorders.com/android/VW06/TimingMarks.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue May 08, 2018 4:17 pm"
+  }, {
+    "postId" : "912257",
+    "author" : {
+      "username" : "boardman411",
+      "userId" : "912257",
+      "joined" : "Sun Apr 02, 2017 12:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "UK",
+      "postCount" : "220",
+      "avatarPath" : "./download/file.php%3Favatar=42067_1498211092.gif"
+    },
+    "content" : "There are several different types of pulley available, mine only has the two markings, no dimple on front.. There's a couple of threads on this site and the samba which reference the different variations available. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Tue May 08, 2018 9:31 pm"
+  }, {
+    "postId" : "912273",
+    "author" : {
+      "username" : "boardman411",
+      "userId" : "912273",
+      "joined" : "Sun Apr 02, 2017 12:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "UK",
+      "postCount" : "220",
+      "avatarPath" : "./download/file.php%3Favatar=42067_1498211092.gif"
+    },
+    "content" : "Found this on a website, which can be used to make temporary marks on the pulley \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20180509/7750c66cfb24cc3e27a8266341efabb9.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Wed May 09, 2018 5:52 pm"
+  }, {
+    "postId" : "912330",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "912330",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "You may find this reference and many others sections of this site really helpful. \n<br> \n<br> \n<a href=\"http://www.vw-resource.com/find_tdc.html\" class=\"postlink\">http://www.vw-resource.com/find_tdc.html</a>\n<br> \n<br> To get you going, assuming you have an original pulley and the marks are 10 and 7.5 BTDC as you suggest then you can take an 11mm spanner and use the spanner gap to measure to the left of the 7.5 BTDC mark (this should be the left of your two marks). Mark this and it should be TDC. Of course you can buy things to check or even use other methods as described. I’ve done this and checked both ways and it has always been accurate. The other pages on the website for other maintenance work are also helpful if this is new to you. \n<br> \n<br> Equally I have always static timed my distributor and never had any issues at all, mine is SVDA with pertronix. Again, I’m nit saying having a timing light and all of that isn’t a good idea but just using these methods my bus has always run fine. \n<br> \n<br> Enjoy!\n<br> \n<br> Cheers\n<br> \n<br> Steve",
+    "lastEdited" : "Fri May 11, 2018 10:06 am"
+  }, {
+    "postId" : "912337",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "912337",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3540",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "I don't think you can static time an electronic module but in any case static timing is a really bad idea! That's because you are not checking that the advance mech is working correctly. If it isn't you will cook the engine! \n<br> When you are driving the engine is usually running at around 3000 rpm i.e. fully advanced. So timing with a gun is essential - around 30 degrees at full advance (3000+ rpm - no need to measure this as fully advanced is as far as the mark goes) Timing at idle is not critical - anything between 5 and 10 degrees wil be fine.",
+    "lastEdited" : "Fri May 11, 2018 11:43 am"
+  }, {
+    "postId" : "912342",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "912342",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1070",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=912337&amp;sid=456289c18cd97787ea7e535f31ee3ef3#p912337\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=8751&amp;sid=456289c18cd97787ea7e535f31ee3ef3\">BJ1</a> wrote: <a href=\"./viewtopic.php?p=912337&amp;sid=456289c18cd97787ea7e535f31ee3ef3#p912337\" data-post-id=\"912337\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Fri May 11, 2018 11:43 am</span></cite> I don't think you can static time an electronic module but in any case static timing is a really bad idea! \n </div>\n</blockquote> You can't time them statically.\n<br> \n<br> Static timing is helpful when you're installing a new distributor though. It gives you a starting point from which you can get the engine to run and warm up before you time it at full advance.\n<br> \n<br> That's why I ended up going over to points and a condensor when I fitted an SVDA dizzy last year. I fitted it to replace a 009 dizzy that had an electronic points module, so I bought an electronic module for the SVDA one.\n<br> \n<br> I couldn't see any way to find a starting point with module installed though, other than getting my wife to sit there turning the key to crank the engine while I twisted the dizzy back and forth in the hope I'd find the static timing point where the engine would catch and start. I couldn't see that working with a cold engine, as it hates cold starting.\n<br> \n<br> By the time I'd gone to the trouble of timing the dizzy with points and a condensor, I couldn't be bothered to pull it back out to fit the electronic module then refit and re-time it. I just left the points and condensor in. Maybe when they wear out I'll fit the module (it's on the shelf), but I haven't had any starting or running issues with points and a condensor that I didn't have with an electronic module on the old dizzy.",
+    "lastEdited" : "Fri May 11, 2018 12:57 pm"
+  }, {
+    "postId" : "912343",
+    "author" : {
+      "username" : "boardman411",
+      "userId" : "912343",
+      "joined" : "Sun Apr 02, 2017 12:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "UK",
+      "postCount" : "220",
+      "avatarPath" : "./download/file.php%3Favatar=42067_1498211092.gif"
+    },
+    "content" : "It's true and it does say this in the installation guide that this can't be timed statically.. Based on all this info I gave them a call, and the guy at Accuspark, clarifed a few things.. \n<br> \n<br> 1. He doesn't believe that VW's had a ballast resistor, but there are instructions on how to test this.\n<br> 2. I can time to 7.5% or what ever the manual suggestions.\n<br> \n<br> I mentioned the fact that my pulley doesn't have timings markings all the way around and that the stobe light I have is very basic and does'nt cater for RPM or Advance settings. To check the advance, I could mark 30 degrees on the pulley and rev the engine, and check, but I wouldn't know if I was at 3000 or 4000 rpm as I have no way of determining the rpm's.",
+    "lastEdited" : "Fri May 11, 2018 1:25 pm"
+  }, {
+    "postId" : "912346",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "912346",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "I beg to differ. Whilst I fully appreciate the benefits of a timing light at 3000 rpm I do think you can time it static. Yes it needs to be quiet and yes your ear needs to be close to the dizzy cap but for mine I lined up my 7.5 mark knowing the dizzy was coming up on no1 cylinder and turned on the ignition (not to crank the engine over), then slowly rotated the dizzy until there was a small pop as the spark is produced. Of course you can’t leave the ignition switched on forever as it could damage the unit but for this short period it has always been fine. You can then clamp the dizzy down and turn the pulley in the same way to check if you want. \n<br> \n<br> I’m certainly not saying a strobe wouldn’t be better or more accurate but I’ve never had any issues with this method and my bus has always started first time hot or cold and runs well. I probably will check it but my point being it can’t be that far out given how well it runs. \n<br> \n<br> I’ll double check with the timing light, it will be interesting to see how “wrong” I am with this method as I too want to get it right and value the advice given above. \n<br> \n<br> Thanks\n<br> \n<br> Steve",
+    "lastEdited" : "Fri May 11, 2018 3:02 pm"
+  }, {
+    "postId" : "912370",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "912370",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3540",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=912346&amp;sid=456289c18cd97787ea7e535f31ee3ef3#p912346\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=1057&amp;sid=456289c18cd97787ea7e535f31ee3ef3\">Red Devil</a> wrote: <a href=\"./viewtopic.php?p=912346&amp;sid=456289c18cd97787ea7e535f31ee3ef3#p912346\" data-post-id=\"912346\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Fri May 11, 2018 3:02 pm</span></cite> I beg to differ. Whilst I fully appreciate the benefits of a timing light at 3000 rpm I do think you can time it static. Yes it needs to be quiet and yes your ear needs to be close to the dizzy cap but for mine I lined up my 7.5 mark knowing the dizzy was coming up on no1 cylinder and turned on the ignition (not to crank the engine over), then slowly rotated the dizzy until there was a small pop as the spark is produced. Of course you can’t leave the ignition switched on forever as it could damage the unit but for this short period it has always been fine. You can then clamp the dizzy down and turn the pulley in the same way to check if you want. \n  <br> \n  <br> I’m certainly not saying a strobe wouldn’t be better or more accurate but I’ve never had any issues with this method and my bus has always started first time hot or cold and runs well. I probably will check it but my point being it can’t be that far out given how well it runs. \n  <br> \n  <br> I’ll double check with the timing light, it will be interesting to see how “wrong” I am with this method as I too want to get it right and value the advice given above. \n  <br> \n  <br> Thanks\n  <br> \n  <br> Steve \n </div>\n</blockquote> Fair enough Steve but with this method you are hoping that your advance mech is working properly. Failing advance mechs are one of the main causes of serious overheating - I've seen this many times in my 45 years of owning aircooled VWs. That's why I always use a strobe.",
+    "lastEdited" : "Sat May 12, 2018 11:38 am"
+  }, {
+    "postId" : "912384",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "912384",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1070",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=912346&amp;sid=456289c18cd97787ea7e535f31ee3ef3#p912346\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=1057&amp;sid=456289c18cd97787ea7e535f31ee3ef3\">Red Devil</a> wrote: <a href=\"./viewtopic.php?p=912346&amp;sid=456289c18cd97787ea7e535f31ee3ef3#p912346\" data-post-id=\"912346\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Fri May 11, 2018 3:02 pm</span></cite>, then slowly rotated the dizzy until there was a small pop as the spark is produced\n </div>\n</blockquote> I'm impressed.\n<br> \n<br> My hearing is going downhill like my eyesight though. \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\"> I'd never hear it.",
+    "lastEdited" : "Sat May 12, 2018 7:17 pm"
+  }, {
+    "postId" : "912418",
+    "author" : {
+      "username" : "boardman411",
+      "userId" : "912418",
+      "joined" : "Sun Apr 02, 2017 12:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "UK",
+      "postCount" : "220",
+      "avatarPath" : "./download/file.php%3Favatar=42067_1498211092.gif"
+    },
+    "content" : "Swapped the dizzy over today and timed it to 7.5 degrees and checked that it was advancing... All seems to be good, took the bus out for a spin and i no longer have the dreaded flat spot from the 009 that was on there before..\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun May 13, 2018 4:54 pm"
+  }, {
+    "postId" : "917416",
+    "author" : {
+      "username" : "boardman411",
+      "userId" : "917416",
+      "joined" : "Sun Apr 02, 2017 12:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "UK",
+      "postCount" : "220",
+      "avatarPath" : "./download/file.php%3Favatar=42067_1498211092.gif"
+    },
+    "content" : "Just thought I'd update this - No issues reported so far with the Accuspark Dizzy, seems to be working fine - can't fault it at present - Flat spot has disappeared, when off choke.. Slight hesitation when cold. I'm now rebuilding the carb to see if this is source of my fuel smell after a run.",
+    "lastEdited" : "Wed Nov 14, 2018 12:56 pm"
+  } ]
+}

@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "120270",
+  "title" : "Rack and pinion steering",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120270",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=db9b34af1a3709c12b4871d8b4e5bd1a",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "903639",
+    "author" : {
+      "username" : "PIPKIN",
+      "userId" : "903639",
+      "joined" : "Thu Jul 03, 2008 6:58 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "314",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br> \n<br> Can anyone recommend a steering rack as a basis for a conversion. \n<br> \n<br> Don't want to use the rascal version, difficulties with sourcing pitman arms, liking for a rack with attached track rods. \n<br> \n<br> Know about the use of early Porsche 911 racks but costs are high. \n<br> \n<br> Cheers\n<br> \n<br> Paul",
+    "lastEdited" : "Sat Sep 23, 2017 8:39 am"
+  }, {
+    "postId" : "903748",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "903748",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "Have heard of people using Astra racks - but its usually a homebrew affair....",
+    "lastEdited" : "Mon Sep 25, 2017 10:26 am"
+  }, {
+    "postId" : "903960",
+    "author" : {
+      "username" : "winston churchill",
+      "userId" : "903960",
+      "joined" : "Mon Sep 21, 2009 8:09 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "297",
+      "avatarPath" : null
+    },
+    "content" : "I have a Camerod rack from USA based on a quicksteer kit for sale with transfer box.",
+    "lastEdited" : "Thu Sep 28, 2017 5:10 am"
+  }, {
+    "postId" : "904151",
+    "author" : {
+      "username" : "Evil Sid",
+      "userId" : "904151",
+      "joined" : "Sun Sep 28, 2008 3:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "160",
+      "avatarPath" : null
+    },
+    "content" : "Hi can you put up a link to that?\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Oct 02, 2017 7:28 am"
+  } ]
+}

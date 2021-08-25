@@ -1,0 +1,63 @@
+{
+  "forumId" : "51",
+  "threadId" : "116705",
+  "title" : "64 EZ camper",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=116705&start=15",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 19,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "881950",
+    "author" : {
+      "username" : "Richie_wils",
+      "userId" : "881950",
+      "joined" : "Tue May 13, 2014 3:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Wed Aug 24, 2016 9:34 pm"
+  }, {
+    "postId" : "882074",
+    "author" : {
+      "username" : "ovali6",
+      "userId" : "882074",
+      "joined" : "Fri Aug 26, 2016 9:13 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hello,\n<br>ist the bus still fore sale?\n<br>Where in the UK is the bus.\n<br>Could you send me some more pictures?",
+    "lastEdited" : "Fri Aug 26, 2016 10:37 pm"
+  }, {
+    "postId" : "882251",
+    "author" : {
+      "username" : "minxster",
+      "userId" : "882251",
+      "joined" : "Wed Dec 14, 2011 6:29 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "180",
+      "avatarPath" : null
+    },
+    "content" : "SOLD SOLD SOLD ..please remove,thanks to all the veiwers and interested parties",
+    "lastEdited" : "Mon Aug 29, 2016 4:36 pm"
+  }, {
+    "postId" : "883195",
+    "author" : {
+      "username" : "minxster",
+      "userId" : "883195",
+      "joined" : "Wed Dec 14, 2011 6:29 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "180",
+      "avatarPath" : null
+    },
+    "content" : "SOLD SOLD SOLD SOLD",
+    "lastEdited" : "Sat Sep 10, 2016 6:49 am"
+  } ]
+}

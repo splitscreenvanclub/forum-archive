@@ -1,0 +1,89 @@
+{
+  "forumId" : "6",
+  "threadId" : "61399",
+  "title" : "Electrical problems - van not starting",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=61399",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "474624",
+    "author" : {
+      "username" : "Glyno",
+      "userId" : "474624",
+      "joined" : "Thu Sep 25, 2003 7:31 pm",
+      "profileRank" : "Registered user",
+      "location" : "Sunny Hampshire",
+      "postCount" : "621",
+      "avatarPath" : "./download/file.php%3Favatar=529_1333739025.jpg"
+    },
+    "content" : "Having a problem with the bus which I would be grateful if anyone could suggest a troubleshooting approach for. The bus isn't starting and when I put the key in the ignition and move to the ignition on position, one of the warning lights (yellow one on right hand side) lights very dimly and the fuel guauge works. If I operate the headlights there is nothing. When I move the key to the next position to fire the starter, everything clicks off and the starter doesn't turn. I thought the battery was just flat to start with but it appears there is more to the problem.\n<br>\n<br>I removed the battery and charged it with an Optimate 4 for two days. I then used my Gunson multitune meter to check the battery condition and it reported it as being in normal condition and fully charged. I've put it back into the bus and got the same thing as before - dim ignition warning lights and then nothing when starter position engaged.\n<br>\n<br>Do I have a dead short somewhere? I felt under the van and the starter motor isn't hot so I don't think that is it.\n<br>\n<br>The setup is a bit more complicated than stock as I have two batteries (main van and leisure). A split charge is in place to charge both and a Power Management System (PMS) unit is fitted to charge both batteries when on hook up. I have isolated the LB by removing both connectors from the battery but the problem is the same.\n<br>\n<br>The system has worked for years without fault. Nothing has changed prior to the fault, the van has just been stood for a couple of months in the garage.\n<br>\n<br>Can anyone suggest a set of steps to follow to try and determine what the issue is?\n<br>\n<br>Thanks\n<br>\n<br>Glyn.",
+    "lastEdited" : "Fri Dec 04, 2009 4:09 pm"
+  }, {
+    "postId" : "474630",
+    "author" : {
+      "username" : "Overdubbed",
+      "userId" : "474630",
+      "joined" : "Sun Sep 20, 2009 4:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Tunbridge Wells Kent",
+      "postCount" : "81",
+      "avatarPath" : null
+    },
+    "content" : "First thing to check is the condition of the battery terminal clamps - give them a good clean and emery cloth. Check the battery earth to the body. Then check the earth strap underneath on the gearbox. Next check the leads on the starter - all your electrics go through the smaller of the two leads on there - same as the battery terminals, a good clean an rub with emery. If that doesn't work, let me know and I'll suggest the next steps!!",
+    "lastEdited" : "Fri Dec 04, 2009 4:54 pm"
+  }, {
+    "postId" : "474639",
+    "author" : {
+      "username" : "Glyno",
+      "userId" : "474639",
+      "joined" : "Thu Sep 25, 2003 7:31 pm",
+      "profileRank" : "Registered user",
+      "location" : "Sunny Hampshire",
+      "postCount" : "621",
+      "avatarPath" : "./download/file.php%3Favatar=529_1333739025.jpg"
+    },
+    "content" : "Hi, thanks for the info. I am confident the battery terminals are good as I've had the battery off and back on. I'll check the earth and starter connections tomorrow morning.\n<br>\n<br>Let you know how I get on...\n<br>\n<br>Cheers,\n<br>Glyn.",
+    "lastEdited" : "Fri Dec 04, 2009 5:25 pm"
+  }, {
+    "postId" : "474641",
+    "author" : {
+      "username" : "vwadnad",
+      "userId" : "474641",
+      "joined" : "Mon Jan 30, 2006 8:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "east sussex",
+      "postCount" : "290",
+      "avatarPath" : "http://img159.imageshack.us/img159/7575/1885um8.gif"
+    },
+    "content" : "Think it may be worth checking battery as you turn engine, may say it's charged but have no cranking power????? I had the same problem recently, bought a new battery and it's sorted",
+    "lastEdited" : "Fri Dec 04, 2009 5:27 pm"
+  }, {
+    "postId" : "475169",
+    "author" : {
+      "username" : "59 pick up",
+      "userId" : "475169",
+      "joined" : "Thu Jul 31, 2003 6:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "single cab for sale ¬£5k",
+      "postCount" : "1549",
+      "avatarPath" : "http://img.photobucket.com/albums/v222/pantswagen/kkk.jpg"
+    },
+    "content" : "do the relay for the leashure battery tick, when you connect the main batt.",
+    "lastEdited" : "Mon Dec 07, 2009 4:57 am"
+  }, {
+    "postId" : "475197",
+    "author" : {
+      "username" : "Glyno",
+      "userId" : "475197",
+      "joined" : "Thu Sep 25, 2003 7:31 pm",
+      "profileRank" : "Registered user",
+      "location" : "Sunny Hampshire",
+      "postCount" : "621",
+      "avatarPath" : "./download/file.php%3Favatar=529_1333739025.jpg"
+    },
+    "content" : "Thanks for all the suggestions. It looks as though it is just the battery. Although the test gauge was showing a good reading it didn't have any cranking ability. I checked all the connections to the starter and all were good and clean.\n<br>\n<br>I bought a new battery yesterday and fitted it and now back in action \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\"> \n<br>\n<br>Thanks!",
+    "lastEdited" : "Mon Dec 07, 2009 9:40 am"
+  } ]
+}

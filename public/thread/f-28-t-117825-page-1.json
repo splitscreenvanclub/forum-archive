@@ -1,0 +1,40 @@
+{
+  "forumId" : "28",
+  "threadId" : "117825",
+  "title" : "009 non vacumn in a 2.0 type 4 Porsche fan conversion",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=117825",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=974c063efe5f1b7f28b1964dec637eb4",
+    "label" : "BWA"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "886735",
+    "author" : {
+      "username" : "Scousey12",
+      "userId" : "886735",
+      "joined" : "Wed Aug 24, 2016 8:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "80",
+      "avatarPath" : null
+    },
+    "content" : "Hi..im reading a couple of reports that contradict one another so im asking you guys with big motors.\n<br> Ive a 2.0 type 4 with twin dual webers..my question is do I run a 009 dizzy with pertronix and non vac or a stock vac dizzy with pertronix..Vans gonna be a daily driver btw.\n<br> \n<br> Thanks.",
+    "lastEdited" : "Thu Nov 03, 2016 4:14 pm"
+  }, {
+    "postId" : "888584",
+    "author" : {
+      "username" : "W-W",
+      "userId" : "888584",
+      "joined" : "Fri Jul 13, 2012 10:47 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "270",
+      "avatarPath" : "./download/file.php%3Favatar=36802_1506585740.jpg"
+    },
+    "content" : "I've also fallen for the magazine spec sheet and had 009 dizzys on my carb engines before I went ecu. However this week I went to see a machine shop for a little work on a Motto Guzzi I am building, therefore not the usual vdub crowd. \n<br> \n<br> We got discussing the crankshaft geometry as you do, and the fact that the vw crank is lower than the centre of the piston. \n<br> \n<img src=\"https://en.m.wikipedia.org/wiki/File:Piston_motion_geometry.png\" class=\"postimage\" alt=\"Image\">\n<br> What I mean by this is that they were knowledgeable in engine geometry and not selling me parts.\n<br> \n<br> They machine parts for drag bikes and v8 engines and we moved to discuss dizzys and the benefits of vacuum advance over mechanical. \n<br> \n<br> First, race cars perform at full throttle so no vacuum available but for street cars they can use vacuum. \n<br> The view was that the engine knows what it needs and at least vacuum dizzys does not just need rpm to work. \n<br> \n<br> Still can't say that the normal dizzy can help but worth a discussion.",
+    "lastEdited" : "Sun Dec 11, 2016 8:29 pm"
+  } ]
+}

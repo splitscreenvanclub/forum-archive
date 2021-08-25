@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "100340",
+  "title" : "Spark Plug Gap for bosch w8ac plugs on 1967 Splitty",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=100340",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "767035",
+    "author" : {
+      "username" : "toby1967",
+      "userId" : "767035",
+      "joined" : "Sun Jan 19, 2014 11:33 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "11",
+      "avatarPath" : null
+    },
+    "content" : "Cant seem to find the correct gap anywhere on the net, can anyone please advise what it should be\n<br> Thanks",
+    "lastEdited" : "Fri Jan 24, 2014 7:42 pm"
+  }, {
+    "postId" : "767052",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "767052",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "473",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "0.7mm or (.028) \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Fri Jan 24, 2014 9:00 pm"
+  }, {
+    "postId" : "767069",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "767069",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "Yep. Agree with that.",
+    "lastEdited" : "Fri Jan 24, 2014 10:16 pm"
+  }, {
+    "postId" : "767107",
+    "author" : {
+      "username" : "toby1967",
+      "userId" : "767107",
+      "joined" : "Sun Jan 19, 2014 11:33 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "11",
+      "avatarPath" : null
+    },
+    "content" : "Thanks guys",
+    "lastEdited" : "Sat Jan 25, 2014 11:43 am"
+  } ]
+}

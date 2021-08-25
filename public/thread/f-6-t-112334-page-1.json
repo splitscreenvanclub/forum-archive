@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "112334",
+  "title" : "Mechanical fuel pump question!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112334",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847360",
+    "author" : {
+      "username" : "OXON TED",
+      "userId" : "847360",
+      "joined" : "Thu Oct 18, 2012 7:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "129",
+      "avatarPath" : null
+    },
+    "content" : "Am I correct in thinking that if the engine isn't running I shouldn't get petrol through the pump?\n<br>\n<br>At the moment I'm getting fuel through the the pump gravity fed from the tank,found the carb was letting by on the needle valve and filled the sump with petrol. \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br>\n<br>Took the pump off but no fuel dripping out the bottom.",
+    "lastEdited" : "Mon Aug 31, 2015 3:41 pm"
+  }, {
+    "postId" : "847387",
+    "author" : {
+      "username" : "OP",
+      "userId" : "847387",
+      "joined" : "Thu Apr 17, 2003 7:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham/Cornwall",
+      "postCount" : "1958",
+      "avatarPath" : "http://img.photobucket.com/albums/v215/Dubberware/55%20Bus/ron_newark_air_160314_160px_zps5d2a0148.gif"
+    },
+    "content" : "Sounds like the fuel pump diaphragm has broken. New pump needed and oil flushed out.",
+    "lastEdited" : "Mon Aug 31, 2015 7:28 pm"
+  }, {
+    "postId" : "847403",
+    "author" : {
+      "username" : "OXON TED",
+      "userId" : "847403",
+      "joined" : "Thu Oct 18, 2012 7:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "129",
+      "avatarPath" : null
+    },
+    "content" : "Thanks OP!",
+    "lastEdited" : "Mon Aug 31, 2015 7:54 pm"
+  }, {
+    "postId" : "847406",
+    "author" : {
+      "username" : "thesickness",
+      "userId" : "847406",
+      "joined" : "Sun Nov 28, 2010 8:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "450",
+      "avatarPath" : null
+    },
+    "content" : "I would go electric mate. I cannot trust mechanical, the thought that on way to santapod its gonna fail and dump fuel into your engine, only noticeable when it's lit the light and wrecked your engine. I had 4 fuel pumps leak in succession from GSF so I switched to facet.",
+    "lastEdited" : "Mon Aug 31, 2015 8:04 pm"
+  }, {
+    "postId" : "847410",
+    "author" : {
+      "username" : "OXON TED",
+      "userId" : "847410",
+      "joined" : "Thu Oct 18, 2012 7:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "129",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the advice,could well be the way to go!",
+    "lastEdited" : "Mon Aug 31, 2015 8:24 pm"
+  } ]
+}

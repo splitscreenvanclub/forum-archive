@@ -1,0 +1,24 @@
+{
+  "forumId" : "47",
+  "threadId" : "115807",
+  "title" : "sold",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=115807",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "873606",
+    "author" : {
+      "username" : "fredo",
+      "userId" : "873606",
+      "joined" : "Fri Oct 28, 2005 4:46 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "203",
+      "avatarPath" : "./download/file.php%3Favatar=1819_1338487173.jpg"
+    },
+    "content" : "sold",
+    "lastEdited" : "Fri May 06, 2016 7:17 am"
+  } ]
+}

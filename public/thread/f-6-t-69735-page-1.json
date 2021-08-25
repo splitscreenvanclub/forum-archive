@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "69735",
+  "title" : "Steering box checking and adjustment",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=69735",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "536257",
+    "author" : {
+      "username" : "PAN64",
+      "userId" : "536257",
+      "joined" : "Sat Aug 14, 2010 3:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "10",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> \n<br> Could anyone give me some advice on how to check for wear in my 67 splitty steering box and how to adjust it?\n<br> \n<br> Many thanks, Paul",
+    "lastEdited" : "Fri Sep 24, 2010 1:41 pm"
+  }, {
+    "postId" : "536258",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "536258",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Have a search under the technical section, I remember the same thing being asked not so long ago \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> \n<br> Andy",
+    "lastEdited" : "Fri Sep 24, 2010 1:54 pm"
+  }, {
+    "postId" : "536276",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "536276",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1456",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Have a look at the following link:\n<br> \n<a href=\"http://www.vw-resource.com/steering_box_adjustment.html\" class=\"postlink\">http://www.vw-resource.com/steering_box_adjustment.html</a>\n<br> \n<br> Hope this helps.\n<br> \n<br> GJ",
+    "lastEdited" : "Fri Sep 24, 2010 3:45 pm"
+  }, {
+    "postId" : "536699",
+    "author" : {
+      "username" : "PAN64",
+      "userId" : "536699",
+      "joined" : "Sat Aug 14, 2010 3:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "10",
+      "avatarPath" : null
+    },
+    "content" : "Thanks guys. GJ the info on the link you posted was really helpful, steering still not great but a lot better after adjustment.\n<br> \n<br> Cheers, Paul",
+    "lastEdited" : "Sun Sep 26, 2010 6:23 pm"
+  } ]
+}

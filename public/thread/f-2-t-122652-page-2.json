@@ -1,0 +1,53 @@
+{
+  "forumId" : "2",
+  "threadId" : "122652",
+  "title" : "Hmm. It's just not the same.....",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=122652&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=6c56e615994bc5efc6a49af16c415adb",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 18,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "916980",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "916980",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5514",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "55 grand buys a lot of weekends in a B&amp;B \n<br> They’re not for me, I’d pay half that and get a Transit or a Movano which will be cheaper to buy, cheaper to maintain, more reliable and they all look basically the same.",
+    "lastEdited" : "Sat Nov 03, 2018 2:08 pm"
+  }, {
+    "postId" : "917052",
+    "author" : {
+      "username" : "Herr Doktor",
+      "userId" : "917052",
+      "joined" : "Tue Feb 14, 2006 2:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "God's Country - Pays de Galles",
+      "postCount" : "1580",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=916980&amp;sid=6c56e615994bc5efc6a49af16c415adb#p916980\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=1186&amp;sid=6c56e615994bc5efc6a49af16c415adb\">e m p i</a> wrote: <a href=\"./viewtopic.php?p=916980&amp;sid=6c56e615994bc5efc6a49af16c415adb#p916980\" data-post-id=\"916980\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sat Nov 03, 2018 2:08 pm</span></cite> 55 grand buys a lot of weekends in a B&amp;B \n  <br> They’re not for me, I’d pay half that and get a Transit or a Movano which will be cheaper to buy, cheaper to maintain, more reliable and they all look basically the same. \n </div>\n</blockquote> \n<br> I agree. Depreciation is significantly greater however, but, as you say, you pay more in the first instance so it would be a false economy to buy based on that criteria. For me it was a bigger target base when it comes to sell",
+    "lastEdited" : "Sun Nov 04, 2018 4:49 pm"
+  }, {
+    "postId" : "917279",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "917279",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5514",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Yes I guess that makes sense re the target when you sell ad there’s quite a following. I suppose there’s not that many people buy new cars/vans outright these days so I didn’t really consider that. Hope it all works out and you don’t get stung but I doubt you will.",
+    "lastEdited" : "Fri Nov 09, 2018 10:36 pm"
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "forumId" : "28",
+  "threadId" : "106742",
+  "title" : "efi turbo",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=106742",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "809437",
+    "author" : {
+      "username" : "modifiedbrian",
+      "userId" : "809437",
+      "joined" : "Wed Sep 01, 2010 12:59 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Basingstoke",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "Planning to go efi &amp; turbo on my 2276 next year. Looking to collect parts to go with these\n<br>\n<br>\n<a href=\"http://s948.photobucket.com/user/Modifiedbrian/media/13CD443F-83E5-451E-B216-F47376B0D2D4_zpscvltutuq.jpg.html\" class=\"postlink\"><img src=\"http://i948.photobucket.com/albums/ad325/Modifiedbrian/13CD443F-83E5-451E-B216-F47376B0D2D4_zpscvltutuq.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>looking to see what others are using re ecu, turbo choice. DTA has been suggested.\n<br>\n<br>Thanx",
+    "lastEdited" : "Thu Nov 06, 2014 9:45 pm"
+  }, {
+    "postId" : "809473",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "809473",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6098",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Use an ECU that whoever is mapping it is happy with.",
+    "lastEdited" : "Fri Nov 07, 2014 10:27 am"
+  }, {
+    "postId" : "809476",
+    "author" : {
+      "username" : "modifiedbrian",
+      "userId" : "809476",
+      "joined" : "Wed Sep 01, 2010 12:59 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Basingstoke",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "Yeah advised that already. Apparently have a rolling road near me that do DTA.",
+    "lastEdited" : "Fri Nov 07, 2014 10:31 am"
+  }, {
+    "postId" : "809498",
+    "author" : {
+      "username" : "Byron Bamboo",
+      "userId" : "809498",
+      "joined" : "Thu Apr 17, 2003 12:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "6831",
+      "avatarPath" : "./download/file.php%3Favatar=38_1338322337.jpg"
+    },
+    "content" : "These guys were good when I first got my 2007 fitted.. plus they tuned my mates Caterham 7 kit car well.\n<br>\n<br>Only in Andover, don't think there is a rolling road in Basingstoke.\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.millwayworkshop.co.uk/tuning.html\">http://www.millwayworkshop.co.uk/tuning.html</a>\n<!-- m -->",
+    "lastEdited" : "Fri Nov 07, 2014 1:56 pm"
+  }, {
+    "postId" : "809580",
+    "author" : {
+      "username" : "modifiedbrian",
+      "userId" : "809580",
+      "joined" : "Wed Sep 01, 2010 12:59 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Basingstoke",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "Jim Merrin has given me a lead on a local guy with a rolling road who knows DTA. \n<br>Having said that I welcome any advice and experiences.\n<br>\n<br> I understand the ecu will have a basic start up/run set up to hopefully then get to a rolling road.",
+    "lastEdited" : "Sat Nov 08, 2014 1:32 am"
+  } ]
+}

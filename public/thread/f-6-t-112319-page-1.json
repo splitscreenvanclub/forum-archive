@@ -1,0 +1,24 @@
+{
+  "forumId" : "6",
+  "threadId" : "112319",
+  "title" : "Rear shock mount alignment",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112319",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847296",
+    "author" : {
+      "username" : "Karl_F",
+      "userId" : "847296",
+      "joined" : "Tue Mar 11, 2014 9:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "413",
+      "avatarPath" : "./download/file.php%3Favatar=38997_1427102855.jpg"
+    },
+    "content" : "I've noticed my rear shock is pulling at an angle in the rear shock mount. The bus was already fitted with a straight axe conversion, should the mount be relocated? I can get better alignment if I push the axles forward in the spring plates, but then I end up with a lot of toe in.",
+    "lastEdited" : "Sun Aug 30, 2015 8:13 pm"
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "116260",
+  "title" : "To spot weld, plug weld or use metal adhesive????",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=116260",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "876713",
+    "author" : {
+      "username" : "Pluppy34",
+      "userId" : "876713",
+      "joined" : "Fri May 29, 2015 9:56 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "28",
+      "avatarPath" : null
+    },
+    "content" : "A quick question for you veteran restoration experts. \n<br>\n<br>I am repairing the gutter all around on my 61 splitscreen and want to know what the best way to attach the roof to the gutter. \n<br>\n<br>I see many people punch holes in the roof lip and plug weld it to the gutter, but I could spot weld (double side) it to the gutter. A sales rep then told me that metal adhesive would be best!?\n<br>\n<br>It would be great to hear your thoughts!\n<br>Thanks in advance",
+    "lastEdited" : "Mon Jun 13, 2016 6:09 am"
+  }, {
+    "postId" : "876717",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "876717",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5450",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "spot weld , if you can",
+    "lastEdited" : "Mon Jun 13, 2016 8:28 am"
+  }, {
+    "postId" : "876721",
+    "author" : {
+      "username" : "blenki",
+      "userId" : "876721",
+      "joined" : "Sat Mar 19, 2016 7:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Surrey",
+      "postCount" : "68",
+      "avatarPath" : null
+    },
+    "content" : "The reps probably on about this stuff\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://3mcollision.com/3m-panel-bonding-adhesive-08115.html\">http://3mcollision.com/3m-panel-bonding ... 08115.html</a>\n<!-- m -->\n<br>\n<br>I know people that have put complete sides on splittys with this stuff to cut down on the amount of welding / distortion",
+    "lastEdited" : "Mon Jun 13, 2016 9:25 am"
+  }, {
+    "postId" : "876753",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "876753",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10080",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Metal adhesive IS used to build car bodies..\n<br>BUT usually to bond strengthening panels to things inside bonnets boots and doors where the inerrs are held in place by metal adhesive and then the outer flange is \"clinched\" over the inner.\n<br>Not sure how stong it really is..But is used often on dissimilar metals aluminium skin over steel spider frame pierced inner.\n<br>Aluminium is strong and stiff, inner usually has welded on brackets or mounts...or bolted on hinges locks etc.\n<br>\n<br>Restorers do use metal adhesive to bond on side panels with success....",
+    "lastEdited" : "Mon Jun 13, 2016 7:45 pm"
+  }, {
+    "postId" : "876793",
+    "author" : {
+      "username" : "Vwdubs74",
+      "userId" : "876793",
+      "joined" : "Sun Jun 15, 2014 9:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "71",
+      "avatarPath" : null
+    },
+    "content" : "I have been reviewing this quite extensively over the past month, if done properly it is stronger than spot welds BUT, I am still spot welding my long panel down the sides and top and then just using Fusor or 3M for the uprights and cross members.\n<br>\n<br>It shouldn't be used for any structural supports though.",
+    "lastEdited" : "Mon Jun 13, 2016 10:42 pm"
+  } ]
+}

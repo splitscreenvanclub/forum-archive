@@ -1,0 +1,131 @@
+{
+  "forumId" : "5",
+  "threadId" : "123513",
+  "title" : "Truck rear bumper",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=123513",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=932e570d0cee30781a4ffade18598c32",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "922830",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "922830",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "418",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys,looking for a rear truck bumper for my single cab. Kind regards neil",
+    "lastEdited" : "Mon Jun 10, 2019 10:30 pm"
+  }, {
+    "postId" : "923658",
+    "author" : {
+      "username" : "massivesplitproject",
+      "userId" : "923658",
+      "joined" : "Mon Sep 24, 2007 10:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "mansfield",
+      "postCount" : "2089",
+      "avatarPath" : null
+    },
+    "content" : "what year is the van",
+    "lastEdited" : "Mon Jul 15, 2019 11:01 pm"
+  }, {
+    "postId" : "923677",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "923677",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "418",
+      "avatarPath" : null
+    },
+    "content" : "Hi there , she's a 56 single cab , any rear single cab rear bumper would do for now! Kind regards neil",
+    "lastEdited" : "Tue Jul 16, 2019 10:27 pm"
+  }, {
+    "postId" : "923701",
+    "author" : {
+      "username" : "Glenn Yale",
+      "userId" : "923701",
+      "joined" : "Tue Sep 09, 2014 9:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Tamworth.",
+      "postCount" : "78",
+      "avatarPath" : null
+    },
+    "content" : "Where are you based? I've got a fibreglass ribbed one.",
+    "lastEdited" : "Wed Jul 17, 2019 9:32 pm"
+  }, {
+    "postId" : "923775",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "923775",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "418",
+      "avatarPath" : null
+    },
+    "content" : "That would be fantastic , how much you asking for it ? Kind regards neil",
+    "lastEdited" : "Sun Jul 21, 2019 10:11 pm"
+  }, {
+    "postId" : "923776",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "923776",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "418",
+      "avatarPath" : null
+    },
+    "content" : "Stamford lincs , very interested . Please get back to me . Kind regards neil",
+    "lastEdited" : "Sun Jul 21, 2019 10:12 pm"
+  }, {
+    "postId" : "923800",
+    "author" : {
+      "username" : "Fixer",
+      "userId" : "923800",
+      "joined" : "Mon Jul 25, 2011 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "575",
+      "avatarPath" : null
+    },
+    "content" : "There are two truck rear bumper on samba $ 2500 and $ 2000",
+    "lastEdited" : "Mon Jul 22, 2019 8:16 pm"
+  }, {
+    "postId" : "923801",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "923801",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "418",
+      "avatarPath" : null
+    },
+    "content" : "Yeah I've seen those , way way out of my price range. That's plus shipping to my friend!",
+    "lastEdited" : "Mon Jul 22, 2019 8:38 pm"
+  }, {
+    "postId" : "924610",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "924610",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "418",
+      "avatarPath" : null
+    },
+    "content" : "Sorted now , thanks to Glenn Yale",
+    "lastEdited" : "Sun Aug 25, 2019 11:11 pm"
+  } ]
+}

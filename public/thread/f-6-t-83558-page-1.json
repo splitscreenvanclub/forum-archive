@@ -1,0 +1,131 @@
+{
+  "forumId" : "6",
+  "threadId" : "83558",
+  "title" : "Engine Timing",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=83558",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "645101",
+    "author" : {
+      "username" : "quillansmith",
+      "userId" : "645101",
+      "joined" : "Mon Jul 21, 2008 7:18 pm",
+      "profileRank" : "Registered user",
+      "location" : "Colchester",
+      "postCount" : "187",
+      "avatarPath" : "./download/file.php%3Favatar=27108_1328042313.jpg"
+    },
+    "content" : "Hi, My engine is 1641cc Twin carbs,009 distributer no vacuum advance,electronic ign,044 heads.Can't seem to find a correct timing setting. 7.5 deg ATDC? 7.5 deg BTDC? or 10 deg ATDC? What about running unleaded or v power 99 octane.It seems to run ok at the moment but its been guess work to find a happy place.Found video on the net to time with a test light but is this technique for points only distributor?\n<br> Any suggestions?\n<br> \n<br> Thanks in advance. Q",
+    "lastEdited" : "Mon Mar 19, 2012 9:57 pm"
+  }, {
+    "postId" : "645105",
+    "author" : {
+      "username" : "Sooty",
+      "userId" : "645105",
+      "joined" : "Sun Dec 09, 2007 10:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Upt Norfff........ Bingley.",
+      "postCount" : "10076",
+      "avatarPath" : null
+    },
+    "content" : "Mine has elec ignition, 009 twin carbs etc.... Set with light to 8 tdc. 1600 cc\n<br> \n<br> Sooty.",
+    "lastEdited" : "Mon Mar 19, 2012 10:02 pm"
+  }, {
+    "postId" : "645140",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "645140",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "009s are notorious for having varying amounts of advance.\n<br> \n<br> The only way to set it is at 3000rpm and to 32 or 30 degrees advance. If it runs hot at 32 then back it off to 30degrees.\n<br> \n<br> If you set it at idle, you run the risk of it being massively retarded or advanced",
+    "lastEdited" : "Tue Mar 20, 2012 6:08 am"
+  }, {
+    "postId" : "645149",
+    "author" : {
+      "username" : "The splitster",
+      "userId" : "645149",
+      "joined" : "Mon Mar 02, 2009 10:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "447",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>paul_f wrote:</cite>009s are notorious for having varying amounts of advance.\n </div>\n</blockquote> Bosch 009's are CR4P throw it away and put the vacumn dizzy back on. I just did on my 1776cc with twin 34ict's and WOW what a difference no more flat spot when pulling away.\n<br> \n<br> If you are setting the timing statically then 7.5 BTDC is what you want. Again put the right dizzy on first.",
+    "lastEdited" : "Tue Mar 20, 2012 7:39 am"
+  }, {
+    "postId" : "645159",
+    "author" : {
+      "username" : "mclarni",
+      "userId" : "645159",
+      "joined" : "Wed Oct 15, 2008 12:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Angmering West Sussex",
+      "postCount" : "1815",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>The splitster wrote:</cite>\n  <blockquote>\n   <div>\n    <cite>paul_f wrote:</cite>009s are notorious for having varying amounts of advance.\n   </div>\n  </blockquote> Bosch 009's are CR4P throw it away and put the vacumn dizzy back on. I just did on my 1776cc with twin 34ict's and WOW what a difference no more flat spot when pulling away.\n  <br> \n  <br> If you are setting the timing statically then 7.5 BTDC is what you want. Again put the right dizzy on first.\n </div>\n</blockquote> Agree 100% on this.\n<br> \n<br> 1600cc, twin webber 34 ict's. Vac advance. Much better than 009\n<br> \n<br> I runa 009 on my beetle, 1600cc standard carb, it's ok on that as it doesn't weigh as much but not as good as a vac advance\n<br> \n<br> Nick",
+    "lastEdited" : "Tue Mar 20, 2012 9:19 am"
+  }, {
+    "postId" : "645199",
+    "author" : {
+      "username" : "quillansmith",
+      "userId" : "645199",
+      "joined" : "Mon Jul 21, 2008 7:18 pm",
+      "profileRank" : "Registered user",
+      "location" : "Colchester",
+      "postCount" : "187",
+      "avatarPath" : "./download/file.php%3Favatar=27108_1328042313.jpg"
+    },
+    "content" : "Hi , Thanks guys for the prompt replies.Could you advise a little more please?\n<br> \n<br> If I purchase a vacuum advance type dizzy will this fit with my electronic ignition or will i have to change to points and condensor?\n<br> Also my twin carbs and manifolds have no vacuum take off so where is the best place to rig up the vacuum pipe.Both manifolds?\n<br> \n<br> Thanks Q",
+    "lastEdited" : "Tue Mar 20, 2012 1:53 pm"
+  }, {
+    "postId" : "645245",
+    "author" : {
+      "username" : "The splitster",
+      "userId" : "645245",
+      "joined" : "Mon Mar 02, 2009 10:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "447",
+      "avatarPath" : null
+    },
+    "content" : "Your manifolds will probably have a blank plug thats for the balance pipe. The carbs will defo. have a little brass tube coming out of them again probably blanked off. This is where you connect the vacumm tube to. It will be there just need to look a little harder \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> Mine is rigged to just the one manifold and that is suffice enough.\n<br> \n<br> If you want you can run electronic ignition module I would recomend Pertronix as the Chinese ones are junk. The 009 one will not fit.\n<br> \n<br> I can see a few 009's coming up for grabs on Ebay soon \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> Paid £10 for my vacumn dizzy on ebay. Currently running points and condensor but will change to Pertronix when I have a spare £60 or so!\n<br> \n<br> If you have a posh timing light you can check the advance and dwell angle if running points once your propper dizzy for the job is installed.\n<br> \n<br> Why oh why did everyone go 009 mad 20 or so years ago I will never know.",
+    "lastEdited" : "Tue Mar 20, 2012 6:39 pm"
+  }, {
+    "postId" : "645274",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "645274",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>The splitster wrote:</cite> Why oh why did everyone go 009 mad 20 or so years ago I will never know.\n </div>\n</blockquote> I can tell you exactly why. VW magazines.\n<br> \n<br> The traders gave the mags lots of money in advertising, and they only sold 009 replacement distributors. They gave away free distributors to be put into articles, and the magazines wrote about how good they were.\n<br> \n<br> If it is replacing an old knackered dizzy with worn points, a 009 probably is better (well at least if it is an old one). But a decent vacuum will always be much better.\n<br> \n<br> Also remember in the USA they had vacuum retard dizzys to meet emissions, a 009 is probably better than those as well",
+    "lastEdited" : "Tue Mar 20, 2012 8:40 pm"
+  }, {
+    "postId" : "645288",
+    "author" : {
+      "username" : "quillansmith",
+      "userId" : "645288",
+      "joined" : "Mon Jul 21, 2008 7:18 pm",
+      "profileRank" : "Registered user",
+      "location" : "Colchester",
+      "postCount" : "187",
+      "avatarPath" : "./download/file.php%3Favatar=27108_1328042313.jpg"
+    },
+    "content" : "What i do find odd is the engine bay thread shows 99% of engines with twin carbs using vacuum less distributers? \n<br> Will be on the look out for a vacuum distributor with electronic ignition at the volksworld show.\n<br> \n<br> Any recomendations dont realy want the hassle of points again? Petronics or stick with Bosch?",
+    "lastEdited" : "Tue Mar 20, 2012 9:02 pm"
+  } ]
+}

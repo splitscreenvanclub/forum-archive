@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "15694",
+  "title" : "Samba Sunroof Installation",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=15694",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "107905",
+    "author" : {
+      "username" : "Johnwhite",
+      "userId" : "107905",
+      "joined" : "Mon Jan 23, 2006 7:29 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "<strong class=\"text-strong\"><span style=\"text-decoration:underline\">Samba Sunroof Installation</span>! I am looking for some assistance with the installation of my new sunroof outer material on my samba. I have a trimmer who is willing to take on the task but we require some info on certain things. I am in the Bristol area so if there is anyone out there who could advise me or even better let me have a look at their roof it would be greatly appreciated. You can contact me via email or phone 07971575222. Thanks. John</strong>",
+    "lastEdited" : "Mon Jan 23, 2006 7:42 pm"
+  }, {
+    "postId" : "107910",
+    "author" : {
+      "username" : "groovydubber",
+      "userId" : "107910",
+      "joined" : "Tue Aug 02, 2005 6:21 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brighton",
+      "postCount" : "141",
+      "avatarPath" : null
+    },
+    "content" : "i wonder if the folks at paris beetles would help you? they advertise in volksworld mag and sell ragtops for buses, so maybe their instructions for that kit would cover what you need to know?",
+    "lastEdited" : "Mon Jan 23, 2006 7:55 pm"
+  }, {
+    "postId" : "107912",
+    "author" : {
+      "username" : "Johnwhite",
+      "userId" : "107912",
+      "joined" : "Mon Jan 23, 2006 7:29 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for that, I will give them a call tomorrow to see if they have any idiot proof instuctions.",
+    "lastEdited" : "Mon Jan 23, 2006 8:04 pm"
+  }, {
+    "postId" : "107948",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "107948",
+      "joined" : "Thu Apr 17, 2003 9:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "In front of the computer",
+      "postCount" : "1769",
+      "avatarPath" : null
+    },
+    "content" : "John there are good instructions on Vintage bus. And you are more than welcome to have a look at mine. \n<a href=\"http://66.34.72.138/howto/sunroof.html\" class=\"postlink\">http://66.34.72.138/howto/sunroof.html</a>",
+    "lastEdited" : "Mon Jan 23, 2006 9:47 pm"
+  }, {
+    "postId" : "108169",
+    "author" : {
+      "username" : "Johnwhite",
+      "userId" : "108169",
+      "joined" : "Mon Jan 23, 2006 7:29 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for those instructions I have shown them to the trimer and he seems more confident now. If we were to run in to difficulties where abouts are you in case we needed a look at your bus?",
+    "lastEdited" : "Tue Jan 24, 2006 7:41 pm"
+  }, {
+    "postId" : "108187",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "108187",
+      "joined" : "Thu Apr 17, 2003 9:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "In front of the computer",
+      "postCount" : "1769",
+      "avatarPath" : null
+    },
+    "content" : "I am in Trowbridge should be at bristol on the 5th.\n<a href=\"http://www.ssvc.ukshells.co.uk/phpbb/viewtopic.php?t=15440&amp;highlight=bristol\" class=\"postlink\">http://www.ssvc.ukshells.co.uk/phpbb/vi ... ht=bristol</a>",
+    "lastEdited" : "Tue Jan 24, 2006 8:50 pm"
+  }, {
+    "postId" : "108190",
+    "author" : {
+      "username" : "Johnwhite",
+      "userId" : "108190",
+      "joined" : "Mon Jan 23, 2006 7:29 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "Cool I will be in touch if we need to have a look at yours if that is ok! Thanks again for the instructions.",
+    "lastEdited" : "Tue Jan 24, 2006 9:04 pm"
+  } ]
+}

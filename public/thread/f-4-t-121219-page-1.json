@@ -1,0 +1,27 @@
+{
+  "forumId" : "4",
+  "threadId" : "121219",
+  "title" : "Barndoor handbook SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=121219",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=49368e7170f364f1b7da601e18ddd279",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "909468",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "909468",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "Barndoor handbook in German Sept 1954 usable condition £40 posted SOLD",
+    "lastEdited" : "Tue Feb 20, 2018 9:13 am"
+  } ]
+}

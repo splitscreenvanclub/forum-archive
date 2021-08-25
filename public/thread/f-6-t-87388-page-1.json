@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "87388",
+  "title" : "Trouble with steering box... help please!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=87388",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 25,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "673196",
+    "author" : {
+      "username" : "Rasser",
+      "userId" : "673196",
+      "joined" : "Sun Nov 20, 2011 9:03 am",
+      "profileRank" : "Registered user",
+      "location" : "Denmark",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=36078_1322662259.jpg"
+    },
+    "content" : "Ok here goes.....\n<br> \n<br> I have 1966 bus where I have renewed the 2 bushes on the outgoing axle from the steering box. They were installed properly and reamed to fit perfect. After this was done I had much less play in the steering.\n<br> \n<br> But if i adjust the steering at the centerpoint so I have practically zero play/slop in the steering then I can turn the wheels all the way to the right, but when i try to turn the wheels all the way from right to the left (this is all done with the bus on axle stands), then when the steering hits its centerpoint it gets hard and difficult to turn over the center point. Normally this would indicate that you tightened the steeringbox adjustment to hard, so it would bind on the center point - but I only feel the problem when turning the wheels from right to left, which I find really odd! When I have turned the steering past the hard point then the steering feels tight and good, and moves freely as it should. It is also clearly noticeable that the steering has problems when driving, so it is not just felt when on axle stands.\n<br> I therefore have to adjust the steering out a little bit, which means I have to run 10-20mm play at the steering wheel to obtain a steering that runs freely from side to side.\n<br> \n<br> I can´t figure this one put, so any help is much appreciated.\n<br> I am really trying hard to get a superb running bus here, and now this is the very last obstacle I have to overcome to obtain that. I would love to have a steering with no play, without having to spend $$$$ on a steering rack from CE (are there any other options on the market)\n<br> \n<br> When I had the steering apart everything looked fine and I noticed no wear to any of the parts inside.\n<br> \n<br> I am thinking this could be a problem with either the bottom or top bearing that holds the complete worm/steering shaft in place. I can feel no axial slop when trying to move steering wheel up and down, but havent measured it with a dial indicator.",
+    "lastEdited" : "Sun Aug 05, 2012 11:33 am"
+  }, {
+    "postId" : "673197",
+    "author" : {
+      "username" : "SplitScreenN00b",
+      "userId" : "673197",
+      "joined" : "Wed Feb 25, 2009 10:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "417",
+      "avatarPath" : null
+    },
+    "content" : "I don't think it is possible to have a steering box with zero play. I was under the impression that there should be a small amount of play if the box is set up so everything is working smoothly. The adjustment is to remove 'excessive' play as far as I am aware. \n<br> \n<br> If you slacken off the adjustment a little does it still do it?",
+    "lastEdited" : "Sun Aug 05, 2012 11:49 am"
+  }, {
+    "postId" : "673202",
+    "author" : {
+      "username" : "Rasser",
+      "userId" : "673202",
+      "joined" : "Sun Nov 20, 2011 9:03 am",
+      "profileRank" : "Registered user",
+      "location" : "Denmark",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=36078_1322662259.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>SplitScreenN00b wrote:</cite>I don't think it is possible to have a steering box with zero play. I was under the impression that there should be a small amount of play if the box is set up so everything is working smoothly. The adjustment is to remove 'excessive' play as far as I am aware. \n  <br> \n  <br> If you slacken off the adjustment a little does it still do it?\n </div>\n</blockquote> \n<br> No, if I slacken of the adjustment then it is ok, but it leaves me with 10-20 mm steering wheel play.\n<br> \n<br> But I can feel that something is not right, and I can adjust it perfect with no slop in it, but unfortunately this leaves me with a binding steering when turning the steering from right to left over the center point - but ONLY when going from right to left! Left to right feels perfect, and it moves freely and without slop. This is what make me think something is not right!\n<br> \n<br> I am very close to having no play at all in my steering, I just need a little help at getting through the last problems on my way, and I don´t intend to settle with what I have right now. I KNOW it can be better - even with stock parts!.\n<br> \n<br> I personally don´t believe that VW´s were built so sloppy that they would have play in the steering box when leaving the factory, but I sometimes see people saying that.... for whatever reason I don´t know?\n<br> \n<br> Nothing personal, but I just feel that a lot of people mistakingly accuse the vw bus for being sloppy built (especially the steering). I don´t think that is the case, but I can see it being a usefull excuse if you can´t get it running properly. In general I just think it is down to missing maintenance of worn out parts. Sorry for making it sound so personal, it´s really not. Just my observation in general.\n<br> \n<br> But thanks for the advice anyway \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" width=\"15\" height=\"15\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Sun Aug 05, 2012 12:29 pm"
+  }, {
+    "postId" : "673203",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "673203",
+      "joined" : "Thu Apr 01, 2004 9:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "hull the new venice",
+      "postCount" : "717",
+      "avatarPath" : null
+    },
+    "content" : "to adjust the steering box. you adjust until you just have a slight drag right through the turning circle and back it off 1/4 turn. it sounds like you are over tightening it. it will never match up with your modern car. 10 to 20mm at the steering wheel is next to nothing in the steering box.\n<br> \n<br> mark",
+    "lastEdited" : "Sun Aug 05, 2012 12:40 pm"
+  }, {
+    "postId" : "673204",
+    "author" : {
+      "username" : "Rasser",
+      "userId" : "673204",
+      "joined" : "Sun Nov 20, 2011 9:03 am",
+      "profileRank" : "Registered user",
+      "location" : "Denmark",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=36078_1322662259.jpg"
+    },
+    "content" : "I have adjusted lots of steering boxes, and always adjusted until tension was felt at the center point (always on axle stands, turning the wheels from one side to the other to test the tension), and then backed off just until the tension was gone. Always worked perfect, without any slop. This one acts different, and I can't figure out what is wrong. \n<br> \n<br> Backing of 1/4 is a lot of slop IMHO",
+    "lastEdited" : "Sun Aug 05, 2012 12:53 pm"
+  }, {
+    "postId" : "673229",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "673229",
+      "joined" : "Thu Apr 01, 2004 9:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "hull the new venice",
+      "postCount" : "717",
+      "avatarPath" : null
+    },
+    "content" : "each to their own.\n<br> \n<br> you will have to adjust it so it turns both ways. then check for play. axial play in the roller, axial play in worm and play between the roller and worm. check that the steering box is torqued up correctly and not moving in its mountings.\n<br> \n<br> mark",
+    "lastEdited" : "Sun Aug 05, 2012 4:35 pm"
+  }, {
+    "postId" : "673230",
+    "author" : {
+      "username" : "Rasser",
+      "userId" : "673230",
+      "joined" : "Sun Nov 20, 2011 9:03 am",
+      "profileRank" : "Registered user",
+      "location" : "Denmark",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=36078_1322662259.jpg"
+    },
+    "content" : "I'm not sure you understand my problem correctly?\n<br> \n<br> Turning the steering housing to the right is ok. Turning the steering back to the left makes it bind. It should theoretically be the same with the same adjustment setting. It's not!\n<br> It runs through exactly the same point with the same peg, so something is not right inside the steering housing. And I would like some pointers as to where to look. Top and bottom bearings? Or any other ideas?\n<br> \n<br> I am sure you could avoid the binding by turning the adjustment further back and thereby loosening up the steering worm/peg. But I am almost certain that ZF and the other steering box manufacturers didn't do that back in the day when they had a steering box with problems. I would like to fix this and have it running like new again - instead of just loosening up the adjustment in order to avoid the problem. \n<br> \n<br> I may be aiming for perfection, but I would really like to get the last little piece of the puzzle solved. Everything else runs perfect, do just need this solved. \n<br> \n<br> Thanks",
+    "lastEdited" : "Sun Aug 05, 2012 4:46 pm"
+  }, {
+    "postId" : "673232",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "673232",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "Is the steering box centered properly? I dont know if its possible to get it wrong but is the steering straight when the steering box is exactly in it's centre position? Obviously the steering should be just about to bind in the centre when adjusted right but have play when turned either way (the bentley manual makes some sort of reference to this)",
+    "lastEdited" : "Sun Aug 05, 2012 5:12 pm"
+  }, {
+    "postId" : "673235",
+    "author" : {
+      "username" : "Rasser",
+      "userId" : "673235",
+      "joined" : "Sun Nov 20, 2011 9:03 am",
+      "profileRank" : "Registered user",
+      "location" : "Denmark",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=36078_1322662259.jpg"
+    },
+    "content" : "As mentioned, I have it on axle stands and move the wheels from left to right while adjusting the steering box. Tightening little by little, and moving the wheels to make sure it always moves across the center point. It is always tighter on the center point of a worm/peg type2 box, cause of the axis/curve the peg follows. \n<br> And yes the center point happens to be exactly when the steering wheel is pointing \"straight ahead\". I tracked the wheels according to this, so the steering wheel and tires ate correctly aligned. If I tighten the adjustment up fully, then there is no play at all, and the bus drives like on rails... But the steering is stiffened up, and that makes for a very unpleasant ride. \n<br> \n<br> And no, the steering box is not loose or anything like that. I know it's a small thing and most of you guys wouldn't even bother trying to solve the problem, you would just back the adjuster a little but back and drive without worries. Sorry, that's not me, can't help it \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";-)\" title=\"Wink\">",
+    "lastEdited" : "Sun Aug 05, 2012 5:26 pm"
+  }, {
+    "postId" : "673245",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "673245",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "Have you removed the drag link so you're only operating the box itself and not the wheels etc? Maybe something else is tight?? Steering damper etc??",
+    "lastEdited" : "Sun Aug 05, 2012 6:30 pm"
+  }, {
+    "postId" : "673246",
+    "author" : {
+      "username" : "Rasser",
+      "userId" : "673246",
+      "joined" : "Sun Nov 20, 2011 9:03 am",
+      "profileRank" : "Registered user",
+      "location" : "Denmark",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=36078_1322662259.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>matt d wrote:</cite>Have you removed the drag link so you're only operating the box itself and not the wheels etc? Maybe something else is tight?? Steering damper etc??\n </div>\n</blockquote> yep tried that as well. It´s in the steering box somewhere.\n<br> \n<br> Only thing I can think of is when you turn left the worm is forced downwards when trying to move the peg, this puts all the force on the bottom bearing, and when turning right it´s the upper bearing.\n<br> If there were some play axial in the bearings supporting the steering axle and worm (which the steering wheel is connected to), or if these bearings were bad - then possible this could be the cause... but I am only guessing!\n<br> On the bottom of the steering housing the bearing preload is adjusted with the use of shims - maybe I have to disassemble this and check the bearings.\n<br> \n<br> Is it possible to get new bearings and shims anywhere, if needed?",
+    "lastEdited" : "Sun Aug 05, 2012 6:51 pm"
+  }, {
+    "postId" : "673263",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "673263",
+      "joined" : "Thu Apr 01, 2004 9:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "hull the new venice",
+      "postCount" : "717",
+      "avatarPath" : null
+    },
+    "content" : "have you tried adjusting the steering box with the wheel hard over on left? \n<br> \n<br> mark",
+    "lastEdited" : "Sun Aug 05, 2012 8:02 pm"
+  }, {
+    "postId" : "673266",
+    "author" : {
+      "username" : "Rasser",
+      "userId" : "673266",
+      "joined" : "Sun Nov 20, 2011 9:03 am",
+      "profileRank" : "Registered user",
+      "location" : "Denmark",
+      "postCount" : "92",
+      "avatarPath" : "./download/file.php%3Favatar=36078_1322662259.jpg"
+    },
+    "content" : "No, that doesn´t make any sense, because at full left (or right) the steering peg is almost out of the worm = lots of play. And this will lock the steering in this outer position. Or did I misunderstand you?",
+    "lastEdited" : "Sun Aug 05, 2012 8:09 pm"
+  }, {
+    "postId" : "673282",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "673282",
+      "joined" : "Thu Apr 01, 2004 9:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "hull the new venice",
+      "postCount" : "717",
+      "avatarPath" : null
+    },
+    "content" : "it makes no sense but its right \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\">\n<br> \n<br> luckily i have a link to back the weirdness up. i thought you would have tried this reading the previous posts and ive put this link up quite a few times, then its on to play in the worm and roller.\n<br> \n<br> mark \n<br> \n<br> \n<a href=\"http://www.vw-resource.com/steering_box_adjustment.html\" class=\"postlink\">http://www.vw-resource.com/steering_box_adjustment.html</a>",
+    "lastEdited" : "Sun Aug 05, 2012 8:59 pm"
+  }, {
+    "postId" : "673288",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "673288",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>mrico1964 wrote:</cite>it makes no sense but its right \n  <img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\">\n  <br> \n  <br> luckily i have a link to back the weirdness up. i thought you would have tried this reading the previous posts and ive put this link up quite a few times, then its on to play in the worm and roller.\n  <br> \n  <br> mark \n  <br> \n  <br> \n  <a href=\"http://www.vw-resource.com/steering_box_adjustment.html\" class=\"postlink\">http://www.vw-resource.com/steering_box_adjustment.html</a>\n </div>\n</blockquote> Are you meaning adjust the box at its tightest point? Sounds like the worm is worn to me but I have no experience of working on them.",
+    "lastEdited" : "Sun Aug 05, 2012 9:16 pm"
+  } ]
+}

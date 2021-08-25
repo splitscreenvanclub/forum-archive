@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "78267",
+  "title" : "Indicator stalk smoking!!!!!!!!!!!!! PICS ADDED!!!!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=78267",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "602777",
+    "author" : {
+      "username" : "Tom1964bus",
+      "userId" : "602777",
+      "joined" : "Fri Jun 06, 2008 10:45 am",
+      "profileRank" : "Registered user",
+      "location" : "Measham, derbyshire UK",
+      "postCount" : "475",
+      "avatarPath" : null
+    },
+    "content" : "when the ignition in my van is on the flasher relay is clicking like mad! which didnt effect the actual indicators, but when pulling onto the motorway with the indicator on for a while the stalk started smoking!! and the indicator wouldnt cancel! i can see there is a wire not attached ( looks to be snipped) but bare in mind my bus runs a modern square plastic 3 pin flasher relay? where should the brown wire go? and why is my relay clicking its head off!?\n<br> \n<br> thanks, Tom.\n<br> \n<br> \n<img src=\"http://i294.photobucket.com/albums/mm99/Tom1964bus/IMG00202-20110801-1616.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://i294.photobucket.com/albums/mm99/Tom1964bus/IMG00208-20110817-0930.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> My Dad got me this from work its off a CAT digger i think but is there any reason i cant fit this as a temp measure until i can afford another genuine stalk?\n<br> \n<br> \n<img src=\"http://i294.photobucket.com/albums/mm99/Tom1964bus/IMG00207-20110817-0930.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue Aug 16, 2011 8:04 pm"
+  }, {
+    "postId" : "602797",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "602797",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15808",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://www.vintagebus.com/\" class=\"postlink\">http://www.vintagebus.com/</a>\n<br> wiring diagrams on drop down on LHS key and diagram and fuse block diagrams on wiring diagram for 1962 65 USA bus,,,\n<br> \n<br> turn indicator switch item G has six wires (three split into two) giving twelve wires (or nine)!\n<br> Flasher relay item J2 has three wires\n<br> \n<br> but i see mention of three wire and six wire indicators so i do not know for sure...was off to check my 64 but that is a 64RHD",
+    "lastEdited" : "Tue Aug 16, 2011 9:05 pm"
+  }, {
+    "postId" : "603635",
+    "author" : {
+      "username" : "Tom1964bus",
+      "userId" : "603635",
+      "joined" : "Fri Jun 06, 2008 10:45 am",
+      "profileRank" : "Registered user",
+      "location" : "Measham, derbyshire UK",
+      "postCount" : "475",
+      "avatarPath" : null
+    },
+    "content" : "Anyone???? Getting desperate now!",
+    "lastEdited" : "Sun Aug 21, 2011 7:46 pm"
+  }, {
+    "postId" : "604194",
+    "author" : {
+      "username" : "beetleseb",
+      "userId" : "604194",
+      "joined" : "Tue Oct 13, 2009 5:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cheltenham",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "Could be that the switch is earthing the feed from the relay. Mine did a sim thing (sem bus)\n<br> \n<br> Try just running it with a simple switch to see\n<br> \n<br> Seb",
+    "lastEdited" : "Wed Aug 24, 2011 8:08 pm"
+  } ]
+}

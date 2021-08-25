@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "123039",
+  "title" : "Splitscreen front wheel bearing adjustment",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123039",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=bf5781ef9864b248393904b4cd17280c",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "919972",
+    "author" : {
+      "username" : "dougall up",
+      "userId" : "919972",
+      "joined" : "Sun Nov 21, 2010 10:55 am",
+      "profileRank" : "SSVC Member",
+      "location" : "tewkesbury",
+      "postCount" : "99",
+      "avatarPath" : null
+    },
+    "content" : "The front wheel bearings are difficult to adjust, the lock tab is always moving as I tighten it, \n<br> \n<br> are the threads on the Bay front bearing stub axle the same ? if so can I use the bearing locking clamp from the Bay?\n<br> \n<br> thanks Doug.",
+    "lastEdited" : "Wed Feb 20, 2019 7:36 pm"
+  }, {
+    "postId" : "919973",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "919973",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1067",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "What lock tabs are you using?\n<br> \n<br> The tab should have a 'tongue' that sticks in to the hole in the centre of the tab. The tongue rides in the groove on the spindle to prevent it totating as you tighten the outer lock nut.\n<br> \n<br> \n<a href=\"https://www.vwheritage.com/catalog/product/view/id/25382/s/211405681-front-hub-nut-lock-plate-vw-spare/category/4212/\" class=\"postlink\">https://www.vwheritage.com/catalog/prod ... gory/4212/</a>",
+    "lastEdited" : "Wed Feb 20, 2019 8:22 pm"
+  }, {
+    "postId" : "919976",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "919976",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=919972&amp;sid=bf5781ef9864b248393904b4cd17280c#p919972\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=34848&amp;sid=bf5781ef9864b248393904b4cd17280c\">dougall up</a> wrote: <a href=\"./viewtopic.php?p=919972&amp;sid=bf5781ef9864b248393904b4cd17280c#p919972\" data-post-id=\"919972\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Wed Feb 20, 2019 7:36 pm</span></cite> The front wheel bearings are difficult to adjust, the lock tab is always moving as I tighten it, \n  <br> \n  <br> are the threads on the Bay front bearing stub axle the same ? if so can I use the bearing locking clamp from the Bay?\n  <br> \n  <br> thanks Doug. \n </div>\n</blockquote> Yes, assuming you're running late spindles. Bay nuts are a nice upgrade.",
+    "lastEdited" : "Wed Feb 20, 2019 10:53 pm"
+  }, {
+    "postId" : "919980",
+    "author" : {
+      "username" : "dougall up",
+      "userId" : "919980",
+      "joined" : "Sun Nov 21, 2010 10:55 am",
+      "profileRank" : "SSVC Member",
+      "location" : "tewkesbury",
+      "postCount" : "99",
+      "avatarPath" : null
+    },
+    "content" : "How late? mine is a 1966",
+    "lastEdited" : "Thu Feb 21, 2019 12:05 am"
+  }, {
+    "postId" : "919991",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "919991",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "64-",
+    "lastEdited" : "Thu Feb 21, 2019 8:49 am"
+  }, {
+    "postId" : "920047",
+    "author" : {
+      "username" : "dougall up",
+      "userId" : "920047",
+      "joined" : "Sun Nov 21, 2010 10:55 am",
+      "profileRank" : "SSVC Member",
+      "location" : "tewkesbury",
+      "postCount" : "99",
+      "avatarPath" : null
+    },
+    "content" : "Thats the information i needed , Thanks , Doug",
+    "lastEdited" : "Sat Feb 23, 2019 10:17 pm"
+  }, {
+    "postId" : "920048",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920048",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Be aware that the repro locking wheel nuts for late spindles are REALLY bad quality. Always check the grub screws tighten up properly and don't just bind in the recess.",
+    "lastEdited" : "Sat Feb 23, 2019 10:27 pm"
+  }, {
+    "postId" : "920089",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "920089",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "I bought some auto jumble Bay nuts for mine.... so much easier \n<img alt=\"🤙\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f919.svgz\">",
+    "lastEdited" : "Sun Feb 24, 2019 10:28 pm"
+  } ]
+}

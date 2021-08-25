@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "111100",
+  "title" : "Full fuel pipe replacement and upgrade",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111100",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "839229",
+    "author" : {
+      "username" : "All Torque",
+      "userId" : "839229",
+      "joined" : "Sat Jun 20, 2015 10:11 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "Hi Guys, I'm new here, please be gentle!\n<br>\n<br>Following on from all the fires you hear and read about I wish to replace all my fuel lines, from tank to carbs etc. and naturally I'm going for the SAE J30 R9 Codan stuff.\n<br>\n<br>Questions as follows. The feed directly from the tank, can this be accessed easily from underneath to attach the new pipe or is it an engine out job to gain access? Does anyone have a link to share featuring the whole or some of the process?\n<br>\n<br>Also, I'm running 2 Dellorto carbs which have larger bore feed inlets than the tank, pump etc., how do you guys usually and safely get around this challenge? I'm reading differing views.\n<br>\n<br>Thanks in advance\n<br>AT",
+    "lastEdited" : "Sun Jun 21, 2015 10:28 am"
+  }, {
+    "postId" : "839230",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "839230",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7398",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Fit 8mm feed and new washer from the tank through fuel cut off valve alloy bodied ceramic filter to electric pump. Pressure regulator to T...8mm all through. .\n<br>Not what I did but what I will do next time.\n<br>I have mechanical pimp and had high pressure and had to shorten shaft.\n<br>Have 8mm and stepper to 5.6 for mech pump..\n<br>Next time..next time ..",
+    "lastEdited" : "Sun Jun 21, 2015 10:37 am"
+  }, {
+    "postId" : "839235",
+    "author" : {
+      "username" : "All Torque",
+      "userId" : "839235",
+      "joined" : "Sat Jun 20, 2015 10:11 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "Thanks 21f, I want to retain the stock pump as I would like to keep my engine bay looking stock(ish).\n<br>\n<br>Fuel cut off valve is a great shout, but where would it best be fitted? If I fitted a mechanical switch I'd have to turn it off, so assuming the worse and my bus is now on fire I won't want to venture into the engine bay to activate it. If I went down the electric route, again assuming the worse, I'm on fire, I run the risk of the power feed or the pump already having melted and rendering the 'on' switch useless.\n<br>\n<br>I do appreciate there are a number of fire suppression kits available, however I'd like to stay stock hence this important upgrade.",
+    "lastEdited" : "Sun Jun 21, 2015 11:04 am"
+  }, {
+    "postId" : "839240",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "839240",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7398",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Sent PM.\n<br>Have valve and filter not in engine bay...",
+    "lastEdited" : "Sun Jun 21, 2015 11:25 am"
+  }, {
+    "postId" : "839709",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "839709",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1317",
+      "avatarPath" : null
+    },
+    "content" : "You can use a plastic in line filter to step up...or down in fuel pipe size as the inlet/outlet is stepped for 6mm and 8mm. Keeps it simple \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Wed Jun 24, 2015 8:03 pm"
+  }, {
+    "postId" : "839735",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "839735",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2413",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1337002549.jpg"
+    },
+    "content" : "Use your mechanical pump and fit a filterking which is a pressure regulator and fuel filter no need for an electronic pump or to shorten the rod, what a dumb thing to do",
+    "lastEdited" : "Wed Jun 24, 2015 10:04 pm"
+  }, {
+    "postId" : "839741",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "839741",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7398",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "mmm that is a good idea. ..but..\n<br>I do not like filters on the engine bay. ..\n<br>But could be a reasonable excuse investigation ahead. .\n<br>Cheers. .\n<br>Most good ideas are simple. ..",
+    "lastEdited" : "Wed Jun 24, 2015 10:31 pm"
+  } ]
+}

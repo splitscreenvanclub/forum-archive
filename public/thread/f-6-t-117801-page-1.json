@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "117801",
+  "title" : "Long panel replacement",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=117801",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=bfa983b61315bb3f4617956a2e1ca0cc",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "886541",
+    "author" : {
+      "username" : "PIPKIN",
+      "userId" : "886541",
+      "joined" : "Thu Jul 03, 2008 6:58 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "314",
+      "avatarPath" : null
+    },
+    "content" : "Hi folks,\n<br> \n<br> Will be starting to remove the long panel on my bus in preparation for a replacement panel. All seems o be logical with exception of the section that sits between the dogleg and B pillar, do I need to remove and replace the dog leg or is there a technique to remove the long panel without the need to butcher the dogleg?\n<br> \n<br> A links to your build threads would be helpful.\n<br> \n<br> Regards\n<br> \n<br> Paul",
+    "lastEdited" : "Mon Oct 31, 2016 7:04 pm"
+  }, {
+    "postId" : "886553",
+    "author" : {
+      "username" : "george21",
+      "userId" : "886553",
+      "joined" : "Tue Jul 06, 2010 9:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "389",
+      "avatarPath" : null
+    },
+    "content" : "Cut it short 10mm or so there. I don't think there is any other way",
+    "lastEdited" : "Mon Oct 31, 2016 8:44 pm"
+  } ]
+}

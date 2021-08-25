@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "102326",
+  "title" : "Help Please........Rear Spring Plate Setting",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=102326",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "780330",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "780330",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "This weekends job is to raise the bus up a bit (I must of eat too many pies \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> ).\n<br> \n<br> In all the years of owning a VW, I have to admit that I have never adjusted spring plates before \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\"> \n<br> \n<br> I guess it's never too late to learn a new skill ? \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> \n<br> \n<br> I need to take the spring plate off, rotate it, and reassemble (wow, that's sounds quite easy when I say it quickly \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> ).\n<br> \n<br> I have 2 questions.............\n<br> \n<br> 1. How do I hold the torsion bar in place whilst pulling the spring plate off ?? (So that I only have to worry about the outer splines).\n<br> \n<br> 2. What is the conversion between number of splines and distance moved ??\n<br> \n<br> I need to raise the bus by about 2\", so how many outer splines does this mean ???\n<br> \n<br> Is there anything else I need to be aware of when doing this job ?? (As I have a unique skill of messing things up \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> ).\n<br> \n<br> Thanks,\n<br> \n<br> Phil. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Thu Apr 17, 2014 7:09 pm"
+  }, {
+    "postId" : "780333",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "780333",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "phil, there is no easy way to get it out and leave the torsion bar in place.\n<br> \n<br> what i usually do is get a sprit level and score a horizontal line across the spring plate surround and the torsion bar end. Then remove, the spring plate and the torsion bar. Whack the end to get the torsion bar out and clean and regrease it, then put it back into the tube so that the scored line is level. You also have a datum to adjust up or down from, for the outer splines then. \n<br> \n<br> However, I think that 2\" is going to require a combination of inners and outers. maybe +9 / -9\n<br> \n<br> See this matrix for guidance. (Its for beetles but accurate enough for buses as well.)\n<br> \n<br> \n<a href=\"http://www.volksworld.com/tech-guides/technical-information/vw-rear-suspension-adjustment-chart/\" class=\"postlink\">http://www.volksworld.com/tech-guides/t ... ent-chart/</a>\n<br> \n<br> By the way, whats with raising it up? Lower the front to match if it's sagging a bit!! \n<img class=\"smilies\" src=\"./images/smilies/icon_twisted.gif\" width=\"15\" height=\"15\" alt=\":twisted:\" title=\"Twisted Evil\">",
+    "lastEdited" : "Thu Apr 17, 2014 7:30 pm"
+  }, {
+    "postId" : "780339",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "780339",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Monkey.\n<br> \n<br> Looking at the Volksworld link, 2\" = 1 x outer spline \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> I have adjustable spring plates, so can do fine adjustment with them.\n<br> \n<br> There are 2 reasons for my lifting job.....\n<br> \n<br> My front tyres rub when two ride up front (and I hit a bump).\n<br> \n<br> And I'm reducing the profile of my rear tyres (which reduces the radius by 1\").\n<br> \n<br> Cheers,\n<br> \n<br> Phil.",
+    "lastEdited" : "Thu Apr 17, 2014 8:17 pm"
+  }, {
+    "postId" : "780340",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "780340",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>OxonPhil wrote:</cite>Thanks Monkey.\n  <br> \n  <br> Looking at the Volksworld link, 2\" = 1 x outer spline \n  <img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n  <br> \n  <br> \n  <br> Cheers,\n  <br> \n  <br> Phil.\n </div>\n</blockquote> Yeah, next line down, lol!\n<br> \n<br> Good luck.",
+    "lastEdited" : "Thu Apr 17, 2014 8:21 pm"
+  }, {
+    "postId" : "780412",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "780412",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "So after loads of stress, and pulling the whole torsion tube out by mistake \n<img class=\"smilies\" src=\"./images/smilies/icon_cry.gif\" width=\"15\" height=\"15\" alt=\":cry:\" title=\"Cry\"> (I knew I would \n<img class=\"smilies\" src=\"./images/smilies/icon_cry.gif\" width=\"15\" height=\"15\" alt=\":cry:\" title=\"Cry\"> ), I have got it back together, and if anything is now lower \n<img class=\"smilies\" src=\"./images/smilies/icon_twisted.gif\" width=\"15\" height=\"15\" alt=\":twisted:\" title=\"Twisted Evil\"> \n<br> \n<br> So the obvious question I should have asked yesterday is which way to turn the spring plate ??\n<br> \n<br> I have turned it downwards, but this doesn't have seemed to have done the job !\n<br> \n<br> Any tips please ??\n<br> \n<br> Phil. \n<img class=\"smilies\" src=\"./images/smilies/icon_cry.gif\" width=\"15\" height=\"15\" alt=\":cry:\" title=\"Cry\">",
+    "lastEdited" : "Fri Apr 18, 2014 3:08 pm"
+  }, {
+    "postId" : "780543",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "780543",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "Somehow I turned the inner spline anticlockwise, and the outer clockwise, and they cancelled each other out \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br> \n<br> Had another go today, and perfect, 2\" up each side \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> \n<br> Thanks for your help yesterday Monkey \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> Phil. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sat Apr 19, 2014 8:12 pm"
+  } ]
+}

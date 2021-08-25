@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "124487",
+  "title" : "Bumpers",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124487",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=08006a232882faac9c27428b91538e35",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928729",
+    "author" : {
+      "username" : "philsparks",
+      "userId" : "928729",
+      "joined" : "Wed May 21, 2014 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new forset",
+      "postCount" : "339",
+      "avatarPath" : null
+    },
+    "content" : "Can I convert my euro blade bumper into a towel rail type one by buying the parts and bolting them on, or am I missing something\n<br> \n<br> Thanks\n<br> Phil \n<br> \n<br> Sent from my HRY-LX1 using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Sun Apr 05, 2020 2:36 pm"
+  }, {
+    "postId" : "928741",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "928741",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3540",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "You can do this Phil but be careful as drilling the holes in the right places can be a tad challenging! I've just built up a US spec rear bumper using new parts from Schofields. The over-riders and towel rails (WW) are spot on for fit and quality. I used the HD slash cut rear bumper which is the right profile for the other parts. To fit them it is best to fit the bumper to the bus and then mark where the over-riders will go on - about 35mm from the engine lid edge to the inside edge of the over-rider. Then mock up where the towel rails will go. Carefully mark where the holes will be drilled - use a 10mm drill bit to allow for some movement. Paint the parts and fit them using thin rubber beading where the over-riders touch the bumper or you will cut through the paint and rust will start. Front ones are similar but need a lot more mocking up and the correct fitments, especially distance tubes. I would look for good US spec bumpers rather than cut into good Euro spec stuff!",
+    "lastEdited" : "Mon Apr 06, 2020 8:21 am"
+  }, {
+    "postId" : "928769",
+    "author" : {
+      "username" : "philsparks",
+      "userId" : "928769",
+      "joined" : "Wed May 21, 2014 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new forset",
+      "postCount" : "339",
+      "avatarPath" : null
+    },
+    "content" : "OK, I have been looking, there are new ones out there.\n<br> \n<br> Thanks\n<br> \n<br> \n<br> Sent from my HRY-LX1 using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Mon Apr 06, 2020 7:38 pm"
+  } ]
+}

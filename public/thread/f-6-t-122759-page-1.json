@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "122759",
+  "title" : "Speedo doesn't work",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122759",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=c0f557e6885cb5402cad0e44f6facb54",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "917532",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "917532",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Original speedo fitted, new cable but no reading when driving. Removed cable from hub, connected electric drill to test and needle moves to about 30mph, re-connect to hub no reading when driving, though odometer does move. Any ideas?",
+    "lastEdited" : "Sun Nov 18, 2018 10:42 pm"
+  }, {
+    "postId" : "917577",
+    "author" : {
+      "username" : "malum",
+      "userId" : "917577",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "557",
+      "avatarPath" : null
+    },
+    "content" : "How fast is the drill spinning? If it's quite speedy then the needle should be off the scale. You can spin it by hand and get up to 30mph.\n<br> \n<br> They are quite easy to take apart so you could have a look inside. The needle mechanism and the odometer are separate.",
+    "lastEdited" : "Tue Nov 20, 2018 10:39 am"
+  }, {
+    "postId" : "917583",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "917583",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Looks like I'll have to take it apart then as drill was full speed and only got 30mph",
+    "lastEdited" : "Tue Nov 20, 2018 9:34 pm"
+  } ]
+}

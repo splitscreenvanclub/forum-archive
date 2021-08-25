@@ -1,0 +1,63 @@
+{
+  "forumId" : "5",
+  "threadId" : "115115",
+  "title" : "Deluxe Chrome Speedo Trim",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115115",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868125",
+    "author" : {
+      "username" : "Astronought",
+      "userId" : "868125",
+      "joined" : "Sun Sep 04, 2005 10:19 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "235",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> I'm looking for an original chrome speedo trim for a deluxe bus, or a good quality repro.\n<br>\n<br>I could also do with a 2 point aerial.\n<br>\n<br>Thanks",
+    "lastEdited" : "Sat Mar 19, 2016 2:05 pm"
+  }, {
+    "postId" : "868180",
+    "author" : {
+      "username" : "RON SMITH",
+      "userId" : "868180",
+      "joined" : "Wed Sep 02, 2009 10:10 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Andover, Hants",
+      "postCount" : "1213",
+      "avatarPath" : "./download/file.php%3Favatar=33498_1323473225.jpg"
+    },
+    "content" : "Think there was some on eBay",
+    "lastEdited" : "Sun Mar 20, 2016 7:05 am"
+  }, {
+    "postId" : "868181",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "868181",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "2593",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "I bought a repro one from AHS which seems to be ok.",
+    "lastEdited" : "Sun Mar 20, 2016 7:50 am"
+  }, {
+    "postId" : "868964",
+    "author" : {
+      "username" : "Astronought",
+      "userId" : "868964",
+      "joined" : "Sun Sep 04, 2005 10:19 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "235",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>rusty1962 wrote:</cite>I bought a repro one from AHS which seems to be ok.\n </div>\n</blockquote>\n<br>\n<br>Hi,\n<br> Thanks for the response, I'm going to try to hang out for an OG one.\n<br>\n<br>Cheers Anyway",
+    "lastEdited" : "Sun Mar 27, 2016 1:51 pm"
+  } ]
+}

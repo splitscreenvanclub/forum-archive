@@ -1,0 +1,89 @@
+{
+  "forumId" : "49",
+  "threadId" : "86358",
+  "title" : "Starting from scratch......New Interior",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=86358",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "665753",
+    "author" : {
+      "username" : "63 Split",
+      "userId" : "665753",
+      "joined" : "Fri Jun 27, 2003 1:19 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nantwich",
+      "postCount" : "180",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br>\n<br>Looking for some advice of building an interior from scratch. At the moment there is nothing in the van. I just want 2 bench seats with a table between that drops down to make a bed. I'm wondering what the best way to do this. Should I build the frame out of wood, or maybe use Aluminium. The link below looks like a nice solution to easily build what I need, then screw the wood panels to this, which will add more strength to it. However with it being on an inch wide would it be strong enough? I could put plenty of vertical connections in support the horizontal lengths.\n<br>\n<br>I could buy stronger Aluminium (2inch box section), but it does not have the easyfix option. Any ideal how I could join aluminium box sections together - pop rivet??\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.aluminiumwarehouse.co.uk/EasyFix_Tube_Connectors/c180/index.html\">http://www.aluminiumwarehouse.co.uk/Eas ... index.html</a>\n<!-- m -->\n<br>\n<br>Also does anyone have any plans / blueprints I could follow?\n<br>\n<br>Any help greatly received.\n<br>\n<br>Cheers",
+    "lastEdited" : "Wed Jun 27, 2012 10:22 am"
+  }, {
+    "postId" : "665781",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "665781",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "3930",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Built mine from oak faced ply and screwed and glued, works well, read loads of books to work out what we needed 1st, box section sounds good \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Wed Jun 27, 2012 1:14 pm"
+  }, {
+    "postId" : "665996",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "665996",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "Check out my thread just Down from this one. I just used 12mm ply to build cabinets and then bought a couple of large rolls of veneer to cut to size, glue on and trim. You don't need to be a cabinet maker to get good results with this. It's quite tricky scribing things in to fit the bus but is fun to do and very satisfying. I just made it up as I went along, no plans. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Thu Jun 28, 2012 12:58 pm"
+  }, {
+    "postId" : "666015",
+    "author" : {
+      "username" : "Thompster",
+      "userId" : "666015",
+      "joined" : "Sun Oct 26, 2008 8:55 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Guildford",
+      "postCount" : "588",
+      "avatarPath" : "./download/file.php%3Favatar=31274_1339068287.jpg"
+    },
+    "content" : "I used aluminium tubing also, but ended up riveting!\n<br>\n<br>With hindsight I'd use thinner plywood if I did it again! Keep teh weight down even further...But its nice'n solid...Kids jump up and down everywhere and it aint ever breakin!\n<br>\n<br>See my video : [youtube]http://www.youtube.com/watch?v=Q3vGRn3Dnbs[/youtube]",
+    "lastEdited" : "Thu Jun 28, 2012 2:56 pm"
+  }, {
+    "postId" : "666088",
+    "author" : {
+      "username" : "63 Split",
+      "userId" : "666088",
+      "joined" : "Fri Jun 27, 2003 1:19 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nantwich",
+      "postCount" : "180",
+      "avatarPath" : null
+    },
+    "content" : "Matt - your interior looks great....well done. Not sure my woodworking skills would produce the same results:) For the frame you made to cover in the 12mm ply - what did you use? Also can you let me know where is a good place to get the veneer.\n<br>\n<br>Thompster - what size Ali box did you use. Is 25mm strong enough? Also were the pop rivets not protruding when you went to fit the Plywood, or did you grind them down?\n<br>\n<br>Sorry for all the questions.....",
+    "lastEdited" : "Thu Jun 28, 2012 9:12 pm"
+  }, {
+    "postId" : "666364",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "666364",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "I used just a 2x1 timber batten where I had to but much of the ply was drilled, glued and screwed directly. The veneer covers any rough or splintered looking edges. \n<br>The veneer was bought off an eBay shop in the form of a large roll. If youre not happy with any edges you can buy some trims and stick them on as I did. My interior is fitted in sections and will come out as individual units within half an hour if I ever need it to. \n<br>I don't really see the point in making an aluminium frame.",
+    "lastEdited" : "Sat Jun 30, 2012 8:40 am"
+  } ]
+}

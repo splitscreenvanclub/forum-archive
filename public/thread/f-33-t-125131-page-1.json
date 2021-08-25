@@ -1,0 +1,27 @@
+{
+  "forumId" : "33",
+  "threadId" : "125131",
+  "title" : "Bus PRICING on ads",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=125131",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=6eb295b2ce5c0572359d27249eb251e5",
+    "label" : "Pointless Bitching"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932166",
+    "author" : {
+      "username" : "Le Counte de JAYFOR",
+      "userId" : "932166",
+      "joined" : "Mon Jul 04, 2005 10:01 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Normandie/Londres",
+      "postCount" : "8796",
+      "avatarPath" : null
+    },
+    "content" : "Is it possible for everyone selling a bus to put the price in the heading? ie \" 1966 Westy RHD £18000.00\". \n<br> \n<br> That way I don't have to open EVERY SINGLE post to see if its in my budget or not. Just an observation.",
+    "lastEdited" : "Wed Sep 09, 2020 3:59 pm"
+  } ]
+}

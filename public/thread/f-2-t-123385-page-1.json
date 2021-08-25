@@ -1,0 +1,79 @@
+{
+  "forumId" : "2",
+  "threadId" : "123385",
+  "title" : "Polo engine",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123385",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=d46921d52292019f8d84e2f9ab50630b",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "922177",
+    "author" : {
+      "username" : "winnie the splitz",
+      "userId" : "922177",
+      "joined" : "Wed Feb 14, 2007 10:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "maidenhead",
+      "postCount" : "297",
+      "avatarPath" : "./download/file.php%3Favatar=4445_1517240198.png"
+    },
+    "content" : "Hi All,\n<br> \n<br> My son has just bought his first car a 2011 polo 1.2 petrol Fsh with 58k miles on the clock.\n<br> \n<br> He has driven it 100 miles and unfortunately the engine has seized.\n<br> \n<br> Does anyone have any advice on wether it can be rebuilt or would a second hand unit be a better option.\n<br> \n<br> Any comments will be greatly appreciated.\n<br> \n<br> Thanks,\n<br> \n<br> Tim",
+    "lastEdited" : "Sat May 11, 2019 5:12 pm"
+  }, {
+    "postId" : "922190",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "922190",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2655",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Any good engine shop would be able to rebuild but the cost may be prohibitive. I’d look for a replacement from a damaged polo/a1/Skoda/Seat.",
+    "lastEdited" : "Sun May 12, 2019 12:20 pm"
+  }, {
+    "postId" : "922191",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "922191",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2655",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Like this. \n<br> \n<br> \n<a href=\"https://rover.ebay.com/rover/0/0/0?mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fulk%2Fitm%2F254151495696\" class=\"postlink\">https://rover.ebay.com/rover/0/0/0?mpre ... 4151495696</a>\n<br> \n<br> Or this\n<br> \n<br> \n<a href=\"https://rover.ebay.com/rover/0/0/0?mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fulk%2Fitm%2F372478852414\" class=\"postlink\">https://rover.ebay.com/rover/0/0/0?mpre ... 2478852414</a>\n<br> \n<br> Depends what engine is in.",
+    "lastEdited" : "Sun May 12, 2019 12:27 pm"
+  }, {
+    "postId" : "922192",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "922192",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2655",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Or from here. \n<br> \n<br> \n<a href=\"https://www.reconditionengines.co.uk/rec-model.asp?size=1.2&amp;part=reconditioned-vw-polo-engine&amp;mo_id=31141\" class=\"postlink\">https://www.reconditionengines.co.uk/re ... o_id=31141</a>",
+    "lastEdited" : "Sun May 12, 2019 12:31 pm"
+  }, {
+    "postId" : "922194",
+    "author" : {
+      "username" : "winnie the splitz",
+      "userId" : "922194",
+      "joined" : "Wed Feb 14, 2007 10:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "maidenhead",
+      "postCount" : "297",
+      "avatarPath" : "./download/file.php%3Favatar=4445_1517240198.png"
+    },
+    "content" : "Thanks for the reply I will take a look",
+    "lastEdited" : "Sun May 12, 2019 3:35 pm"
+  } ]
+}

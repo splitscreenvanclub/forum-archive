@@ -1,0 +1,50 @@
+{
+  "forumId" : "4",
+  "threadId" : "115171",
+  "title" : "wide 5 steel rims with tyres",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115171",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868502",
+    "author" : {
+      "username" : "Peekster",
+      "userId" : "868502",
+      "joined" : "Thu Jul 18, 2013 9:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "8",
+      "avatarPath" : null
+    },
+    "content" : "(SOLD)",
+    "lastEdited" : "Wed Mar 23, 2016 7:53 am"
+  }, {
+    "postId" : "868516",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "868516",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1813",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Where are you based?",
+    "lastEdited" : "Wed Mar 23, 2016 9:30 am"
+  }, {
+    "postId" : "868561",
+    "author" : {
+      "username" : "Peekster",
+      "userId" : "868561",
+      "joined" : "Thu Jul 18, 2013 9:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "8",
+      "avatarPath" : null
+    },
+    "content" : "In in Dorking",
+    "lastEdited" : "Wed Mar 23, 2016 2:43 pm"
+  } ]
+}

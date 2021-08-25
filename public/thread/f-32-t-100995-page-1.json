@@ -1,0 +1,37 @@
+{
+  "forumId" : "32",
+  "threadId" : "100995",
+  "title" : "emptying inbox",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=100995",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "771619",
+    "author" : {
+      "username" : "Abbo",
+      "userId" : "771619",
+      "joined" : "Tue Jun 05, 2012 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "my inbox is full i cant see how to delete messages help . thanks",
+    "lastEdited" : "Wed Feb 19, 2014 7:40 pm"
+  }, {
+    "postId" : "771620",
+    "author" : {
+      "username" : "beetleben",
+      "userId" : "771620",
+      "joined" : "Fri Aug 20, 2010 8:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "Colwyn Bay",
+      "postCount" : "1009",
+      "avatarPath" : "http://i1331.photobucket.com/albums/w592/beetleben1/8668b2e0-d675-4baf-a0ad-0e3d3cac9ff9_zps29643102.jpg"
+    },
+    "content" : "I don't know if there is a quick way to delete a bulk amount but if you click on a pm then you'll see an 'x' to the bottom right to delete a single pm",
+    "lastEdited" : "Wed Feb 19, 2014 7:57 pm"
+  } ]
+}

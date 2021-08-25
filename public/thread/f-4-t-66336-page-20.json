@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "66336",
+  "title" : "kühlspeed Ram Air Scoops from £96+p&p",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=66336&start=285",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=4ec6dc45764f2c853bb8b3f3feaa9b6e",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 287,
+  "pageNumber" : 20,
+  "totalPages" : 20,
+  "posts" : [ {
+    "postId" : "925866",
+    "author" : {
+      "username" : "dsbus",
+      "userId" : "925866",
+      "joined" : "Wed Mar 08, 2006 11:43 am",
+      "profileRank" : "Registered user",
+      "location" : "Manchester",
+      "postCount" : "1081",
+      "avatarPath" : "./download/file.php%3Favatar=2165_1305217478.jpg"
+    },
+    "content" : "Show us your scoops!",
+    "lastEdited" : "Tue Oct 08, 2019 11:12 am"
+  }, {
+    "postId" : "931658",
+    "author" : {
+      "username" : "dsbus",
+      "userId" : "931658",
+      "joined" : "Wed Mar 08, 2006 11:43 am",
+      "profileRank" : "Registered user",
+      "location" : "Manchester",
+      "postCount" : "1081",
+      "avatarPath" : "./download/file.php%3Favatar=2165_1305217478.jpg"
+    },
+    "content" : "In stock for 55 to 67 bus/panel vans. Keep cool!",
+    "lastEdited" : "Wed Aug 12, 2020 6:21 am"
+  } ]
+}

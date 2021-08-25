@@ -1,0 +1,115 @@
+{
+  "forumId" : "6",
+  "threadId" : "112491",
+  "title" : "Front shock absorbers",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112491",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "848348",
+    "author" : {
+      "username" : "DJDUNKY",
+      "userId" : "848348",
+      "joined" : "Sun May 18, 2014 8:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "151",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys,\n<br>\n<br>Can someone please shed some light on this....\n<br>I am rebuilding my stock front beam and purchased the BOGE front shocks. The top mount using the M12 bolt is fine but the bottom mounting that fits on the stud with the shoulder appears to be too small. It could probably be beaten on but surely it should be able to push on? And does there need to be a spring washer before it goes on then one on the other side before the nut?\n<br>\n<br>Thanks\n<br>Duncan",
+    "lastEdited" : "Wed Sep 09, 2015 8:39 pm"
+  }, {
+    "postId" : "848353",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "848353",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "239",
+      "avatarPath" : null
+    },
+    "content" : "Are the mounting studs just a bit rough and lumpy with age,or are there remnants of the old shocker sleeve still there.I usually clean up with a bit of emery paper or similar wrapped around it ,or is it possible the sleeves are too neatly made on the new shockers?",
+    "lastEdited" : "Wed Sep 09, 2015 9:06 pm"
+  }, {
+    "postId" : "848361",
+    "author" : {
+      "username" : "DJDUNKY",
+      "userId" : "848361",
+      "joined" : "Sun May 18, 2014 8:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "151",
+      "avatarPath" : null
+    },
+    "content" : "Cheers. I think maybe they are just too snug. Should they rotate freely on the stud shoulder?",
+    "lastEdited" : "Wed Sep 09, 2015 9:24 pm"
+  }, {
+    "postId" : "848362",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "848362",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "239",
+      "avatarPath" : null
+    },
+    "content" : "Yip they should rotate ,but just and no more.",
+    "lastEdited" : "Wed Sep 09, 2015 9:42 pm"
+  }, {
+    "postId" : "848369",
+    "author" : {
+      "username" : "DJDUNKY",
+      "userId" : "848369",
+      "joined" : "Sun May 18, 2014 8:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "151",
+      "avatarPath" : null
+    },
+    "content" : "Ok. Cool. Thanks",
+    "lastEdited" : "Wed Sep 09, 2015 11:16 pm"
+  }, {
+    "postId" : "848387",
+    "author" : {
+      "username" : "DJDUNKY",
+      "userId" : "848387",
+      "joined" : "Sun May 18, 2014 8:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "151",
+      "avatarPath" : null
+    },
+    "content" : "Should there be spring washers either side?",
+    "lastEdited" : "Thu Sep 10, 2015 7:39 am"
+  }, {
+    "postId" : "848398",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "848398",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5124",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "single sprung washer (on the nut side) or nylon lock nut",
+    "lastEdited" : "Thu Sep 10, 2015 9:09 am"
+  }, {
+    "postId" : "848401",
+    "author" : {
+      "username" : "DJDUNKY",
+      "userId" : "848401",
+      "joined" : "Sun May 18, 2014 8:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "151",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Madison. I was just looking at the parts list and it seems to suggest a spring on both sides which is weird. I assume the nut basically stops the strut from falling off as the shoulder on the stud is 12mm but the thread on the stud is 10mm",
+    "lastEdited" : "Thu Sep 10, 2015 9:23 am"
+  } ]
+}

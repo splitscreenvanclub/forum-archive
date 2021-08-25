@@ -1,0 +1,37 @@
+{
+  "forumId" : "5",
+  "threadId" : "112279",
+  "title" : "Used wiring loom",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112279",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847005",
+    "author" : {
+      "username" : "Paul L",
+      "userId" : "847005",
+      "joined" : "Sun Feb 26, 2012 9:59 am",
+      "profileRank" : "Registered user",
+      "location" : "Newton Abbot",
+      "postCount" : "94",
+      "avatarPath" : null
+    },
+    "content" : "Hi All\n<br>I have a mid 65 bus that someone has ripped the wiring loom out of. Was wondering if anybody has an old one they have replaced that I can buy to just get my bus going. Incomplete or in bits is fine as in just trying to get the project driving for as cheap as possible at the moment. Could collect at One big Sunday or busfest if that suits you.\n<br>\n<br>Thanks in advance Paul",
+    "lastEdited" : "Thu Aug 27, 2015 11:28 pm"
+  }, {
+    "postId" : "847133",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "847133",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "874",
+      "avatarPath" : null
+    },
+    "content" : "That's never a good idea Paul, I build them from new.\n<br>\n<br>\n<br>Ron",
+    "lastEdited" : "Sat Aug 29, 2015 7:39 am"
+  } ]
+}

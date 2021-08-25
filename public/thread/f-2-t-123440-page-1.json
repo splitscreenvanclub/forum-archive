@@ -1,0 +1,66 @@
+{
+  "forumId" : "2",
+  "threadId" : "123440",
+  "title" : "Rough costs of stripping and painting?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123440",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=08018839fa056502656aea6e94f7a43b",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "922451",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "922451",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1045",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "My Single Cab is getting to the point where the Californian repaint is showing its limitations, so I'm preparing myself for the costs to strip and repaint and the various options.\n<br> \n<br> Ignoring welding or any major dent repair costs, roughly what are the current going rates for...\n<br> \n<br> Dipping\n<br> Media blasting\n<br> E coating\n<br> Epoxy priming\n<br> Painting and preparation (single colour)\n<br> \n<br> I'm in the South East, but if the regional differences are huge, I'm not averse to factoring in trailoring costs.\n<br> \n<br> Thanks\n<br> \n<br> Andy",
+    "lastEdited" : "Thu May 23, 2019 12:35 pm"
+  }, {
+    "postId" : "922497",
+    "author" : {
+      "username" : "westwopa",
+      "userId" : "922497",
+      "joined" : "Fri Feb 19, 2010 5:06 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "587",
+      "avatarPath" : null
+    },
+    "content" : "Andy,\n<br> \n<br> I paid £1200 for blasting and I d been told £2500 for paint. \n<br> Stripped it all myself....still waiting for paint to be finished. \n<br> \n<br> Located in north east. Hope that helps.....\n<br> \n<br> Paul",
+    "lastEdited" : "Fri May 24, 2019 11:38 pm"
+  }, {
+    "postId" : "922498",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "922498",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1045",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "Thanks Paul. That sounds bearable.\n<br> \n<br> I'm looking for 'daily driver' standard paintwork. My main aim is to get it to the point where it's protected to as close to a modern standard as possible so it can be used year-round.",
+    "lastEdited" : "Sat May 25, 2019 6:45 am"
+  }, {
+    "postId" : "922514",
+    "author" : {
+      "username" : "BlastingDiePast",
+      "userId" : "922514",
+      "joined" : "Sat Feb 02, 2013 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "1802",
+      "avatarPath" : null
+    },
+    "content" : "You have to factor in bodywork, that takes the time and makes painting a bus expensive.\n<br> \n<br> Materials costs for a bus is around £1000 alone with primers, top coat, thinners, hardener etc depending on what grade paint used.",
+    "lastEdited" : "Sun May 26, 2019 7:56 am"
+  } ]
+}

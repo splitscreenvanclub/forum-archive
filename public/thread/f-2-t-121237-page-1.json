@@ -1,0 +1,92 @@
+{
+  "forumId" : "2",
+  "threadId" : "121237",
+  "title" : "Van transporter required",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=121237",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ff0493fdf6c57966977e79efe253a7c3",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "909592",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "909592",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "I know there are loads of old threads but companys come and go. Are there any recent recommendations for someone to transport my van for an interior install. \n<br> \n<br> Grant",
+    "lastEdited" : "Fri Feb 23, 2018 9:31 pm"
+  }, {
+    "postId" : "909698",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "909698",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "923",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "You can hire a self drive transporter for about £100-150 a day plus diesel. You can't fault the service when you do it yourself...",
+    "lastEdited" : "Tue Feb 27, 2018 6:36 pm"
+  }, {
+    "postId" : "909702",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "909702",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Cheers Dougie, I’ll look into that. \n<br> \n<br> Regards, Grant",
+    "lastEdited" : "Tue Feb 27, 2018 7:41 pm"
+  }, {
+    "postId" : "909708",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "909708",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "923",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "I hired one with a mate to shift his buggy, but it was big enough to take a van. It had an electric winch and all the securing straps included. Drove about 60 miles round trip, cost £100 to hire and £11 worth of diesel.",
+    "lastEdited" : "Wed Feb 28, 2018 7:34 am"
+  }, {
+    "postId" : "909794",
+    "author" : {
+      "username" : "susta",
+      "userId" : "909794",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "In the meantime you could have been working and made more, and let the professionals with full insurance do it for less",
+    "lastEdited" : "Sat Mar 03, 2018 3:39 pm"
+  }, {
+    "postId" : "909801",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "909801",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "923",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=909794&amp;sid=ff0493fdf6c57966977e79efe253a7c3#p909794\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=38749&amp;sid=ff0493fdf6c57966977e79efe253a7c3\">susta</a> wrote: <a href=\"./viewtopic.php?p=909794&amp;sid=ff0493fdf6c57966977e79efe253a7c3#p909794\" data-post-id=\"909794\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sat Mar 03, 2018 3:39 pm</span></cite> In the meantime you could have been working and made more, and let the professionals with full insurance do it for less \n </div>\n</blockquote> Truck comes with correct insurance, and where's the fun in going to work",
+    "lastEdited" : "Sat Mar 03, 2018 7:06 pm"
+  } ]
+}

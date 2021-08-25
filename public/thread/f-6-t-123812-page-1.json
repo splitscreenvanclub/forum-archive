@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "123812",
+  "title" : "Rear hatch?!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123812",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=7e3705b3c5b5c8426ce54b77a6ccf53f",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "924828",
+    "author" : {
+      "username" : "John82",
+      "userId" : "924828",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "151",
+      "avatarPath" : null
+    },
+    "content" : "Hello guys!\n<br> Does anyone know if the rear hatch of my 67 kombi is the same with the rear hatch of a Bay bus?\n<br> I think that are the same!!!",
+    "lastEdited" : "Tue Sep 03, 2019 7:15 am"
+  }, {
+    "postId" : "924839",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "924839",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1447",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Early Bay: yes I think so to.\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Tue Sep 03, 2019 11:07 am"
+  }, {
+    "postId" : "924840",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "924840",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15325",
+      "avatarPath" : null
+    },
+    "content" : "I do too but never tried to fit one",
+    "lastEdited" : "Tue Sep 03, 2019 11:20 am"
+  }, {
+    "postId" : "924848",
+    "author" : {
+      "username" : "John82",
+      "userId" : "924848",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "151",
+      "avatarPath" : null
+    },
+    "content" : "If it’s not early bay?",
+    "lastEdited" : "Tue Sep 03, 2019 12:53 pm"
+  }, {
+    "postId" : "924925",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "924925",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1447",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "I think only early bay will be the same.",
+    "lastEdited" : "Thu Sep 05, 2019 10:39 am"
+  } ]
+}

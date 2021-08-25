@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "115219",
+  "title" : "Oil spatter on rear",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115219",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868892",
+    "author" : {
+      "username" : "Robgrav",
+      "userId" : "868892",
+      "joined" : "Sun Jul 19, 2015 5:24 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "220",
+      "avatarPath" : null
+    },
+    "content" : "Had a good trip out yesterday in the bus about 200 miles and all went well. \n<br>However I've noticed a lot of oil all over the rear of the bus. Nothing in the engine bay just all over the back end. What would cause this? Is it just a case of turbulent air at the rear when on the move and the odd oil drip. \n<br>Many thanks. Rob.",
+    "lastEdited" : "Sat Mar 26, 2016 3:35 pm"
+  }, {
+    "postId" : "868897",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "868897",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17997",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yep, that's all it will be. \n<br>\n<br>Could be gearbox oil though.",
+    "lastEdited" : "Sat Mar 26, 2016 5:46 pm"
+  }, {
+    "postId" : "868898",
+    "author" : {
+      "username" : "Robgrav",
+      "userId" : "868898",
+      "joined" : "Sun Jul 19, 2015 5:24 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "220",
+      "avatarPath" : null
+    },
+    "content" : "Thanks. I thought as much but always like to ask the question.",
+    "lastEdited" : "Sat Mar 26, 2016 5:48 pm"
+  }, {
+    "postId" : "868899",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "868899",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10373",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "If you do have a leak...might help to park and place a sheet of paper down with a stone on each corner and ID where it is dripping from...\n<br>Helped on my mini...\n<br>Had leaks everywhere but managed to Track down n stop one by one..\n<br>G",
+    "lastEdited" : "Sat Mar 26, 2016 5:53 pm"
+  }, {
+    "postId" : "868900",
+    "author" : {
+      "username" : "Robgrav",
+      "userId" : "868900",
+      "joined" : "Sun Jul 19, 2015 5:24 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "220",
+      "avatarPath" : null
+    },
+    "content" : "I've tracked a few down and fixed them slowly but surely. But I'll have a look and see what's what when I get chance.",
+    "lastEdited" : "Sat Mar 26, 2016 6:01 pm"
+  } ]
+}

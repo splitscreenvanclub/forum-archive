@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "83378",
+  "title" : "Hockey stick bent?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=83378",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "643873",
+    "author" : {
+      "username" : "Austin60",
+      "userId" : "643873",
+      "joined" : "Tue Sep 13, 2011 2:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brighton",
+      "postCount" : "290",
+      "avatarPath" : null
+    },
+    "content" : "Is my hockey stick bent?\n<br> if so a quick heat and bend should sort it out ok? or is that not a good idea?\n<br> \n<br> \n<img src=\"http://img.photobucket.com/albums/v11/Austin/Snapbucket/7BB75363-orig.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Cheers!",
+    "lastEdited" : "Wed Mar 14, 2012 10:09 pm"
+  }, {
+    "postId" : "643952",
+    "author" : {
+      "username" : "dsbus",
+      "userId" : "643952",
+      "joined" : "Wed Mar 08, 2006 11:43 am",
+      "profileRank" : "Registered user",
+      "location" : "Manchester",
+      "postCount" : "1082",
+      "avatarPath" : "./download/file.php%3Favatar=2165_1305217478.jpg"
+    },
+    "content" : "Yes the bus hockey stick (top) has an additional bend compared to a beetle one (bottom)\n<br> \n<br> \n<img src=\"http://i72.photobucket.com/albums/i195/dsbus/hockey%20stick/IMG_0823.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Thu Mar 15, 2012 12:46 pm"
+  }, {
+    "postId" : "643992",
+    "author" : {
+      "username" : "Austin60",
+      "userId" : "643992",
+      "joined" : "Tue Sep 13, 2011 2:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brighton",
+      "postCount" : "290",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the pic!\n<br> I can install a bus one in a bug irs box though cant I?\n<br> \n<br> As my bus had a front end crash, I think the 90deg bend is now more like 105degree. Should it be 90, or less?\n<br> \n<br> Thank you!",
+    "lastEdited" : "Thu Mar 15, 2012 5:02 pm"
+  }, {
+    "postId" : "644015",
+    "author" : {
+      "username" : "split999",
+      "userId" : "644015",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2287",
+      "avatarPath" : null
+    },
+    "content" : "Most people use the Split Hockey Stick and Nosecone. \n<br> \n<br> I used the Beetle Hockey Stick that came with the IRS box.\n<br> \n<br> I'm told that some people have trouble selecting reverse when using the Beetle HS. I guess I was just lucky.\n<br> \n<br> Make sure you select neutral before fitting up your IRS box /NC / HS\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Thu Mar 15, 2012 6:17 pm"
+  } ]
+}

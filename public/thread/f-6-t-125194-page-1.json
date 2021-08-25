@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "125194",
+  "title" : "engine rebuild",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125194",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=52792eaed4e43afb390d0911188c4a69",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932559",
+    "author" : {
+      "username" : "Bleedingmoody",
+      "userId" : "932559",
+      "joined" : "Sat Oct 02, 2004 1:19 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northampton",
+      "postCount" : "2058",
+      "avatarPath" : null
+    },
+    "content" : "I have a 1500 single port type 3 motor, can I just bolt on a top end rebuild kit, say 1641 without modifications?",
+    "lastEdited" : "Mon Oct 05, 2020 7:53 am"
+  }, {
+    "postId" : "932570",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "932570",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3539",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Yes BUT make sure the bottom end is in really good nick. The problem with putting a new top end on an old engine is that the barrels and pistons produce a lot of friction and heat for the first 1000 miles and that can trash the bearings down below. How do I know? I have rebuilt at least 8 engines with excatly this problem. My advice is to renew the mains and conrod bearings and then fit 1600 barrels and pistons. 1641 kits produce more heat (thinner barrels) and don't give any more power than 1600. If you want a little more grunt then fit a couple of properly jetted ICTs to the 1600 engine.",
+    "lastEdited" : "Tue Oct 06, 2020 8:10 am"
+  } ]
+}

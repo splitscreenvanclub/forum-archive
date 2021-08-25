@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "9405",
+  "title" : "measurement for one eyed duck",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=9405",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "54211",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "54211",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "can anyone give me the exact height the one eyed duck screw should be at?",
+    "lastEdited" : "Sun Jun 05, 2005 10:00 pm"
+  }, {
+    "postId" : "54437",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "54437",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "please folks, perhaps if i change the title to leaky safaris i may get a bit more interest.\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Jun 07, 2005 7:57 am"
+  }, {
+    "postId" : "54514",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "54514",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20171",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Sorry fella. No idea. I just drilled mine last weekend too..... \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Tue Jun 07, 2005 2:47 pm"
+  }, {
+    "postId" : "54541",
+    "author" : {
+      "username" : "One eyed duck",
+      "userId" : "54541",
+      "joined" : "Thu Apr 17, 2003 9:12 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Malvern........the hills have eyes....",
+      "postCount" : "240",
+      "avatarPath" : null
+    },
+    "content" : "I have no idea..........but then why should I?? \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> \n<br> Seems VW followed Jim with the steady hand and good eye approach........\n<br> \n<br> \n<img src=\"http://66.34.72.138/howto/safari-7.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Full set of instructions at \n<a href=\"http://66.34.72.138/howto/safari.html\" class=\"postlink\">safari install</a> courtesy of vintagebus.com\n<br> \n<br> Gotta love that chisel......... \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\">",
+    "lastEdited" : "Tue Jun 07, 2005 5:13 pm"
+  }, {
+    "postId" : "54702",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "54702",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20171",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "phew. looks like I put it in the right place then...",
+    "lastEdited" : "Wed Jun 08, 2005 10:29 am"
+  } ]
+}

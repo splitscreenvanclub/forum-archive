@@ -1,0 +1,63 @@
+{
+  "forumId" : "32",
+  "threadId" : "107179",
+  "title" : "emails for thread updates",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=107179",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "812255",
+    "author" : {
+      "username" : "malum",
+      "userId" : "812255",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "198",
+      "avatarPath" : null
+    },
+    "content" : "I am not getting any email updates for threads I'm subscribed to (not in my spam folder either)",
+    "lastEdited" : "Mon Dec 01, 2014 4:02 pm"
+  }, {
+    "postId" : "812280",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "812280",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1085",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "Mine was fixed but its started not working again \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Mon Dec 01, 2014 6:38 pm"
+  }, {
+    "postId" : "812300",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "812300",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "629",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "I have not been getting replies for a while now. It was fixed for a few days but no longer.\n<br>\n<br>@ hotmail.com",
+    "lastEdited" : "Mon Dec 01, 2014 8:51 pm"
+  }, {
+    "postId" : "812322",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "812322",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "1577",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "Me too",
+    "lastEdited" : "Mon Dec 01, 2014 10:32 pm"
+  } ]
+}

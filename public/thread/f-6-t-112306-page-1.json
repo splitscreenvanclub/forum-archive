@@ -1,0 +1,37 @@
+{
+  "forumId" : "6",
+  "threadId" : "112306",
+  "title" : "Warm earth strap. Connection corroded",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112306",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847202",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "847202",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3477",
+      "avatarPath" : "http://thumbs.fotopic.net/159042000689.jpg"
+    },
+    "content" : "Had an issue today with the van. After travelling for 40 mins she Just died, and wouldn't restart. Luckily we pulled into an empty car park.\n<br>\n<br>It is possible that my fuel gauge is playing up so we got a can of petrol. petrol in and it was trying to start, the odd time it would try and catch, but never run.\n<br>\n<br>whilst I was troubleshooting I noticed the earth strap was warm, not hot. But then it was 30-40 mins since we stopped.\n<br>\n<br>The copper connector was corroded (green). So I took it off and put on a spare (yes I was carrying one). It started , and I did 150 further miles with no issues.\n<br>\n<br>My question is - Would the earth strap getting hot reduce the connection voltage so much that it wouldn't get a good enough spark? Are the symptoms I experienced in line with this diagnosis? \n<br>\n<br>I will obviously give it a good going over tomorrow, is there anything else I should / could do? I seem to remember my grandad putting grease /petroleum jelly on his battery connectors, was this to stop the corrosion?",
+    "lastEdited" : "Sat Aug 29, 2015 8:12 pm"
+  }, {
+    "postId" : "847221",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "847221",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7397",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "....or ensure connectivity.....\n<br>The final frontier. .",
+    "lastEdited" : "Sat Aug 29, 2015 10:38 pm"
+  } ]
+}

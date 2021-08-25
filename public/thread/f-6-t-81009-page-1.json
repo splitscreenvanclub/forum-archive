@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "81009",
+  "title" : "Vin plate i.d???",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=81009",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=3a0856809db781095b96e4bb71d3a9ce",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "623952",
+    "author" : {
+      "username" : "tonenee50",
+      "userId" : "623952",
+      "joined" : "Fri Dec 02, 2011 6:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "Hi all new to this forum,\n<br> How do I tell if my splitscreen is a SO42?\n<br> Its a 1967 USA import. On the plate on the top of the roof (inside) it has typ 23-42\n<br> Number is 237113954.\n<br> It also has another plate behind the passenger seat. 19 4\n<br> Then 430 842 025 056 097 108\n<br> Then UT 2312 523907 7113954. It was shipped with no interior. Has bulkhead so you cant walkthough. slated windows.\n<br> Any help would be great.\n<br> Tonenee50.",
+    "lastEdited" : "Sat Dec 03, 2011 5:35 pm"
+  }, {
+    "postId" : "623985",
+    "author" : {
+      "username" : "nexus 7",
+      "userId" : "623985",
+      "joined" : "Fri Jul 29, 2011 11:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Off the shoulder of Orion, watching C-beams glitter in the dark near the Tannhauser Gate",
+      "postCount" : "256",
+      "avatarPath" : null
+    },
+    "content" : "You can find how to translate your plates here...\n<br> \n<a href=\"http://www.thesamba.com/vw/archives/info/id.php\" class=\"postlink\">http://www.thesamba.com/vw/archives/info/id.php</a>\n<br> \n<br> I won't spoil the fun...\n<br> \n<br> You have found the details you require to translate the basis build details as made...\n<br> As to how and where you find the Westy ID...\n<br> others will help...",
+    "lastEdited" : "Sat Dec 03, 2011 9:15 pm"
+  }, {
+    "postId" : "623987",
+    "author" : {
+      "username" : "boyblue",
+      "userId" : "623987",
+      "joined" : "Mon May 21, 2007 6:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Doncaster",
+      "postCount" : "617",
+      "avatarPath" : null
+    },
+    "content" : "M-Plate content\n<br> Model Type 2 (T1) mod. 231 : \n<br> - Kombi \n<br> - Cargo doors right \n<br> - LHD\n<br> Chassis number 237113954\n<br> Serial number 113 954\n<br> Modelyear 1967\n<br> Planned production date April 19 ,1967\n<br> Paint color L87 - &nbsp;Perl white\n<br> Interior color (doorpanels and seats) *** Unknown ***\n<br> Destination Picked up by first owner at the factory in Germany, meant for US-market\n<br> \n<br> \n<br> \n<br> M-CODES\n<br> M-CODE Description Concerned models From chassis number To chassis number\n<br> 025 US-spec bumpers and 6 pop-out windows -&nbsp; \n<br> 025 Mountinf for safety belts -&nbsp; \n<br> 056 Steering/ignition lock -&nbsp; \n<br> 097 Radio - Emden model -&nbsp; \n<br> 097 Rear bumper (until '55) -&nbsp; \n<br> 106 Heavy duty shock absorbers -&nbsp; \n<br> 430 North American export package including M20, M24, M25, M90, M175, M620, M621 Panelvan, Kombi, Microbus\n<br> &nbsp; 020 MPH speedometer Export\n<br> &nbsp;\n<br> &nbsp; 024 Sealed beam head lamps and red tail lights USA, Canada\n<br> &nbsp;\n<br> &nbsp; 024 Sealed beam head lamps and red taillights, side turn signals, back up lights Export\n<br> &nbsp;\n<br> &nbsp; 025 US-spec bumpers and 6 pop-out windows -&nbsp; &nbsp;\n<br> &nbsp; 025 Mountinf for safety belts -&nbsp; &nbsp;\n<br> &nbsp; 090 Windscreens with safety laminated glass Export\n<br> &nbsp;\n<br> &nbsp; 175 Ram protection (bumper with guards) Except types 26\n<br> &nbsp;\n<br> &nbsp; 620 12v system (standard from August, 1966) -&nbsp; &nbsp;\n<br> &nbsp; 621 12v warning light relay Except Ambulance\n<br> &nbsp;\n<br> \n<br> \n<br> UNKNOWNS M-CODES\n<br> 842",
+    "lastEdited" : "Sat Dec 03, 2011 9:19 pm"
+  }, {
+    "postId" : "623988",
+    "author" : {
+      "username" : "nexus 7",
+      "userId" : "623988",
+      "joined" : "Fri Jul 29, 2011 11:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Off the shoulder of Orion, watching C-beams glitter in the dark near the Tannhauser Gate",
+      "postCount" : "256",
+      "avatarPath" : null
+    },
+    "content" : "err what does the plate 2342 refer to then? \n<blockquote>\n <div>\n  <cite>boyblue wrote:</cite> Paint color L87 - &nbsp;Pearl white\n  <br> \n  <strong class=\"text-strong\"><em class=\"text-italics\">Interior color (doorpanels and seats) *** Unknown ***</em></strong>\n  <br> Destination Picked up by first owner at the factory in Germany, meant for US-market \n </div>\n</blockquote> The 5 23 907\n<br> are westfalia 5 export code and 23 does refer to kombi..907 is pearl white\n<br> \n<br> So it was ordered by Westfalia!",
+    "lastEdited" : "Sat Dec 03, 2011 9:23 pm"
+  }, {
+    "postId" : "624051",
+    "author" : {
+      "username" : "tonenee50",
+      "userId" : "624051",
+      "joined" : "Fri Dec 02, 2011 6:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "Many thanks for all the info on the bus!!\n<br> \n<br> Tonenee50.",
+    "lastEdited" : "Sun Dec 04, 2011 5:19 pm"
+  } ]
+}

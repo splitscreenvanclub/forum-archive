@@ -1,0 +1,50 @@
+{
+  "forumId" : "9",
+  "threadId" : "107099",
+  "title" : "Free camping locations around the world...",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=107099",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "811650",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "811650",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17435",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Found an 'app' called Parking4Night which is a list of camping areas, rest areas etc etc. \n<br>\n<br>There's a filter function so you can search for paid sites, free locations, fuel, etc etc. \n<br>\n<br>Seems that the info is uploaded by the users of the app, so some info is basic, others are more compressive with photos, available services etc. \n<br>\n<br>There's a PC version too, but the app seems to work better.\n<br>\n<br>Thought this might be of use to anyone else that likes a spot of free camping.",
+    "lastEdited" : "Tue Nov 25, 2014 11:32 pm"
+  }, {
+    "postId" : "811667",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "811667",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "931",
+      "avatarPath" : "http://i1068.photobucket.com/albums/u451/clymoj/Bus/Bus005_zps44edd617.jpg"
+    },
+    "content" : "Thanks Jim, have been looking for something like this since they started putting camera enforcement on all my usual spots.\n<br>\n<br>It's called park4night.com on the iPhone app store if anyone's searching.",
+    "lastEdited" : "Wed Nov 26, 2014 10:04 am"
+  }, {
+    "postId" : "811671",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "811671",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "675",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "Will take a look, no harm having the app installed, you never know when it might come in handy",
+    "lastEdited" : "Wed Nov 26, 2014 1:22 pm"
+  } ]
+}

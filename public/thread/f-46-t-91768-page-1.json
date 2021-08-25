@@ -1,0 +1,128 @@
+{
+  "forumId" : "46",
+  "threadId" : "91768",
+  "title" : "Easco light",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=91768",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "706204",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "706204",
+      "joined" : "Tue Apr 29, 2003 11:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leicester",
+      "postCount" : "1228",
+      "avatarPath" : "http://farm1.static.flickr.com/207/443424848_805aad5419_o.gif"
+    },
+    "content" : "Two questions regarding the Easco fluorescent light:\n<br>\n<br>In my ’63 I recall that the light was connected to the battery via a single (in line fused) wire from the battery + terminal. I can’t remember exactly where it was routed, but basically it just hung down from the void between the rear parcel shelf and outer skin.\n<br>Can anyone confirm the original arrangements for this?\n<br>\n<br>Secondly and more importantly, is anyone running one of these lights on 12v. The original transformer sat in the upper rear shelf timberwork. Would I need to butcher some modern caravan light for a 12v light transformer and then run wires from this to the original light mount?\n<br>Or can I just punt 12v through the original transformer.... perhaps I don’t need the transformer at all – i’m not very electrical minded.\n<br>\n<br>Any suggestions welcome – what arrangement have you for an original Easco on 12v?\n<br>\n<br>Thanks,\n<br>Julian",
+    "lastEdited" : "Thu Feb 21, 2013 10:00 pm"
+  }, {
+    "postId" : "706223",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "706223",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1193",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "I was planning to gut the one I have and squeeze a modern equivalent bulb inside, not got around to it yet thou",
+    "lastEdited" : "Thu Feb 21, 2013 11:03 pm"
+  }, {
+    "postId" : "706242",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "706242",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5513",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "^^ thats what I did, guts and bulb from a modern 12v inside the easco body and single 12v power supply from my liesure battery fuse box with an on off switch, no transformer",
+    "lastEdited" : "Fri Feb 22, 2013 8:16 am"
+  }, {
+    "postId" : "706272",
+    "author" : {
+      "username" : "Bathtub57",
+      "userId" : "706272",
+      "joined" : "Sat May 10, 2008 10:29 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Ascot",
+      "postCount" : "667",
+      "avatarPath" : "http://i289.photobucket.com/albums/ll218/Bathtub57/DBM%20358D/eb733e03-b981-40e0-8323-315b972cc1ee.jpg"
+    },
+    "content" : "I've also done the same thing - bought a light off ebay for 12 quid, stripped it out and put all the workings into the 6v one I had. Works a treat but I did have to wire in an extra in line switch as the OG switch tripped the fuse each time, so I guess I must have done something wrong somewhere, or maybe a 6v switch won't work on 12v electrics.",
+    "lastEdited" : "Fri Feb 22, 2013 12:56 pm"
+  }, {
+    "postId" : "706438",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "706438",
+      "joined" : "Tue Apr 29, 2003 11:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leicester",
+      "postCount" : "1228",
+      "avatarPath" : "http://farm1.static.flickr.com/207/443424848_805aad5419_o.gif"
+    },
+    "content" : "Thanks for the replys - sound fairly straight forward then.",
+    "lastEdited" : "Fri Feb 22, 2013 11:17 pm"
+  }, {
+    "postId" : "847984",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "847984",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10391",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Bulb is 302mm t5 g5 bulb they are not DC voltage specific ...old tube from 6v light will work on 12v. Can buy just the 12v electronic invertor on its own. Can buy 2 pin bulb fittings to suit the end caps and spring clips to hold the bulbs.\n<br>Bathtub sounds like you have wired the switch to earth rather than to feed the lamp..Need to check this out..\n<br>\n<br>The switch has three terminals. Only two are used. It is designed so you have a feed in the centre and if you switch to the left the left terminal is connected snd if you switch to the right.....the right terminal is connected. ..\n<br>\n<br> The +ve supply is connected to the centre terminal. .\n<br>\n<br>Nothing on the terminal to the left and feed to the circuit board attached to the right terminal...\n<br>\n<br>The modern Invertors in the modern light units are electronic they may or may not have polarity protection (always assume they have to be fed from the positive side).Easco original warns on the transfer has to be connected to the correct feed side or serious damage will occur....The bare Invertors sold are simple and they need to be wired with correct positive feed or they blow! Could wire with blocking diode or a transistor for protection but more cost and not needed..just wire it up properly. ..",
+    "lastEdited" : "Sun Sep 06, 2015 8:45 am"
+  }, {
+    "postId" : "849057",
+    "author" : {
+      "username" : "Bathtub57",
+      "userId" : "849057",
+      "joined" : "Sat May 10, 2008 10:29 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Ascot",
+      "postCount" : "667",
+      "avatarPath" : "http://i289.photobucket.com/albums/ll218/Bathtub57/DBM%20358D/eb733e03-b981-40e0-8323-315b972cc1ee.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>type21f wrote:</cite>Bulb is 302mm t5 g5 bulb they are not DC voltage specific ...old tube from 6v light will work on 12v. Can buy just the 12v electronic invertor on its own. Can buy 2 pin bulb fittings to suit the end caps and spring clips to hold the bulbs.\n  <br>Bathtub sounds like you have wired the switch to earth rather than to feed the lamp..Need to check this out..\n  <br>\n  <br>The switch has three terminals. Only two are used. It is designed so you have a feed in the centre and if you switch to the left the left terminal is connected snd if you switch to the right.....the right terminal is connected. ..\n  <br>\n  <br> The +ve supply is connected to the centre terminal. .\n  <br>\n  <br>Nothing on the terminal to the left and feed to the circuit board attached to the right terminal...\n  <br>\n  <br>The modern Invertors in the modern light units are electronic and may have polarity protection....but the bare Invertors sold are simple and they need to be wired with correct positive feed or they blow! Can wire with blocking diode or a transistor for protection.\n </div>\n</blockquote>\n<br>\n<br>I shall check it out, I've been using the light 2 years now without any bother but would be nice to run it off the original switch. To be fair upgrading the two original interior lights to LEDs and new clear lenses gives a nicer light than the fluorescent.",
+    "lastEdited" : "Wed Sep 16, 2015 8:23 pm"
+  }, {
+    "postId" : "849088",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "849088",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10391",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "...and low consumption...too\n<br>Now with LEDS. .\n<br>I just wanted the OG Looks...",
+    "lastEdited" : "Thu Sep 17, 2015 4:27 am"
+  }, {
+    "postId" : "850147",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "850147",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10391",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Got another Easco mini light (the type with the self contained convertor inside the unit) from Rigamortiz to convert for him. I will do a \"how to\"...\n<br>It is simple..\n<br>Need a soldering iron, a drill, tools and some parts from a cheap light from eBay. ..\n<br>Oh and an enquiring mind..\n<br>\n<br>My favourite Web site...after this one is\n<br>Instructables..",
+    "lastEdited" : "Sun Sep 27, 2015 6:44 am"
+  } ]
+}

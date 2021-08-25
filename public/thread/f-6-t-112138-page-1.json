@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "112138",
+  "title" : "Wiper motor upgrade woes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112138",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=e4f51ecccdc443ebf4f3740286cf1d44",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "846061",
+    "author" : {
+      "username" : "mark-s",
+      "userId" : "846061",
+      "joined" : "Mon Sep 26, 2005 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Newcastle, UK",
+      "postCount" : "686",
+      "avatarPath" : null
+    },
+    "content" : "I need some help wiring up my wiper motor.\n<br> \n<br> I have replaced my 65-only motor with a beetle wiper motor upgraded with a 12V armature. I have a Wolfsburg West single-speed switch (the connections are unlabelled) and have wired it up according the the information here \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=105615\" class=\"postlink\">viewtopic.php?t=105615</a>\n<br> \n<br> The issues I'm having:\n<br> \n<ul>\n <li>The motor operates with the switch 'in', I expected it to work in the 'out' position</li> \n <li>If I switch it off and it comes to rest in the 'park' position, it won't start again until I manually move it round a bit.</li> \n <li>It runs fast</li>\n</ul> Here is a pic of the motor connections:\n<br> \n<br> \n<a href=\"http://s259.photobucket.com/user/marks_2008/media/9d0d1f08-8ab5-4d78-a1e6-dd48f54464b0_zpsjoowsv2d.jpg.html\" class=\"postlink\"><img src=\"http://i259.photobucket.com/albums/hh298/marks_2008/9d0d1f08-8ab5-4d78-a1e6-dd48f54464b0_zpsjoowsv2d.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> Sorry it's not very clear, but the connections are: 54, 54d, 31b and 31 is the earth.",
+    "lastEdited" : "Wed Aug 19, 2015 8:15 pm"
+  }, {
+    "postId" : "846072",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "846072",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3074",
+      "avatarPath" : null
+    },
+    "content" : "This thread may help - \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=8&amp;t=77632&amp;start=3345\" class=\"postlink\">viewtopic.php?f=8&amp;t=77632&amp;start=3345</a>\n<br> \n<br> It's worth getting the correct switch as 65 was the first year of park option on a split. Here doesn't appear to be an earth connection on the motor which suggests that it earths through the chassis, so make sure you have the motor earthed.\n<br> \n<br> The park function works with two live feeds if I remember correctly, one to operate the motor when you pull the switch out and then a second feed to park the arms when you push it in. If you're incorrectly wired up then you'll never get it right !\n<br> \n<br> Not sure how compatible a Bug motor is but Google Don West in the U.S. And he'll sort it all out for you ! \n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Wed Aug 19, 2015 8:59 pm"
+  }, {
+    "postId" : "846125",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "846125",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "This won't help you but I'm puzzled as to why you bought a Beetle wiper motor when I and another person offered you the correct '65 Bus motor in your original thread (asking for a motor) back in July.\n<br> On several occasions I've advised people on wiper motor related threads \n<span style=\"text-decoration:underline\">not</span> to go down the Beetle route.\n<br> By the way Don West (mentioned in the above post) has the correct 12 volt motor for sale currently on the samba:\n<br> \n<a href=\"http://www.thesamba.com/vw/classifieds/detail.php?id=1826072\" class=\"postlink\">http://www.thesamba.com/vw/classifieds/ ... id=1826072</a>",
+    "lastEdited" : "Thu Aug 20, 2015 11:49 am"
+  }, {
+    "postId" : "846129",
+    "author" : {
+      "username" : "mark-s",
+      "userId" : "846129",
+      "joined" : "Mon Sep 26, 2005 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Newcastle, UK",
+      "postCount" : "686",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwed wrote:</cite>I'm puzzled as to why you bought a Beetle wiper motor when I and another person offered you the correct '65 Bus motor in your original thread (asking for a motor) back in July. \n </div>\n</blockquote> Primarily because the whole point of the upgrade is to convert to a 12V wiper motor without resorting to a voltage dropper. The one that Don West has for sale has already been converted and the price reflects this, and despite what one reads on the internet ,the Wolfsburg West armature doesn't fit the '65 only SWF motor without modification - it's about 10mm too long.\n<br> \n<br> I'm not sure why you advise against the beetle motor, apart from my current(no pun intended) wiring issues it's actually working rather well - It cost peanuts, it physically fits the frame without modification and all I had to do was to relocate the spindle that drives the actuating arms.",
+    "lastEdited" : "Thu Aug 20, 2015 12:14 pm"
+  }, {
+    "postId" : "846140",
+    "author" : {
+      "username" : "Dermot",
+      "userId" : "846140",
+      "joined" : "Tue Apr 29, 2003 6:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Herefordshire",
+      "postCount" : "129",
+      "avatarPath" : "./download/file.php%3Favatar=171_1299153840.jpg"
+    },
+    "content" : "Don also has the 65-only switch...\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/classifieds/detail.php?id=1825352\" class=\"postlink\">http://www.thesamba.com/vw/classifieds/ ... id=1825352</a>",
+    "lastEdited" : "Thu Aug 20, 2015 1:51 pm"
+  }, {
+    "postId" : "846175",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "846175",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "Well best of luck..\n<br> AFAIK the Beetle motor arm throw is totally different..so you will have lots and lots of fun trying to get it to work with the correct sweep.\n<br> I had a Bay window motor fitted to my September 1964 and I spoke to several, read, researched and bought a refurbished frame and NOS motor and spindles from wiperman and fitted it. The 1965 switch means it self parks.\n<br> Overall it was cheaper than buying an unconverted OG unit from Wales.\n<br> I am more than happy..\n<br> Good luck with your efforts..\n<br> Every day is a school day...I look forwards to hearing how you get on..\n<br> BJ1 maybe will help he has converted the arms on beetle wipers and volvo I believe..\n<br> Good Luck",
+    "lastEdited" : "Thu Aug 20, 2015 6:13 pm"
+  }, {
+    "postId" : "846190",
+    "author" : {
+      "username" : "mark-s",
+      "userId" : "846190",
+      "joined" : "Mon Sep 26, 2005 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Newcastle, UK",
+      "postCount" : "686",
+      "avatarPath" : null
+    },
+    "content" : "Getting the throw right was actually the easy part as I had the original to use as a reference, I removed the old pin and drilled a new hole for the correct throw (15mm iirc) and used a M5 shoulder bolt.\n<br> \n<br> \n<a href=\"http://s259.photobucket.com/user/marks_2008/media/wipermotor_zpsrxpbzy7u.png.html\" class=\"postlink\"><img src=\"http://i259.photobucket.com/albums/hh298/marks_2008/wipermotor_zpsrxpbzy7u.png\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> Having looked at various wiring diagrams, I've come to the conclusion that I've got the wrong switch. In order to self-park, the switch needs to 'toggle' the power to terminal 54 to operate the self park circuit. My switch is just a simple on/off, so I've just wired it inline to terminal 54d. Not an ideal solution but it'll do until I throw some more money at it.",
+    "lastEdited" : "Thu Aug 20, 2015 7:54 pm"
+  } ]
+}

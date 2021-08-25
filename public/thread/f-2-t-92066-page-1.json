@@ -1,0 +1,92 @@
+{
+  "forumId" : "2",
+  "threadId" : "92066",
+  "title" : "Replacement engine",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=92066",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=7bf36dbd01e1b4224a6350d83ff3a69e",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "708273",
+    "author" : {
+      "username" : "p7rns",
+      "userId" : "708273",
+      "joined" : "Sun Dec 16, 2007 3:27 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Shields",
+      "postCount" : "115",
+      "avatarPath" : null
+    },
+    "content" : "I'm looking for a replacement engine for my 64 Split, it currently has a (broken) 1500 single port. \n<br> \n<br> Without having to upgrade anything, (gearbox/brakes) what size engine can I put in and can anybody recommend or have experience of a good engine builder/supplier ?",
+    "lastEdited" : "Mon Mar 04, 2013 11:41 am"
+  }, {
+    "postId" : "708276",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "708276",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "Tell us what's wrong with the single port. Are the heads ok? Is it possible to rebuild your existing engine?",
+    "lastEdited" : "Mon Mar 04, 2013 12:21 pm"
+  }, {
+    "postId" : "708279",
+    "author" : {
+      "username" : "eddy",
+      "userId" : "708279",
+      "joined" : "Tue Jun 23, 2009 9:25 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "356",
+      "avatarPath" : "./download/file.php%3Favatar=33257_1477223492.jpg"
+    },
+    "content" : "Hi, one of the best for work and experiance is Jhon (speedwheels) he will also give you good advice and is a nice bloke to boot, hope this helps Eddy.",
+    "lastEdited" : "Mon Mar 04, 2013 12:28 pm"
+  }, {
+    "postId" : "708282",
+    "author" : {
+      "username" : "Reggie",
+      "userId" : "708282",
+      "joined" : "Mon Nov 22, 2004 7:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "blackpool",
+      "postCount" : "3989",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>eddy wrote:</cite>Hi, one of the best for work and experiance is Jhon (speedwheels) he will also give you good advice and is a nice bloke to boot, hope this helps Eddy.\n </div>\n</blockquote> Do you mean John (fastwheels ) if not he is also a genious Butt kissing over",
+    "lastEdited" : "Mon Mar 04, 2013 12:46 pm"
+  }, {
+    "postId" : "708369",
+    "author" : {
+      "username" : "eddy",
+      "userId" : "708369",
+      "joined" : "Tue Jun 23, 2009 9:25 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "356",
+      "avatarPath" : "./download/file.php%3Favatar=33257_1477223492.jpg"
+    },
+    "content" : "Yep he's the one, I did get his name right though not bad for me",
+    "lastEdited" : "Mon Mar 04, 2013 7:56 pm"
+  }, {
+    "postId" : "708431",
+    "author" : {
+      "username" : "fastwheels",
+      "userId" : "708431",
+      "joined" : "Sat May 19, 2007 9:55 am",
+      "profileRank" : "SSVC Member",
+      "location" : "south yorkshire",
+      "postCount" : "426",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>eddy wrote:</cite>Yep he's the one, I did get his name right though not bad for me\n </div>\n</blockquote> thanks ar kid \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Mon Mar 04, 2013 10:21 pm"
+  } ]
+}

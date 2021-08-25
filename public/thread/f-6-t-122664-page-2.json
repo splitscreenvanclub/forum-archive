@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "122664",
+  "title" : "How do people deal with/fix stripped sump bolt threads?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122664&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=cc6c45d6ae605e401221f4fdac4216ef",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 19,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "917076",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "917076",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Ah ok makes sense now. That’s a bummer but it is solvable. Either wind a bolt in from the inside (tricky but can be done) and loctite it in or as suggested above use the 8mm down to 6mm studs. Personally I’d try to get a 6mm bolt down from inside first as the other method is last chance saloon. You should really replace the others with studs as well and loctite them in because all the constant doing up and undoing of those bolts will wear the threads in the other ones as well and if you have a bolt come loose and fall out you’ll lose all your oil. \n<br> If you can get a bolt started from inside you could probably hold it with some pointed grips or a bent spanner then wind on a lock nut then let go the grips and use the lock nut to wind it down if that makes sense. Just make sure you loctite it in position as you don’t want it being a pain and spinning back up when you do an oil change. \n<br> Good luck with it.",
+    "lastEdited" : "Sun Nov 04, 2018 11:42 pm"
+  }, {
+    "postId" : "917735",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "917735",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "sounds like a good idea to me Lee.\n<br> I'm going to have to do the hokey kokey again with my engine oil though - in, out, in, out\n<br> Will Loctite hold the bolts in when \"cold\"? I don't want to try this and then have the new bolt spin when I try to put the new nuts on after it's done\n<br> That will send me over the edge....\n<br> DD",
+    "lastEdited" : "Sun Nov 25, 2018 8:30 pm"
+  }, {
+    "postId" : "917754",
+    "author" : {
+      "username" : "unclegee",
+      "userId" : "917754",
+      "joined" : "Sat Mar 02, 2013 10:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "WE WUNT BE DRUV!",
+      "postCount" : "832",
+      "avatarPath" : "./download/file.php%3Favatar=37518_1606474331.jpg"
+    },
+    "content" : "DD\n<br> \n<br> Loctite 272 is heat resistant, just remember though that for it to work properly, both threads (male &amp; female) have to be really clean. Use a good solvent spray and dry thoroughly. Also, allow enough drying time for the Loctite before spinning your nuts up!\n<br> \n<br> Good luck mate from The Zafira Massif! \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Mon Nov 26, 2018 6:20 pm"
+  }, {
+    "postId" : "917892",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "917892",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "Cheers G!\n<br> DD",
+    "lastEdited" : "Sat Dec 01, 2018 9:24 pm"
+  } ]
+}

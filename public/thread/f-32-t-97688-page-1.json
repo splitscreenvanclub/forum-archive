@@ -1,0 +1,50 @@
+{
+  "forumId" : "32",
+  "threadId" : "97688",
+  "title" : "New tabs?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=97688",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "747435",
+    "author" : {
+      "username" : "Reuben",
+      "userId" : "747435",
+      "joined" : "Wed Jul 13, 2011 5:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "dan saaf",
+      "postCount" : "192",
+      "avatarPath" : "./download/file.php%3Favatar=35637_1316540768.gif"
+    },
+    "content" : "Hi - not a biggy but when opening links that members put on the forums it would be better for a new tab/page to open the link as opposed to the SSVC user page being updated. I often forget that I have opened a page from a forum link and end up closing a session \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\"> which often has taken a while to locate (searching pages/topics to get links). Just a thought anyways. R",
+    "lastEdited" : "Wed Sep 18, 2013 9:45 am"
+  }, {
+    "postId" : "747439",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "747439",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "675",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Reuben wrote:</cite>Hi - not a biggy but when opening links that members put on the forums it would be better for a new tab/page to open the link as opposed to the SSVC user page being updated. I often forget that I have opened a page from a forum link and end up closing a session \n  <img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\"> which often has taken a while to locate (searching pages/topics to get links). Just a thought anyways. R\n </div>\n</blockquote>\n<br>\n<br>good point",
+    "lastEdited" : "Wed Sep 18, 2013 10:35 am"
+  }, {
+    "postId" : "747444",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "747444",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "746",
+      "avatarPath" : null
+    },
+    "content" : "I always CTRL+click on links to get them on a new tab for the same reason.",
+    "lastEdited" : "Wed Sep 18, 2013 11:38 am"
+  } ]
+}

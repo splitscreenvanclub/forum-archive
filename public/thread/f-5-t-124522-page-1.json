@@ -1,0 +1,40 @@
+{
+  "forumId" : "5",
+  "threadId" : "124522",
+  "title" : "Early upper king pins",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124522",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=b6a978573b80002991b0016a6a04567c",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928925",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "928925",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "Looking for \n<strong class=\"text-strong\">two</strong> early upper kingpins. Good used or NOS. Or 62/63 with 20mm link pin/24mm pin size.Cheers Simon",
+    "lastEdited" : "Tue Apr 14, 2020 10:15 am"
+  }, {
+    "postId" : "930100",
+    "author" : {
+      "username" : "Jonesy",
+      "userId" : "930100",
+      "joined" : "Thu Oct 27, 2005 8:27 pm",
+      "profileRank" : "Registered user",
+      "location" : "www.boatyardbuses.com",
+      "postCount" : "1683",
+      "avatarPath" : null
+    },
+    "content" : "Hi mate, drop me a text. i have these; \n<a href=\"https://www.thesamba.com/vw/classifieds/detail.php?id=1809777\" class=\"postlink\">https://www.thesamba.com/vw/classifieds ... id=1809777</a>",
+    "lastEdited" : "Mon May 25, 2020 9:24 am"
+  } ]
+}

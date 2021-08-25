@@ -1,0 +1,131 @@
+{
+  "forumId" : "6",
+  "threadId" : "99703",
+  "title" : "What flywheel size??",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=99703",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "762334",
+    "author" : {
+      "username" : "rikkisk",
+      "userId" : "762334",
+      "joined" : "Sun Jul 31, 2011 8:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "125",
+      "avatarPath" : null
+    },
+    "content" : "What size flywheel would a H code 1500 engine have? Would a 180mm flywheel from a 1300 AB engine fit?\n<br> \n<br> Cheers Rik",
+    "lastEdited" : "Mon Dec 23, 2013 8:07 pm"
+  }, {
+    "postId" : "762431",
+    "author" : {
+      "username" : "beetleseb",
+      "userId" : "762431",
+      "joined" : "Tue Oct 13, 2009 5:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cheltenham",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "It really depends on if you have a 6v or 12v starter and what size clutch you want. 180mm will work but 200mm is an easier safer bet. What type of clutch release bearing do you have?\n<br> \n<br> Seb",
+    "lastEdited" : "Tue Dec 24, 2013 1:43 pm"
+  }, {
+    "postId" : "762454",
+    "author" : {
+      "username" : "rikkisk",
+      "userId" : "762454",
+      "joined" : "Sun Jul 31, 2011 8:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "125",
+      "avatarPath" : null
+    },
+    "content" : "Not sure, it is a H code box that was in my van when I got it. I will be doing it 12v. So to confirm a 180mm flywheel from a 1300 AB code engine will fit in an H code 1500 engine?\n<br> \n<br> Rik",
+    "lastEdited" : "Tue Dec 24, 2013 4:49 pm"
+  }, {
+    "postId" : "762458",
+    "author" : {
+      "username" : "beetleseb",
+      "userId" : "762458",
+      "joined" : "Tue Oct 13, 2009 5:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cheltenham",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> \n<br> There are 2 types of flywheel seal and 2 types of crank. O ring seal and the earlier paper or metal seal. Both are interchangeable to some degree. A 1500 should be 200mm but the 180 should fit with the paper seal. You need to make sure your starter is the correct one for the flywheel, your clutch is the correct one for the release bearing and you need to check your endfloat when you swap flywheel. \n<br> \n<br> Whereabouts are you based?\n<br> \n<br> Seb",
+    "lastEdited" : "Tue Dec 24, 2013 4:55 pm"
+  }, {
+    "postId" : "762465",
+    "author" : {
+      "username" : "rikkisk",
+      "userId" : "762465",
+      "joined" : "Sun Jul 31, 2011 8:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "125",
+      "avatarPath" : null
+    },
+    "content" : "I am in norwich. Here is a pic of my release bearing.\n<br> \n<br> \n<a href=\"http://s911.photobucket.com/user/dawnknights2/media/Mobile%20Uploads/image_zpsf181c51f.jpg.html\" class=\"postlink\"><img src=\"http://i911.photobucket.com/albums/ac313/dawnknights2/Mobile%20Uploads/image_zpsf181c51f.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Tue Dec 24, 2013 5:27 pm"
+  }, {
+    "postId" : "762475",
+    "author" : {
+      "username" : "beetleseb",
+      "userId" : "762475",
+      "joined" : "Tue Oct 13, 2009 5:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cheltenham",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "Ok, so that's early.\n<br> \n<br> You need to count the teeth on the new flywheel and Google or search on here to see if its a 12v or 6v flywheel. You can run a 6v starter on 12v.\n<br> \n<br> I am guessing the box is 6v along with the starter and flywheel but you need to check. If so bolt it up with a paper gasket, check endfloat or nip it to a garage who can, check your rear flywheel seal (now the time to replace it if needed (and your local vw main dealer can order genuine ones in) torque up and your good to go.\n<br> \n<br> Simples!",
+    "lastEdited" : "Tue Dec 24, 2013 6:03 pm"
+  }, {
+    "postId" : "762480",
+    "author" : {
+      "username" : "rikkisk",
+      "userId" : "762480",
+      "joined" : "Sun Jul 31, 2011 8:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "125",
+      "avatarPath" : null
+    },
+    "content" : "Cheers for your help. It hasn't got a starter yet. I have won a 1500 block on ebay but not sure if it has a flywheel and a guy on here local to me is selling a flywheel and clutch off an AB engine. The engine will be stripped and rebuilt anyway so I will be setting endfloat etc then.\n<br> \n<br> Cheers again Rik",
+    "lastEdited" : "Tue Dec 24, 2013 6:20 pm"
+  }, {
+    "postId" : "762481",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "762481",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "I have a 1500 sp and have a 180mm flywheel, found out when doing a clutch change. \n<br> Can't remember the details now but a 200mm flywheel won't go on my crank.",
+    "lastEdited" : "Tue Dec 24, 2013 6:21 pm"
+  }, {
+    "postId" : "762483",
+    "author" : {
+      "username" : "beetleseb",
+      "userId" : "762483",
+      "joined" : "Tue Oct 13, 2009 5:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cheltenham",
+      "postCount" : "349",
+      "avatarPath" : null
+    },
+    "content" : "A later flywheel should fit....you can't use the o ring seal tho. Need to change it to s paper one if you have an early crank\n<br> \n<br> Might not fit in the gearbox tho if you have a 6v box and a 12v flywheel.\n<br> \n<br> You need to count the teeth on the flywheel. If its 6v it will fit in your box. 12v and you need to open the box up to suit with a grinder and a steady hand! \n<br> \n<br> Seb",
+    "lastEdited" : "Tue Dec 24, 2013 6:26 pm"
+  } ]
+}

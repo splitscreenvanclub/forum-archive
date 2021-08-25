@@ -1,0 +1,92 @@
+{
+  "forumId" : "57",
+  "threadId" : "122278",
+  "title" : "Issue 209 out now!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=122278",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=153b77391db5ad15e6927e8dff727e9c",
+    "label" : "Magazine"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "914762",
+    "author" : {
+      "username" : "Sally",
+      "userId" : "914762",
+      "joined" : "Fri May 19, 2017 1:58 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "We hope you're enjoying the latest issue of Split Screen Scene.\n<br> Please keep sending in your articles.\n<br> If you got an idea of something but you're not sure about writing it yourself let me know. I'm happy to help put something together.\n<br> Get in touch via email \n<a href=\"mailto:magazine@ssvc.org.uk\">magazine@ssvc.org.uk</a>\n<br> \n<br> Hope to hear from you,\n<br> Sally\n<br> \n<img alt=\"😀\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f600.svgz\">",
+    "lastEdited" : "Sat Jul 21, 2018 7:11 am"
+  }, {
+    "postId" : "914765",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "914765",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "902",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Another cracking issue Sally and Caroline, loving those aerial Vicky Farm and Stanford Hall shots..",
+    "lastEdited" : "Sat Jul 21, 2018 11:32 am"
+  }, {
+    "postId" : "914780",
+    "author" : {
+      "username" : "Huw",
+      "userId" : "914780",
+      "joined" : "Fri Apr 18, 2003 6:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgend",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "Fantastic magazine, one of the best, Ariel photos were amazing.\n<br> Only down side was there was no AGM report for the people who couldn't make it. Surely an AGM report should be available to every paid up member?",
+    "lastEdited" : "Sat Jul 21, 2018 8:03 pm"
+  }, {
+    "postId" : "914781",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "914781",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "902",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "That's a very fair point Huw, each member of the committee writes a few lines with regard to their role, these are printed and form part of the Vicky Farm welcome pack. If people can cope with another of my articles in the magazine I'll try and rectify it next year..",
+    "lastEdited" : "Sat Jul 21, 2018 8:49 pm"
+  }, {
+    "postId" : "914975",
+    "author" : {
+      "username" : "Huw",
+      "userId" : "914975",
+      "joined" : "Fri Apr 18, 2003 6:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgend",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "Hi Dougie,\n<br> Great, but I meant more like the minutes of the meeting, Keep up the good work",
+    "lastEdited" : "Sat Jul 28, 2018 6:48 pm"
+  }, {
+    "postId" : "914988",
+    "author" : {
+      "username" : "Sally",
+      "userId" : "914988",
+      "joined" : "Fri May 19, 2017 1:58 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "Hi Huw,\n<br> Will bear that in mind for next time.\n<br> I'm not sure if anyone took any notes but I will ask the rest of the committee and see if we can put something together.\n<br> Glad you like the magazine.\n<br> Thanks for your comments.\n<br> Sally\n<br> \n<img alt=\"😀\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f600.svgz\">",
+    "lastEdited" : "Sun Jul 29, 2018 9:34 am"
+  } ]
+}

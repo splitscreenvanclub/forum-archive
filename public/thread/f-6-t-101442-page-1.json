@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "101442",
+  "title" : "How do I adjust my cab door ?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=101442",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=e7f1ba99db4a599afb3167713168e2d1",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "774745",
+    "author" : {
+      "username" : "Ponvanman",
+      "userId" : "774745",
+      "joined" : "Sun Jun 09, 2013 7:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "In constant amazement",
+      "postCount" : "85",
+      "avatarPath" : "./download/file.php%3Favatar=38026_1411829761.jpg"
+    },
+    "content" : "<a href=\"%5B/%5BURL=http://s1087.photobucket.com/user/Ponvanman/media/busdoor.jpg.html%5D%5Bimg%5Dhttp://i1087.photobucket.com/albums/j462/Ponvanman/busdoor.jpg%5B/img%5D\" class=\"postlink\">[/[URL=http://s1087.photobucket.com/use ... .jpg[/img]</a>url]\n<br> \n<br> \n<a href=\"%5B/%5BURL=http://s1087.photobucket.com/user/Ponvanman/media/busdoor2.jpg.html%5D%5Bimg%5Dhttp://i1087.photobucket.com/albums/j462/Ponvanman/busdoor2.jpg%5B/img%5D\" class=\"postlink\">[/[URL=http://s1087.photobucket.com/use ... .jpg[/img]</a>url]\n<br> \n<br> As can be seen from the photos the cab door is catching at the back. I have looked at the adjustment threads but cant seem to make sense of what i need to do ? There seems to be a good gap at the front edge, it just needs moving along a tad. I cant see that there has been any previous work on the A or B posts ?\n<br> Many thanks",
+    "lastEdited" : "Tue Mar 11, 2014 9:40 pm"
+  }, {
+    "postId" : "775211",
+    "author" : {
+      "username" : "Ponvanman",
+      "userId" : "775211",
+      "joined" : "Sun Jun 09, 2013 7:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "In constant amazement",
+      "postCount" : "85",
+      "avatarPath" : "./download/file.php%3Favatar=38026_1411829761.jpg"
+    },
+    "content" : "Any ideas, tips from anyone ?",
+    "lastEdited" : "Fri Mar 14, 2014 8:57 am"
+  }, {
+    "postId" : "775218",
+    "author" : {
+      "username" : "markp",
+      "userId" : "775218",
+      "joined" : "Wed Jul 20, 2011 9:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "northampton",
+      "postCount" : "4962",
+      "avatarPath" : "./download/file.php%3Favatar=35667_1311369872.jpg"
+    },
+    "content" : "People have not replayed I guess as it's so hard to explain buddy\n<br> \n<br> I'll pm you my number and I'll chat you though it \n<br> \n<br> Markp",
+    "lastEdited" : "Fri Mar 14, 2014 9:42 am"
+  }, {
+    "postId" : "775224",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "775224",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5538",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "small movements...\n<br> undo the 4 screws on each hinge and knock the hinge in towards the bus...moves the door back\n<br> move the hinge out away from the bus...moves the door forward\n<br> \n<br> if that doesnt give you enough change...more extreme but crude adjustment technique...\n<br> \n<br> mallet handle between the hinges and gently open and close the door...moves the door forward\n<br> open the door fully, and gently rock on the hinges...moves the door backwards\n<br> \n<br> combination of the upper and lower hinge twists the door either way to get a straight edge etc....\n<br> \n<br> basic and crude, but thats the basics",
+    "lastEdited" : "Fri Mar 14, 2014 10:51 am"
+  }, {
+    "postId" : "775225",
+    "author" : {
+      "username" : "Reuben",
+      "userId" : "775225",
+      "joined" : "Wed Jul 13, 2011 5:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "dan saaf",
+      "postCount" : "197",
+      "avatarPath" : "./download/file.php%3Favatar=35637_1316540768.gif"
+    },
+    "content" : "Same problem with mine, taking out the Monkey Dubs seals helped though - amazing how much displacement new seals can cause.",
+    "lastEdited" : "Fri Mar 14, 2014 11:06 am"
+  }, {
+    "postId" : "775228",
+    "author" : {
+      "username" : "Ponvanman",
+      "userId" : "775228",
+      "joined" : "Sun Jun 09, 2013 7:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "In constant amazement",
+      "postCount" : "85",
+      "avatarPath" : "./download/file.php%3Favatar=38026_1411829761.jpg"
+    },
+    "content" : "Thanks for the suggestions, i'll give it a (gentle) try \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Fri Mar 14, 2014 11:55 am"
+  } ]
+}

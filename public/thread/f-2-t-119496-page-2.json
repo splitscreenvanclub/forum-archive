@@ -1,0 +1,92 @@
+{
+  "forumId" : "2",
+  "threadId" : "119496",
+  "title" : "Digital or GPS speedo?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=119496&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2dfa034a090fdb280ca7b0c7ae683f9d",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 21,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "898856",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "898856",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2857",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Vwstu wrote:</cite>I'm after a speedo solution, my vans original goes up to 80mph im presuming it works but is probably not very accurate anyway. At the moment doesn't even have a cable fitted. I have been looking for another type to fit, ideally in the original speedo pod in my bus. I know smiths do a 120mph digital one that seem to get good feedback but has anyone got a GPS speedo fitted and what sort? Can't seem to find one that will fit straight in without modification. There's loads of different types and sizes on the net but just wondered if anyone had any experience with this.\n </div>\n</blockquote> Not accurate \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> checked mine against gps at serval speeds its only ever 2-3mph out, which is the sam accuacry as my modern golf. If you want it like a NOS speedo send it to Thorsten Schneider, \n<a href=\"https://www.facebook.com/Krautclassicparts-366680363446553/\" class=\"postlink\">https://www.facebook.com/Krautclassicpa ... 363446553/</a>. Why assume because something is old its not accurate, modern stuff is not allway best!",
+    "lastEdited" : "Fri Jun 16, 2017 9:21 am"
+  }, {
+    "postId" : "898859",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "898859",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20123",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Thanks Nige.",
+    "lastEdited" : "Fri Jun 16, 2017 9:32 am"
+  }, {
+    "postId" : "898875",
+    "author" : {
+      "username" : "susta",
+      "userId" : "898875",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "Just make sure you get it calibrated to wheel diameter and tyre size",
+    "lastEdited" : "Fri Jun 16, 2017 1:26 pm"
+  }, {
+    "postId" : "898882",
+    "author" : {
+      "username" : "Vwstu",
+      "userId" : "898882",
+      "joined" : "Wed Jan 30, 2013 9:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "Stourbridge west midlands",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "What size guage is it? All the Guages I've seen seem to be 85mm",
+    "lastEdited" : "Fri Jun 16, 2017 4:48 pm"
+  }, {
+    "postId" : "898885",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "898885",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Check Speedhut in the States. Huge selection......",
+    "lastEdited" : "Fri Jun 16, 2017 6:02 pm"
+  }, {
+    "postId" : "901101",
+    "author" : {
+      "username" : "W-W",
+      "userId" : "901101",
+      "joined" : "Fri Jul 13, 2012 10:47 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "270",
+      "avatarPath" : "./download/file.php%3Favatar=36802_1506585740.jpg"
+    },
+    "content" : "Not to put the cat amongst the pigeons but have you had an MOT if it's the only speedo, which obviously it is. \n<br> \n<br> From what I've read it would not pass. \n<br> I've an MOT tomorrow, not sure they will notice my broken speedo but I was going to argue that I use a GPS, but from what I've found that doesn't cut the mustard. \n<br> \n<br> \n<br> 62 Double Door\n<br> \n<br>",
+    "lastEdited" : "Fri Aug 04, 2017 10:52 am"
+  } ]
+}

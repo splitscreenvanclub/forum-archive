@@ -1,0 +1,37 @@
+{
+  "forumId" : "33",
+  "threadId" : "107135",
+  "title" : "posting in the wrong section",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=107135",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "811948",
+    "author" : {
+      "username" : "amd",
+      "userId" : "811948",
+      "joined" : "Tue Oct 02, 2012 6:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kent",
+      "postCount" : "139",
+      "avatarPath" : "./download/file.php%3Favatar=37087_1428522717.jpg"
+    },
+    "content" : "<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=14&amp;t=107127\">viewtopic.php?f=14&amp;t=107127</a>\n<!-- l -->\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_twisted.gif\" alt=\":twisted:\" title=\"Twisted Evil\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Fri Nov 28, 2014 8:04 pm"
+  }, {
+    "postId" : "811962",
+    "author" : {
+      "username" : "Choc",
+      "userId" : "811962",
+      "joined" : "Wed Jun 28, 2006 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Derbyshire",
+      "postCount" : "3422",
+      "avatarPath" : "http://i36.photobucket.com/albums/e9/Choc1/9-6-0720.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>amd wrote:</cite>http://www.ssvc.org.uk/phpbb/viewtopic.php?f=14&amp;t=107127\n  <br> \n  <img class=\"smilies\" src=\"./images/smilies/icon_twisted.gif\" alt=\":twisted:\" title=\"Twisted Evil\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\">\n </div>\n</blockquote>\n<br>\n<br>Its for a chat and a discussion, I wasn't pointless bitching. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Fri Nov 28, 2014 8:40 pm"
+  } ]
+}

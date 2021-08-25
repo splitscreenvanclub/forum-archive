@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "123131",
+  "title" : "Doghouse extension",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123131",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=f12d19783a8f78552f18318f556e4949",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920681",
+    "author" : {
+      "username" : "Breconbus",
+      "userId" : "920681",
+      "joined" : "Sun Feb 17, 2019 3:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "21",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> I am fitting a doghouse fan shroud for 1600 twin port. (1965 split screens) On the back there are two extra pieces to close off the oil cooler. One goes on the open side of the cooler and mates to the back of the shroud so totally closing off the cooler. The second piece goes on the bottom of the first piece and sticks out at 45 degrees- so ends inline with the side of the flywheel.- \n<br> Question is, can I now access the top bolt on my bell housing when fitting the engine? Looks like no to me\n<br> Would it matter if I did not fit this piece.?\n<br> \n<br> I,lltry upload a photo\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=33562&amp;sid=f12d19783a8f78552f18318f556e4949&amp;mode=view\"><img src=\"./download/file.php?id=33562&amp;t=1&amp;sid=f12d19783a8f78552f18318f556e4949\" class=\"postimage\" alt=\"image.jpg\" title=\"image.jpg (207.75 KiB) Viewed 1804 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Fri Mar 15, 2019 9:00 am"
+  }, {
+    "postId" : "920682",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920682",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20061",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "No, it's a PITA to fit the nut, so you need to install a treaded insert into the case. Then you just use a bolt from the bellhousing side.",
+    "lastEdited" : "Fri Mar 15, 2019 9:31 am"
+  }, {
+    "postId" : "920686",
+    "author" : {
+      "username" : "Breconbus",
+      "userId" : "920686",
+      "joined" : "Sun Feb 17, 2019 3:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "21",
+      "avatarPath" : null
+    },
+    "content" : "Ok, understood, would it matter if I left the bottom piece off ?\n<br> Vents into fresh air as I can see.or I ,m guessing it brings it clear on the cylinder\n<br> \n<br> thanks",
+    "lastEdited" : "Fri Mar 15, 2019 12:20 pm"
+  }, {
+    "postId" : "920688",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920688",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20061",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yes, it matters. Do not leave any tinware off. You'll also need to replace the tinware across the back of the engine.",
+    "lastEdited" : "Fri Mar 15, 2019 4:15 pm"
+  }, {
+    "postId" : "920691",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "920691",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1043",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "Is there something odd about the bell housing in a '65?\n<br> \n<br> My truck has a '67 H-code transaxle and 1600 dual port engine. I can reach the (nearside upper) bolt. Nothing relating to the dog house assembly gets in the way because the bolt goes in from the front, pointing backwards.\n<br> \n<br> It helps to have long arms and a socket extension (and I've read that some clutch arms get in the way), but I've not had a problem. Is your transaxle different?",
+    "lastEdited" : "Fri Mar 15, 2019 6:30 pm"
+  }, {
+    "postId" : "920692",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920692",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20061",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39206&amp;sid=f12d19783a8f78552f18318f556e4949\">Who.Me?</a> wrote: <a href=\"./viewtopic.php?p=920691&amp;sid=f12d19783a8f78552f18318f556e4949#p920691\" data-post-id=\"920691\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Fri Mar 15, 2019 6:30 pm\n   </div></cite> Is there something odd about the bell housing in a '65?\n  <br> \n  <br> My truck has a '67 transaxle and 1600 dual port engine. I can reach the (nearside upper) bolt. Nothing relating to the dog house assembly gets in the way because the bolt goes in from the front, pointing backwards.\n  <br> \n  <br> It helps to have long arms and a socket extension (and I've read that some clutch arms get in the way), but I've not had a problem. Is your transaxle different? \n </div>\n</blockquote> His engine WAS a single port, and there was a nut on bolt, not a captive insert. So you'd undo a nut on the LHS like you would on the RHS.\n<br> \n<br> But with a twin port engine that is a pain to do. All twin port cases came with a captive thread insert on the upper LHS mount. \n<br> \n<br> Some earlier gearboxes had curved clutch arms which make the access underneath harder.",
+    "lastEdited" : "Fri Mar 15, 2019 6:43 pm"
+  }, {
+    "postId" : "920693",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "920693",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1043",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=124&amp;sid=f12d19783a8f78552f18318f556e4949\">vwJim</a> wrote: <a href=\"./viewtopic.php?p=920692&amp;sid=f12d19783a8f78552f18318f556e4949#p920692\" data-post-id=\"920692\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Fri Mar 15, 2019 6:43 pm\n   </div></cite> \n  <br> His engine WAS a single port, and there was a nut on bolt, not a captive insert. So you'd undo a nut on the LHS like you would on the RHS.\n  <br> \n  <br> But with a twin port engine that is a pain to do. All twin port cases came with a captive thread insert on the upper LHS mount. \n  <br> \n  <br> Some earlier gearboxes had curved clutch arms which make the access underneath harder. \n </div>\n</blockquote> Thanks Jim. I didn't know that the single port engine cases were different (other than the single v dual oil pressure relief bit).",
+    "lastEdited" : "Fri Mar 15, 2019 8:04 pm"
+  }, {
+    "postId" : "920694",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920694",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20061",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Fri Mar 15, 2019 8:15 pm"
+  }, {
+    "postId" : "920870",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "920870",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "That is why mine is a pain to do then. Learnt something there. I’ve had to ask someone to hold the nut in place while I get under the bus and put the bolt in. \n<br> \n<br> So how does the threaded insert work then? As in what do I buy and how do I fit it? Is it similar to a helicoil?\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun Mar 24, 2019 5:22 pm"
+  }, {
+    "postId" : "920872",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920872",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2655",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36430&amp;sid=f12d19783a8f78552f18318f556e4949\">clymoj</a> wrote: <a href=\"./viewtopic.php?p=920870&amp;sid=f12d19783a8f78552f18318f556e4949#p920870\" data-post-id=\"920870\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Mar 24, 2019 5:22 pm\n   </div></cite> That is why mine is a pain to do then. Learnt something there. I’ve had to ask someone to hold the nut in place while I get under the bus and put the bolt in. \n  <br> \n  <br> So how does the threaded insert work then? As in what do I buy and how do I fit it? Is it similar to a helicoil?\n  <br> \n  <br> \n  <br> Sent from my iPhone using Tapatalk \n </div>\n</blockquote> I’ve got a few of these Jonny, I take them out of my engines to save the hassle of trying to tighten a bolt from underneath \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> Let me know when you’re around and I’ll sort you one out.",
+    "lastEdited" : "Sun Mar 24, 2019 6:04 pm"
+  }, {
+    "postId" : "920882",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920882",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20061",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36430&amp;sid=f12d19783a8f78552f18318f556e4949\">clymoj</a> wrote: <a href=\"./viewtopic.php?p=920870&amp;sid=f12d19783a8f78552f18318f556e4949#p920870\" data-post-id=\"920870\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Mar 24, 2019 5:22 pm\n   </div></cite> That is why mine is a pain to do then. Learnt something there. I’ve had to ask someone to hold the nut in place while I get under the bus and put the bolt in. \n  <br> \n  <br> So how does the threaded insert work then? As in what do I buy and how do I fit it? Is it similar to a helicoil?\n  <br> \n  <br> \n  <br> Sent from my iPhone using Tapatalk \n </div>\n</blockquote> Pretty basic. You just drill the case and press on an insert. Job done",
+    "lastEdited" : "Sun Mar 24, 2019 9:21 pm"
+  }, {
+    "postId" : "920887",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "920887",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>8 8US wrote:</cite>\n  <blockquote>\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36430&amp;sid=f12d19783a8f78552f18318f556e4949\">clymoj</a> wrote: <a href=\"./viewtopic.php?p=920870&amp;sid=f12d19783a8f78552f18318f556e4949#p920870\" data-post-id=\"920870\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n     <div class=\"responsive-hide\">\n      Sun Mar 24, 2019 5:22 pm\n     </div></cite> That is why mine is a pain to do then. Learnt something there. I’ve had to ask someone to hold the nut in place while I get under the bus and put the bolt in. \n    <br> \n    <br> So how does the threaded insert work then? As in what do I buy and how do I fit it? Is it similar to a helicoil?\n    <br> \n    <br> \n    <br> Sent from my iPhone using Tapatalk \n   </div>\n  </blockquote> I’ve got a few of these Jonny, I take them out of my engines to save the hassle of trying to tighten a bolt from underneath \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n  <br> \n  <br> Let me know when you’re around and I’ll sort you one out.\n </div>\n</blockquote> Lovely, thanks, I’ve got an oil leak to fix and no girlfriend to hold my nuts so anything which makes dropping and refitting the engine solo a bit easier will be very welcome. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Mar 25, 2019 1:37 am"
+  }, {
+    "postId" : "920890",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920890",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2655",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36430&amp;sid=f12d19783a8f78552f18318f556e4949\">clymoj</a> wrote: <a href=\"./viewtopic.php?p=920887&amp;sid=f12d19783a8f78552f18318f556e4949#p920887\" data-post-id=\"920887\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Mon Mar 25, 2019 1:37 am\n   </div></cite> \n  <blockquote>\n   <div>\n    <cite>8 8US wrote:</cite>\n    <blockquote>\n     <div>\n      <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36430&amp;sid=f12d19783a8f78552f18318f556e4949\">clymoj</a> wrote: <a href=\"./viewtopic.php?p=920870&amp;sid=f12d19783a8f78552f18318f556e4949#p920870\" data-post-id=\"920870\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n       <div class=\"responsive-hide\">\n        Sun Mar 24, 2019 5:22 pm\n       </div></cite> That is why mine is a pain to do then. Learnt something there. I’ve had to ask someone to hold the nut in place while I get under the bus and put the bolt in. \n      <br> \n      <br> So how does the threaded insert work then? As in what do I buy and how do I fit it? Is it similar to a helicoil?\n      <br> \n      <br> \n      <br> Sent from my iPhone using Tapatalk \n     </div>\n    </blockquote> I’ve got a few of these Jonny, I take them out of my engines to save the hassle of trying to tighten a bolt from underneath \n    <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n    <br> \n    <br> Let me know when you’re around and I’ll sort you one out.\n   </div>\n  </blockquote> Lovely, thanks, I’ve got an oil leak to fix and no girlfriend to hold my nuts so anything which makes dropping and refitting the engine solo a bit easier will be very welcome. \n  <br> \n  <br> \n  <br> Sent from my iPhone using Tapatalk \n </div>\n</blockquote> Give me a call next time you are back.",
+    "lastEdited" : "Mon Mar 25, 2019 7:54 am"
+  }, {
+    "postId" : "920899",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "920899",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36819&amp;sid=f12d19783a8f78552f18318f556e4949\">8 8US</a> wrote: <a href=\"./viewtopic.php?p=920890&amp;sid=f12d19783a8f78552f18318f556e4949#p920890\" data-post-id=\"920890\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Mon Mar 25, 2019 7:54 am\n   </div></cite> \n  <blockquote>\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36430&amp;sid=f12d19783a8f78552f18318f556e4949\">clymoj</a> wrote: <a href=\"./viewtopic.php?p=920887&amp;sid=f12d19783a8f78552f18318f556e4949#p920887\" data-post-id=\"920887\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n     <div class=\"responsive-hide\">\n      Mon Mar 25, 2019 1:37 am\n     </div></cite> \n    <blockquote>\n     <div>\n      <cite>8 8US wrote:</cite> \n      <br> I’ve got a few of these Jonny, I take them out of my engines to save the hassle of trying to tighten a bolt from underneath \n      <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n      <br> \n      <br> Let me know when you’re around and I’ll sort you one out.\n     </div>\n    </blockquote> Lovely, thanks, I’ve got an oil leak to fix and no girlfriend to hold my nuts so anything which makes dropping and refitting the engine solo a bit easier will be very welcome. \n    <br> \n    <br> \n    <br> Sent from my iPhone using Tapatalk \n   </div>\n  </blockquote> Give me a call next time you are back. \n </div>\n</blockquote> Will do, thanks",
+    "lastEdited" : "Mon Mar 25, 2019 1:07 pm"
+  }, {
+    "postId" : "920900",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "920900",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15344",
+      "avatarPath" : null
+    },
+    "content" : "LoL..no girlfriend around.. LoL",
+    "lastEdited" : "Mon Mar 25, 2019 1:48 pm"
+  } ]
+}

@@ -1,0 +1,24 @@
+{
+  "forumId" : "32",
+  "threadId" : "96245",
+  "title" : "Out of office/away until ?? On PM",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=96245",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "736800",
+    "author" : {
+      "username" : "SBVW59Mango",
+      "userId" : "736800",
+      "joined" : "Tue Aug 16, 2011 6:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "743",
+      "avatarPath" : null
+    },
+    "content" : "Is there any way that an out of office feature can buy put on the PM system so that if people are away you can set your out of office to reflect when you will be back preventing people looking ignorant? \n<br>\n<br>Just a suggestion\n<br>\n<br>Thanks",
+    "lastEdited" : "Fri Jul 26, 2013 1:05 pm"
+  } ]
+}

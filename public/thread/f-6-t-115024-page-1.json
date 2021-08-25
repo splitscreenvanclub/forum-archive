@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "115024",
+  "title" : "Fitting Empi gear shift",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115024",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867525",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "867525",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> \n<br> I'm trying to fit an Empi shifter that I bought ages ago when I knew nothing. I know a bit more now but the Empi unit seems to be too long for the distance between the cab floor and the cup in the front rod.\n<br> \n<br> \n<a href=\"http://s790.photobucket.com/user/stevejones3163/media/Rusty2/IMAG2926_zpsmckxvyrh.jpg.html\" class=\"postlink\"><img src=\"http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty2/IMAG2926_zpsmckxvyrh.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> I suspect I may need one of these. Can anyone confirm?\n<br> \n<br> \n<a href=\"http://www.customandcommercial.com/vw-split_screen/splitscreen_interior_parts/splitscreen_gearstick_gearlinkage--and--handbrake_parts/empi_quick_shift_kit_55-79_5197/\" class=\"postlink\">http://www.customandcommercial.com/vw-s ... 5-79_5197/</a>\n<br> \n<br> Cheers\n<br> \n<br> Steve",
+    "lastEdited" : "Sun Mar 13, 2016 7:22 pm"
+  }, {
+    "postId" : "867533",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "867533",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3074",
+      "avatarPath" : null
+    },
+    "content" : "Hi Steve - it will need a spacer, read this article \n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/archives/manuals/hurst_bus_shifter/hurst-bus-manual.pdf\" class=\"postlink\">http://www.thesamba.com/vw/archives/man ... manual.pdf</a>\n<br> \n<br> The empi is a copy of the OG Hurst shifter in all but quality.\n<br> \n<br> The quick shift plate will do the trick, although people like cool air do the correct Hurst type spacer, which is just a bit of metal folded into a rectangle.\n<br> \n<br> Hope that helps !\n<br> \n<br> Jonny",
+    "lastEdited" : "Sun Mar 13, 2016 8:39 pm"
+  }, {
+    "postId" : "867566",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "867566",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Jonny, that's just the info I needed.\n<br> \n<br> I've looked at Cool Air VW and can see the one you're referring to. I reckon I can make that!\n<br> \n<br> Steve",
+    "lastEdited" : "Sun Mar 13, 2016 10:44 pm"
+  }, {
+    "postId" : "867581",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "867581",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3074",
+      "avatarPath" : null
+    },
+    "content" : "TBH the empi quick shift plate offers a bigger footprint than the Hurst spacer, so for a couple of quid more it might be worth doing it with that ?",
+    "lastEdited" : "Mon Mar 14, 2016 7:15 am"
+  }, {
+    "postId" : "867582",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "867582",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "and quicker \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Mon Mar 14, 2016 7:20 am"
+  } ]
+}

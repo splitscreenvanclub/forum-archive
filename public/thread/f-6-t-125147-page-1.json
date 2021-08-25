@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "125147",
+  "title" : "New Ownership and a few questions",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125147",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=862bd4babe25193e3c0c22241bee7919",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932253",
+    "author" : {
+      "username" : "James13009",
+      "userId" : "932253",
+      "joined" : "Wed Jul 29, 2020 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "Hello I am new to VW Splitscreen ownership.\n<br> \n<br> Hello all! \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> \n<br> Currently the van isn’t running which I am looking to sort. But I have lots of questions that I could do with answering.\n<br> \n<br> I’ll start with the specification:\n<br> • 1776 engine\n<br> • Twin Carb Weber IDF44\n<br> • 009 Distributor (0231 178 009)?\n<br> • Coil – Flame Thrower –3 ohm\n<br> • 12v system\n<br> \n<br> 1)\n<br> The engine isn’t starting currently, and with the ignition on and the engine not a TDC it reads 12v on both the coil terminals. I think the coil is faulty. No spark from the ignition coil when tested with a spark plug. Does this sound right?\n<br> \n<br> 2)\n<br> On replacing the coil, I currently have the 3 ohm flame thrower coil. I wish to upgrade very soonish to the 123 ignition tune+ system (Recommendations on best place to buy would also be helpful). Given the change what would be the best coil to go for?\n<br> \n<br> (I don’t actually understand the difference between selecting a 3ohm or 0.6ohm coil as they are advertised)\n<br> \n<br> 3) \n<br> My fuel cap doesn’t have a seal inside, I am looking too buy one a 60mm cork one. Does this look right?\n<br> \n<img src=\"https://i.ibb.co/vVz3pWd/Whats-App-Image-2020-09-16-at-13-33-52.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> 4) \n<br> I have a 6 volt fuel gauge. I read if match my fuel gauge to the fuel sender I can get it too work. \n<br> I have a 12v system – but it isn’t clear what the fuel sender voltage is? Any idea’s of the best way forward? \n<br> \n<img src=\"https://i.ibb.co/JFttfY3/Whats-App-Image-2020-09-16-at-13-33-46.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> 5) I’m quite concerned about this brake line being the lowest part on the bus. (I want to change to CE rack) Any thoughts on this?\n<br> \n<img src=\"https://i.ibb.co/KW5qjG7/Whats-App-Image-2020-09-16-at-13-37-17.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Wed Sep 16, 2020 12:39 pm"
+  }, {
+    "postId" : "932265",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "932265",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1071",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "1/. Test the coil with a multimeter before writing it off. (Method 2 here... \n<a href=\"https://www.wikihow.com/Test-an-Ignition-Coil\" class=\"postlink\">https://www.wikihow.com/Test-an-Ignition-Coil</a>). A lack of spark at the coil could also be points/condensor fault in the distributor (or electronic points if you have them). Testing the coil windings with a multimeter will identify if that is the culprit.\n<br> \n<br> 2/. Don't know\n<br> \n<br> 3/. Should be rubber? Part 11 in this list... \n<img src=\"http://www.oacdp.org/5867part/189.png\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> 4/. You could fit a voltage dropper (cheap from ebay). That's what I did, but later I read that the gauge and sender will work perfectly well on 12V. The only bit you need to change is to fit a 12V bulb for the gauge lighting\n<br> \n<br> 5/. Don't know.",
+    "lastEdited" : "Thu Sep 17, 2020 7:00 am"
+  }, {
+    "postId" : "932616",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "932616",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1111",
+      "avatarPath" : null
+    },
+    "content" : "5. The master cylinder should be way off being the lowest point, otherwise one speed bump and you’ve lost your brakes. The beam should be sat quite a bit lower than your cylinder; assuming that black bar out of focus in your pic is the beam, it looks much lower already.\n<br> \n<br> You should be able to access the cylinder fluid reservoir from the floor inside your cab. If you can’t, this probably indicates it’s not sitting correctly.",
+    "lastEdited" : "Thu Oct 08, 2020 7:51 pm"
+  }, {
+    "postId" : "932622",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "932622",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2671",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "1. Show us a picture of the current coil connections and where they go.\n<br> \n<br> 2. VWJim has the 123+ distributors, \n<a href=\"https://www.vwjim.co.uk/ourshop/cat_1420244-Ignition-Components.html\" class=\"postlink\">https://www.vwjim.co.uk/ourshop/cat_142 ... nents.html</a>\n<br> \n<br> 3. Looks like there is one there?\n<br> \n<br> 4. 6v guage will work fine, it reads the resistance of the fuel sender not the voltage, as Who.Me says change the bulb to 12v, but no voltage dropper required.\n<br> \n<br> 5. As ferkh10 says beam is lower, that's how the pipe should come out the MC. Why are you changing to CE rack?",
+    "lastEdited" : "Fri Oct 09, 2020 7:07 am"
+  } ]
+}

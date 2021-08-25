@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "116274",
+  "title" : "Webasto installs ?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=116274",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "876796",
+    "author" : {
+      "username" : "Manzo",
+      "userId" : "876796",
+      "joined" : "Fri Mar 24, 2006 11:08 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "385",
+      "avatarPath" : "./download/file.php%3Favatar=2211_1484821261.jpg"
+    },
+    "content" : "Anyone installed a Webasto Air Top heater in their bus ? If so, any feedback regarding how noisy it is and where did you position it ?\n<br> \n<br> Cheers",
+    "lastEdited" : "Tue Jun 14, 2016 6:56 am"
+  }, {
+    "postId" : "876803",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "876803",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "718",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "Mine is under the rear seat/bed, pumps a bit noisy on start up but settles down once running, its quite loud outside the optional silencer but I'm inside, works very well, if you've got the money then do it",
+    "lastEdited" : "Tue Jun 14, 2016 7:58 am"
+  }, {
+    "postId" : "876805",
+    "author" : {
+      "username" : "Manzo",
+      "userId" : "876805",
+      "joined" : "Fri Mar 24, 2006 11:08 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "385",
+      "avatarPath" : "./download/file.php%3Favatar=2211_1484821261.jpg"
+    },
+    "content" : "Thanks for the response\n<br> In the photo you posted how is it plumbed in ?\n<br> Also - do you use it when driving and if so, do you feel the warmth in the cab area OK ?",
+    "lastEdited" : "Tue Jun 14, 2016 8:41 am"
+  }, {
+    "postId" : "876810",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "876810",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "718",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "One tube is air intake the other is the warm outlet and as you can see its connected to the og heating ducting via a splinter box giving heat up front through the vents",
+    "lastEdited" : "Tue Jun 14, 2016 10:05 am"
+  }, {
+    "postId" : "876811",
+    "author" : {
+      "username" : "Manzo",
+      "userId" : "876811",
+      "joined" : "Fri Mar 24, 2006 11:08 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "385",
+      "avatarPath" : "./download/file.php%3Favatar=2211_1484821261.jpg"
+    },
+    "content" : "OK thanks - how's the heating in the cab when on the move ?",
+    "lastEdited" : "Tue Jun 14, 2016 10:06 am"
+  }, {
+    "postId" : "876816",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "876816",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "718",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "its ok, not as good/powerful as the rear but its got to travel along the og ducting so its to be expected, the actual heater kicks out loads of heat imo",
+    "lastEdited" : "Tue Jun 14, 2016 11:27 am"
+  }, {
+    "postId" : "876817",
+    "author" : {
+      "username" : "Manzo",
+      "userId" : "876817",
+      "joined" : "Fri Mar 24, 2006 11:08 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "385",
+      "avatarPath" : "./download/file.php%3Favatar=2211_1484821261.jpg"
+    },
+    "content" : "OK thanks so warm enough to be pleasant but not cooking you - sound about right ?",
+    "lastEdited" : "Tue Jun 14, 2016 12:04 pm"
+  }, {
+    "postId" : "876823",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "876823",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "718",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "it has a temperature control thermostat dial which also acts as the on off switch, crap photo but you get the idea",
+    "lastEdited" : "Tue Jun 14, 2016 1:18 pm"
+  }, {
+    "postId" : "876824",
+    "author" : {
+      "username" : "Manzo",
+      "userId" : "876824",
+      "joined" : "Fri Mar 24, 2006 11:08 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "385",
+      "avatarPath" : "./download/file.php%3Favatar=2211_1484821261.jpg"
+    },
+    "content" : "thanks",
+    "lastEdited" : "Tue Jun 14, 2016 1:48 pm"
+  }, {
+    "postId" : "876879",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "876879",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "980",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ziggy wrote:</cite>Mine is under the rear seat/bed, pumps a bit noisy on start up but settles down once running, its quite loud outside the optional silencer but I'm inside, works very well, if you've got the money then do it\n </div>\n</blockquote> Like he said. Works well. I turn it on while I'm driving or 30 minutes before I go to sleep to warm up the bus and then again in the morning while still in bed. Too noisy to run while sleeping( for me but I'm a sensitive to noise kinda person) and the noise outside would possibly bother other campers at nite.",
+    "lastEdited" : "Wed Jun 15, 2016 5:10 am"
+  }, {
+    "postId" : "876888",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "876888",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20175",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "When positioning it, note the maximum length of duct the hot air can travel in the instructions. \n<br> \n<br> I'd expect fitting it in the back and pushing the air to the front will be beyond that specified distance. \n<br> \n<br> Fitting is fairly straight forward. Hole cutters required &amp; basic tools. The instructions are detailed. \n<br> \n<br> They kick out loads of heat. Quiet enough to sleep through, though I wouldn't unless you have a CO monitor fitted. \n<br> \n<br> Depending on how well you insulate your ducts / van / how drafty it is, they heat the van well while driving. Under 60-65 we find it easily wins the battle. Over 70 then the cold air wins. \n<br> \n<br> They use a tiny amount of fuel too, so much cheaper to run than gas.",
+    "lastEdited" : "Wed Jun 15, 2016 8:11 am"
+  }, {
+    "postId" : "911979",
+    "author" : {
+      "username" : "WorkerVan",
+      "userId" : "911979",
+      "joined" : "Thu Oct 05, 2017 9:31 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "I installed under the Front Bench seat. I had to make a bracket to mount the Webasto level and also ensure it is sealed so no exhaust leakage into cabin - Carbon Monoxide monitor kept handy just in case.\n<br> \n<br> Installed a flap valve so can divert front to back. Its a Panel Van so wanted the Heat mainly in the front and patched into the cab vents so can clear the windscreen.\n<br> \n<br> Not a 5min install but quite straight forward. \n<br> - Fuel line from back to Webasto - in kit enough hose is provided\n<br> - Doser solenoid at tank end needs power. Basically clicks on and off dripping the fuel to the Webasto. Its not a pump\n<br> - I purchased an ebespacher exhaust to make it more quiet. Exhaust is at the back rear midway down the cab.\n<br> - Air intake is at front underneath behind beam\n<br> - Bought an old heater knob and cable off a minim and mounted under seat to control the flap valve\n<br> - Temperature stat is under the seat near the flap valve knob.\n<br> - Shortened the wiring as it comes with a long tails. Beware there are resistors in line hidden under the heat shrink. So you cant just cut and join. I stripped all the shrink off before hand and drew a diagram.\n<br> - Documentation that came with was not great but sufficient. I have an elect background so the wiring was the easy part for me.\n<br> \n<br> I'll try and find some pics of underneath.\n<br> \n<br> It kicks out loads of heat\n<br> \n<br> Hope this helps.\n<br> D",
+    "lastEdited" : "Tue May 01, 2018 3:24 pm"
+  }, {
+    "postId" : "911997",
+    "author" : {
+      "username" : "EeVeeWee",
+      "userId" : "911997",
+      "joined" : "Mon Oct 12, 2015 2:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Amersfoort, The Netherlands",
+      "postCount" : "312",
+      "avatarPath" : null
+    },
+    "content" : "Edit",
+    "lastEdited" : "Tue May 01, 2018 8:09 pm"
+  }, {
+    "postId" : "912012",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "912012",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20175",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Think the instructions say exhaust pipe needs to go the side of a vehicle and not to be discharged under the vehicle for the risk of fumes coming back inside.",
+    "lastEdited" : "Wed May 02, 2018 7:00 am"
+  }, {
+    "postId" : "912281",
+    "author" : {
+      "username" : "EeVeeWee",
+      "userId" : "912281",
+      "joined" : "Mon Oct 12, 2015 2:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Amersfoort, The Netherlands",
+      "postCount" : "312",
+      "avatarPath" : null
+    },
+    "content" : "This is my install.\n<br> I can choose between heating the cabin through the original front heater pipes or directly into the cargo area.\n<br> \n<br> \n<img src=\"https://lh3.googleusercontent.com/s2kcEIYXpIcz_I72bDhCLgFQQlhE14yJIC5qFc1aVxLT8EEjA6TTZSD7_N1aL9VLe3NkpjR4xLiVi41G1OQylYfXUAVuokxsQ4mq_wHcWDMUEQqGDw8MUH_eH2YvmOswk5zSLK2mCSY89v1lp0ZOHfWEYiGzydOltCQKKbGzUIq6g3LSIp6Qbd0YQJdQimXdJiNWC0IlYOnelJRBUvSGjeAvx_iHoE2ZEUIS3spBKwnc4HA35ZkJXBqjoOuFGc-P9ivYcsp3OUlYqc1Fk3DWaewdvQTG86ddOogHy2O8bN-8hRlGwbp3v11LW975gzUG3Y5L5GUuuW82pJKCuQueAjdb2SPqqeJNKN9e8UIxdMJedX1NFL6OqQoiRaHfObd2jdbk_xoJhqh44m4DOtGFDV2y6Xhs-S-7Y_B3xRHCpRWsQPlH70LowwzkOQ2FvQpB7VLf9Qiea6jYjWZWuKGWdVDXayJ77Iatkm93o0j8UC0BjHhzkKixOSda-mK68myvhjS8CuW_8qlkGBbHbgUo1wEknCS_8Fmg3-yPmJzITTcEqYioKGkCrtq2Izj7Ciqhl6eD_-1qvhlj_kSz8QriC0tSFYyNepRkN4sAHyBQmmkHD7vk-WpJ9XG91dzrkbYFbv2GRLGjCeG4-tKNPmb3yzUc1bJnTq3P=w444-h712-no\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"https://lh3.googleusercontent.com/fUwu3JE0G9WXLAy5Kbaf9h7vo8VKeT6ghXLfyZGjWRjeEcXPaIKBe3wO98WLBeGMNRDnbuNUYUl0QRBnk72Ckmo_MAo-NLVvtXlqy7fWpOZTQ1aMRextFc1CwPsTbn8TZ5CAA4yGMYRdveDrdIns8Lix9Xsx7EFfTeZ6jCAelQ6ZDjkp_PTUL3KE4KituhyBYQ1GuF83spm_GjVjm0JX-hwtt-d36sGCcEC8mkhbcEKBqPKQkChzxFZAo1USzd17LI_4COUlgf4GYhnaRQOS7lteLxSJueAlaywO3JrUEjHZzsCBWDdxQauX-WtiW-cthY23GoXECSeapAWy4URj9z1Tv4FCZConCTSHAb9WKqLSMtpQTc_YWAv5KUFl10-jJpSnjLl3KiSMnTeBnvUG7xjb-OW8KXukyGWqCBmJzh_rwjS9DAJb8W3qyizQlpLjAs5HAjH2xsZtUNdDEh4zRUiOqesVmQNuLHJnScvHO6G7ymD-JI1uodSGQwdQ_HJKJDqWcd5IOBI1nEPaD2ji31h3-bzXb3FyQSN4Z_kDxLoKAbKKK50NGCj9OwMv9zdQ3U7xTM40717X5oJ3x9vC885yQyGrYbIcO30fN7slPJiEODnAdHQyYXX0SGgx4m0MmqJqLFLNdSg4PzInlps3iYjBAIdwBalb=w380-h712-no\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"https://lh3.googleusercontent.com/5ZOCWOOjabqWr1Oap5_vimvshZW3bI12cTMmyy1FmGIP-3bIl0vOFLbHZ8tOHTJNHrfigiaGWQnnMA56FNQUAZfPCwSBYC_N7ImubbUBpSZFhqYK2aM982sVzUBKMi9COV2AYEVTt205VtswXoMb3kpqosrypYAYJ6ov4t2hMPVzINluBPN0svEW2Y2XUpBy46b2dny3rWdo5qmC7u6mBAEnxK00MKUQ3znuIe2uu4WcJmViDY9FwRCXp_JIjZWk2DafWsRamPDixkQEleswWFgCGfOzG1lrGg2pnUjfjKlQMbauXA60HM9Z_gevF2j9iuue-R871RZARO6g0RD1yemXWgJxW-c99odqQex57vmHK_VW-LrFHttHsK8zYm9zTIOnc2wtULEmRsRl8UPbvhHz0zGAKSGSrjZAZpVfxHo3AnylvL9A2fk9pCq9AGA-_ttXQewpM41X2HWCSuRj2aHVCqAYcRlBlKrx-yxKk7ZfuSWZ4V14ZzluSIEewQB5xmtoPa88ro7W0buyz5CELIv157X4mOQWFv_ZEIllJtej7FlpexC4wjKLSfa9CqtMALDHuKGO3-n8JJh3ZJPk62QNA0caoLnlhPjHmY2eviAqd2N_CQHKkl-_cJskudjEgaqjwX_POERCI2pBWLcRK1ew8Igli87R=w1199-h706-no\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"https://lh3.googleusercontent.com/Y_4As2s1hh0ET7cX3Fsm4LQ5E28MGJoZCkmWm7kB8kRUvuzFglgD5-z6DcxhyAr4v36i9jzCz4TpwW88y4GM9yE7dZpjLkuZqB-tckUYRySpLhxQhnrTNgOj0lrc25t-WI7UtHmZRYCa1dH1C028W04cm87_Zaafl8m2deaNv2Qdl4vfmI4_Vw0bbaLM_TxM3WdTnWlJcRtXGHY-vjS_wxNl4ZTf9ukrqAYS0sOWaxYT1lLUs2ZhzFUlB5Fi9RzXW4UJZQdgLoV__3JO-o0v8PR4ps0lyhGn3Ryu06zV8w1T0OVMEMjoRCq_udCci1bfgDF0GXNQHOPULdoBNDMpqSGLxtcQyakBLZw-7xGg21A70fYJ_qLcOtoLSWDRmAHLNfqKtxpBk0ego8QfEquJ7TwXzEjGCFsKgSJeApvxVpoyUsMDcWygdZVxKqT-vseAOpwV-N5XoEENMBTCiWp5pubuaQvD07kEv7CQ6k4ug_yBR3VzckLNQjz8vPK5WX6bFCxlDRSGZIc5CLHYRXVT6_Fc_GW8YPQYmcsHx0L8h1tHqBsOwEimt70Uioj6QaWH-MCj3GDmMQwL0PbS_RpNOK436G0ZhM9ju5lsMyekTmXtZfnPdPNzgSutO8pHiTL9raRWJrRoNY3bowiZUpBZL4zv9vqO2U_x=w1199-h675-no\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Wed May 09, 2018 8:46 pm"
+  } ]
+}

@@ -1,0 +1,209 @@
+{
+  "forumId" : "2",
+  "threadId" : "119496",
+  "title" : "Digital or GPS speedo?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=119496",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=d9a7409b3a5f0fee184caec5280e6d54",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 21,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "898760",
+    "author" : {
+      "username" : "Vwstu",
+      "userId" : "898760",
+      "joined" : "Wed Jan 30, 2013 9:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "Stourbridge west midlands",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "I'm after a speedo solution, my vans original goes up to 80mph im presuming it works but is probably not very accurate anyway. At the moment doesn't even have a cable fitted. I have been looking for another type to fit, ideally in the original speedo pod in my bus. I know smiths do a 120mph digital one that seem to get good feedback but has anyone got a GPS speedo fitted and what sort? Can't seem to find one that will fit straight in without modification. There's loads of different types and sizes on the net but just wondered if anyone had any experience with this.",
+    "lastEdited" : "Wed Jun 14, 2017 1:24 pm"
+  }, {
+    "postId" : "898766",
+    "author" : {
+      "username" : "W-W",
+      "userId" : "898766",
+      "joined" : "Fri Jul 13, 2012 10:47 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "270",
+      "avatarPath" : "./download/file.php%3Favatar=36802_1506585740.jpg"
+    },
+    "content" : "No. \n<br> But look do a search for Speedhut, but you need additional warning lights. \n<br> \n<br> My speedo is buggered, it really didn't work before I took it apart. \n<br> Electronic stuff is a lot better as I don't feel the need to take it apart and bugger it up. \n<br> \n<br> That is unless there is firmware to update \n<img src=\"http://emoji.tapatalk-cdn.com/emoji23.png\">\n<br> \n<br> 62 Double Door",
+    "lastEdited" : "Wed Jun 14, 2017 4:51 pm"
+  }, {
+    "postId" : "898769",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "898769",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20130",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "The Smiths aren't that great. I've fitted a few and several have had issues, but what's worse is the totally useless assistance you get from the manufacturer. \n<br> \n<br> There's only one person to answer the tech' questions, though he never calls you back even if you leave a message with reception or on his voicemail everyday for two weeks! When you finally catch him at his desk he had no answers for any of the faults. They had the speedo back, tested, repair, refitted, different faults! Argh......",
+    "lastEdited" : "Wed Jun 14, 2017 5:44 pm"
+  }, {
+    "postId" : "898774",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "898774",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15528",
+      "avatarPath" : null
+    },
+    "content" : "Translation..\n<br> Basically the Chinese SMITHS version is said to be CRAP.\n<br> \n<br> Lots of people say so..\n<br> Customer SERVICE = NIL..\n<br> \n<br> Looks nice but it does not WORK..\n<br> It has issues and they cannot, will not or do not help..\n<br> Only my repeat of what the moans are..\n<br> G",
+    "lastEdited" : "Wed Jun 14, 2017 5:56 pm"
+  }, {
+    "postId" : "898779",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "898779",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20130",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yep. About sums it up. \n<br> \n<br> They don't understand their own product well enough to think of solutions to solve it not working with LED indicators for example, or that their wiring instructions are still wrong despite updating them....",
+    "lastEdited" : "Wed Jun 14, 2017 6:45 pm"
+  }, {
+    "postId" : "898786",
+    "author" : {
+      "username" : "Vwstu",
+      "userId" : "898786",
+      "joined" : "Wed Jan 30, 2013 9:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "Stourbridge west midlands",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "Ha ha that's the smiths one out then. Do like the GPS idea more anyway. Will look at speedhut or other GPS stuff, gotta be accurate I'd imagine. Thanks for the advice.",
+    "lastEdited" : "Wed Jun 14, 2017 7:55 pm"
+  }, {
+    "postId" : "898804",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "898804",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20130",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I'm fitting speed sensors, so my ECU will give accurate speed outputs",
+    "lastEdited" : "Wed Jun 14, 2017 9:52 pm"
+  }, {
+    "postId" : "898805",
+    "author" : {
+      "username" : "W-W",
+      "userId" : "898805",
+      "joined" : "Fri Jul 13, 2012 10:47 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "270",
+      "avatarPath" : "./download/file.php%3Favatar=36802_1506585740.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>I'm fitting speed sensors, so my ECU will give accurate speed outputs\n </div>\n</blockquote> And lets you play with traction control \n<img src=\"http://emoji.tapatalk-cdn.com/emoji41.png\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> But what after market speedo that fits the bus takes ecu output. \n<br> \n<br> 62 Double Door",
+    "lastEdited" : "Wed Jun 14, 2017 10:32 pm"
+  }, {
+    "postId" : "898809",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "898809",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20130",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Autometer, I think.",
+    "lastEdited" : "Wed Jun 14, 2017 10:57 pm"
+  }, {
+    "postId" : "898846",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "898846",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Just picked up this post. I've got a GPS speedo fitted and its the nuts...fantastic bit of kit \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> Does 0-60, 1/4 mile, records max speed, compass bearing....and a bunch of other stuff \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> And it's starts up instantly...no waiting to pick up satellites. I've since clean up the paint around the speedo. It's where the chrome ring used to be....being a deluxe.\n<br> Spot personalised \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Thu Jun 15, 2017 11:20 pm"
+  }, {
+    "postId" : "898848",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "898848",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20130",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Like that!",
+    "lastEdited" : "Fri Jun 16, 2017 6:33 am"
+  }, {
+    "postId" : "898849",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "898849",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15528",
+      "avatarPath" : null
+    },
+    "content" : "Nice...",
+    "lastEdited" : "Fri Jun 16, 2017 6:39 am"
+  }, {
+    "postId" : "898850",
+    "author" : {
+      "username" : "Vwstu",
+      "userId" : "898850",
+      "joined" : "Wed Jan 30, 2013 9:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "Stourbridge west midlands",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "Yeah that does look extremely cool.",
+    "lastEdited" : "Fri Jun 16, 2017 6:57 am"
+  }, {
+    "postId" : "898851",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "898851",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20130",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>flatbeat wrote:</cite>Just picked up this post. I've got a GPS speedo fitted and its the nuts...fantastic bit of kit \n  <img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n  <br> Does 0-60, 1/4 mile, records max speed, compass bearing....and a bunch of other stuff \n  <img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n  <br> And it's starts up instantly...no waiting to pick up satellites. I've since clean up the paint around the speedo. It's where the chrome ring used to be....being a deluxe.\n  <br> Spot personalised \n  <img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">\n </div>\n</blockquote> Was it a direct replacement, or did you have to \"make it fit\"?",
+    "lastEdited" : "Fri Jun 16, 2017 6:58 am"
+  }, {
+    "postId" : "898855",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "898855",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Pretty much a straight fit Jim. The units only an inch or so deep and has a big screw ring on the back....like Autometer gauges.\n<br> It has separate left and right turn signals (it's wired for seperately left and right, easy mod) and high beam warning light but NO ignition or oil warning lights. That didn't bother me cos of how I was doing the dash. I've got BIG oil and ign warning lights where the radio knobs would have been. Im getting a billet alloy face plate made up to take 2 gauges and the 2 warning lights to fit where the radio goes. Does that all make sense? \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> You can see the GPS ariel/pick up next to the ashtray. \n<br> Nige",
+    "lastEdited" : "Fri Jun 16, 2017 8:47 am"
+  } ]
+}

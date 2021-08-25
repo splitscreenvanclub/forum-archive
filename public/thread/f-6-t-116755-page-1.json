@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "116755",
+  "title" : "Is there a \"best\" ignition switch available from anyone?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=116755",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=caf9f87363d28e54b03111d5add22fa2",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "879744",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "879744",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "769",
+      "avatarPath" : null
+    },
+    "content" : "I was starting to suspect my ignition switch for my occasional non-starter woes.\n<br> \n<br> Yesterday it started smoking, took it apart and the thing must have been arcing as the bakelite-type material was crumbling and the sprung position didn't have the best contact mating faces.\n<br> \n<br> I bought this switch 2nd hand (T-code) 5 years ago to then match all my locks to it.\n<br> \n<br> Does anyone now do a new ignition switch with an og style key that I can then match my locks to or do I need to find another old T-code ignition switch?\n<br> \n<br> Cheers\n<br> \n<br> Mark",
+    "lastEdited" : "Mon Jul 25, 2016 8:57 am"
+  }, {
+    "postId" : "879746",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "879746",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2659",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "There was a thread a few weeks ago about ignition switches:-\n<br> \n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=116144&amp;p=875998\" class=\"postlink\">viewtopic.php?f=6&amp;t=116144&amp;p=875998</a>\n<br> \n<br> Is this what you're after?",
+    "lastEdited" : "Mon Jul 25, 2016 9:04 am"
+  }, {
+    "postId" : "879749",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "879749",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "769",
+      "avatarPath" : null
+    },
+    "content" : "I don't think new switch is for later T code keys unfortunately.",
+    "lastEdited" : "Mon Jul 25, 2016 10:37 am"
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "forumId" : "10",
+  "threadId" : "108406",
+  "title" : "SSVC @ Volksworld 2015",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=108406",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "821006",
+    "author" : {
+      "username" : "garys67",
+      "userId" : "821006",
+      "joined" : "Mon Oct 18, 2010 7:29 pm",
+      "profileRank" : "Registered user",
+      "location" : "Chichester, West Sussex",
+      "postCount" : "41",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br>How do we go about getting put on the list for a possible spot in the sandown park parade ring with the SSVC for Sunday 28th March?\n<br>Thanks\n<br>Gary",
+    "lastEdited" : "Sun Feb 08, 2015 7:15 pm"
+  }, {
+    "postId" : "826876",
+    "author" : {
+      "username" : "glennbroadway",
+      "userId" : "826876",
+      "joined" : "Wed Aug 29, 2012 10:41 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Lee-on-the-Solent",
+      "postCount" : "84",
+      "avatarPath" : "./download/file.php%3Favatar=36962_1347739472.jpg"
+    },
+    "content" : "I have the same question. We attended this show a few years back and there was a club lineup just outside the venue. Is that happening again this and would our Samba be suitable?\n<br>\n<br>Many thanks, Glenn",
+    "lastEdited" : "Fri Mar 20, 2015 10:15 am"
+  } ]
+}

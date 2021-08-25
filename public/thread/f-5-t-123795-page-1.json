@@ -1,0 +1,131 @@
+{
+  "forumId" : "5",
+  "threadId" : "123795",
+  "title" : "Wanted - Stock 1500cc distributor",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=123795",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=537d3a27851bd03d583de3cac88a6d5a",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "924735",
+    "author" : {
+      "username" : "mountainbus",
+      "userId" : "924735",
+      "joined" : "Mon May 18, 2009 11:15 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "130",
+      "avatarPath" : null
+    },
+    "content" : "I'm looking for a stock distributor as fitted to 66/67 1500 engine. Part number 131 905 205",
+    "lastEdited" : "Sat Aug 31, 2019 7:01 am"
+  }, {
+    "postId" : "924812",
+    "author" : {
+      "username" : "Banger",
+      "userId" : "924812",
+      "joined" : "Tue Jul 19, 2011 6:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "237",
+      "avatarPath" : "./download/file.php%3Favatar=35663_1320695493.jpg"
+    },
+    "content" : "Slough/Bracknell would probably be your best bet, although you could use a 113-905-205K. Timing is the same at 7.5 degs BTDC. Assuming you are using a Solex 30 pict 1 with the \"power jet\"?",
+    "lastEdited" : "Mon Sep 02, 2019 5:55 pm"
+  }, {
+    "postId" : "924845",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "924845",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "If you want a stock dizzy then you'll need NOS cap, rotor arm and condenser .....\"..................maybe..\n<br> I'll check to see if I have that number..\n<br> \n<br> Ron",
+    "lastEdited" : "Tue Sep 03, 2019 12:16 pm"
+  }, {
+    "postId" : "924890",
+    "author" : {
+      "username" : "mountainbus",
+      "userId" : "924890",
+      "joined" : "Mon May 18, 2009 11:15 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "130",
+      "avatarPath" : null
+    },
+    "content" : "Can't get out to shows or swapmeets unfortunately, so Rocket Ron, if you could check if you have one I would appreciate it.",
+    "lastEdited" : "Wed Sep 04, 2019 8:42 am"
+  }, {
+    "postId" : "924932",
+    "author" : {
+      "username" : "welldoneade",
+      "userId" : "924932",
+      "joined" : "Sat Jan 10, 2009 12:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bromley, Kent",
+      "postCount" : "76",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> I have a 111-905-205 M which apparently was used on Feb’64 - ‘67 beetle and bus engines if you’re interested.\n<br> I’m fairly sure this came off the 1500 that was in my old ‘65 bus.",
+    "lastEdited" : "Thu Sep 05, 2019 12:13 pm"
+  }, {
+    "postId" : "924942",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "924942",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "I've mailed him with the correct one but no reply.....\n<br> \n<br> Ron",
+    "lastEdited" : "Thu Sep 05, 2019 4:27 pm"
+  }, {
+    "postId" : "924968",
+    "author" : {
+      "username" : "mountainbus",
+      "userId" : "924968",
+      "joined" : "Mon May 18, 2009 11:15 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "130",
+      "avatarPath" : null
+    },
+    "content" : "Pm's sent to rocket ron and welldoneade. Maybe I didn't send them correctly, so let me know on here if thats the case",
+    "lastEdited" : "Fri Sep 06, 2019 6:33 am"
+  }, {
+    "postId" : "925126",
+    "author" : {
+      "username" : "mountainbus",
+      "userId" : "925126",
+      "joined" : "Mon May 18, 2009 11:15 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "130",
+      "avatarPath" : null
+    },
+    "content" : "Sorted. Thanks rocket ron &amp; welldoneade",
+    "lastEdited" : "Wed Sep 11, 2019 5:26 am"
+  }, {
+    "postId" : "925129",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "925129",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "Will get this in the post, if there are any other small bits you need I'm here to help.\n<br> Cheers Dave \n<br> \n<br> Ron",
+    "lastEdited" : "Wed Sep 11, 2019 6:24 am"
+  } ]
+}

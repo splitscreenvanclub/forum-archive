@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "124230",
+  "title" : "HINGE PIN REMOVAL TOOL SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124230",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=9e19925244650f30932812a3bddd4c81",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927334",
+    "author" : {
+      "username" : "Fixer",
+      "userId" : "927334",
+      "joined" : "Mon Jul 25, 2011 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "575",
+      "avatarPath" : null
+    },
+    "content" : "Trevor Hutchins hinge pin removal tool great bit of kit used once £60 SOLD",
+    "lastEdited" : "Wed Jan 08, 2020 8:45 pm"
+  }, {
+    "postId" : "927371",
+    "author" : {
+      "username" : "Fixer",
+      "userId" : "927371",
+      "joined" : "Mon Jul 25, 2011 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "575",
+      "avatarPath" : null
+    },
+    "content" : "SOLD THANKS",
+    "lastEdited" : "Sun Jan 12, 2020 5:40 am"
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "97951",
+  "title" : "Door Check straps and heater pipes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=97951",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=43b8476741179f2e218aa1a1ca889eb0",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "749298",
+    "author" : {
+      "username" : "Griff55",
+      "userId" : "749298",
+      "joined" : "Fri Aug 30, 2013 10:41 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "71",
+      "avatarPath" : null
+    },
+    "content" : "Hi all, today I stripped out our '65 walkthrough but found that someone has just ground off the check strap points on the A pillars. Are these available anywhere or does anybody have any ideas where to get a pair please?\n<br> Secondly, I have cut the old cab floor out ready for the new one but am unsure on how to take out heater pipes behind front panel. Do I have to cut through welds to loosen them ir is there a magical way of removing them?\n<br> Many thanks in advance.\n<br> I'll get a thread started when I can get some pics.",
+    "lastEdited" : "Sat Sep 28, 2013 8:28 pm"
+  }, {
+    "postId" : "749342",
+    "author" : {
+      "username" : "BlastingDiePast",
+      "userId" : "749342",
+      "joined" : "Sat Feb 02, 2013 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "1802",
+      "avatarPath" : null
+    },
+    "content" : "Hello\n<br> \n<br> To remove your heater pipe you do indeed have to cut the welds of then wiggle it like crazy, start with the most damaged or rotten bit normally the centre tube, cut out around the floor tube!\n<br> \n<br> The rear Y section and through the floor bit are very hard to get hold of as is most of the front bits so be very gentle with them\n<br> \n<br> \n<img src=\"http://i1279.photobucket.com/albums/y525/Blastingdiepast/null_zps6034adc1.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sun Sep 29, 2013 7:44 am"
+  }, {
+    "postId" : "749362",
+    "author" : {
+      "username" : "Griff55",
+      "userId" : "749362",
+      "joined" : "Fri Aug 30, 2013 10:41 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "71",
+      "avatarPath" : null
+    },
+    "content" : "Thanks mate",
+    "lastEdited" : "Sun Sep 29, 2013 9:16 am"
+  } ]
+}

@@ -1,0 +1,209 @@
+{
+  "forumId" : "33",
+  "threadId" : "116559",
+  "title" : "Know it all's",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=116559",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=2ac29aa6b86ad070d45513fd8decfc7f",
+    "label" : "Pointless Bitching"
+  } ],
+  "totalPosts" : 42,
+  "pageNumber" : 1,
+  "totalPages" : 3,
+  "posts" : [ {
+    "postId" : "878426",
+    "author" : {
+      "username" : "jamusbass",
+      "userId" : "878426",
+      "joined" : "Wed May 30, 2012 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : null
+    },
+    "content" : "Actually know .... all.",
+    "lastEdited" : "Wed Jul 06, 2016 12:56 pm"
+  }, {
+    "postId" : "917108",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "917108",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "Um.....didn't see that coming.....um...",
+    "lastEdited" : "Mon Nov 05, 2018 9:21 pm"
+  }, {
+    "postId" : "917396",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "917396",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3071",
+      "avatarPath" : null
+    },
+    "content" : "I did - I saw it coming a while ago. \n<br> \n<br> Seen lots of similar ones as well.",
+    "lastEdited" : "Tue Nov 13, 2018 11:16 am"
+  }, {
+    "postId" : "917649",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "917649",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "Told you so....",
+    "lastEdited" : "Thu Nov 22, 2018 9:11 pm"
+  }, {
+    "postId" : "917678",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "917678",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15345",
+      "avatarPath" : null
+    },
+    "content" : "I knew that would happen...",
+    "lastEdited" : "Sat Nov 24, 2018 7:21 am"
+  }, {
+    "postId" : "917688",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "917688",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "If only someone had told me....",
+    "lastEdited" : "Sat Nov 24, 2018 10:27 am"
+  }, {
+    "postId" : "917689",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "917689",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15345",
+      "avatarPath" : null
+    },
+    "content" : "It always happens...",
+    "lastEdited" : "Sat Nov 24, 2018 10:29 am"
+  }, {
+    "postId" : "917697",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "917697",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "Yeh......I know..",
+    "lastEdited" : "Sat Nov 24, 2018 2:23 pm"
+  }, {
+    "postId" : "917699",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "917699",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15345",
+      "avatarPath" : null
+    },
+    "content" : "I thought so..",
+    "lastEdited" : "Sat Nov 24, 2018 3:21 pm"
+  }, {
+    "postId" : "917705",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "917705",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "Heard it on the grapevine a week ago, but no one would listen.......",
+    "lastEdited" : "Sat Nov 24, 2018 7:53 pm"
+  }, {
+    "postId" : "917708",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "917708",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15345",
+      "avatarPath" : null
+    },
+    "content" : "I felt it in my water...",
+    "lastEdited" : "Sat Nov 24, 2018 8:00 pm"
+  }, {
+    "postId" : "917712",
+    "author" : {
+      "username" : "gypsy",
+      "userId" : "917712",
+      "joined" : "Thu Jul 11, 2013 1:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "105",
+      "avatarPath" : null
+    },
+    "content" : "I was going to make a new thread but i feel it fits into this thread, as its a Sub Genre of Know it alls.... \"People who pretend to like Jazz\"",
+    "lastEdited" : "Sun Nov 25, 2018 7:02 am"
+  }, {
+    "postId" : "917732",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "917732",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15345",
+      "avatarPath" : null
+    },
+    "content" : "I pretend to like Jazz..\n<img src=\"//uploads.tapatalk-cdn.com/20181125/0d8d41e7446ddb636e83bdb6dd45a2e5.jpg\" class=\"postimage\" alt=\"Image\">\n<br> But I prefer \n<img src=\"//uploads.tapatalk-cdn.com/20181125/6fc5ed26f072d308ce09b823a79c8bd8.jpg\" class=\"postimage\" alt=\"Image\">\n<br> But you know it all(s) knew that!",
+    "lastEdited" : "Sun Nov 25, 2018 7:26 pm"
+  }, {
+    "postId" : "917756",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "917756",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "I love Toto.........what a band, 35th tour Poland.....you tube.....loud, loud , loud..",
+    "lastEdited" : "Mon Nov 26, 2018 7:12 pm"
+  }, {
+    "postId" : "917757",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "917757",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1576",
+      "avatarPath" : null
+    },
+    "content" : "Being a drummer...I like jazz too....but I guess you knew that..",
+    "lastEdited" : "Mon Nov 26, 2018 7:13 pm"
+  } ]
+}

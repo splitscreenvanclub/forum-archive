@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "102872",
+  "title" : "What shocks !!!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=102872&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=1cc59eb84b90fa413e67e5f4dca33846",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 23,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "865184",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "865184",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "718",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "Phoned in order yesterday afternoon to Creative Engineering and they arrived this morning, good enough for me",
+    "lastEdited" : "Wed Feb 24, 2016 1:07 pm"
+  }, {
+    "postId" : "865189",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "865189",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ziggy wrote:</cite>Phoned in order yesterday afternoon to Creative Engineering and they arrived this morning, good enough for me\n </div>\n</blockquote> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Feb 24, 2016 1:45 pm"
+  }, {
+    "postId" : "865424",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "865424",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "North Staffs",
+      "postCount" : "821",
+      "avatarPath" : "./download/file.php%3Favatar=3745_1494831239.jpg"
+    },
+    "content" : "I had excellent service from CE - with safaris and shocks. Used the SPAX adjustables, sized using their chart, having measured up as described by Alex. Fast delivery and did the job perfectly.",
+    "lastEdited" : "Fri Feb 26, 2016 8:58 am"
+  }, {
+    "postId" : "865505",
+    "author" : {
+      "username" : "split999",
+      "userId" : "865505",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2287",
+      "avatarPath" : null
+    },
+    "content" : "Karl, where did you get the fronts ?",
+    "lastEdited" : "Fri Feb 26, 2016 11:08 pm"
+  }, {
+    "postId" : "865543",
+    "author" : {
+      "username" : "matty76",
+      "userId" : "865543",
+      "joined" : "Tue Nov 22, 2011 9:57 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Maidstone",
+      "postCount" : "211",
+      "avatarPath" : null
+    },
+    "content" : "Lee, if your measurements are correct and fall within limits, you can take these same gas shocks off me as shown above\n<br> \n<br> Matt",
+    "lastEdited" : "Sat Feb 27, 2016 12:40 pm"
+  }, {
+    "postId" : "865867",
+    "author" : {
+      "username" : "Karl_F",
+      "userId" : "865867",
+      "joined" : "Tue Mar 11, 2014 9:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "665",
+      "avatarPath" : "./download/file.php%3Favatar=38997_1551169722.png"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>split999 wrote:</cite>Karl, where did you get the fronts ?\n </div>\n</blockquote> Direct from Gaz, fronts were £60 each &amp; rears £50. Made to my open &amp; closed lengths in 2-3 weeks.\n<br> \n<br> email Mark at \n<a href=\"mailto:enquiries@gazshocks.com\">enquiries@gazshocks.com</a>\n<br> \n<br> \n<a href=\"http://www.gazshocks.com/\" class=\"postlink\">http://www.gazshocks.com/</a>",
+    "lastEdited" : "Mon Feb 29, 2016 8:32 am"
+  }, {
+    "postId" : "865873",
+    "author" : {
+      "username" : "split999",
+      "userId" : "865873",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2287",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Karl.",
+    "lastEdited" : "Mon Feb 29, 2016 9:28 am"
+  }, {
+    "postId" : "867712",
+    "author" : {
+      "username" : "Archie3781",
+      "userId" : "867712",
+      "joined" : "Tue Jun 17, 2014 6:59 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "143",
+      "avatarPath" : "./download/file.php%3Favatar=39333_1419289867.jpg"
+    },
+    "content" : "Karl, what's the ride quality on this shocks you've had made bud?",
+    "lastEdited" : "Tue Mar 15, 2016 7:17 pm"
+  } ]
+}

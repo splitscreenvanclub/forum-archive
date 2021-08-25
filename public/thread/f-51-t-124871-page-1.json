@@ -1,0 +1,66 @@
+{
+  "forumId" : "51",
+  "threadId" : "124871",
+  "title" : "T25",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=124871",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=96ff713da494d0714dc06d8adfbd322a",
+    "label" : "Buses For Sale"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930775",
+    "author" : {
+      "username" : "rikki james",
+      "userId" : "930775",
+      "joined" : "Wed Apr 16, 2003 11:15 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "-",
+      "postCount" : "3704",
+      "avatarPath" : null
+    },
+    "content" : "Yes I know it’s not a split but... need to find a NICE T25 panel, single or double cab for a newcomer to the scene that can’t afford a lot. Be nice to help them out so I thought the more eyes on the case the better! If you know of anything that me be worth a look I’d be most grateful if you could come back to me. I just want the initial experience of owning a VW to be enjoyable, not a nightmare for them! Drinks are on me if anyone fids the right vehicle!\n<br> \n<br> Thanks all\n<br> \n<br> Rikki.",
+    "lastEdited" : "Fri Jun 26, 2020 2:27 pm"
+  }, {
+    "postId" : "930794",
+    "author" : {
+      "username" : "james309",
+      "userId" : "930794",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "604",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "Hi Rikki,\n<br> \n<br> I know of a couple, will drop you a text. \n<br> \n<br> James \n<br> \n<br> Sent from my SM-G973F using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Fri Jun 26, 2020 9:14 pm"
+  }, {
+    "postId" : "930804",
+    "author" : {
+      "username" : "GARRICK.CLARK",
+      "userId" : "930804",
+      "joined" : "Sat Sep 09, 2017 2:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lancashire",
+      "postCount" : "57",
+      "avatarPath" : null
+    },
+    "content" : "I'll forward you a pic of 1 if you want, p.m me ya number and i'll wottapp you a pic of the scooby doo mystery machine. Its a good 1 too , I'm sure its an early air cooled\n<br> 12 month mot 98K MILES",
+    "lastEdited" : "Sat Jun 27, 2020 5:55 pm"
+  }, {
+    "postId" : "930807",
+    "author" : {
+      "username" : "GARRICK.CLARK",
+      "userId" : "930807",
+      "joined" : "Sat Sep 09, 2017 2:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lancashire",
+      "postCount" : "57",
+      "avatarPath" : null
+    },
+    "content" : "Sorry it's water cooled that 1. \n<br> Reliably cruises at 70.",
+    "lastEdited" : "Sat Jun 27, 2020 6:48 pm"
+  } ]
+}

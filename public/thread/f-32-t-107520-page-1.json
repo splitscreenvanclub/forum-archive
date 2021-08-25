@@ -1,0 +1,37 @@
+{
+  "forumId" : "32",
+  "threadId" : "107520",
+  "title" : "Can't remember password and defunct email address",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=107520",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "814583",
+    "author" : {
+      "username" : "camper driver",
+      "userId" : "814583",
+      "joined" : "Wed Apr 30, 2003 8:45 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "193",
+      "avatarPath" : null
+    },
+    "content" : "I can log on with my old computer cos it has remembered my password, but unfortunately I can't. I could change it if I had an email account but orange have defunct my old email address. I could change my email address if I could remember my password.\n<br>Can't remember my password and email doesn't work, what do I do?\n<br>Cheers Jon",
+    "lastEdited" : "Sat Dec 27, 2014 10:23 pm"
+  }, {
+    "postId" : "814594",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "814594",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "PM me your new email address and I will change that and your password for you\n<br>\n<br>Cheers\n<br>paul",
+    "lastEdited" : "Sun Dec 28, 2014 8:19 am"
+  } ]
+}

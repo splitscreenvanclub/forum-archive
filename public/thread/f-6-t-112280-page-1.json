@@ -1,0 +1,128 @@
+{
+  "forumId" : "6",
+  "threadId" : "112280",
+  "title" : "Play in gear shift",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112280",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847018",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "847018",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "624",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "I've got lots of play in the gearshift of my 66. Was under the bus during the MOT a while back and we noted that the plastic shuttlecock bushings were trashed and/or gone. I've got a set now and am ready to put them in but can't find much info on the process. Don't want to mess up my shifter system by just yanking stuff apart.\n<br>\n<br>Any guidance on this operation would be great. Also if I should replace anything else at the same time, please let me know.\n<br>\n<br>I've got a kit like this:\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.busdepot.com/211711211\">http://www.busdepot.com/211711211</a>\n<!-- m -->",
+    "lastEdited" : "Fri Aug 28, 2015 8:44 am"
+  }, {
+    "postId" : "847038",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "847038",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "1471",
+      "avatarPath" : null
+    },
+    "content" : "You shouldn't be able to see the shuttlecocks as they're inside the rear gear shift tube. This link should help you out installing the bits \n<!-- m -->\n<a class=\"postlink\" href=\"http://www.customandcommercial.com/vw-split_screen/splitscreen_interior_parts/splitscreen_gearstick_gearlinkage--and--handbrake_parts/\">http://www.customandcommercial.com/vw-s ... ake_parts/</a>\n<!-- m -->\n<br>\n<br>To do the shuttlecocks it's an engine out, gearbox out, rear shift rod out jobby....\n<br>\n<br>If you're going to those lengths you may as well replace the gearbox mounts front and rear (not expensive) and make sure the gear shiftrod linkages are nicely wired up when you put it all back together. They have a wire which goes through a hole on the grub screw.",
+    "lastEdited" : "Fri Aug 28, 2015 12:53 pm"
+  }, {
+    "postId" : "847054",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "847054",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "624",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Right you are. I meant the front bushing was trashed. I have only seen the shuttlecocks in the package on my bench. Think I'll start by just replacing the front one and see if that makes much difference. Maybe yank everything out in the cold winter months.",
+    "lastEdited" : "Fri Aug 28, 2015 2:34 pm"
+  }, {
+    "postId" : "847614",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "847614",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "624",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=8960&amp;mode=view\"><img src=\"./download/file.php?id=8960&amp;t=1\" class=\"postimage\" alt=\"656098.jpg\" title=\"656098.jpg (32.45 KiB) Viewed 137 times\"></a>\n  </dt> \n </dl> \n</div>Update: I'm just going to replace the front shift bushing. Everything I read said that getting the collar loose would involve WD-40/hammers/grinders. Sprayed some oil on it,turned the screw out and slid the collar off. Removing shifter and slid the rod out. This seems too easy so something will go wrong.Will install the bushing and theoretically reinstall it tomorrow.I believe it should look like this when I'm done.",
+    "lastEdited" : "Wed Sep 02, 2015 3:48 pm"
+  }, {
+    "postId" : "847721",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "847721",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "624",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Done. Still worried as it was too easy. Some head scratching as to how to get the bushing plus the clip on but in the end it just slid right on. reinstalled the shift rod then the shifter. Was a bit tricky getting it to shift again but everything settled in its place. Funny driving now as the gears feel so much more solid and almost in a different place.",
+    "lastEdited" : "Thu Sep 03, 2015 10:22 am"
+  }, {
+    "postId" : "848090",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "848090",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "234",
+      "avatarPath" : null
+    },
+    "content" : "Having had some problems changing gears in the 67 split we decided to have a look under the van and found some differences to some vans featured, we have no collar to support the front of the gears shift and not sure if it should have one, only a couple of nuts and bolts bolt through the floor holding the gear stick in place, the front has a new bush in the nose, it has a S bent in the front section, a collar with a square head pin/screw holds the front section to the long rod, that also looks bent as it come our of the chassis, the rear has a new coupling, reverse is the worst to sellect as it keeps jumping out, and feels like it's not locating at the gearstick end.",
+    "lastEdited" : "Mon Sep 07, 2015 5:06 pm"
+  }, {
+    "postId" : "848110",
+    "author" : {
+      "username" : "Banger",
+      "userId" : "848110",
+      "joined" : "Tue Jul 19, 2011 6:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "154",
+      "avatarPath" : "./download/file.php%3Favatar=35663_1320695493.jpg"
+    },
+    "content" : "<a href=\"http://s1231.photobucket.com/user/Banger1963/media/shift6667.jpg.html\" class=\"postlink\"><img src=\"http://i1231.photobucket.com/albums/ee505/Banger1963/shift6667.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Mon Sep 07, 2015 7:23 pm"
+  }, {
+    "postId" : "848119",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "848119",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "234",
+      "avatarPath" : null
+    },
+    "content" : "Thanks, I can see from the diagram ours is a late one (K) rod front section, got a bend in it that looks like it's been welded at some point, the long rod (N) looks to have a slight bend in it at the front where it comes out of the chassis and joins the front shift rod, the rear coupling looks good as it was only changed last year, we can get first-second-third with ease, fourth krrrrrunch and reverse very difficult and it jumps out and grates the gears.",
+    "lastEdited" : "Mon Sep 07, 2015 8:34 pm"
+  }, {
+    "postId" : "848714",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "848714",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "234",
+      "avatarPath" : null
+    },
+    "content" : "The front bush has now been replaced and feels better at the front with less slop in the gear shift, (H) in the diagram, the front rod still looks bent down at the rear end just as it joins in the long shift rod, and I can see no bushes (P) or (R) in the tube shuttlecock's I assume.\n<br>Found most of the gears most of the time but still having difficulty selecting them, got an empi quick shift fitted and tried moving it around to get the best position, I think some of the problem must be free play in the linkage.",
+    "lastEdited" : "Sun Sep 13, 2015 12:18 pm"
+  } ]
+}

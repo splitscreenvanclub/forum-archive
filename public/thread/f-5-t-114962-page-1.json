@@ -1,0 +1,50 @@
+{
+  "forumId" : "5",
+  "threadId" : "114962",
+  "title" : "UPPER CARGO DOOR FRAME REINFORCEMENT",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114962",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867067",
+    "author" : {
+      "username" : "fineprices",
+      "userId" : "867067",
+      "joined" : "Mon Sep 29, 2014 3:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Surrey / Hants",
+      "postCount" : "8",
+      "avatarPath" : "./download/file.php%3Favatar=39727_1412340693.jpg"
+    },
+    "content" : "Looking for a cut of the metal that runs above the cargo doors (Lintel). Klassic Fab list it as a product code KF545 but don't have anyone that stocks it. a cut off an old bus will save me time, mines a RHD but I thin I can adapt a LHD.\n<br>\n<br> \n<img class=\"smilies\" src=\"./images/smilies/bom.gif\" alt=\":bom:\" title=\"bom\">",
+    "lastEdited" : "Wed Mar 09, 2016 1:32 pm"
+  }, {
+    "postId" : "867080",
+    "author" : {
+      "username" : "april",
+      "userId" : "867080",
+      "joined" : "Sat Mar 30, 2013 10:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "121",
+      "avatarPath" : null
+    },
+    "content" : "Schofield do them",
+    "lastEdited" : "Wed Mar 09, 2016 4:20 pm"
+  }, {
+    "postId" : "868013",
+    "author" : {
+      "username" : "fineprices",
+      "userId" : "868013",
+      "joined" : "Mon Sep 29, 2014 3:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Surrey / Hants",
+      "postCount" : "8",
+      "avatarPath" : "./download/file.php%3Favatar=39727_1412340693.jpg"
+    },
+    "content" : "Got it... Thanks April",
+    "lastEdited" : "Fri Mar 18, 2016 12:04 pm"
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "106802",
+  "title" : "How too split the king pin system.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=106802",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=4db8bddf07b13f57dc35e39283ee292e",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "809801",
+    "author" : {
+      "username" : "RPATTZ",
+      "userId" : "809801",
+      "joined" : "Sat May 18, 2013 2:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "The valleys",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "I'm looking to split the king pin system on my van but the trouble is I'm struggling to remove the parts which are pressed together. Even if heating them up its still a struggle. Anyone done this before. Richard.",
+    "lastEdited" : "Sun Nov 09, 2014 8:21 pm"
+  }, {
+    "postId" : "809900",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "809900",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "472",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "you will not do this with normal tools. you need a press that will exert something like 400 ton to pull them apart. go with a crack when it goes. putting them back is no problem, just push together at home.",
+    "lastEdited" : "Mon Nov 10, 2014 6:30 pm"
+  }, {
+    "postId" : "810017",
+    "author" : {
+      "username" : "RPATTZ",
+      "userId" : "810017",
+      "joined" : "Sat May 18, 2013 2:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "The valleys",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the reply, I was thinking down that sort of line after struggling for a bit on my first go. 400 tonne seems a considerable amount of force just too split them considering there should be no real issue on refitting the new parts. I'm looking at getting these parts removed with some sort of press so I will update if it works.",
+    "lastEdited" : "Tue Nov 11, 2014 6:51 pm"
+  }, {
+    "postId" : "810021",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "810021",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "My 10 ton press has managed to do any I have tried. You need to make tooling though",
+    "lastEdited" : "Tue Nov 11, 2014 7:07 pm"
+  }, {
+    "postId" : "810747",
+    "author" : {
+      "username" : "SSVC Van Register",
+      "userId" : "810747",
+      "joined" : "Thu May 04, 2006 10:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "90",
+      "avatarPath" : "./download/file.php%3Favatar=2355_1351277882.jpg"
+    },
+    "content" : "30 tons is my recommendation - have done hundreds of them over the years. Unfortunately not local to you , otherwise you could just pop round and I would separate them for you. You also need a bit of a jig to get the pressure in the right place.\n<br> \n<br> Steve S.",
+    "lastEdited" : "Mon Nov 17, 2014 6:30 pm"
+  } ]
+}

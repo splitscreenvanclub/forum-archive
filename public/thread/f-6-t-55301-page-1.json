@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "55301",
+  "title" : "Barndoor chassis number location?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=55301",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "423041",
+    "author" : {
+      "username" : "moler",
+      "userId" : "423041",
+      "joined" : "Fri Mar 24, 2006 8:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "N.E.Lincs",
+      "postCount" : "1588",
+      "avatarPath" : null
+    },
+    "content" : "As title really, where would I found the chassis number on a barndoor bus?\n<br> \n<br> Cheers\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Tue May 26, 2009 11:54 am"
+  }, {
+    "postId" : "423096",
+    "author" : {
+      "username" : "Dai",
+      "userId" : "423096",
+      "joined" : "Tue Dec 20, 2005 4:34 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "3158",
+      "avatarPath" : null
+    },
+    "content" : "<img src=\"http://www.barndoor.dk/images/motorrum.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Tue May 26, 2009 3:21 pm"
+  }, {
+    "postId" : "423114",
+    "author" : {
+      "username" : "Byron Bamboo",
+      "userId" : "423114",
+      "joined" : "Thu Apr 17, 2003 12:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "6873",
+      "avatarPath" : "./download/file.php%3Favatar=38_1338322337.jpg"
+    },
+    "content" : "Don't get confused with the one on the bulkhead behind the seat..\n<br> \n<br> Thats the body number \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue May 26, 2009 4:12 pm"
+  }, {
+    "postId" : "423120",
+    "author" : {
+      "username" : "moler",
+      "userId" : "423120",
+      "joined" : "Fri Mar 24, 2006 8:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "N.E.Lincs",
+      "postCount" : "1588",
+      "avatarPath" : null
+    },
+    "content" : "Excellent, thanks guys \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Tue May 26, 2009 4:42 pm"
+  }, {
+    "postId" : "423475",
+    "author" : {
+      "username" : "Dai",
+      "userId" : "423475",
+      "joined" : "Tue Dec 20, 2005 4:34 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "3158",
+      "avatarPath" : null
+    },
+    "content" : "The last 3 digits of the chassis number are also stamped in some random places, such as the top of the door tops, and in the dash pod. \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Wed May 27, 2009 1:49 pm"
+  } ]
+}

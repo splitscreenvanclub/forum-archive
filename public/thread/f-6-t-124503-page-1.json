@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "124503",
+  "title" : "Indicators/Relay nightmare",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124503",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=1d39d09e7eb68cb99e414a35c43ea8be",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928815",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "928815",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "397",
+      "avatarPath" : null
+    },
+    "content" : "Could anyone offer any advice on a problem I have please?\n<br> \n<br> I’ve recently purchased a new bus and prior to collection the previous owner fitted a new indicator stalk and relay as the high beam was temperamental. On the drive home the indicators stopped working and spring to life again an hour or so later. \n<br> \n<br> Over the next few weeks the flash rate would vary between very slow/normal before now completely giving up. \n<br> \n<br> The symptoms: it’s a 1967 with high beam/flash on the stalk.\n<br> \n<br> The indicators come on but are solid. No flashing and no light on the speedo either. \n<br> \n<br> I’ve checked the bulb on the speedo, all the indicator bulbs all round and cleaned all the connections.\n<br> \n<br> The high beam still works so could the relay be faulty for just the flasher unit? As far as I can see there no missing wires. I’ve checked the fuses and all seem ok. I’ve traced and cleaned the earths that I can find and it all seems ok? \n<br> \n<br> I’m stumped \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Thu Apr 09, 2020 6:05 pm"
+  }, {
+    "postId" : "928816",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "928816",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20145",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Headlight operation and indicator flash are different relays, so if the problems are happening at the same time it points to what links the two together. ie the indicator stalk. \n<br> \n<br> Have you checked that everything is wired up as per the wiring diagram?\n<br> \n<br> Do the hazards work?",
+    "lastEdited" : "Thu Apr 09, 2020 6:46 pm"
+  }, {
+    "postId" : "928822",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "928822",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "I had trouble and went to a 4 pin relay\n<br> 49 to positive\n<br> 49a to stalk\n<br> 31 to ground\n<br> C to speedo flasher bulb (led if low current)",
+    "lastEdited" : "Thu Apr 09, 2020 9:07 pm"
+  }, {
+    "postId" : "928824",
+    "author" : {
+      "username" : "dougall up",
+      "userId" : "928824",
+      "joined" : "Sun Nov 21, 2010 10:55 am",
+      "profileRank" : "SSVC Member",
+      "location" : "tewkesbury",
+      "postCount" : "99",
+      "avatarPath" : null
+    },
+    "content" : "I had trouble with my indicators when I fitted a new loom to my 1966 split.\n<br> \n<br> The Indicator stalk earths through the wiper switch , I had to remove wiper switch, clean the paint off at the back of dash and refit switch , TIGHT.\n<br> \n<br> Try it , might work for you , the switch is held on by a round nut at front , you will have to make a twin prong tool to remove it. \n<br> \n<br> good luck .Doug",
+    "lastEdited" : "Thu Apr 09, 2020 9:40 pm"
+  }, {
+    "postId" : "928845",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "928845",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "397",
+      "avatarPath" : null
+    },
+    "content" : "And as if by magic a loose wiper switch tightened and cleaned seems to have done the job! It would appear the retro sound stereo was earthed on the switch too. It’s been moved and now everything’s back to normal. \n<br> \n<br> Thanks for all your suggestions, appreciate it.",
+    "lastEdited" : "Fri Apr 10, 2020 8:10 pm"
+  }, {
+    "postId" : "928846",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "928846",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20145",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Nice one. Bad earths do kick out some weird faults.",
+    "lastEdited" : "Fri Apr 10, 2020 8:21 pm"
+  } ]
+}

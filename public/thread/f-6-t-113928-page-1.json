@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "113928",
+  "title" : "Fuel tank removal",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=113928",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "858950",
+    "author" : {
+      "username" : "Shiplee123",
+      "userId" : "858950",
+      "joined" : "Fri Jul 24, 2015 7:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "East anglia",
+      "postCount" : "314",
+      "avatarPath" : "./download/file.php%3Favatar=40614_1439118987.jpg"
+    },
+    "content" : "Gonna soon respray my engine bay in my 66 kombi.\n<br> \n<br> Thinking I'll remove the petrol tank and tidy that whilst I am at it \n<br> \n<br> Is it as simple as unbolting the tank straps and pulling it out ?\n<br> \n<br> How do I remove the filler cap end or does it slide out with the tank \n<br> \n<br> \n<a href=\"http://s1304.photobucket.com/user/James_Shiplee/media/015AAAE0-69B6-4F2F-BBFB-B2BB61CB61B8_zpsd9y7rkhs.jpg.html\" class=\"postlink\"><img src=\"http://i1304.photobucket.com/albums/s531/James_Shiplee/015AAAE0-69B6-4F2F-BBFB-B2BB61CB61B8_zpsd9y7rkhs.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Thu Dec 31, 2015 1:08 pm"
+  }, {
+    "postId" : "858951",
+    "author" : {
+      "username" : "Shiplee123",
+      "userId" : "858951",
+      "joined" : "Fri Jul 24, 2015 7:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "East anglia",
+      "postCount" : "314",
+      "avatarPath" : "./download/file.php%3Favatar=40614_1439118987.jpg"
+    },
+    "content" : "Obviously realise gotta disconnect sender",
+    "lastEdited" : "Thu Dec 31, 2015 1:11 pm"
+  }, {
+    "postId" : "858952",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "858952",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3074",
+      "avatarPath" : null
+    },
+    "content" : "Undo straps, take off cap and it should pull through. Might be worth changing the spout rubber for a new one, which means you can slice the old one which will aid removal.\n<br> \n<br> Also worth popping some duct tape over the end as it's liable to damage some paintwork on the way out and back in.\n<br> \n<br> When refurbing the old one get one of vwaircooledworks' tank sealant kits and renew all fuel hoses. See the vwaircooledworks website for what you need.\n<br> \n<br> You will of course need to undo the fuel outlet at the bottom of the tank so renew the in tank filter and sender gasket etc.",
+    "lastEdited" : "Thu Dec 31, 2015 1:41 pm"
+  }, {
+    "postId" : "858954",
+    "author" : {
+      "username" : "Shiplee123",
+      "userId" : "858954",
+      "joined" : "Fri Jul 24, 2015 7:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "East anglia",
+      "postCount" : "314",
+      "avatarPath" : "./download/file.php%3Favatar=40614_1439118987.jpg"
+    },
+    "content" : "That's lovely thanks for the pointers \n<br> \n<br> Must admit unlike my previous bays which had rubber spouts I'm convinced my split tank is a fixed solid spout pipe all the way up to the filling hole ? \n<br> Need to double check ....\n<br> \n<br> I've already purchased new fuel lines so good to go",
+    "lastEdited" : "Thu Dec 31, 2015 2:19 pm"
+  }, {
+    "postId" : "858956",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "858956",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1158",
+      "avatarPath" : null
+    },
+    "content" : "Yes that's right the spout is solid but there is a rubber \"gasket\" which fits around the neck of the tank and between it and the bodywork. See link below:\n<br> \n<br> \n<a href=\"https://www.vwheritage.com/shop/split-bus/211201255/fuel-filler-neck-to-body-seal-t2-55-67/\" class=\"postlink\">https://www.vwheritage.com/shop/split-b ... -t2-55-67/</a>\n<br> \n<br> Hence, it may be worth replacing this for a new one whilst your tank is out otherwise it will be a whole lot of work in future if you need to replace it and have to remove everything to do so. If you have one in good order then you may be able to to reuse it, your call.\n<br> \n<br> Steve",
+    "lastEdited" : "Thu Dec 31, 2015 2:33 pm"
+  } ]
+}

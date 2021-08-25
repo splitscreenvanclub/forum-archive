@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "120608",
+  "title" : "Remote oil cooler",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120608",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 23,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "905707",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "905707",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Going to install the concept oil cooler and am confusing myself as to what I need. \n<br> \n<br> Engine is full flowed and going to use a torques_uk billet filter mount \n<div class=\"inline-attachment\">\n <!-- ia1 -->594AE4B6-5835-4197-8063-E7D0B7FF48D0.jpeg\n <!-- ia1 -->\n</div>, how do I add the cooler bypass. Does anyone sell a combined unit or do I just add their thermostatic oil plate to the remote mount as well \n<div class=\"inline-attachment\">\n <!-- ia0 -->86B0A898-4906-493E-9702-5D79EBA8066D.jpeg\n <!-- ia0 -->\n</div>.\n<br> \n<br> Not those colours.\n<br> \n<br> Grant",
+    "lastEdited" : "Thu Nov 09, 2017 8:46 pm"
+  }, {
+    "postId" : "905708",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "905708",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I use a sandwich plate. Works fine.",
+    "lastEdited" : "Thu Nov 09, 2017 8:48 pm"
+  }, {
+    "postId" : "905709",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "905709",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Get that Jim but only seen them with I inlet and 1 outlet, please explain in simple terms or a diagram lol it’s driving me nuts over thinking.\n<br> \n<br> Grant",
+    "lastEdited" : "Thu Nov 09, 2017 8:50 pm"
+  }, {
+    "postId" : "905710",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "905710",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Sandwich plate, as name suggests, is between filter head and the filter = four ports.",
+    "lastEdited" : "Thu Nov 09, 2017 8:54 pm"
+  }, {
+    "postId" : "905711",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "905711",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Great mate, think I finally got it. \n<br> \n<br> Grant",
+    "lastEdited" : "Thu Nov 09, 2017 8:55 pm"
+  }, {
+    "postId" : "905717",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "905717",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15806",
+      "avatarPath" : null
+    },
+    "content" : "Anyone have a photo of a sandwich plate installed?\n<br> How does this work...opens when the oil temp reaches?\n<br> Going to slso install concept spall fan cooler..so will have a temp sensor also in the loop.\n<br> Please?\n<br> G\n<br> \n<br> \n<br> \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20171110/de5752d025c95a89c24f2ee1912f4eff.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20171110/b48a2394f6ac5fb2ed52fb20673618c1.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20171110/89f9517cd60939ae85c68e1b854af8b5.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20171110/81cf5dc45caedf9006c521c99c50e244.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20171110/fe246ad468ce8cf541ef747a88ed40e4.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri Nov 10, 2017 5:46 am"
+  }, {
+    "postId" : "905729",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "905729",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Sandwich plates CLOSE when the oil gets to the set temperature, not open. Therefore force oil to go through the cooler.\n<br> \n<br> Question on that belly pan. How does the air flow out? Scoop pulls it in, but no outlets?",
+    "lastEdited" : "Fri Nov 10, 2017 5:41 pm"
+  }, {
+    "postId" : "905730",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "905730",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15806",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>Sandwich plates CLOSE when the oil gets to the set temperature, not open. Therefore force oil to go through the cooler.\n  <br> \n  <br> Question on that belly pan. How does the air flow out? Scoop pulls it in, but no outlets?\n </div>\n</blockquote>On that instal no Heat exchangers and no heater tube installed.. So a large single hole.\n<br> On mine I have multiple holes all across the rear cross member.\n<img src=\"//uploads.tapatalk-cdn.com/20171110/4c5c6749daf502f7d9de3b2c15bb1aed.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> \n<br> \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20171111/35003bb05e03132962fffda82c91f2ec.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri Nov 10, 2017 6:13 pm"
+  }, {
+    "postId" : "905731",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "905731",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "What's the ratio of scoop area vs exit hole area?",
+    "lastEdited" : "Fri Nov 10, 2017 6:18 pm"
+  }, {
+    "postId" : "905735",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "905735",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15806",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>What's the ratio of scoop area vs exit hole area?\n </div>\n</blockquote>Good Question..No idea..\n<br> First of all, I will have heat exchangers on my unit and wanted and have fitted heater tube.. I suggested putting these holes in.. a la lightening holes..\n<br> Any theory if what it should be?\n<br> Spall fan draw as well?\n<br> Glad for any help..\n<br> \n<br> We have discussed adding rearward facing louvres into the centre belly pan.. Was enquiring about a simple louvre tool..\n<br> \n<br> \n<br> \n<br>",
+    "lastEdited" : "Fri Nov 10, 2017 7:04 pm"
+  }, {
+    "postId" : "905742",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "905742",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I'd guess exit area needs to be at least the size of inlet area, but better still if it exceeds inlet area as the air flow is not as smooth so will create back pressure, reducing air flow = less efficient cooler.\n<br> \n<br> I went for holes in the belly pan. Rear facing louvres or scoop will have a venturi effect and help efficiency while driving.",
+    "lastEdited" : "Sat Nov 11, 2017 7:47 am"
+  }, {
+    "postId" : "905743",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "905743",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15806",
+      "avatarPath" : null
+    },
+    "content" : "I was thinking the same...thinking either with a tool on a hydraulic press or let a section in..\n<br> Entry throat is 20cm x 12.5cm\n<br> So 250 square cm.\n<br> So my holes are INADEQUATE..will calculate area I have.\n<br> \n<br> I estimate I only have between 50 and 80 cm squared.\n<br> I reckon I need another 200 cm squared with louvres\n<br> I would put the louvres in the pressing areas to the rear of the centre belly pan.\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20171111/6e26035e29e0a3026cc02c41cb25a0e4.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> \n<br> \n<br> \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20171111/9aa4fcf5d80ffbeecdc82b162ce05803.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Ideally would like cascades of graduated louvres and long louvres where possible.",
+    "lastEdited" : "Sat Nov 11, 2017 8:37 am"
+  }, {
+    "postId" : "905765",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "905765",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I put the coolers more in the middle of the belly pan, so the flow in / flow out was as easy as possible. Having the cooler right at the back means the air flow hits the cross members and has to change direction to escape.",
+    "lastEdited" : "Sat Nov 11, 2017 5:30 pm"
+  }, {
+    "postId" : "905766",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "905766",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15806",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>I put the coolers more in the middle of the belly pan, so the flow in / flow out was as easy as possible. Having the cooler right at the back means the air flow hits the cross members and has to change direction to escape.\n </div>\n</blockquote>True..\n<br> Hindsight is a wonderfull thing But..C'est la vie...\"\n<br> \n<br> Maybe some big louvres all the way across the strip immediately after the cooler.\n<br> ATM could use a grinder and then hand form..LOL\n<br> \n<br> Any way Dave and Matt will be on louvring solutions...\n<br> G\n<br> \n<br> \n<br> \n<br> \n<br>",
+    "lastEdited" : "Sat Nov 11, 2017 6:07 pm"
+  }, {
+    "postId" : "905923",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "905923",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Remote filter housing and thermostatic sandwich plate fitted. \n<br> \n<br> A) oil in\n<br> B) oil return\n<br> \n<br> Is there a specific in out for C&amp;D\n<br> \n<br> \n<div class=\"inline-attachment\">\n <!-- ia1 -->F42D5813-35A1-4DAA-B3D0-DA912C36978C.jpeg\n <!-- ia1 -->\n</div>\n<div class=\"inline-attachment\">\n <!-- ia0 -->F31E2046-D931-4A89-A350-A9AB924CDFA2.jpeg\n <!-- ia0 -->\n</div>",
+    "lastEdited" : "Thu Nov 16, 2017 7:28 pm"
+  } ]
+}

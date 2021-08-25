@@ -1,0 +1,79 @@
+{
+  "forumId" : "2",
+  "threadId" : "123146",
+  "title" : "Beetle karmann roof",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123146",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=0783c79918bd890e152f48d438a6be40",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920762",
+    "author" : {
+      "username" : "davebug",
+      "userId" : "920762",
+      "joined" : "Tue Oct 14, 2014 3:19 pm",
+      "profileRank" : "Registered user",
+      "location" : "Skegvegas",
+      "postCount" : "159",
+      "avatarPath" : null
+    },
+    "content" : "I’ve bought a 70 beetle cab which is in need of a new roof , any ideas who and where I can go to get it sorted be great",
+    "lastEdited" : "Mon Mar 18, 2019 9:53 am"
+  }, {
+    "postId" : "921278",
+    "author" : {
+      "username" : "davebug",
+      "userId" : "921278",
+      "joined" : "Tue Oct 14, 2014 3:19 pm",
+      "profileRank" : "Registered user",
+      "location" : "Skegvegas",
+      "postCount" : "159",
+      "avatarPath" : null
+    },
+    "content" : "Anyone help ??",
+    "lastEdited" : "Tue Apr 09, 2019 6:05 am"
+  }, {
+    "postId" : "921279",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "921279",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "930",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "When I needed a new roof for the Karmann Ghia I ordered one from these people \n<a href=\"http://carhoodsdirect.co.uk/\" class=\"postlink\">http://carhoodsdirect.co.uk/</a>\n<br> \n<br> It was made to order in the States and took about 6 weeks if I remember it right. The quality and fit are fantastic, but they highly recommend the roof is fitted by a professional auto trimmer, but seeing as I was only replacing the outer skin and had the old one to take off and see where everything went I decided to fit it myself. It is possibly the most difficult job I have ever done on any VW. \n<br> \n<br> Maybe your best bet would be to contact trimmers local to you, find one that will do a roof, I spoke with Pete at Bromsgrove Auto Trim after I'd done mine and he told me he would avoid them if he could.\n<br> \n<br> You could also try \n<a href=\"http://carhoodfitters.co.uk/\" class=\"postlink\">http://carhoodfitters.co.uk/</a>.\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=34192&amp;sid=0783c79918bd890e152f48d438a6be40&amp;mode=view\"><img src=\"./download/file.php?id=34192&amp;t=1&amp;sid=0783c79918bd890e152f48d438a6be40\" class=\"postimage\" alt=\"004.JPG\" title=\"004.JPG (134.44 KiB) Viewed 1115 times\"></a>\n  </dt> \n </dl> \n</div>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=34191&amp;sid=0783c79918bd890e152f48d438a6be40&amp;mode=view\"><img src=\"./download/file.php?id=34191&amp;t=1&amp;sid=0783c79918bd890e152f48d438a6be40\" class=\"postimage\" alt=\"003.JPG\" title=\"003.JPG (136.77 KiB) Viewed 1115 times\"></a>\n  </dt> \n </dl> \n</div>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=34190&amp;sid=0783c79918bd890e152f48d438a6be40&amp;mode=view\"><img src=\"./download/file.php?id=34190&amp;t=1&amp;sid=0783c79918bd890e152f48d438a6be40\" class=\"postimage\" alt=\"002.JPG\" title=\"002.JPG (144.3 KiB) Viewed 1115 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Tue Apr 09, 2019 7:45 am"
+  }, {
+    "postId" : "921406",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "921406",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://www.sjbowles.co.uk/\" class=\"postlink\">http://www.sjbowles.co.uk/</a>\n<br> \n<br> This guy Steve specialises in cabrio hoods. Don’t know what his work is like but he’s been around for a long time. His seat trimming etc is good.",
+    "lastEdited" : "Sun Apr 14, 2019 8:37 pm"
+  }, {
+    "postId" : "921529",
+    "author" : {
+      "username" : "davebug",
+      "userId" : "921529",
+      "joined" : "Tue Oct 14, 2014 3:19 pm",
+      "profileRank" : "Registered user",
+      "location" : "Skegvegas",
+      "postCount" : "159",
+      "avatarPath" : null
+    },
+    "content" : "Thanks guys I’m sorted now finally",
+    "lastEdited" : "Thu Apr 18, 2019 6:24 pm"
+  } ]
+}

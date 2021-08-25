@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "124308",
+  "title" : "Refitting heat duct 'Y' over torsion housing",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124308",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=eb6685ba45255f43724fbdd011f2eaba",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927821",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "927821",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20109",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "So has anyone done it to a bus with the floor fitted / fully painted bus?\n<br> \n<br> I've only ever done it with the floor out. So how did you do it / or photos of something non standard on your current bus?",
+    "lastEdited" : "Sat Feb 08, 2020 8:12 pm"
+  }, {
+    "postId" : "927879",
+    "author" : {
+      "username" : "BlastingDiePast",
+      "userId" : "927879",
+      "joined" : "Sat Feb 02, 2013 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "1802",
+      "avatarPath" : null
+    },
+    "content" : "If it’s a non original floor you need to in large the floor holes to fit it, it’s quite brutal as they don’t like being retro fitted.",
+    "lastEdited" : "Wed Feb 12, 2020 10:30 pm"
+  }, {
+    "postId" : "927896",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "927896",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20109",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "That's what I was thinking. Not going to be easy to do neatly",
+    "lastEdited" : "Fri Feb 14, 2020 10:51 am"
+  }, {
+    "postId" : "927914",
+    "author" : {
+      "username" : "Troytempest69",
+      "userId" : "927914",
+      "joined" : "Sat Jun 11, 2016 8:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "92",
+      "avatarPath" : null
+    },
+    "content" : "Will, this is one of the jobs that needs doing to franklin/gee gee. Early 50mm tubes fitted as that's all I could find at the time, but now got the correct, later, 60mm tubes (one in your garage and one just delivered from evam). The 50's were a pig to get in, especially as the repro floor pan didn't even have the holes cut for where the heater tubes bulge out from the floor.",
+    "lastEdited" : "Sat Feb 15, 2020 11:24 am"
+  }, {
+    "postId" : "927924",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "927924",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3533",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "I did it years ago by slitting the Y duct horizontally, getting it in place and welding it up. It was a PITA.",
+    "lastEdited" : "Sat Feb 15, 2020 2:55 pm"
+  } ]
+}

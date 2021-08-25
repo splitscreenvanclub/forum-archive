@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "80627",
+  "title" : "starter packed in , no click - nothing, just NOTHING",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=80627",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=209f3b9beab8ea70b0bda428aa84c3e1",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "620737",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "620737",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "as per description, is this starter just knackered, battery earth seems to be fine, tried bridging the terminals on the starter it's self but they just sparked no clonk or anything, \n<br> \n<br> I was wondering if anybody could help before i go buy a new one\n<br> \n<br> J",
+    "lastEdited" : "Wed Nov 16, 2011 6:12 pm"
+  }, {
+    "postId" : "620773",
+    "author" : {
+      "username" : "jellibus",
+      "userId" : "620773",
+      "joined" : "Fri Feb 20, 2004 6:48 am",
+      "profileRank" : "Registered user",
+      "location" : "Leeds.West Yorks",
+      "postCount" : "622",
+      "avatarPath" : null
+    },
+    "content" : "Put it in 2nd gear and rock the bus forward &amp; backwards a bit. Sometimes they stick 'on'\n<br> Have you checked the switch wire to make sure it's 'live' when you turn the ignition swith to'start'",
+    "lastEdited" : "Wed Nov 16, 2011 8:16 pm"
+  }, {
+    "postId" : "620849",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "620849",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "Hi Jellibus\n<br> \n<br> switch wire - the push on wire to the starter ?\n<br> \n<br> I'll try rocking it later, I have tried rocking it but can't remeber if it was 2nd or not\n<br> \n<br> Jason",
+    "lastEdited" : "Thu Nov 17, 2011 9:05 am"
+  }, {
+    "postId" : "620863",
+    "author" : {
+      "username" : "tboarder",
+      "userId" : "620863",
+      "joined" : "Fri Aug 26, 2005 11:02 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "13",
+      "avatarPath" : null
+    },
+    "content" : "Had \"stuck\" starter myself but thought got click with that one. More recently the fusebox dropped and was shorting but then had no click and no red/green or headlights.\n<br> \n<br> Tim",
+    "lastEdited" : "Thu Nov 17, 2011 11:28 am"
+  }, {
+    "postId" : "620867",
+    "author" : {
+      "username" : "orb",
+      "userId" : "620867",
+      "joined" : "Wed Jan 14, 2004 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kingston upon Thames",
+      "postCount" : "2475",
+      "avatarPath" : null
+    },
+    "content" : "Also check the earth strap on the gearbox, they have a habit of breaking and producing the same results \n<br> \n<br> Orb",
+    "lastEdited" : "Thu Nov 17, 2011 11:54 am"
+  }, {
+    "postId" : "620890",
+    "author" : {
+      "username" : "The splitster",
+      "userId" : "620890",
+      "joined" : "Mon Mar 02, 2009 10:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "447",
+      "avatarPath" : null
+    },
+    "content" : "Hit the solenoid with a hammer (lightly)",
+    "lastEdited" : "Thu Nov 17, 2011 1:45 pm"
+  }, {
+    "postId" : "621002",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "621002",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "cleaned the 2 fuse ends on the right hand side of fuse box, tried rocking it in 2nd gear, gearbox strap ok\n<br> \n<br> nothing\n<br> \n<br> the soliniod ( the part on the side of the motor with the terminal and the two bolts for the connections has a bit of play in it, 5mm or so ?\n<br> \n<br> Jason",
+    "lastEdited" : "Fri Nov 18, 2011 12:44 am"
+  }, {
+    "postId" : "621130",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "621130",
+      "joined" : "Thu Apr 01, 2004 9:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "hull the new venice",
+      "postCount" : "717",
+      "avatarPath" : null
+    },
+    "content" : "are the red and green lights diming when you turn the key? ,try a known good battery, give all conections a good clean, get metal on metal on everything\n<br> \n<br> mark",
+    "lastEdited" : "Fri Nov 18, 2011 7:35 pm"
+  }, {
+    "postId" : "621947",
+    "author" : {
+      "username" : "jellibus",
+      "userId" : "621947",
+      "joined" : "Fri Feb 20, 2004 6:48 am",
+      "profileRank" : "Registered user",
+      "location" : "Leeds.West Yorks",
+      "postCount" : "622",
+      "avatarPath" : null
+    },
+    "content" : "Hello again.\n<br> Turn on the headlights and turn the key as if to start the bus. Do the headlights dim drastically? If they do there is likely a starter problem - if not, there is no powere going through to the starter.\n<br> \n<br> The 'switch' wire I spoke about earlier is the one form the ignition switch back to the starter. The above will test this out for you though. \n<br> \n<br> You could also take the starter off and wire it straight to the battery.\n<br> Steve",
+    "lastEdited" : "Tue Nov 22, 2011 5:25 pm"
+  }, {
+    "postId" : "621969",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "621969",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "Thanks Jellybus,\n<br> \n<br> I just tried starting it with the lights on and they didn't dim so I am hoping that it's an electrical problem and not a new starter.\n<br> \n<br> I'll get the electrical tester on it and try and find out which bit is knackered.\n<br> \n<br> Thanks for your help\n<br> \n<br> Jason",
+    "lastEdited" : "Tue Nov 22, 2011 6:45 pm"
+  }, {
+    "postId" : "621994",
+    "author" : {
+      "username" : "jellibus",
+      "userId" : "621994",
+      "joined" : "Fri Feb 20, 2004 6:48 am",
+      "profileRank" : "Registered user",
+      "location" : "Leeds.West Yorks",
+      "postCount" : "622",
+      "avatarPath" : null
+    },
+    "content" : "Have you checked the wires onto the ignition switch? \n<br> If the oil and battery warning lights come on when you turn the key? the sswitch/starter wire may have come off, or broken.\n<br> Keep at it \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Nov 22, 2011 8:17 pm"
+  }, {
+    "postId" : "624716",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "624716",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "Ok after much fun and games I managed to get the light switch out and clean the terminals and the the ignition, I checked it with the elec meter and get 11.8v from the wire marked as 50 - the switch wire. \n<br> \n<br> this one runs all the way to the starter, so job for tomorrow is see if I am getting the same volts starter end, I really hope not, just because it's a whole lot easier to run a wire than it is to buy and replace a starter, not to mention cheaper. \n<br> \n<br> I am fairly hopeful it is as the switch wire at the ignition end is wrapped in electrical tape so I am hoping there is some bodge in there that needs fixing.\n<br> \n<br> I'll let you all know soon.\n<br> \n<br> Jason",
+    "lastEdited" : "Thu Dec 08, 2011 1:05 am"
+  }, {
+    "postId" : "624833",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "624833",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "tonight I have been under the van trying to sort this out, at 1st I had no body to help so ran a wire about the same thickness from the battery straight to the starter, nothing. \n<br> \n<br> Still in the vain hope that it might not be the starter knackered i found the earth strap, at one end it is torn in half. so presumably not getting enough current through ?\n<br> \n<br> something that has just occurred to me, before this happened the starter was acting funny, I thought I might have taken off some teeth on the fly wheel as it would turn for a few rev about 4, normally enough to get b going but then it would make a whirling noise like it was spinning but there were no teeth for it to engage with on the fly wheel. \n<br> \n<br> In my heart of hearts I don't think I had taken any teeth off but does this sound like a symptom of a starter motor about to pack up ?\n<br> \n<br> Jason",
+    "lastEdited" : "Thu Dec 08, 2011 5:49 pm"
+  }, {
+    "postId" : "626260",
+    "author" : {
+      "username" : "jellibus",
+      "userId" : "626260",
+      "joined" : "Fri Feb 20, 2004 6:48 am",
+      "profileRank" : "Registered user",
+      "location" : "Leeds.West Yorks",
+      "postCount" : "622",
+      "avatarPath" : null
+    },
+    "content" : "Think you need a new starter. \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\"> \n<br> The starter has two internal actions,one is the spinning and one is throwing the spin out to engage with the flywheel. Whirring mean its not throwing out to engage. Mine does the same.",
+    "lastEdited" : "Sun Dec 18, 2011 4:15 pm"
+  }, {
+    "postId" : "626312",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "626312",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "It was doing both, the engine was turning over but then it would stop and I'd just get the whirling before the engine da a chance of starting up.\n<br> \n<br> I have got another starter on its way so hopefully that should sort it.\n<br> \n<br> Thanks for the useful tips and advice.\n<br> \n<br> Jason",
+    "lastEdited" : "Sun Dec 18, 2011 8:10 pm"
+  } ]
+}

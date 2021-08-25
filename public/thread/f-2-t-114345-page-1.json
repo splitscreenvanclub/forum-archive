@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "114345",
+  "title" : "Firetruck spotlight",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114345",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=d230333c3f0f7061bbc83425a87cbaef",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "862235",
+    "author" : {
+      "username" : "boyden",
+      "userId" : "862235",
+      "joined" : "Mon Apr 16, 2012 10:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "London",
+      "postCount" : "161",
+      "avatarPath" : "./download/file.php%3Favatar=36501_1449624588.png"
+    },
+    "content" : "Anyone with a firetruck seen or have one of these?\n<br> \n<br> \n<a href=\"http://s240.photobucket.com/user/jaeger_83/media/image_zpsotttwx9h.jpeg.html\" class=\"postlink\"><img src=\"http://i240.photobucket.com/albums/ff260/jaeger_83/image_zpsotttwx9h.jpeg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> \n<a href=\"http://s240.photobucket.com/user/jaeger_83/media/image_zpsmwgqr9zy.jpeg.html\" class=\"postlink\"><img src=\"http://i240.photobucket.com/albums/ff260/jaeger_83/image_zpsmwgqr9zy.jpeg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> I was told it was an early 60s firetruck spotlight and bought it to take the Hella lamp off for my bumper, but it's too nice to disassemble. Just wondering if any firetruck owners out there know if it's a 'proper' spotlight as such, or more likely to be a local homebrew remedy.",
+    "lastEdited" : "Sat Jan 30, 2016 8:42 pm"
+  }, {
+    "postId" : "862455",
+    "author" : {
+      "username" : "split999",
+      "userId" : "862455",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2287",
+      "avatarPath" : null
+    },
+    "content" : "Yhpm",
+    "lastEdited" : "Mon Feb 01, 2016 2:09 pm"
+  } ]
+}

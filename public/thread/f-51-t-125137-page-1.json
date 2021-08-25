@@ -1,0 +1,40 @@
+{
+  "forumId" : "51",
+  "threadId" : "125137",
+  "title" : "SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=125137",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=db91605096dd4c42868f17d746195f25",
+    "label" : "Buses For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932206",
+    "author" : {
+      "username" : "Neil Barker",
+      "userId" : "932206",
+      "joined" : "Wed May 14, 2003 1:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Llangernyw, Conwy",
+      "postCount" : "283",
+      "avatarPath" : null
+    },
+    "content" : "SOLD",
+    "lastEdited" : "Sun Sep 13, 2020 3:37 pm"
+  }, {
+    "postId" : "932242",
+    "author" : {
+      "username" : "rikki james",
+      "userId" : "932242",
+      "joined" : "Wed Apr 16, 2003 11:15 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "-",
+      "postCount" : "3704",
+      "avatarPath" : null
+    },
+    "content" : "Price? \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";-)\" title=\"Wink\">",
+    "lastEdited" : "Tue Sep 15, 2020 1:31 pm"
+  } ]
+}

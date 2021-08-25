@@ -1,0 +1,89 @@
+{
+  "forumId" : "32",
+  "threadId" : "78402",
+  "title" : "members only",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=78402&start=15",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 21,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "714742",
+    "author" : {
+      "username" : "Jejochem",
+      "userId" : "714742",
+      "joined" : "Tue May 22, 2012 7:41 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Pembrokeshire",
+      "postCount" : "347",
+      "avatarPath" : null
+    },
+    "content" : "Me neither, how do I link my membership number to my account? Can't find any info on how to? Cheers.",
+    "lastEdited" : "Mon Apr 08, 2013 10:49 am"
+  }, {
+    "postId" : "714866",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "714866",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1813",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "I'm another, can someone help?",
+    "lastEdited" : "Mon Apr 08, 2013 8:33 pm"
+  }, {
+    "postId" : "722352",
+    "author" : {
+      "username" : "unclegee",
+      "userId" : "722352",
+      "joined" : "Sat Mar 02, 2013 10:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "47",
+      "avatarPath" : null
+    },
+    "content" : "Yep me to, joined club at volksword with Stained glass Susie, but still can't work out how to link club membership to forum etc......\n<br>\n<br>Reeeearly want a little bus icon \n<img class=\"smilies\" src=\"./images/smilies/icon_bounce.gif\" alt=\":bounce:\" title=\"bounce\"> \n<br>\n<br>Help!!!!!!!\n<br>Cheers, Grant and Netty",
+    "lastEdited" : "Mon May 13, 2013 9:05 pm"
+  }, {
+    "postId" : "722451",
+    "author" : {
+      "username" : "KevHedges",
+      "userId" : "722451",
+      "joined" : "Sun Nov 25, 2012 7:36 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "5",
+      "avatarPath" : null
+    },
+    "content" : "I can log on but also cannot access the members only section?\n<br>Kev",
+    "lastEdited" : "Tue May 14, 2013 12:31 pm"
+  }, {
+    "postId" : "722480",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "722480",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "There is nothing really in the members section.\n<br>\n<br>When the new website eventually gets done you will be able to link it then",
+    "lastEdited" : "Tue May 14, 2013 2:01 pm"
+  }, {
+    "postId" : "744401",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "744401",
+      "joined" : "Tue Sep 02, 2003 1:14 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Matlock",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "The automatic link to be able to access the members area is currently not working.\n<br>If forum users who are paid up members would like their membership linking then please PM me or e mail with your full name, membership number and forum user name and I will link them for you manually.",
+    "lastEdited" : "Wed Sep 04, 2013 11:27 am"
+  } ]
+}

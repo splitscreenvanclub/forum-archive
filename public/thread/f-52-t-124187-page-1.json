@@ -1,0 +1,53 @@
+{
+  "forumId" : "52",
+  "threadId" : "124187",
+  "title" : "Sold",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=124187",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=89bde038d9fb9d66aa3f9e65b233bf2a",
+    "label" : "Non Bus Things For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927109",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "927109",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Sold",
+    "lastEdited" : "Sun Dec 22, 2019 9:26 pm"
+  }, {
+    "postId" : "927123",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "927123",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "sold",
+    "lastEdited" : "Mon Dec 23, 2019 2:58 pm"
+  }, {
+    "postId" : "927421",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "927421",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Sold",
+    "lastEdited" : "Tue Jan 14, 2020 10:41 pm"
+  } ]
+}

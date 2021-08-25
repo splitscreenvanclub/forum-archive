@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "30981",
+  "title" : "Devon Magazine rack and table mounting board.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=30981",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "225318",
+    "author" : {
+      "username" : "61 Devon",
+      "userId" : "225318",
+      "joined" : "Wed May 07, 2003 8:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Knowle, Solihull",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "I am just refitting my interior which was removed along time before I bought my bus.\n<br> The magazine rack screws onto the top of the two seat bases. But how does it stop up ?,\n<br> Does the magazine rack open onto the table mounting board, or is the table mounting board above the mag rack.\n<br> A picture would be appreciated.\n<br> Thanks Simon.",
+    "lastEdited" : "Sat May 26, 2007 3:26 pm"
+  }, {
+    "postId" : "225478",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "225478",
+      "joined" : "Thu Apr 01, 2004 9:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "hull the new venice",
+      "postCount" : "717",
+      "avatarPath" : null
+    },
+    "content" : "the mag rack fixes to the top of the bases and there should be crome peg on the lefthand side and this fits into a crome catch that is fitted to the panel. the table mounting board( triangular shape with crome ashtray)fits above the mag rack. do a site search you should find a few examples",
+    "lastEdited" : "Sun May 27, 2007 12:19 pm"
+  }, {
+    "postId" : "225484",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "225484",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4544",
+      "avatarPath" : null
+    },
+    "content" : "This is my interpretation of it.\n<br> \n<br> \n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/P3160036.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/P3160034.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sun May 27, 2007 1:20 pm"
+  }, {
+    "postId" : "225563",
+    "author" : {
+      "username" : "61 Devon",
+      "userId" : "225563",
+      "joined" : "Wed May 07, 2003 8:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Knowle, Solihull",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "Thanks guys",
+    "lastEdited" : "Sun May 27, 2007 7:12 pm"
+  }, {
+    "postId" : "227543",
+    "author" : {
+      "username" : "Damon22",
+      "userId" : "227543",
+      "joined" : "Mon Nov 28, 2005 5:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "New Forest",
+      "postCount" : "429",
+      "avatarPath" : null
+    },
+    "content" : "Bob, stunning looking interior, any mor pics?\n<br> Love the fabric choice too.",
+    "lastEdited" : "Mon Jun 04, 2007 9:37 pm"
+  } ]
+}

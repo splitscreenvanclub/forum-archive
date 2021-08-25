@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "115030",
+  "title" : "Accelerator boot",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115030",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867588",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "867588",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "2590",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "Hi\n<br>\n<br>Should there be a boot over the throttle cable between the end of the long conduit and where it goes through the fan housing?\n<br>\n<br>I can only see one for a later bus on AHS etc. \n<br>\n<br>Perhaps a later one fits?\n<br>\n<br>Ta\n<br>\n<br>Steve",
+    "lastEdited" : "Mon Mar 14, 2016 8:18 am"
+  }, {
+    "postId" : "867591",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "867591",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1810",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Steve\n<br>\n<br>No boot originally, but best to put one on as the cable rubs against the gearbox. Will have a search as I bought one as advised by VWJim, but can't remember which one it was, possibly a beetle one?\n<br>\n<br>Richard",
+    "lastEdited" : "Mon Mar 14, 2016 8:49 am"
+  }, {
+    "postId" : "867592",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "867592",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1810",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Thread here:-\n<br>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=2&amp;t=112051\">viewtopic.php?f=2&amp;t=112051</a>\n<!-- l -->",
+    "lastEdited" : "Mon Mar 14, 2016 8:50 am"
+  }, {
+    "postId" : "867747",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "867747",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1011",
+      "avatarPath" : null
+    },
+    "content" : "I slipped a length of small bore nylon airhose tubing over mine to stop the gearbox rubbing - off ebay &amp; about £1 !\n<br>and it does rub... my gearbox had several cuts in the side of it about 5mm deep... which really doesn't do the cable any favours at all!",
+    "lastEdited" : "Tue Mar 15, 2016 9:54 pm"
+  }, {
+    "postId" : "867750",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "867750",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "2590",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "Does the cable not just rub through the boot then? It sounds like it would if it eats into the gearbox.\n<br>\n<br>Sounds like it needs a roller gadget? \n<br>\n<br>Karl?..........",
+    "lastEdited" : "Tue Mar 15, 2016 10:30 pm"
+  }, {
+    "postId" : "868434",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "868434",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2640",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1337002549.jpg"
+    },
+    "content" : "Buttys Bitts, Simon is on it already",
+    "lastEdited" : "Tue Mar 22, 2016 7:05 pm"
+  }, {
+    "postId" : "868441",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "868441",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1011",
+      "avatarPath" : null
+    },
+    "content" : "Yeah there was a post on the midlands split screen owners Facebook page with some pics of a buttys bits cable roller that bolts to the gearbox to keep the cable threaded away from the ribs on the gearbox.",
+    "lastEdited" : "Tue Mar 22, 2016 7:56 pm"
+  } ]
+}

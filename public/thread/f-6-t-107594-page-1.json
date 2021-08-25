@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "107594",
+  "title" : "Headlight flasher not working-late split-& how I fixed it...",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=107594",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "815048",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "815048",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1011",
+      "avatarPath" : null
+    },
+    "content" : "Soooo... I suddenly had a problem with my headlight flasher on my 12volt 66/67 crossover split... this has the headlight flasher and main beam on the indicator stalk... it suddenly stopped working, and you don't realise how much you use headlight flashers, until they don't work.... \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br>\n<br>I first suspected the indicator switch assy, so a quick dissassembly and that all looked ok, gave it a spray of WD-40 for good measure, but on inspection, the switch mechanism for the headlight flash was about as simple as you can get, and that all looked perfect....\n<br>\n<br>The (poor!) red arrow is the flasher switch part on the stalk...\n<br>\n<a href=\"http://s1350.photobucket.com/user/ted698/media/temporary_zpsf1d9ecab.jpg.html\" class=\"postlink\"><img src=\"http://i1350.photobucket.com/albums/p769/ted698/temporary_zpsf1d9ecab.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>So onto the next part, when you pulled the flasher stalk, you could hear a big relay behind the LH kick panel click and clunk, but it wasn't a good sound, it went sort of cliiick, Ker-lunk, in a two stage process, this definitely didn't sound right, so off with the kick panel to investigate....\n<br>\n<br>\n<a href=\"http://s1350.photobucket.com/user/ted698/media/temporary_zps71e3e6c5.jpg.html\" class=\"postlink\"><img src=\"http://i1350.photobucket.com/albums/p769/ted698/temporary_zps71e3e6c5.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>Quite easy to get to, so I took it off and took it apart to investigate, as I'm pretty sure these late model big relays are difficult to get hold of, and thought I'd take a look see first, to see what was going on.... it seemed to energise OK when it was on the bus, so I suspected bad contacts inside the relay can...\n<br>\n<br>It looked like I wasn't the first to open 'er up judging by the outer lip....\n<br>\n<br>\n<a href=\"http://s1350.photobucket.com/user/ted698/media/temporary_zpse25a3096.jpg.html\" class=\"postlink\"><img src=\"http://i1350.photobucket.com/albums/p769/ted698/temporary_zpse25a3096.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>\n<a href=\"http://s1350.photobucket.com/user/ted698/media/temporary_zps3793ce36.jpg.html\" class=\"postlink\"><img src=\"http://i1350.photobucket.com/albums/p769/ted698/temporary_zps3793ce36.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>But once inside, I found out what was wrong quite quickly... it was a combination of things.... badly pitted/corroded contacts....\n<br>\n<br>\n<a href=\"http://s1350.photobucket.com/user/ted698/media/temporary_zps61677e87.jpg.html\" class=\"postlink\"><img src=\"http://i1350.photobucket.com/albums/p769/ted698/temporary_zps61677e87.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>And also the relay contact bars had bent/moved over the years thru use, so they no longer lined up correctly....\n<br>\n<br>\n<a href=\"http://s1350.photobucket.com/user/ted698/media/797193b4-c1b8-436c-b359-578b608b4f4e_zpsc60dabce.jpg.html\" class=\"postlink\"><img src=\"http://i1350.photobucket.com/albums/p769/ted698/797193b4-c1b8-436c-b359-578b608b4f4e_zpsc60dabce.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>You can see that the main contacts on the top left are virtually half a pad out, and the other front flip/flop contacts are not parallel/straight either....\n<br>\n<br>SO a quick tweak with the needle nosed pliers in all the right places bought everything back in line, it was just years of use that have slowly bent all the contact posts out of line...\n<br>\n<br>\n<a href=\"http://s1350.photobucket.com/user/ted698/media/5be1a8bc-f400-4f37-9709-535125a5b9bb_zps09e2f9ee.jpg.html\" class=\"postlink\"><img src=\"http://i1350.photobucket.com/albums/p769/ted698/5be1a8bc-f400-4f37-9709-535125a5b9bb_zps09e2f9ee.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br>\n<br>The main contact pads, especially the main top LH ones were in a quite poor state, looks like a previous owner had had a good file at them previously, as I could see the file marks on the pads, you aren't supposed to file relay points ideally, as they usually have a silver flashing on them to 'seal' the contact faces, and give a low resistance coating, and once this is filed off it accelerates the wear, but I had no choice but to give them the once over with a nail file to clean them up again, I suspect I may be seeing the inside of this relay again in a few years time.....\n<br>\n<br>But once all back together it all worked perfectly.... hurrah! \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<br>\n<br>The only other job I did was the indicator stalk was a bit loose on the column (are'nt they all), so before re-asssembly I stuck a sticky sanding pad on the flat garage floor and carefully sanded a touch off both halves of the indicator stalk clamp parts, put this all back on and its as tight as you like now.... \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\">\n<br>\n<br>Hope this may help someone with a similar problem one day.... Cheers \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Wed Dec 31, 2014 10:45 pm"
+  }, {
+    "postId" : "815072",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "815072",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10322",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Excellent TEACH IN\n<br>Happy New Year\n<br>I am sure I have one of these in my box of relays...now I know what it is for. .\n<br>I was confused by the 311 number..\n<br>Will check and if so post in for sale section...\n<br>In the past I have similarly been brave and opened non functioning fuel relays on my old Audi quattro...only to find the relay coil winding obviously not working for a break near to connection, unwound a very small amount and re soldered the very fine wire back to the contact point and bingo another few years of usable relay.\n<br>That really fooled me..the fuel relay cut out to stop the 5 cylinder engine over reving .changed the upper rev limit ever so slightly..",
+    "lastEdited" : "Thu Jan 01, 2015 11:29 am"
+  }, {
+    "postId" : "815112",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "815112",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Fantastic how to \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">\n<br>\n<br>Andy",
+    "lastEdited" : "Thu Jan 01, 2015 4:17 pm"
+  }, {
+    "postId" : "815157",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "815157",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "Nicely done. Thanks.",
+    "lastEdited" : "Thu Jan 01, 2015 8:05 pm"
+  }, {
+    "postId" : "815160",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "815160",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "2001",
+      "avatarPath" : null
+    },
+    "content" : "Good work - lots of people treat relays as a consumable, but at the end of the day they're a mechanical item with simple electrics, so no reason not to have a fiddle !",
+    "lastEdited" : "Thu Jan 01, 2015 8:28 pm"
+  }, {
+    "postId" : "868085",
+    "author" : {
+      "username" : "1deaky1969",
+      "userId" : "868085",
+      "joined" : "Tue Aug 04, 2015 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "Ted \n<br>Again, any thanks for bringing this to my attention. \n<br>\n<br>I will be sure, not to discard my original relay \n<br>\n<br>Kind regards \n<br>Deaks",
+    "lastEdited" : "Fri Mar 18, 2016 9:49 pm"
+  }, {
+    "postId" : "868194",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "868194",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1129",
+      "avatarPath" : "http://www.charity-bolivia.org/vw/DOUGAL.jpg"
+    },
+    "content" : "This is great!\n<br>Is there a thread like this for the round indicator relay as well?\n<br>\n<br>Gertjan",
+    "lastEdited" : "Sun Mar 20, 2016 11:12 am"
+  } ]
+}

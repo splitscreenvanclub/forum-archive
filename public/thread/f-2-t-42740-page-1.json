@@ -1,0 +1,209 @@
+{
+  "forumId" : "2",
+  "threadId" : "42740",
+  "title" : "Bristol show",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=42740",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=9550e3ce50130250358933370d4b55e5",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 34,
+  "pageNumber" : 1,
+  "totalPages" : 3,
+  "posts" : [ {
+    "postId" : "321596",
+    "author" : {
+      "username" : "gismorat50",
+      "userId" : "321596",
+      "joined" : "Tue Oct 03, 2006 2:14 pm",
+      "profileRank" : "Registered user",
+      "location" : "18 miles from the beach",
+      "postCount" : "301",
+      "avatarPath" : "./download/file.php%3Favatar=3148_1227260249.gif"
+    },
+    "content" : "anyone going this weekend?",
+    "lastEdited" : "Wed Jun 04, 2008 7:08 am"
+  }, {
+    "postId" : "321641",
+    "author" : {
+      "username" : "Herr Doktor",
+      "userId" : "321641",
+      "joined" : "Tue Feb 14, 2006 2:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "God's Country - Pays de Galles",
+      "postCount" : "1580",
+      "avatarPath" : null
+    },
+    "content" : "What show?",
+    "lastEdited" : "Wed Jun 04, 2008 10:16 am"
+  }, {
+    "postId" : "321645",
+    "author" : {
+      "username" : "Ricks Bugs & Buses",
+      "userId" : "321645",
+      "joined" : "Sun Jul 31, 2005 4:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Weston-super-Mare",
+      "postCount" : "570",
+      "avatarPath" : "./download/file.php%3Favatar=1553_1224152489.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Warren Organ wrote:</cite>What show?\n </div>\n</blockquote> The clue is in the title dude \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> Bristol Volksfest",
+    "lastEdited" : "Wed Jun 04, 2008 10:21 am"
+  }, {
+    "postId" : "321652",
+    "author" : {
+      "username" : "Herr Doktor",
+      "userId" : "321652",
+      "joined" : "Tue Feb 14, 2006 2:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "God's Country - Pays de Galles",
+      "postCount" : "1580",
+      "avatarPath" : null
+    },
+    "content" : "Is it any good?",
+    "lastEdited" : "Wed Jun 04, 2008 10:42 am"
+  }, {
+    "postId" : "321669",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "321669",
+      "joined" : "Tue Oct 04, 2005 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Taunton, cider capital",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "YES \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Jun 04, 2008 11:25 am"
+  }, {
+    "postId" : "321699",
+    "author" : {
+      "username" : "Herr Doktor",
+      "userId" : "321699",
+      "joined" : "Tue Feb 14, 2006 2:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "God's Country - Pays de Galles",
+      "postCount" : "1580",
+      "avatarPath" : null
+    },
+    "content" : "hmm, not much of a response to the thread tho'",
+    "lastEdited" : "Wed Jun 04, 2008 12:51 pm"
+  }, {
+    "postId" : "321712",
+    "author" : {
+      "username" : "BohoPixie",
+      "userId" : "321712",
+      "joined" : "Tue Feb 20, 2007 12:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cardiff",
+      "postCount" : "802",
+      "avatarPath" : null
+    },
+    "content" : "I love Bristol VF, been for the last 2 years. We'll be there wandering around aimlessy drooling at all the lovely buses no doubt \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Wed Jun 04, 2008 1:24 pm"
+  }, {
+    "postId" : "321713",
+    "author" : {
+      "username" : "acmecustom",
+      "userId" : "321713",
+      "joined" : "Mon Apr 16, 2007 7:50 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Newqvegas, Kernow. UK",
+      "postCount" : "2926",
+      "avatarPath" : "./download/file.php%3Favatar=5095_1258390691.jpg"
+    },
+    "content" : "i have been to Brizzle Volksfest for the past couple of years. I love it!! Great show, amazing location, last year was sooooooooo frickin hot!!! Not sure I am gunna be able to get up there this year though unfortunately... Work is getting in the way as usual. Gutted...",
+    "lastEdited" : "Wed Jun 04, 2008 1:26 pm"
+  }, {
+    "postId" : "321716",
+    "author" : {
+      "username" : "BohoPixie",
+      "userId" : "321716",
+      "joined" : "Tue Feb 20, 2007 12:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cardiff",
+      "postCount" : "802",
+      "avatarPath" : null
+    },
+    "content" : "I got sunstroke on the SUnday last year, so here's hoping for another Sunny weekend \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Wed Jun 04, 2008 1:30 pm"
+  }, {
+    "postId" : "321719",
+    "author" : {
+      "username" : "acmecustom",
+      "userId" : "321719",
+      "joined" : "Mon Apr 16, 2007 7:50 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Newqvegas, Kernow. UK",
+      "postCount" : "2926",
+      "avatarPath" : "./download/file.php%3Favatar=5095_1258390691.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>BohoPixie wrote:</cite>I got sunstroke on the SUnday last year, so here's hoping for another Sunny weekend \n  <img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\">\n </div>\n</blockquote> The weather is looking okay at the moment fella... soooooooo hot in that valley!!!!!! Dont forget your factor 30!!!",
+    "lastEdited" : "Wed Jun 04, 2008 1:36 pm"
+  }, {
+    "postId" : "321731",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "321731",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "Def doing Bristol Volksfest, make up for not doing RTTS 'cos of the weather. The report for this weekend is looking good. \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Wed Jun 04, 2008 2:06 pm"
+  }, {
+    "postId" : "321744",
+    "author" : {
+      "username" : "Ricks Bugs & Buses",
+      "userId" : "321744",
+      "joined" : "Sun Jul 31, 2005 4:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Weston-super-Mare",
+      "postCount" : "570",
+      "avatarPath" : "./download/file.php%3Favatar=1553_1224152489.jpg"
+    },
+    "content" : "It's an excellent show &amp; caters for all ages. Definitely always on our club list of to do's .... and it's only 20 minutes down the road as well! \n<img class=\"smilies\" src=\"./images/smilies/icon_razz.gif\" width=\"15\" height=\"15\" alt=\":P\" title=\"Razz\">",
+    "lastEdited" : "Wed Jun 04, 2008 2:52 pm"
+  }, {
+    "postId" : "321752",
+    "author" : {
+      "username" : "Herr Doktor",
+      "userId" : "321752",
+      "joined" : "Tue Feb 14, 2006 2:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "God's Country - Pays de Galles",
+      "postCount" : "1580",
+      "avatarPath" : null
+    },
+    "content" : "Boho, will you be taking the bus from Cardiff?",
+    "lastEdited" : "Wed Jun 04, 2008 3:36 pm"
+  }, {
+    "postId" : "321774",
+    "author" : {
+      "username" : "splitstream",
+      "userId" : "321774",
+      "joined" : "Mon Jul 04, 2005 9:11 am",
+      "profileRank" : "Registered user",
+      "location" : "Mud Bowl City",
+      "postCount" : "1820",
+      "avatarPath" : null
+    },
+    "content" : "I'll be dragging the lounge up there, always a good show last year was really good.\n<br> \n<br> Scott, why don't you cruise up with us lot on friday night?\n<br> \n<br> darren",
+    "lastEdited" : "Wed Jun 04, 2008 4:23 pm"
+  }, {
+    "postId" : "321776",
+    "author" : {
+      "username" : "acmecustom",
+      "userId" : "321776",
+      "joined" : "Mon Apr 16, 2007 7:50 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Newqvegas, Kernow. UK",
+      "postCount" : "2926",
+      "avatarPath" : "./download/file.php%3Favatar=5095_1258390691.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>splitstream wrote:</cite>I'll be dragging the lounge up there, always a good show last year was really good.\n  <br> \n  <br> Scott, why don't you cruise up with us lot on friday night?\n  <br> \n  <br> darren\n </div>\n</blockquote> I am gunna try fella. Only problem is I am working in Bournemouth right now an I wont even be back to Newquay till late friday... Tricky one. I wanna be there but just dont know right now... where are you cruisin up from and when mate? I will try...",
+    "lastEdited" : "Wed Jun 04, 2008 4:27 pm"
+  } ]
+}

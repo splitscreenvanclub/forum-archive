@@ -1,0 +1,79 @@
+{
+  "forumId" : "4",
+  "threadId" : "117046",
+  "title" : "NOS '65 Model Year Wiper Motor - SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=117046",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=0ecd8b8fd3c3edb6f8b17020a4fbb84d",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "881520",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "881520",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "NOS exchange unit wiper motor.\n<br> 211 955 111 N (X).\n<br> 6 volt.\n<br> Tested.\n<br> This will fit Buses built between August '64 and end of July '65. (Chassis # 215 000 001 to 215 190 000).\n<br> It will not fit Buses built before or after these dates, so please check your chassis number/wiper set up.\n<br> Price: £100, cash, collect Bristol. £103 posted within the UK, PayPal as a gift/£108 not as a gift.\n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1384175.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1384174.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1384173.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri Aug 19, 2016 9:13 am"
+  }, {
+    "postId" : "881522",
+    "author" : {
+      "username" : "billywizkid",
+      "userId" : "881522",
+      "joined" : "Mon Aug 01, 2011 6:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "103",
+      "avatarPath" : null
+    },
+    "content" : "Hi I'm interested in your wiper motor I'm in Gloucester my bus is USA 65 will it fit also do you have the mounting bracket and shafts",
+    "lastEdited" : "Fri Aug 19, 2016 9:20 am"
+  }, {
+    "postId" : "881531",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "881531",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "Yes, it will fit a USA '65 model year. Best to double check that your chassis number falls between the parameters in my first post. I don't have a frame or shafts. Repro shaft kits are available from the usual suspects.",
+    "lastEdited" : "Fri Aug 19, 2016 11:28 am"
+  }, {
+    "postId" : "881536",
+    "author" : {
+      "username" : "billywizkid",
+      "userId" : "881536",
+      "joined" : "Mon Aug 01, 2011 6:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "103",
+      "avatarPath" : null
+    },
+    "content" : "Hi how many terminals does it have",
+    "lastEdited" : "Fri Aug 19, 2016 11:56 am"
+  }, {
+    "postId" : "881547",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "881547",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "3 terminals:\n<br> 54\n<br> 31b\n<br> 54d\n<br> The earth 31 is achieved via the motor being bolted to the body.\n<br> As per \n<a href=\"http://www.thesamba.com/vw/archives/info/wiring/65bus.jpg\" class=\"postlink\">http://www.thesamba.com/vw/archives/inf ... /65bus.jpg</a>",
+    "lastEdited" : "Fri Aug 19, 2016 1:19 pm"
+  } ]
+}

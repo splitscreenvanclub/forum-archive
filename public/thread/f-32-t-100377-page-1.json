@@ -1,0 +1,50 @@
+{
+  "forumId" : "32",
+  "threadId" : "100377",
+  "title" : "Linking membership to members forum",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=100377",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "767300",
+    "author" : {
+      "username" : "thewonkydonkey",
+      "userId" : "767300",
+      "joined" : "Sun Sep 25, 2011 6:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "Surrey darling...",
+      "postCount" : "30",
+      "avatarPath" : "./download/file.php%3Favatar=35911_1391699219.png"
+    },
+    "content" : "Hi\n<br>\n<br>Can someone advise me how to link my SSVC membership to my username on here please so I can access the members forum\n<br>\n<br>Thanks",
+    "lastEdited" : "Sun Jan 26, 2014 8:41 am"
+  }, {
+    "postId" : "767302",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "767302",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "1549",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>thewonkydonkey wrote:</cite>Hi\n  <br>\n  <br>Can someone advise me how to link my SSVC membership to my username on here please so I can access the members forum\n  <br>\n  <br>Thanks\n </div>\n</blockquote>\n<br>\n<br>Hi Wonkey\n<br>I had the same problem, see my thread about page 8/9 or so and heed the warnings \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\"> \n<br>\n<br>If you pm Nigel (Dipsy) I'm sure it will be sorted. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<br>\n<br>Hope that helps\n<br>\n<br>Steve",
+    "lastEdited" : "Sun Jan 26, 2014 8:52 am"
+  }, {
+    "postId" : "767534",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "767534",
+      "joined" : "Sun May 09, 2004 3:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Shameless estate",
+      "postCount" : "3211",
+      "avatarPath" : "http://i37.photobucket.com/albums/e89/fleetline15/57%20Kombi/78042867-055d-49d5-9706-9eeca5406b30_zpsf385771a.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>thewonkydonkey wrote:</cite>Hi\n  <br>\n  <br>Can someone advise me how to link my SSVC membership to my username on here please so I can access the members forum\n  <br>\n  <br>Thanks\n </div>\n</blockquote>\n<br>\n<br>Contact Nige \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> - \n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=32&amp;t=97182\">viewtopic.php?f=32&amp;t=97182</a>\n<!-- l -->",
+    "lastEdited" : "Mon Jan 27, 2014 1:17 pm"
+  } ]
+}

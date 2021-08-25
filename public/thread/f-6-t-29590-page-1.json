@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "29590",
+  "title" : "Reverse Light Switch",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=29590",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "213771",
+    "author" : {
+      "username" : "Gnarly",
+      "userId" : "213771",
+      "joined" : "Thu Dec 02, 2004 4:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "Mid England Ish",
+      "postCount" : "4266",
+      "avatarPath" : null
+    },
+    "content" : "Anyone know how easy/hard this is to do on a late split box?\n<br> \n<br> As much detail/pics would be appreciated, let me know what you know \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Thu Apr 12, 2007 10:51 pm"
+  }, {
+    "postId" : "213858",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "213858",
+      "joined" : "Thu Mar 13, 2003 7:21 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Coventry",
+      "postCount" : "1783",
+      "avatarPath" : null
+    },
+    "content" : "From factory it was only the 67 year model that had a reversing light. If your bus is late enough to have a reversing light blank, then it's a relatively simple job. I don't know when this was, but best guess would be with the 1500 engine.\n<br> \n<br> The original way of wiring them is to take a fused feed off the coil, into the switch which just winds into the blank on the side of the box.\n<br> \n<br> I've spent a while trawling the web for pictures that show the location of the switch, but every photo I can find is taken from the wrong angle \n<img class=\"smilies\" src=\"./images/smilies/sad.gif\" width=\"15\" height=\"15\" alt=\":-(\" title=\"Sad\"> There are a few pics that 'might' help here\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/archives/manuals/techbulletins/e3.php\" class=\"postlink\">http://www.thesamba.com/vw/archives/man ... ins/e3.php</a>\n<br> \n<br> along with details of a VW designed method that used a bracket that bolted onto the back of the shift rod and operated a switch screwed onto the vehicle \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> \n<br> \n<br> The other option is to find one of the reversing light switches that goes on the back of the speedo and only makes a contact when the cable runs backwards. Have a look at this thread\n<br> \n<br> \n<a href=\"http://www.ssvc.ukshells.co.uk/phpbb/viewtopic.php?t=26958&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=\" class=\"postlink\">http://www.ssvc.ukshells.co.uk/phpbb/vi ... highlight=</a>\n<br> \n<br> as the original poster has one and mentions he may be gettting rid of it. They're one of the easist ways to install, but the one downside is they only come on once you start moving backwards, and go off again when you stop, not when you select reverse.\n<br> \n<br> Hope this helps.",
+    "lastEdited" : "Fri Apr 13, 2007 10:55 am"
+  }, {
+    "postId" : "213861",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "213861",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "thread hi-jack alert.\n<br> \n<br> am i right in thinking that the switch screws into the gearbox. I have been thinking about this as i am thinking of fitting some parking sensors or a reversing camera. I have a type3 gearbox so i am guessing it may have the hole for the sensor.",
+    "lastEdited" : "Fri Apr 13, 2007 11:12 am"
+  }, {
+    "postId" : "213875",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "213875",
+      "joined" : "Thu Mar 13, 2003 7:21 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Coventry",
+      "postCount" : "1783",
+      "avatarPath" : null
+    },
+    "content" : "I only half finished my original post as I my PC was 'having a moment' It's now updated and finished.\n<br> \n<br> \n<blockquote>\n <div>\n  <cite>wilgartw wrote:</cite>thread hi-jack alert.\n  <br> \n  <br> am i right in thinking that the switch screws into the gearbox. I have been thinking about this as i am thinking of fitting some parking sensors or a reversing camera. I have a type3 gearbox so i am guessing it may have the hole for the sensor.\n </div>\n</blockquote> \n<br> That's exactly it. There's a shoulder inside the g'box that pysically pushes the switch. Your Type 3 g/box should have the blank, if not a switch already.\n<br> \n<br> I like the idea of using it for a parking sensor or reversing camera. \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\"> \n<br> I had a couple of ideas along those lines myself. R u going to be at Viccy farm? If so, we must talk \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" width=\"15\" height=\"15\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Fri Apr 13, 2007 12:15 pm"
+  }, {
+    "postId" : "213878",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "213878",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>wilgartw wrote:</cite>thread hi-jack alert.\n  <br> \n  <br> am i right in thinking that the switch screws into the gearbox. I have been thinking about this as i am thinking of fitting some parking sensors or a reversing camera. I have a type3 gearbox so i am guessing it may have the hole for the sensor.\n </div>\n</blockquote> It screws into the nosecone, so when you put the split nosecone on you lose the provision to have reverse lights",
+    "lastEdited" : "Fri Apr 13, 2007 12:22 pm"
+  }, {
+    "postId" : "213884",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "213884",
+      "joined" : "Thu Mar 13, 2003 7:21 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Coventry",
+      "postCount" : "1783",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>paul_f wrote:</cite>\n  <blockquote>\n   <div>\n    <cite>wilgartw wrote:</cite>thread hi-jack alert.\n    <br> \n    <br> am i right in thinking that the switch screws into the gearbox. I have been thinking about this as i am thinking of fitting some parking sensors or a reversing camera. I have a type3 gearbox so i am guessing it may have the hole for the sensor.\n   </div>\n  </blockquote> It screws into the nosecone, so when you put the split nosecone on you lose the provision to have reverse lights\n </div>\n</blockquote> Is that all gearboxes, paul, or just the type 3 one?",
+    "lastEdited" : "Fri Apr 13, 2007 12:35 pm"
+  }, {
+    "postId" : "213928",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "213928",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I've seen a switch on a splitty box, but can't remember who's..... I thought they aways went in the nose cone, but speaking to Alex, he thought they went in the body of the gearbox...? May be there's more than one sort?",
+    "lastEdited" : "Fri Apr 13, 2007 4:48 pm"
+  }, {
+    "postId" : "214000",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "214000",
+      "joined" : "Thu Apr 17, 2003 9:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "In front of the computer",
+      "postCount" : "1769",
+      "avatarPath" : null
+    },
+    "content" : "They did go into the nose cone originally. I believe that the nose cones from Brazil have the fittings for a switch but have a blanking plug fitted. Mike\n<br> \n<img src=\"http://www.i405.com/VW/stand/T2_Trans_NoseC01.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<a href=\"http://www.cip1.ca/PhotoGallery.asp?ProductCode=VWC%2D211%2D301%2D205%2DH\" class=\"postlink\">http://www.cip1.ca/PhotoGallery.asp?Pro ... %2D205%2DH</a>",
+    "lastEdited" : "Fri Apr 13, 2007 7:51 pm"
+  }, {
+    "postId" : "214818",
+    "author" : {
+      "username" : "ob",
+      "userId" : "214818",
+      "joined" : "Fri Mar 09, 2007 10:46 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hampshire",
+      "postCount" : "46",
+      "avatarPath" : null
+    },
+    "content" : "I was under my bus the other day and happened to notice I have one fitted on what appears to be the orginal gearbox on a 65 us spec split but no evidence of how or if it was ever wired up . I thought it was odd at the time but never thought anymore about it.",
+    "lastEdited" : "Tue Apr 17, 2007 7:58 am"
+  }, {
+    "postId" : "214829",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "214829",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ob wrote:</cite>I was under my bus the other day and happened to notice I have one fitted on what appears to be the orginal gearbox on a 65 us spec split but no evidence of how or if it was ever wired up . I thought it was odd at the time but never thought anymore about it.\n </div>\n</blockquote> was it in the nosecone?",
+    "lastEdited" : "Tue Apr 17, 2007 8:30 am"
+  }, {
+    "postId" : "214875",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "214875",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "As a point of interest, and for those like me who have early gearbox's the original method of turning on the reversing light was a switch fitted to the speedo cable on the back of the dash panel pod. It operated by the direction of rotation of the front wheel via the cable. It's a while since I have seen one, just wondered if any still exist? Peter Good",
+    "lastEdited" : "Tue Apr 17, 2007 11:50 am"
+  }, {
+    "postId" : "214876",
+    "author" : {
+      "username" : "lammyrider",
+      "userId" : "214876",
+      "joined" : "Mon Mar 07, 2005 2:57 am",
+      "profileRank" : "SSVC Member",
+      "location" : "northampton-home of the mighty cobblers",
+      "postCount" : "3322",
+      "avatarPath" : null
+    },
+    "content" : "had a light over a year still havnt sorted out getting it working \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Tue Apr 17, 2007 12:04 pm"
+  }, {
+    "postId" : "215051",
+    "author" : {
+      "username" : "ob",
+      "userId" : "215051",
+      "joined" : "Fri Mar 09, 2007 10:46 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hampshire",
+      "postCount" : "46",
+      "avatarPath" : null
+    },
+    "content" : "yes the switch is in the nose cone near the front mounting point",
+    "lastEdited" : "Tue Apr 17, 2007 10:43 pm"
+  }, {
+    "postId" : "215067",
+    "author" : {
+      "username" : "paulbugman",
+      "userId" : "215067",
+      "joined" : "Wed Sep 20, 2006 6:22 am",
+      "profileRank" : "SSVC Member",
+      "location" : "junction 9 m25",
+      "postCount" : "1541",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ob wrote:</cite>yes the switch is in the nose cone near the front mounting point\n </div>\n</blockquote> yep in nose cone as standard on ambulance`s as had to change the one on mine and you can get the switch from hertiage, i haven`t wired it up yet tho as too many other things to do",
+    "lastEdited" : "Wed Apr 18, 2007 6:15 am"
+  }, {
+    "postId" : "215685",
+    "author" : {
+      "username" : "steve pi",
+      "userId" : "215685",
+      "joined" : "Thu Feb 09, 2006 10:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "Surrey",
+      "postCount" : "395",
+      "avatarPath" : "./download/file.php%3Favatar=2071_1265332222.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Peter Good wrote:</cite>As a point of interest, and for those like me who have early gearbox's the original method of turning on the reversing light was a switch fitted to the speedo cable on the back of the dash panel pod. It operated by the direction of rotation of the front wheel via the cable. It's a while since I have seen one, just wondered if any still exist? Peter Good\n </div>\n</blockquote> I've got one of those on my van...I hope it still exists. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Thu Apr 19, 2007 8:40 pm"
+  } ]
+}

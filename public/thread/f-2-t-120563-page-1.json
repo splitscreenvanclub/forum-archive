@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "120563",
+  "title" : "Storage",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=120563",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=f3e0428b2444fc2d469a59acca0e470a",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "905451",
+    "author" : {
+      "username" : "jamespeden",
+      "userId" : "905451",
+      "joined" : "Thu Nov 02, 2017 9:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hi, I've just finished my first season with my 1967 splitty and have arranged storage in a dry facility for winter. Is there anything I should be doing for her over the winter? Access to the facility may be problematic over the next few months.",
+    "lastEdited" : "Fri Nov 03, 2017 6:42 pm"
+  }, {
+    "postId" : "905508",
+    "author" : {
+      "username" : "Huw",
+      "userId" : "905508",
+      "joined" : "Fri Apr 18, 2003 6:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgend",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "Over inflate the tyres",
+    "lastEdited" : "Sat Nov 04, 2017 10:53 pm"
+  } ]
+}

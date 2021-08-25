@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "119717",
+  "title" : "Replacing king and link pin seals",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119717",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "900228",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "900228",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "2421",
+      "avatarPath" : null
+    },
+    "content" : "Not tackled this job before but noticed a couple of seals are looking a bit worse for wear. Are they easy to replace?\n<br> \n<br> Fancy doing them all for peace of mind.\n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Sat Jul 15, 2017 6:45 pm"
+  }, {
+    "postId" : "900249",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "900249",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "406",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "They can be easy. The hard part is taking the king pins apart. you need a heavy duty puller. which if I am right needs to be capable of exerting something like 40 tons of force to part them. putting them back together is easy. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Sun Jul 16, 2017 9:58 am"
+  }, {
+    "postId" : "900267",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "900267",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "2421",
+      "avatarPath" : null
+    },
+    "content" : "Is it just a case of taking everything off, stripping it down and reassembling in reverse order with new seals ?\n<br> \n<br> Anything to take into account?\n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Sun Jul 16, 2017 6:53 pm"
+  }, {
+    "postId" : "900269",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "900269",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "406",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "Assuming everything is ok with no worn king pins or thrust washers. yes just strip down and rebuild with new seals",
+    "lastEdited" : "Sun Jul 16, 2017 7:15 pm"
+  }, {
+    "postId" : "900271",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "900271",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "2421",
+      "avatarPath" : null
+    },
+    "content" : "Smashing - thanks. Will give it a go and report back.",
+    "lastEdited" : "Sun Jul 16, 2017 7:39 pm"
+  } ]
+}

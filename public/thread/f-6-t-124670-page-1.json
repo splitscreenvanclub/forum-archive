@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "124670",
+  "title" : "Wiring Harness",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124670",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=7baa130150f5d790950a2aee5c88614a",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929599",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "929599",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "469",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "I understand that Rocket Ron has hung up his wiring loom hat so can anyone recommend a loom builder here in the UK?",
+    "lastEdited" : "Sun May 03, 2020 7:05 pm"
+  }, {
+    "postId" : "929603",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "929603",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "I think Peters son now runs \n<a href=\"http://www.volksgoods.co.uk/\" class=\"postlink\">http://www.volksgoods.co.uk/</a> with Peter helping in the background. I had a loom from peter and my electrical knowledge was zero. I followed his diagrams with my loom and everything worked first time and has done for the last 10 plus years. Hence, drop them a message as I know they were starting up again and his service was truly excellent. \n<br> \n<br> Steve",
+    "lastEdited" : "Sun May 03, 2020 7:56 pm"
+  }, {
+    "postId" : "929610",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "929610",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2671",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=929599&amp;sid=7baa130150f5d790950a2aee5c88614a#p929599\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=33000&amp;sid=7baa130150f5d790950a2aee5c88614a\">john&amp;hannah</a> wrote: <a href=\"./viewtopic.php?p=929599&amp;sid=7baa130150f5d790950a2aee5c88614a#p929599\" data-post-id=\"929599\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun May 03, 2020 7:05 pm</span></cite> I understand that Rocket Ron has hung up his wiring loom hat so can anyone recommend a loom builder here in the UK? \n </div>\n</blockquote> Seconded on Peter Good, did the loom for my SC rebuild last year, fitted perfectly with some additional wiring to the standard loom.",
+    "lastEdited" : "Mon May 04, 2020 7:54 am"
+  }, {
+    "postId" : "929619",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "929619",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15726",
+      "avatarPath" : null
+    },
+    "content" : "Thirded Peter Good Had two looms and Auxiliary looms from him First class!",
+    "lastEdited" : "Mon May 04, 2020 11:37 am"
+  }, {
+    "postId" : "929630",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "929630",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "469",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "Brilliant, thanks Team SSVC",
+    "lastEdited" : "Mon May 04, 2020 8:27 pm"
+  } ]
+}

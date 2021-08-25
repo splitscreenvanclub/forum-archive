@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "85592",
+  "title" : "Steering all over the road!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=85592",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "660221",
+    "author" : {
+      "username" : "ping",
+      "userId" : "660221",
+      "joined" : "Thu Aug 27, 2009 3:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "Rugby, Warwickshire.",
+      "postCount" : "128",
+      "avatarPath" : null
+    },
+    "content" : "I took my van out today after its new 4\" narrowed beam and brake upgrade but noticed more than ever my steering wanders all over the place. I have checked all the links etc and nothing is loose/worn but the steering box is leaking from the splined shaft, the seal looks easy enough to replace in situe but as for the wandering, is there any thing i can do to adjust/tighten it or will i need a recon box? Paul.",
+    "lastEdited" : "Wed May 30, 2012 4:21 pm"
+  }, {
+    "postId" : "660229",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "660229",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "4060",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Hold the wheels and whilst safely jacked rock the wheel, you should be able to see where the play is,the steering box is adjustable, but if it is tight on turning or has any tight spots, it will need rebuilding, talk to mike dsbus!",
+    "lastEdited" : "Wed May 30, 2012 4:51 pm"
+  }, {
+    "postId" : "660233",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "660233",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "What settings has the camber, caster and toe been set too?\n<br> \n<br> Narrowing the track would always have an effect on handling. Didn't the installers talk that through with you?",
+    "lastEdited" : "Wed May 30, 2012 5:13 pm"
+  }, {
+    "postId" : "660238",
+    "author" : {
+      "username" : "ping",
+      "userId" : "660238",
+      "joined" : "Thu Aug 27, 2009 3:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "Rugby, Warwickshire.",
+      "postCount" : "128",
+      "avatarPath" : null
+    },
+    "content" : "Hi, i narrowed the beam myself! i knew the handlig would change (and its way better than the lowered bay beam) The steering was wobbly before but i notice it more now due to the fact the ride is alot better \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\"> . i havent set the tracking yet as i dont really know how to set the angle but it goes in a straight line with the steering wheel straight! i will ake it to quickfit to have it tracked as they did my T4 and stopped me wearing tyres out \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> The trackrods and steering pin are all good with no slack, the play is in the steering box.\n<br> This is the next part to learn about for me!\n<br> \n<br> P.S. \n<br> castor - not changed (beam still upright)\n<br> camber - as per vw book with shims.\n<br> toe in/out as mentioned above.",
+    "lastEdited" : "Wed May 30, 2012 5:47 pm"
+  }, {
+    "postId" : "660664",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "660664",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Caster probably has changed as the bus is lowered. And tracking is likely to be messing the handling unless you were lucky and got it close.",
+    "lastEdited" : "Fri Jun 01, 2012 7:33 pm"
+  }, {
+    "postId" : "661267",
+    "author" : {
+      "username" : "leeco10",
+      "userId" : "661267",
+      "joined" : "Mon Dec 17, 2007 8:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire",
+      "postCount" : "564",
+      "avatarPath" : null
+    },
+    "content" : "I've got a 2\" narrowed beam on mine and I was all over the road until I got the tracking done, there's still a little bit of stearing to keep it in a straight line but no more than any un-modded bus I've driven.",
+    "lastEdited" : "Tue Jun 05, 2012 7:32 pm"
+  } ]
+}

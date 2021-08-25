@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "80713",
+  "title" : "Rear bump stops",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=80713",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=21fe9d1f9da80620592f435185452239",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "621434",
+    "author" : {
+      "username" : "Skaifey",
+      "userId" : "621434",
+      "joined" : "Sun Jul 25, 2010 5:28 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "london",
+      "postCount" : "119",
+      "avatarPath" : "./download/file.php%3Favatar=34466_1321618242.jpg"
+    },
+    "content" : "Just in process of lowering rear suspension, I am running RGB's I have lowered it 1 outer spline and let bus down. It all looks ok slight nose down but I have noticed that the rear bump stops are touching the top. Are you meant to remove or change the rear bump stops. Any advice would be appreciated cheers James",
+    "lastEdited" : "Sun Nov 20, 2011 3:05 pm"
+  }, {
+    "postId" : "621457",
+    "author" : {
+      "username" : "boyblue",
+      "userId" : "621457",
+      "joined" : "Mon May 21, 2007 6:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Doncaster",
+      "postCount" : "617",
+      "avatarPath" : null
+    },
+    "content" : "You can cut them down however depending on how low you want it you might be best to take them off altogether.",
+    "lastEdited" : "Sun Nov 20, 2011 4:58 pm"
+  }, {
+    "postId" : "621657",
+    "author" : {
+      "username" : "Skaifey",
+      "userId" : "621657",
+      "joined" : "Sun Jul 25, 2010 5:28 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "london",
+      "postCount" : "119",
+      "avatarPath" : "./download/file.php%3Favatar=34466_1321618242.jpg"
+    },
+    "content" : "Yea think i might just cut them down at bit as they are only just touching now and thats as low as i want it to go.\n<br> cheers james",
+    "lastEdited" : "Mon Nov 21, 2011 12:59 pm"
+  } ]
+}

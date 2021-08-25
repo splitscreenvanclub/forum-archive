@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "31288",
+  "title" : "Solex 30 PICT 1 leaking when engine turned off",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=31288",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "227519",
+    "author" : {
+      "username" : "adywells",
+      "userId" : "227519",
+      "joined" : "Tue Oct 11, 2005 6:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "146",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> This is the first time Ive noticed it - I had just driven back from Billing, switched the engine off and went to have the obligatory look in the engine bay, to my horror fuel was leaking quite heavily out of the carb spindle!! \n<br> \n<br> This is something I can definitely do without as I head off in the van on holiday around europe in a couple of weeks. \n<br> \n<br> I have read other similar posts that say that I need the spindle re-bushed. The only person that seems to do this is a chap called Laurie Ellis who I have called but unfortunately he can't do it before i go on holiday. Is there anybody else who can do this? Also should that much fuel be getting to the spindle once the engine is switched off? \n<br> Your help would be most appreciated!!!!!\n<br> Thanks\n<br> Ady",
+    "lastEdited" : "Mon Jun 04, 2007 8:49 pm"
+  }, {
+    "postId" : "227590",
+    "author" : {
+      "username" : "sidewinder",
+      "userId" : "227590",
+      "joined" : "Wed Aug 24, 2005 9:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "The Hermitage, Scotland",
+      "postCount" : "1404",
+      "avatarPath" : null
+    },
+    "content" : "Ady,\n<br> \n<br> There's a guy over on the Samba Richard Carey who does them.\n<br> \n<br> He's in the states but I'm sure he would do a quick air freight if required. $35 for a re-bush or $125 for a refurbished Solex 30 PICT 1 and you dont have to send him your carb first.\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=80213&amp;highlight=pict\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewto ... light=pict</a>\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/classifieds/detail.php?id=64882\" class=\"postlink\">http://www.thesamba.com/vw/classifieds/ ... p?id=64882</a>",
+    "lastEdited" : "Tue Jun 05, 2007 7:28 am"
+  }, {
+    "postId" : "227608",
+    "author" : {
+      "username" : "snowman",
+      "userId" : "227608",
+      "joined" : "Sun Nov 30, 2003 7:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1958",
+      "avatarPath" : null
+    },
+    "content" : "Are u sure that the float level is set correctly?\n<br> are you parked on an incline?",
+    "lastEdited" : "Tue Jun 05, 2007 8:53 am"
+  }, {
+    "postId" : "227739",
+    "author" : {
+      "username" : "adywells",
+      "userId" : "227739",
+      "joined" : "Tue Oct 11, 2005 6:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "146",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> Thanks for your replys.......... I have emailed Richard Carey but he hasn't got back to me yet.\n<br> \n<br> Snowman - is it possible to adjust the float level on a 30 PICT 1? When I parked I was on a slight hill.\n<br> \n<br> Just a thought but my bus has only done 65,000 original miles so I would have thought that the carb spindles would not be worn out. What is forcing all the fuel down to the spindles?\n<br> \n<br> Thanks again\n<br> \n<br> Ady",
+    "lastEdited" : "Tue Jun 05, 2007 7:05 pm"
+  } ]
+}

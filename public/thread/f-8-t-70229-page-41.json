@@ -1,0 +1,66 @@
+{
+  "forumId" : "8",
+  "threadId" : "70229",
+  "title" : "1967 HITOP aka tower block",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=70229&start=600",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=7a46d39260c446b893a3364e4fb91e60",
+    "label" : "Rides and Projects"
+  } ],
+  "totalPosts" : 604,
+  "pageNumber" : 41,
+  "totalPages" : 41,
+  "posts" : [ {
+    "postId" : "909456",
+    "author" : {
+      "username" : "211vanman",
+      "userId" : "909456",
+      "joined" : "Wed Mar 03, 2004 10:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "MidlandSplitBusMeet",
+      "postCount" : "1440",
+      "avatarPath" : null
+    },
+    "content" : "The holder for the bumpstop has rotted away so a replacement was needed",
+    "lastEdited" : "Mon Feb 19, 2018 9:34 pm"
+  }, {
+    "postId" : "909461",
+    "author" : {
+      "username" : "Rob E",
+      "userId" : "909461",
+      "joined" : "Sun Dec 25, 2016 5:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "91",
+      "avatarPath" : null
+    },
+    "content" : "great thread!\n<br> \n<br> we actually met at the airport on the way back from Hessisch if you remember? \n<br> \n<br> i now own the 65 Trevi italian van that used to come to the midland split bus meets. small world!",
+    "lastEdited" : "Tue Feb 20, 2018 8:28 am"
+  }, {
+    "postId" : "909472",
+    "author" : {
+      "username" : "211vanman",
+      "userId" : "909472",
+      "joined" : "Wed Mar 03, 2004 10:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "MidlandSplitBusMeet",
+      "postCount" : "1440",
+      "avatarPath" : null
+    },
+    "content" : "Hi Rob how are you? I know the van a real gem from italy so og!! I met the former owner a few months ago and he said he wished he kept the bus. Come say hi at a show",
+    "lastEdited" : "Tue Feb 20, 2018 10:15 am"
+  }, {
+    "postId" : "909482",
+    "author" : {
+      "username" : "Rob E",
+      "userId" : "909482",
+      "joined" : "Sun Dec 25, 2016 5:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "91",
+      "avatarPath" : null
+    },
+    "content" : "oh awesome, been trying to track him down- dont suppose you have any contact details?\n<br> \n<br> yes the van drives soooo nice.\n<br> \n<br> love your hightop! going to volksworld show? ill be there.",
+    "lastEdited" : "Tue Feb 20, 2018 12:55 pm"
+  } ]
+}

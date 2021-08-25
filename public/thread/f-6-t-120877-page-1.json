@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "120877",
+  "title" : "Handbrake Mechanism question",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120877",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "907177",
+    "author" : {
+      "username" : "Busman73",
+      "userId" : "907177",
+      "joined" : "Wed Aug 31, 2016 10:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "12",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys, I’ve got a customers 59 split and I think there is something missing from the handbrake mech where the cables attach, either that or somethings round the wrong way\n<br> The nuts for adjusting the cables don’t go inside the bracket and this makes it incredibly hard to adjust\n<br> \n<br> Here’s a picture of what I’ve got\n<br> Thanks in advance \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20171220/528412ef510569efc8c83c6390efa033.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Wed Dec 20, 2017 5:09 pm"
+  }, {
+    "postId" : "907178",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "907178",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "The yoke is on the wrong way around. Flip it over, so the nuts are on the flats not inside the yoke.",
+    "lastEdited" : "Wed Dec 20, 2017 5:31 pm"
+  }, {
+    "postId" : "907179",
+    "author" : {
+      "username" : "Busman73",
+      "userId" : "907179",
+      "joined" : "Wed Aug 31, 2016 10:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "12",
+      "avatarPath" : null
+    },
+    "content" : "Cheers, thought that might be the case \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Wed Dec 20, 2017 5:32 pm"
+  }, {
+    "postId" : "907191",
+    "author" : {
+      "username" : "Busman73",
+      "userId" : "907191",
+      "joined" : "Wed Aug 31, 2016 10:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "12",
+      "avatarPath" : null
+    },
+    "content" : "Does anyone know what length the cables are meant to be? \n<br> Turned the yoke around and now the cables are about an inch too short \n<br> The bus has been IRS’d are you meant to use different cables to standard?\n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Thu Dec 21, 2017 10:22 am"
+  }, {
+    "postId" : "907198",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "907198",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=907191#p907191\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=41660\">Busman73</a> wrote: <a href=\"./viewtopic.php?p=907191#p907191\" data-post-id=\"907191\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Dec 21, 2017 10:22 am</span></cite> The bus has been IRS’d are you meant to use different cables to standard? \n </div>\n</blockquote> Yes. If you fit any later transmission in an early bus you'll need custom-made handbrake cables.\n<br> \n<br> I have a big nut (full synchromesh) gearbox in my '56 single cab. The previous owner found out that there aren't off the shelf cables for that combination. Unfortunately they thought it was sensible to run it without a handbrake, which would explain the whacking great dent in the engine lid and the mangled rear valance when I got it.\n<br> \n<br> I bought the longest cables available and cut off the factory swaged ends and fitted swageless wire rope studs after cutting the cables to length by eye. This sort of thing... \n<a href=\"http://www.wireropeassemblies.co.uk/itema4c6-2.html?cat_id=30&amp;prod_id=210&amp;dep=1\" class=\"postlink\">Swageless wire rope studs</a>\n<br> \n<br> A more professional solution would be to send them off to have fittings swaged on after you cut them to length, but the swageless ones haven't come loose yet. The only problem I've had is that the cables aren't exactly the same length, but the yoke takes up the difference.\n<br> \n<br> Edit, if you want a quick and dirty solution if the cables are too short, you can use some threaded bar and a coupler, but you might have to cut the existing fitting's thread down a bit to get enough clearance.",
+    "lastEdited" : "Thu Dec 21, 2017 1:29 pm"
+  }, {
+    "postId" : "907203",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "907203",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "If all you've done is flip the yoke, and there appears to be about an inch of 'take up' in the photo, why aren't the cables still long enough?\n<br> \n<br> Or is it that they are too short for some other reason?",
+    "lastEdited" : "Thu Dec 21, 2017 4:28 pm"
+  }, {
+    "postId" : "907214",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "907214",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "The picture above is with the yoke the wrong way round. After flipping it round, the flat part that the nuts sit on will be roughly level with the mark on the bar that the yoke pivots on (between the end of the twist in that bar and where the yoke starts in the above picture).\n<br> \n<br> There aren't stock cables for later types of gearboxes in early buses. I think the clutch release arm is slightly further back (further away from the handbrake lever) so stock early cables come up short.\n<br> \n<br> Later buses use much longer cables because the handbrake adjuster is above the floor in the cabin so the cable has to reach round and up the handbrake lever. Those cables are too long for an early bus, even with a later gearbox. Custom cables are the only solution.\n<br> \n<br> I only know this because I found out the hard way \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Thu Dec 21, 2017 8:23 pm"
+  }, {
+    "postId" : "907216",
+    "author" : {
+      "username" : "Busman73",
+      "userId" : "907216",
+      "joined" : "Wed Aug 31, 2016 10:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "12",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Samba63 wrote:</cite>If all you've done is flip the yoke, and there appears to be about an inch of 'take up' in the photo, why aren't the cables still long enough?\n  <br> \n  <br> Or is it that they are too short for some other reason?\n </div>\n</blockquote> Once the yoke is flipped there is about an inch, inch and a half gap between the end of the cables and the inside of the flat part \n<br> I’ll take a picture tomorrow\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Thu Dec 21, 2017 8:28 pm"
+  }, {
+    "postId" : "907218",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "907218",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=907216#p907216\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=41660\">Busman73</a> wrote: <a href=\"./viewtopic.php?p=907216#p907216\" data-post-id=\"907216\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Dec 21, 2017 8:28 pm</span></cite> \n  <blockquote>\n   <div>\n    <cite>Samba63 wrote:</cite>If all you've done is flip the yoke, and there appears to be about an inch of 'take up' in the photo, why aren't the cables still long enough?\n    <br> \n    <br> Or is it that they are too short for some other reason?\n   </div>\n  </blockquote> Once the yoke is flipped there is about an inch, inch and a half gap between the end of the cables and the inside of the flat part \n  <br> I’ll take a picture tomorrow\n  <br> \n  <br> \n  <br> Sent from my iPhone using Tapatalk \n </div>\n</blockquote> Which is why someone has been lazy and fitted it the wrong way around.",
+    "lastEdited" : "Thu Dec 21, 2017 9:05 pm"
+  }, {
+    "postId" : "907326",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "907326",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "Empi do a little kit for cable ends....",
+    "lastEdited" : "Tue Dec 26, 2017 6:40 pm"
+  }, {
+    "postId" : "907338",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "907338",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=907326#p907326\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=10380\">flatbeat</a> wrote: <a href=\"./viewtopic.php?p=907326#p907326\" data-post-id=\"907326\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Tue Dec 26, 2017 6:40 pm</span></cite> Empi do a little kit for cable ends.... \n </div>\n</blockquote> I tried one of those. It wasn't fit for purpose. The kit uses a grub screw to grip the cable in the fitting.\n<br> \n<br> One good pull on the handbrake and the cable pulled straight out.\n<br> \n<br> The grub screw is tightened with an alen key, but the head strips before you can do it up tight enough to grip the cable. The grub screw thread is imperial, so it's a bugger finding a replacement over here.\n<br> \n<br> I gave up and threw the kit away and bought wire rope fittings instead. They pinch the cable all round and grip better.",
+    "lastEdited" : "Tue Dec 26, 2017 11:25 pm"
+  }, {
+    "postId" : "907342",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "907342",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=907338#p907338\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39206\">Who.Me?</a> wrote: <a href=\"./viewtopic.php?p=907338#p907338\" data-post-id=\"907338\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Tue Dec 26, 2017 11:25 pm</span></cite> \n  <blockquote cite=\"./viewtopic.php?p=907326#p907326\">\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=10380\">flatbeat</a> wrote: <a href=\"./viewtopic.php?p=907326#p907326\" data-post-id=\"907326\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Tue Dec 26, 2017 6:40 pm</span></cite> Empi do a little kit for cable ends.... \n   </div>\n  </blockquote> I tried one of those. It wasn't fit for purpose. The kit uses a grub screw to grip the cable in the fitting.\n  <br> \n  <br> One good pull on the handbrake and the cable pulled straight out.\n  <br> \n  <br> The grub screw is tightened with an alen key, but the head strips before you can do it up tight enough to grip the cable. The grub screw thread is imperial, so it's a bugger finding a replacement over here.\n  <br> \n  <br> I gave up and threw the kit away and bought wire rope fittings instead. They pinch the cable all round and grip better. \n </div>\n</blockquote> I never actually used them....just knew they were available. Won't bother to mention them in future \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Wed Dec 27, 2017 1:01 am"
+  }, {
+    "postId" : "907363",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "907363",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=907342#p907342\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=10380\">flatbeat</a> wrote: <a href=\"./viewtopic.php?p=907342#p907342\" data-post-id=\"907342\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Wed Dec 27, 2017 1:01 am</span></cite> I never actually used them....just knew they were available. Won't bother to mention them in future \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n </div>\n</blockquote> Sorry if that sounded a bit ranty. Once bitten...\n<br> \n<br> Sadly, it's true what they say about Empi stuff. The few Empi-branded bits I've had have all been flimsy and/or ill-fitting.",
+    "lastEdited" : "Wed Dec 27, 2017 6:41 pm"
+  }, {
+    "postId" : "907365",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "907365",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=907363#p907363\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39206\">Who.Me?</a> wrote: <a href=\"./viewtopic.php?p=907363#p907363\" data-post-id=\"907363\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Wed Dec 27, 2017 6:41 pm</span></cite> \n  <blockquote cite=\"./viewtopic.php?p=907342#p907342\">\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=10380\">flatbeat</a> wrote: <a href=\"./viewtopic.php?p=907342#p907342\" data-post-id=\"907342\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Wed Dec 27, 2017 1:01 am</span></cite> I never actually used them....just knew they were available. Won't bother to mention them in future \n    <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n   </div>\n  </blockquote> Sorry if that sounded a bit ranty. Once bitten.... \n </div>\n</blockquote> No worries \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> Have a Happy and Empi free New Year \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Wed Dec 27, 2017 8:20 pm"
+  }, {
+    "postId" : "907374",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "907374",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Lol",
+    "lastEdited" : "Thu Dec 28, 2017 12:04 am"
+  } ]
+}

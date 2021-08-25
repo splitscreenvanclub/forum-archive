@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "124120",
+  "title" : "Solex pict3 carb",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124120",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=4b99efaa49d2c000a17f5d32fd680fa7",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "926796",
+    "author" : {
+      "username" : "D.S",
+      "userId" : "926796",
+      "joined" : "Sat Aug 30, 2003 6:49 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "nr BATH",
+      "postCount" : "441",
+      "avatarPath" : null
+    },
+    "content" : "Solex pict3 carb came iff of a good running tp years ago for a twin carb conversion.\n<br> \n<br> Would need a strip and clean/rebuild.\n<br> \n<br> £60 posted. Or collection nr Bath",
+    "lastEdited" : "Wed Nov 27, 2019 5:49 pm"
+  }, {
+    "postId" : "927381",
+    "author" : {
+      "username" : "D.S",
+      "userId" : "927381",
+      "joined" : "Sat Aug 30, 2003 6:49 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "nr BATH",
+      "postCount" : "441",
+      "avatarPath" : null
+    },
+    "content" : "Offer?..",
+    "lastEdited" : "Sun Jan 12, 2020 12:00 pm"
+  } ]
+}

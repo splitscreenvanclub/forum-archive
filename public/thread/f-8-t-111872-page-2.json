@@ -1,0 +1,37 @@
+{
+  "forumId" : "8",
+  "threadId" : "111872",
+  "title" : "New bus",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=111872&start=15",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 17,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "846339",
+    "author" : {
+      "username" : "sjohn821@aol.com",
+      "userId" : "846339",
+      "joined" : "Sat Jul 04, 2015 8:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "M-Plate content\n<br>Model Type 2 (T1) mod. 211 : \n<br>- Panel van \n<br>- Cargo doors right \n<br>- LHD\n<br>Chassis number 1301843\n<br>Serial number 211301843\n<br>Modelyear 1964\n<br>Planned production date May 19 ,1964\n<br>Paint color \n<br>L87 - Pearl White\n<br>Interior color (doorpanels and seats) 80 - Grey\n<br>Destination USA, St. Louis\n<br>\n<br>\n<br>\n<br>M-CODES\n<br>M-CODE Description Concerned models From chassis number To chassis number\n<br>025 US-spec bumpers and 6 pop-out windows - \n<br>025 Mountinf for safety belts - \n<br>425 North American export package including :\n<br>- Twin reverse lights\n<br>- Compteur en Miles\n<br>- Sealed beam headlights\n<br>- Hazard warning lights\n<br>- Mounting for safety belts in driver's and passenger's compartment\n<br>- Laminated windscreen\n<br>- Ram protection (bumper with guards)\n<br>- Dual-circuit brake system - \n<br>620 12v system (standard from August, 1966) - \n<br>621 12v warning light relay Except Ambulance\n<br>\n<br>\n<br>UNKNOWNS M-CODES\n<br>523\n<br>\n<br>\n<br>\n<br>4 903 513\n<br>...",
+    "lastEdited" : "Sat Aug 22, 2015 1:46 pm"
+  }, {
+    "postId" : "846340",
+    "author" : {
+      "username" : "sjohn821@aol.com",
+      "userId" : "846340",
+      "joined" : "Sat Jul 04, 2015 8:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "Thanks . I now have an understanding",
+    "lastEdited" : "Sat Aug 22, 2015 1:48 pm"
+  } ]
+}

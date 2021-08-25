@@ -1,0 +1,27 @@
+{
+  "forumId" : "6",
+  "threadId" : "125548",
+  "title" : "Anyone used Just Kampers repair panels?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125548",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "934618",
+    "author" : {
+      "username" : "MrMargaretScratcher",
+      "userId" : "934618",
+      "joined" : "Mon Jul 03, 2017 11:36 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "39",
+      "avatarPath" : null
+    },
+    "content" : "Anyone?\n<br> \n<br> I'm ordering an exhaust from there, and need to spend a little bit more to get the 0% finance, so I'm thinking I might make the most of it and order a load of panels too...",
+    "lastEdited" : "Sat Mar 13, 2021 5:10 pm"
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "123587",
+  "title" : "Negative camber irs",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123587",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b2e90d7665e40e372e4f1f2dbe457fc8",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "923282",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "923282",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "I have negative camber on an irs bus. The clamps are Harry Harpic bolt ons. I Have read that the clamps can be undone and moved to rectify this. \n<br> \n<br> Firstly, does the wheel and hub need to come off to be able to move the clamps?\n<br> Secondly, how much do imove them and in which direction?\n<br> \n<br> Any hints welcome!",
+    "lastEdited" : "Sun Jun 30, 2019 3:19 pm"
+  }, {
+    "postId" : "923304",
+    "author" : {
+      "username" : "Splitzter",
+      "userId" : "923304",
+      "joined" : "Thu Aug 27, 2009 10:28 am",
+      "profileRank" : "Registered user",
+      "location" : "Doncaster",
+      "postCount" : "368",
+      "avatarPath" : "./download/file.php%3Favatar=33477_1263241875.jpg"
+    },
+    "content" : "You'll need to loosen the bolts &amp; rotate the clamps so that the arm moves upwards. You can tap them round with a decent copper mallet or use a jack/lump of metal under the arm where it's bolted into the clamp. How much is hard to say, how much camber have you got?!",
+    "lastEdited" : "Mon Jul 01, 2019 1:53 pm"
+  }, {
+    "postId" : "923306",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "923306",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Iwill post a pic hopefully,. If I move them up wont it lower the rear a bit more?",
+    "lastEdited" : "Mon Jul 01, 2019 2:51 pm"
+  }, {
+    "postId" : "923339",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "923339",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=923306&amp;sid=b2e90d7665e40e372e4f1f2dbe457fc8#p923306\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=868&amp;sid=b2e90d7665e40e372e4f1f2dbe457fc8\">chrystal</a> wrote: <a href=\"./viewtopic.php?p=923306&amp;sid=b2e90d7665e40e372e4f1f2dbe457fc8#p923306\" data-post-id=\"923306\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Mon Jul 01, 2019 2:51 pm</span></cite> Iwill post a pic hopefully,. If I move them up wont it lower the rear a bit more? \n </div>\n</blockquote> Minimal effect on ride height. You'll been to redo the tracking though during the process.",
+    "lastEdited" : "Tue Jul 02, 2019 9:07 am"
+  }, {
+    "postId" : "923357",
+    "author" : {
+      "username" : "henk",
+      "userId" : "923357",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "272",
+      "avatarPath" : null
+    },
+    "content" : "I also have bolt on clamps,from another brand.\n<br> I had to turn them up quite a bid to get rid of the negative camber.\n<br> I even had to cut down my Y-heater pipes.\n<br> Wich was no probleme for me.\n<br> \n<br> Henk!!!",
+    "lastEdited" : "Tue Jul 02, 2019 9:08 pm"
+  }, {
+    "postId" : "923650",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "923650",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Did you take the wheels and hubs etc off? Or just have a trolley jack on the arm, loosen the bolts and raise it slightly?",
+    "lastEdited" : "Mon Jul 15, 2019 12:20 pm"
+  }, {
+    "postId" : "923882",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "923882",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Did this today, didn't move them enough! Another go tomorrow. Thanks for your help",
+    "lastEdited" : "Sat Jul 27, 2019 5:00 pm"
+  }, {
+    "postId" : "923883",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "923883",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "It often takes a few tweaks to get it level / correct camber as the springs settle after being adjusted, especially if they've been out of spec for a while",
+    "lastEdited" : "Sat Jul 27, 2019 5:28 pm"
+  } ]
+}

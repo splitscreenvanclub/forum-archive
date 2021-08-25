@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "15939",
+  "title" : "Paint codes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=15939",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "109916",
+    "author" : {
+      "username" : "nic",
+      "userId" : "109916",
+      "joined" : "Sun Jun 27, 2004 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Newton Abbot",
+      "postCount" : "221",
+      "avatarPath" : null
+    },
+    "content" : "I'm trying to find a company to mix up some paint for my bus can anyone help ?\n<br> \n<br> I've tried my local paint shop and they have said i have the wrong paint code because they can not find it !\n<br> \n<br> Codes are \n<br> \n<br> L311 sand green \n<br> L312 Palm green \n<br> \n<br> \n<img src=\"http://karmannghia.org/paint_chips/laq_8.gif\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Wed Feb 01, 2006 6:26 pm"
+  }, {
+    "postId" : "109947",
+    "author" : {
+      "username" : "The Milky Barndoor Kid",
+      "userId" : "109947",
+      "joined" : "Fri May 02, 2003 6:58 am",
+      "profileRank" : "Registered user",
+      "location" : "Biscuit town,",
+      "postCount" : "1090",
+      "avatarPath" : null
+    },
+    "content" : "Morelli's have the early VW paint codes, they have branches around the uk.\n<br> \n<br> also check out brown brothers they are nationwide.",
+    "lastEdited" : "Wed Feb 01, 2006 8:05 pm"
+  } ]
+}

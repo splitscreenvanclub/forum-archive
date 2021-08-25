@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "119548",
+  "title" : "Flywheel nut removal issues",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119548",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=a709e0b09932cc9c5e9ebe455152e508",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "899159",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "899159",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "Ok so all day today I've been trying to remove the flywheel nut on my 2276cc engine. First easy issue was it isn't a standard 36mm nut. Mine is a 38mm which I've used a 1 1/2\" socket that fits. \n<br> It's seized on there solid. \n<br> I've used a pry bar and a SNAP ON torque multiplier x 4 which would normally shift anything. No joy\n<br> I've tried a 6 foot scaffold pole over the pry bar and it's lifted the engine plus one adult off the floor. No joy. \n<br> I'm assuming the original engine builder used lock seal on the nut as some do and it's literally 13 years later glued it on. \n<br> \n<br> I've got a worn leaking main seal behind it so need it off. \n<br> \n<br> Any better ideas? \n<br> I'm thinking of heating it to burn off the lock tight. I don't possess a oxy set up though.\n<br> \n<br> Next step is two more mates to hang off 6 foot pole and no doubt snap the pry bar! \n<br> \n<br> Been a long wasted day. So any help appreciated \n<br> Thanks.",
+    "lastEdited" : "Sat Jun 24, 2017 6:16 pm"
+  }, {
+    "postId" : "899160",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "899160",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "472",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "feel your pain. can only suggest heating as you mention. but when hot have the scaffold bar on it under tension with another person, and then hitting the bar with a sledge hammer to try and shock it off \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Sat Jun 24, 2017 7:03 pm"
+  }, {
+    "postId" : "899166",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "899166",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Heat should soften the thread lock, if that's the cause. \n<br> \n<br> Or take the engine and the socket to a tyre shop and ask them to put the air gun on it. Preferably a place that does truck tyres as they'll have monster guns.",
+    "lastEdited" : "Sun Jun 25, 2017 1:58 am"
+  }, {
+    "postId" : "899167",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "899167",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "I chiselled my old one off in the end. Took about an hour and obviously totally screwed the nut but it worked",
+    "lastEdited" : "Sun Jun 25, 2017 3:53 am"
+  }, {
+    "postId" : "899168",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "899168",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "Thanks guys. I'll let you know the result as and when I get the dam thing off.",
+    "lastEdited" : "Sun Jun 25, 2017 4:46 am"
+  }, {
+    "postId" : "899178",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "899178",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "We'll update for today. Brand new pry bar snapped. Heat made no difference. So arranging for a mobile plant machinery guy to come out in week to use heavy duty air tools and try that. \n<br> Never know one to be this bad must have been put on by a gorilla!",
+    "lastEdited" : "Sun Jun 25, 2017 9:32 am"
+  }, {
+    "postId" : "899180",
+    "author" : {
+      "username" : "lids_2001",
+      "userId" : "899180",
+      "joined" : "Sat Dec 10, 2005 7:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Enfield, North London",
+      "postCount" : "283",
+      "avatarPath" : null
+    },
+    "content" : "You need to borrow a torque meister. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun Jun 25, 2017 10:14 am"
+  }, {
+    "postId" : "899182",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "899182",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>lids_2001 wrote:</cite>You need to borrow a torque meister. \n  <br> \n  <br> \n  <br> Sent from my iPhone using Tapatalk\n </div>\n</blockquote> I've already tried in original post! Didn't touch it.",
+    "lastEdited" : "Sun Jun 25, 2017 11:47 am"
+  }, {
+    "postId" : "899183",
+    "author" : {
+      "username" : "lids_2001",
+      "userId" : "899183",
+      "joined" : "Sat Dec 10, 2005 7:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Enfield, North London",
+      "postCount" : "283",
+      "avatarPath" : null
+    },
+    "content" : "When I had a crank and flywheel as a single assemblyI took the lot to a tyre shop as mentioned above and they took it off for a tenner. Used huge impact gun\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun Jun 25, 2017 11:59 am"
+  }, {
+    "postId" : "899222",
+    "author" : {
+      "username" : "malum",
+      "userId" : "899222",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "558",
+      "avatarPath" : null
+    },
+    "content" : "I have one of these\n<br> \n<a href=\"http://www.ebay.co.uk/itm/3-4-Dr-Torque-Multiplier-Wrench-Wheel-Brace-Tool-Nut-Remover-30-32-33mm-Socket/400500887427?ssPageName=STRK%3AMEBIDX%3AIT&amp;_trksid=p2060353.m2749.l2648\" class=\"postlink\">http://www.ebay.co.uk/itm/3-4-Dr-Torque ... 2749.l2648</a>\n<br> If there's something to lever against i.e. somewhere for the bit with the holes in to jam against (a nut or a socket on a nut) this should take it off. It's a 64x multiplier.\n<br> Made short work of my hub nut that bent a 40inch 3/4\" breaker bar with me jumping up and down on the end.",
+    "lastEdited" : "Mon Jun 26, 2017 9:01 am"
+  }, {
+    "postId" : "899331",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "899331",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "Well it's off! My mate in the Royal Engineers let me borrow a 4 foot very heavy duty breaker bar used on tanks! It still needed the 6 foot scaffold pole over top but with two of us hanging off it it gave in with a loud snap. As suspected a liberal application of lock tight was dried solid and present. So happy days. thanks to those who gave advice.",
+    "lastEdited" : "Tue Jun 27, 2017 7:39 pm"
+  }, {
+    "postId" : "899348",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "899348",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "Great news. Happy ending \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Tue Jun 27, 2017 10:57 pm"
+  }, {
+    "postId" : "899353",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "899353",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "How on earth did you hold the engine still?",
+    "lastEdited" : "Wed Jun 28, 2017 6:42 am"
+  }, {
+    "postId" : "899359",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "899359",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3539",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>How on earth did you hold the engine still?\n </div>\n</blockquote> Best way to do this is to bolt a long steel flat bar to the flywheel using the clutch bolts, resting it on the ground. I have a thick bar drilled for clutch bolts, wheel nuts etc. Makes the job much safer and easier. Does the rear hub nuts as well without any dramas.",
+    "lastEdited" : "Wed Jun 28, 2017 7:30 am"
+  }, {
+    "postId" : "899749",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "899749",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>How on earth did you hold the engine still?\n </div>\n</blockquote> Two big blokes holding it pinned to floor. Nightmare but glad sorted.",
+    "lastEdited" : "Thu Jul 06, 2017 5:47 am"
+  } ]
+}

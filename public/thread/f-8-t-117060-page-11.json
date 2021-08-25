@@ -1,0 +1,209 @@
+{
+  "forumId" : "8",
+  "threadId" : "117060",
+  "title" : "Single Garage Resto...",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=117060&start=150",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=032583295b11063e3980ac5ffe971376",
+    "label" : "Rides and Projects"
+  } ],
+  "totalPosts" : 194,
+  "pageNumber" : 11,
+  "totalPages" : 13,
+  "posts" : [ {
+    "postId" : "899863",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "899863",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "After a 12 week wait I finally received my servo from creative engineering, at the time vwjim was out of stock so I went to CE thinking they had some as the website didn't say they were also out of stock but were happy to take my money \n<img src=\"http://emoji.tapatalk-cdn.com/emoji849.png\" class=\"postimage\" alt=\"Image\"> lesson learned. \n<br> Made a new bracket for the servo and made the rest of the brake lines this morning, it's a really tight squeeze under the bus so I'm more than happy to get it done in a day. \n<br> Let's hope they don't leak when I bleed them \n<img src=\"http://emoji.tapatalk-cdn.com/emoji15.png\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170708/48a02bb22c16dde989cb3ea4c9137b6c.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170708/ef7bab7e91599852dbc8df0a3f2697d3.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170708/485ee83592b053392c1b8bc2cdc9542f.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Jul 08, 2017 7:53 pm"
+  }, {
+    "postId" : "899867",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "899867",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "419",
+      "avatarPath" : null
+    },
+    "content" : "Neat job, looks like the same servo Jim sells, and all the fitings look to be in the same place, its one of the best conversions to make the brakes easier to use, and no longer having to stamp on the brakes and more feel on the pedal.",
+    "lastEdited" : "Sat Jul 08, 2017 8:50 pm"
+  }, {
+    "postId" : "900263",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "900263",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "So much for no leaks, I used a pressure brake bleeding system so I could do the job on my own, basically you use air pressure from a tyre to pressurise the system (10-20psi) then open a bleed nipple and the fluid will flow out. \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170716/b2c2279a40fa1ed336de979a146049bc.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> First time I did it fluid came out of the front T piece \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170716/a6702fc56c93cb5eb3cc42fc24109efe.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> My mistake was using a small union in the top of the T as it's longer than the sides so didn't clamp the pipe properly and as a result it leaked. So I cut the end end off and replaced with a longer union, new flare and tightened up. Problem solved. \n<br> Pressurised the system again and noticed lots of weeping from various unions, I was obviously being over cautious and not doing them up tight enough, so went round every union again and gave them all a few more turns. Time to bleed the brakes again. \n<br> Long story short pedal kept pumping up and air always in the system \n<img src=\"http://emoji.tapatalk-cdn.com/emoji848.png\" class=\"postimage\" alt=\"Image\"> after checking all the joints again, checking wheel cylinders and servo I found the new brake light switch was at fault \n<img src=\"http://emoji.tapatalk-cdn.com/emoji849.png\" class=\"postimage\" alt=\"Image\"> went out and bought a new one and another leak sorted. \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170716/2a4192ea43a148d1eed2ed3a8c0e4461.jpg\" class=\"postimage\" alt=\"Image\">\n<br> Good one on the left crap one on the right (avoid)\n<br> \n<br> Pressurised the system once again only this time the seal in the top of the reservoir blew out, don't forget I'm doing all of this on my back under the bus so I got covered in brake fluid for the second time loosing half litre of fluid in the process. Binned the pressurised bottle and called the wife into the man cave to do it the old fashioned way of pumping the pedal which worked first time so now I have a good brake pedal at last!\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170716/040de8d9abe097705bdede965c4ecfc2.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br>",
+    "lastEdited" : "Sun Jul 16, 2017 4:48 pm"
+  }, {
+    "postId" : "900838",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "900838",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "I tapped a thread for a tail into the manifold, all was going well until I got it all back together. I added the servo hose to the tail but decided I wanted to route it differently, I pulled the pipe off and managed to rip the threads out of the manifold, disaster.\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170730/33118efec20dc558b15e3c07dacd220d.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170730/b3d848b8471e2175e8a8db35ae33958f.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> So I ordered the next size up (1/4 bsp) took it all apart again, re-tapped the manifold and reassembled for the second time but with a much better fit this time, with hindsight the first tail was to small.\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170730/9f73e6dc9f9d9efffe6de3229a61ef55.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Bought some stainless steel clips to secure the servo hose and added a one way servo valve to finish off the job. Hopefully brakes are now all finished. \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170730/5da3cdf36a1712dbf816c76d90df0ef9.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170730/c54fb03b19ba95143d54aff97d7e48b0.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> I thought long and hard as to what tyres to fit and decided on 165/65/15 for the fronts and 175/65/15 for the rear. I had only the fronts fitted because I wanted to try them on the rear first in case they rubbed on the rear swing arm adjuster and sure enough they did, so I mocked up some 10mm spacers and I had clearance but not enough for 175 tyres so it looks like I'll run 165s on the rear as well.\n<br> New 10mm spacers on order along with longer wheel bolts. \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170730/e70c26054bc71f95bd31613c24bcd031.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170730/153693bbae1e33470619be392aad01aa.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> New stainless hub caps fitted \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170730/d799de9fac5cd75eadb2fc8ca6a32ba8.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sun Jul 30, 2017 1:47 pm"
+  }, {
+    "postId" : "901175",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "901175",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "Got the bus out the garage so I had room to get the door frame on and fit the door mirrors. once again the new rubbers are pushing the door down so I fitted it and made sure all the rubbers were facing outwards and shut the door. I'll leave it that way for a few weeks for them to bed in. \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170806/c9d67345f7cdaace39e73a24a31836a5.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> A bit of good news bad news over the weekend with regards to the bus, she drove for the first time under her own power up and down the drive. \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170806/980fca6c415ff38c266b5784a2a98141.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Which means I can get 1st 2nd and reverse gears but 3rd and 4th were not engaging. I assumed it was the plate adjustment but after many tries it still wouldn't find 3rd or 4th. I took the gearbox coupling off of the shaft and tried moving the hockey stick in the gearbox by hand but although I can feel the hockey stick click into the 3rd 4th selector it will not budge. Either the hockey stick is not quite lined up with the selector or the selector itself is stuck. I checked all the gears before I installed the gearbox and all was ok but now it looks like I will have to pull the engine and gearbox back out so I can get the nose cone off to see what's going on unless you guys have any other suggestions? \n<img src=\"http://emoji.tapatalk-cdn.com/emoji45.png\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sun Aug 06, 2017 12:28 pm"
+  }, {
+    "postId" : "901180",
+    "author" : {
+      "username" : "Ronnie T",
+      "userId" : "901180",
+      "joined" : "Thu May 19, 2011 6:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "18",
+      "avatarPath" : null
+    },
+    "content" : "Oily Rag,\n<br> Before you take it all apart try getting all gears from the hockey stick using mole grips without damaging the stick.\n<br> If you get all gears it may be the positioning of the dimple.I fitted a new hockey stick and had the same problem as yourself.\n<br> I rectified it by cutting and repositioning the collar on the front rod by a few mm and redrilling the front shift rod to match the collar if that makes sense.\n<br> My new hockey stick had a different dimple position which put it all out of whack.",
+    "lastEdited" : "Sun Aug 06, 2017 8:00 pm"
+  }, {
+    "postId" : "901186",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "901186",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=35433&amp;sid=032583295b11063e3980ac5ffe971376\">Ronnie T</a> wrote: <a href=\"./viewtopic.php?p=901180&amp;sid=032583295b11063e3980ac5ffe971376#p901180\" data-post-id=\"901180\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Aug 06, 2017 8:00 pm\n   </div></cite> Oily Rag,\n  <br> Before you take it all apart try getting all gears from the hockey stick using mole grips without damaging the stick.\n  <br> If you get all gears it may be the positioning of the dimple.I fitted a new hockey stick and had the same problem as yourself.\n  <br> I rectified it by cutting and repositioning the collar on the front rod by a few mm and redrilling the front shift rod to match the collar if that makes sense.\n  <br> My new hockey stick had a different dimple position which put it all out of whack. \n </div>\n</blockquote> That's what I've tried Ronnie, I can move the shifter into 1st 2nd and reverse using the hockey stick with everything disconnected but 3rd 4th shifter is stuck.",
+    "lastEdited" : "Sun Aug 06, 2017 8:42 pm"
+  }, {
+    "postId" : "901238",
+    "author" : {
+      "username" : "Ronnie T",
+      "userId" : "901238",
+      "joined" : "Thu May 19, 2011 6:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "18",
+      "avatarPath" : null
+    },
+    "content" : "Did you fit a different nosecone on yourself and ensure the hockeystick was in the neutral position prior to fitting allowing a full sweep through the selector rods?\n<br> If you were able to find all gears then its strange that you cant when the gearbox is bolted up.\n<br> Do you think your getting the full movement of neutral and the rod will not move back and forth?",
+    "lastEdited" : "Mon Aug 07, 2017 6:37 pm"
+  }, {
+    "postId" : "901239",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "901239",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "All I can think of is that the selector moved out of neutral when I put the nose cone on, but I've already got the engine out and the gearbox is almost out as well so if I have time I'll find out tomorrow.",
+    "lastEdited" : "Mon Aug 07, 2017 6:51 pm"
+  }, {
+    "postId" : "901252",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "901252",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6234",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "If the shift rails were not in the right place then you wouldn't get any gears - or you would be stuck in 3rd/4th.\n<br> \n<br> It can be difficult to put it in gear when the engine isn't running , as the box relies on rotation to align and engage the gears. Before taking the box out try engaging it from underneath (and in the air) whilst someone is turning the input shaft",
+    "lastEdited" : "Tue Aug 08, 2017 7:52 am"
+  }, {
+    "postId" : "901293",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "901293",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "Took the nose cone off and found the 3rd/4th selector was seized but not by much, a quick knock with a hammer and a lot of lubrication and some pushing and pulling action freed off the selector. Gearbox is back in and I now have all gears \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> Tomorrow's job is to put the engine back in \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Aug 08, 2017 6:34 pm"
+  }, {
+    "postId" : "901524",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "901524",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "Time to put it back in...\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170812/029145ce39ab105df21c3d768b5020b9.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Job done, with engine running I now have all gears \n<img src=\"http://emoji.tapatalk-cdn.com/emoji106.png\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170812/528b30be7213b03ccc78781057c6a5a1.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Aug 12, 2017 2:09 pm"
+  }, {
+    "postId" : "901535",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "901535",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39275&amp;sid=032583295b11063e3980ac5ffe971376\">oilyragg</a> wrote: <a href=\"./viewtopic.php?p=901175&amp;sid=032583295b11063e3980ac5ffe971376#p901175\" data-post-id=\"901175\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Aug 06, 2017 12:28 pm\n   </div></cite> Got the bus out the garage so I had room to get the door frame on and fit the door mirrors. once again the new rubbers are pushing the door down so I fitted it and made sure all the rubbers were facing outwards and shut the door. I'll leave it that way for a few weeks for them to bed in. \n </div>\n</blockquote> Your rubbers shouldn't push the door down that much. The hinges have greater upwards force than the downwards force from the rubbers.\n<br> \n<br> I'd take the door frames off and get the swage lines and striker plate perfect so that you have a datum point to work from.\n<br> \n<br> Then ensure that the cross bar on the door frame is in alignment with the bottom of the quarter light frame. There's a few mm of movement on the cross bar vertically and it can make all the difference.\n<br> \n<br> \n<a href=\"https://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=113868&amp;p=900444&amp;hilit=Top+tips#p900360\" class=\"postlink\">https://www.ssvc.org.uk/phpbb/viewtopic ... ps#p900360</a>\n<br> \n<br> Ask me how I know \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Sat Aug 12, 2017 7:53 pm"
+  }, {
+    "postId" : "901621",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "901621",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "Dug the tail gate out and found some tin worm so cut it out...\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170814/a592693fd0bcc1bd9ddf1573e82a523f.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Made a patch...\n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170814/0edf21f9587b681b584bd45aec01ff8d.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Welded it up. \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170814/5b8c229d057db9cdc5177a419334d59d.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Mon Aug 14, 2017 7:21 pm"
+  }, {
+    "postId" : "901849",
+    "author" : {
+      "username" : "oilyragg",
+      "userId" : "901849",
+      "joined" : "Sat May 31, 2014 10:10 am",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot",
+      "postCount" : "231",
+      "avatarPath" : "./download/file.php%3Favatar=39275_1420380039.jpg"
+    },
+    "content" : "Filled up the tailgate, needed a bit more than I thought as it was quite badly dented but when it was done I set them up for a bit of high build primer session this morning. That is the last of the bits that need painting!\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170819/a88daeb5068ea1d4e22c26ea9c70492a.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Got home and went into the man cave to fit new lowered shocks to the rear. \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170819/a1f94b01ccfe18869c29ce56f28d15f0.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Aug 19, 2017 11:19 am"
+  } ]
+}

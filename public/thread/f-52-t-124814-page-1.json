@@ -1,0 +1,27 @@
+{
+  "forumId" : "52",
+  "threadId" : "124814",
+  "title" : "Sold",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=124814",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=a429bf3647641b658a913923e8733ac4",
+    "label" : "Non Bus Things For Sale"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930499",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "930499",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Sold",
+    "lastEdited" : "Fri Jun 12, 2020 8:32 pm"
+  } ]
+}

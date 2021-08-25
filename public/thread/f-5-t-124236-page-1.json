@@ -1,0 +1,66 @@
+{
+  "forumId" : "5",
+  "threadId" : "124236",
+  "title" : "Dellorto DRLA technical manual",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124236",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=f0b2f52f19268c9b52bc627301138f1c",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927373",
+    "author" : {
+      "username" : "Roadrunner",
+      "userId" : "927373",
+      "joined" : "Tue Mar 12, 2013 7:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bishops stortford, herts",
+      "postCount" : "12",
+      "avatarPath" : "./download/file.php%3Favatar=37559_1393017737.jpg"
+    },
+    "content" : "Hi All- does anybody have a copy of the Dellorto DRLA technical manual that was written by Bob Tomlinson they don't need? Just bought and reconditioned a set of 36s for my bus and need to read up before fitting and it doesn't appear to available anymore. Thanks Steve",
+    "lastEdited" : "Sun Jan 12, 2020 8:57 am"
+  }, {
+    "postId" : "927593",
+    "author" : {
+      "username" : "jul54",
+      "userId" : "927593",
+      "joined" : "Sat Mar 03, 2018 9:34 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "Hi, I've got this... come talk to me in P.M.",
+    "lastEdited" : "Sat Jan 25, 2020 9:38 am"
+  }, {
+    "postId" : "927594",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "927594",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20058",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Its been out of print for a while. \n<br> \n<br> I've got a copy I will sell if anyone else wants a copy",
+    "lastEdited" : "Sat Jan 25, 2020 10:27 am"
+  }, {
+    "postId" : "927597",
+    "author" : {
+      "username" : "Roadrunner",
+      "userId" : "927597",
+      "joined" : "Tue Mar 12, 2013 7:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bishops stortford, herts",
+      "postCount" : "12",
+      "avatarPath" : "./download/file.php%3Favatar=37559_1393017737.jpg"
+    },
+    "content" : "Ahh great pm sent",
+    "lastEdited" : "Sat Jan 25, 2020 10:54 am"
+  } ]
+}

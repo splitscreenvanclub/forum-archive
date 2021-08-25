@@ -1,0 +1,115 @@
+{
+  "forumId" : "32",
+  "threadId" : "110760",
+  "title" : "Stay logged in",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=110760",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "836979",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "836979",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "This feature doesn't seem to work. But ticking the box you should be able to stay logged in.",
+    "lastEdited" : "Tue Jun 02, 2015 9:55 am"
+  }, {
+    "postId" : "836982",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "836982",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1813",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Taffy\n<br>\n<br>It works for me on my iphone, ipad and PC, what device are you using?\n<br>\n<br>Please see the thread on my other response, the team are working hard on a new platform.",
+    "lastEdited" : "Tue Jun 02, 2015 10:04 am"
+  }, {
+    "postId" : "837012",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "837012",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1124",
+      "avatarPath" : "http://i1068.photobucket.com/albums/u451/clymoj/Bus/Bus005_zps44edd617.jpg"
+    },
+    "content" : "Make sure you have cookies enabled for this site and that may sort this out?",
+    "lastEdited" : "Tue Jun 02, 2015 1:15 pm"
+  }, {
+    "postId" : "837018",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "837018",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "906",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "I have that problem only on my Ipad. On my laptop it's good but on the pad nope. Any advice?",
+    "lastEdited" : "Tue Jun 02, 2015 2:16 pm"
+  }, {
+    "postId" : "837131",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "837131",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "I'm using an ipad",
+    "lastEdited" : "Wed Jun 03, 2015 8:12 am"
+  }, {
+    "postId" : "837136",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "837136",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1813",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "It works fine on my ipad, I leave the page open all the time on safari and just go back to it, always logged on.\n<br>\n<br>Any techy guys out there help?",
+    "lastEdited" : "Wed Jun 03, 2015 8:27 am"
+  }, {
+    "postId" : "837137",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "837137",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1124",
+      "avatarPath" : "http://i1068.photobucket.com/albums/u451/clymoj/Bus/Bus005_zps44edd617.jpg"
+    },
+    "content" : "I don't have an iPad to test so I don't know if this a system issue or not but the two settings I'd try looking at are passwords and cookies. \n<br>\n<br>Cookies make sure it is set to allow cookies from websites I visit. \n<br>\n<br>Passwords &amp; autofill (within the Safari settings) check that the button is turned on and then go into the passwords and check that it only has one entry for SSVC and that it is correct. If in doubt delete the entry in the settings and log in through safari again. \n<br>\n<br>You could also try a different browser app like chrome and see if that works?\n<br>\n<br>You could also use the tapatalk app on your iPad which is free and would allow you to upload photos easily as well. \n<br>\n<br>Hope this helps.",
+    "lastEdited" : "Wed Jun 03, 2015 8:34 am"
+  }, {
+    "postId" : "837185",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "837185",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "This version of the forum isn't that good with iPads. Hopefully in the next week I will do the upgrade which makes it work a lot better",
+    "lastEdited" : "Wed Jun 03, 2015 3:31 pm"
+  } ]
+}

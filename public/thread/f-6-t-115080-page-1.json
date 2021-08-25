@@ -1,0 +1,206 @@
+{
+  "forumId" : "6",
+  "threadId" : "115080",
+  "title" : "Relocating the coil",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115080",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 19,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "867877",
+    "author" : {
+      "username" : "Richie-R",
+      "userId" : "867877",
+      "joined" : "Sat May 24, 2003 4:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Chester up norf",
+      "postCount" : "160",
+      "avatarPath" : "http://i31.photobucket.com/albums/c395/richiemdot/avatar.jpg"
+    },
+    "content" : "Having an ongoing issue with heat and engine running problems, has anyone moved the coil outside the engine bay say onto the chassis rails in a waterproof box, or would the length of wireing be a problem?",
+    "lastEdited" : "Wed Mar 16, 2016 9:53 pm"
+  }, {
+    "postId" : "867887",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "867887",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "545",
+      "avatarPath" : null
+    },
+    "content" : "Ive relocated it on my bug to outside the engine bay. You need to make make a longer cable by crimping one end of a normal ht lead.\n<br>\n<br>It was moved only for asthetic reasons, not heat",
+    "lastEdited" : "Wed Mar 16, 2016 10:24 pm"
+  }, {
+    "postId" : "867912",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "867912",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5512",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "?? is the coil creating the heat or being affected by the engine heat…..moving the coil out the engine bay seems extreme\n<br>\n<br>if things are getting that hot, you have a underlying problem and moving the coil isn't gonna solve it ?",
+    "lastEdited" : "Thu Mar 17, 2016 8:31 am"
+  }, {
+    "postId" : "867937",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "867937",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1015",
+      "avatarPath" : null
+    },
+    "content" : "Hi Richie - I agree with maddison - whats actually your base problem? - its best to attack the source, not mask the problem.\n<br>\n<br>We'll try &amp; help you out.\n<br>\n<br>Cheers TED",
+    "lastEdited" : "Thu Mar 17, 2016 4:40 pm"
+  }, {
+    "postId" : "867971",
+    "author" : {
+      "username" : "Richie-R",
+      "userId" : "867971",
+      "joined" : "Sat May 24, 2003 4:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Chester up norf",
+      "postCount" : "160",
+      "avatarPath" : "http://i31.photobucket.com/albums/c395/richiemdot/avatar.jpg"
+    },
+    "content" : "Not getting over hot particularly, I've had an on going problem where the van cuts out on tickover/ low revs intermittently and won't restart until it's cooled down, changed everything in the ignition system, cleaned the carbs, checked the filter, drilled a breather hole in fuel cap, checked timing, valve clearance,.Were left with changing the fuel tank (although note it doesn't cut out at high revs or when it's cold), or going to an electric fuel pump.",
+    "lastEdited" : "Thu Mar 17, 2016 10:07 pm"
+  }, {
+    "postId" : "867973",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "867973",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10374",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Have you checked the insulation of the distributor... points plate..\n<br>That was the cause on mine. .\n<br>Only came to light when I swapped the distributor. ..",
+    "lastEdited" : "Thu Mar 17, 2016 10:12 pm"
+  }, {
+    "postId" : "867977",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "867977",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "545",
+      "avatarPath" : null
+    },
+    "content" : "Id pump all your fuel into a new clean white bucket and see the state of your fuel and check the inside of your tank.",
+    "lastEdited" : "Thu Mar 17, 2016 10:44 pm"
+  }, {
+    "postId" : "867978",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "867978",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "545",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Richie-R wrote:</cite>Not getting over hot particularly, I've had an on going problem where the van cuts out on tickover/ low revs intermittently and won't restart until it's cooled down, changed everything in the ignition system, cleaned the carbs, checked the filter, drilled a breather hole in fuel cap, checked timing, valve clearance,.Were left with changing the fuel tank (although note it doesn't cut out at high revs or when it's cold), or going to an electric fuel pump.\n </div>\n</blockquote>\n<br>\n<br>If it is your tank you can clean it internally fairly easily and cheaply, i just did mine for £26",
+    "lastEdited" : "Thu Mar 17, 2016 10:45 pm"
+  }, {
+    "postId" : "867994",
+    "author" : {
+      "username" : "Richie-R",
+      "userId" : "867994",
+      "joined" : "Sat May 24, 2003 4:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Chester up norf",
+      "postCount" : "160",
+      "avatarPath" : "http://i31.photobucket.com/albums/c395/richiemdot/avatar.jpg"
+    },
+    "content" : "I'd be interested in trying that 58 splittie any info appreciated. Will look at the dizzy Type 21f Thanks.",
+    "lastEdited" : "Fri Mar 18, 2016 4:22 am"
+  }, {
+    "postId" : "867998",
+    "author" : {
+      "username" : "13bussing",
+      "userId" : "867998",
+      "joined" : "Fri Jul 18, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "St Ives, Cornwall",
+      "postCount" : "820",
+      "avatarPath" : "http://i28.photobucket.com/albums/c225/13bussing/DSCF1068-1.jpg"
+    },
+    "content" : "Did you change the coil too? Mine had the same problem and it turned out to be the coil mounted to upright.",
+    "lastEdited" : "Fri Mar 18, 2016 7:23 am"
+  }, {
+    "postId" : "868001",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "868001",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Redditch",
+      "postCount" : "492",
+      "avatarPath" : "http://i35.photobucket.com/albums/d186/grahamdouglas/0569c237-0d92-4795-b3f4-ea8b7af1452b_zpsqrk1envh.jpg"
+    },
+    "content" : "I had a similar problem on a Beetle , turned out to be the bakelite fuel pump pedestal tightening on the fuel pump rod. A good clean with fine emery paper was all it took in the end",
+    "lastEdited" : "Fri Mar 18, 2016 9:30 am"
+  }, {
+    "postId" : "868011",
+    "author" : {
+      "username" : "Jon Petts",
+      "userId" : "868011",
+      "joined" : "Mon Jul 07, 2014 4:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "96",
+      "avatarPath" : "./download/file.php%3Favatar=39409_1452814920.jpg"
+    },
+    "content" : "I had similar problem with coil overheating causing stalling / not starting. It would start very well from cold, but have problems once running for any time. After a run the coil would be very hot.\n<br> Turned out to be the Petronix electronic \"points\". Replaced with standard points and had no more prolems. Something to do with resistance through distributor which was different with points( as type21f said ).",
+    "lastEdited" : "Fri Mar 18, 2016 11:25 am"
+  }, {
+    "postId" : "868088",
+    "author" : {
+      "username" : "Richie-R",
+      "userId" : "868088",
+      "joined" : "Sat May 24, 2003 4:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Chester up norf",
+      "postCount" : "160",
+      "avatarPath" : "http://i31.photobucket.com/albums/c395/richiemdot/avatar.jpg"
+    },
+    "content" : "Yes changed the coil, I've slimmed down the fuel pump stand, good call, actually found mine broken Dougie. Jon thanks, I think your on the money there, will swop back to points this weekend and try. Thanks everyone I'll let you know how I get on.",
+    "lastEdited" : "Fri Mar 18, 2016 10:05 pm"
+  }, {
+    "postId" : "868282",
+    "author" : {
+      "username" : "Richie-R",
+      "userId" : "868282",
+      "joined" : "Sat May 24, 2003 4:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Chester up norf",
+      "postCount" : "160",
+      "avatarPath" : "http://i31.photobucket.com/albums/c395/richiemdot/avatar.jpg"
+    },
+    "content" : "Well I removed the crappy empi fuel regulator out of the system, removed the electronic ignition and refitted points, set the valves, and checked the fuel filter (clean with clear petrol in it). Van started well and ran stronger, until it died again after about half an hour, this time not on tickover and with some backfiring, wouldn't start for a long time basically until it was compleatly cold, could smell fuel getting through to it when it wouldn't start, tried two coils while it was stranded, wouldn't start.Ran great after it restarted and would stop and restart normally. Lost with it all now.",
+    "lastEdited" : "Mon Mar 21, 2016 3:39 am"
+  }, {
+    "postId" : "868289",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "868289",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "545",
+      "avatarPath" : null
+    },
+    "content" : "When it dies, check you still have a good spark. Do you have another carb spare? To swap and test with? Check your fuel condition",
+    "lastEdited" : "Mon Mar 21, 2016 8:26 am"
+  } ]
+}

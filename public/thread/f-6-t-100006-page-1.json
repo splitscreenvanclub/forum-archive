@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "100006",
+  "title" : "connecting heat exchangers",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=100006",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "764776",
+    "author" : {
+      "username" : "paulm20000",
+      "userId" : "764776",
+      "joined" : "Fri Jan 01, 2010 5:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "187",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys\n<br> Got my engine out of my 67 at the moment so thought id look at the heat exchangers as they are on constantly and the knob in the van makes no difference. If im looking at the right thing there appears to be a wire coming out either side of the gearbox that I guess is for the heat exchangers. Is this right? There are levers on the exchangers and these are operational and open/close flaps. How do I connect the 2 together as ive seen lots of things out there but dont know if they are the right thing. Also ive removed the knob under seats before and it is not connected to cable so how do I do that as I cant find anything out there for that? Will post some pics below\n<br> Cheers\n<br> Paul\n<br> \n<img src=\"http://i1112.photobucket.com/albums/k492/PaulM20000/heatexchangers/20140111_120926.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://i1112.photobucket.com/albums/k492/PaulM20000/heatexchangers/20140111_120838.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Jan 11, 2014 5:48 pm"
+  }, {
+    "postId" : "764787",
+    "author" : {
+      "username" : "Bren Ralls",
+      "userId" : "764787",
+      "joined" : "Mon Sep 12, 2011 6:16 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Deal, Kent.",
+      "postCount" : "1231",
+      "avatarPath" : null
+    },
+    "content" : "You are missing a few bits and hopefully 75mm ish further down from lever shown in your pic should be a pivot pin attached to side of heat exchanger. it should look like mine below. links are for extra levers you need.\n<br> \n<br> \n<a href=\"http://s262.photobucket.com/user/brenralls/media/B191C902-437E-4B87-96C5-65AF8D2DA941.jpg.html\" class=\"postlink\"><img src=\"http://i262.photobucket.com/albums/ii119/brenralls/B191C902-437E-4B87-96C5-65AF8D2DA941.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> \n<a href=\"http://www.vwheritage.com/vw_spares_Lever-kit-heat-exchanger-left-043298147A_act_shop.product_pID_52538.htm?crumbStartPage=1\" class=\"postlink\">http://www.vwheritage.com/vw_spares_Lev ... tartPage=1</a>\n<br> \n<br> \n<a href=\"http://www.vwheritage.com/vw_spares_Lever-kit-heat-exchanger-right-043298148A_act_shop.product_pID_52557.htm?crumbStartPage=1\" class=\"postlink\">http://www.vwheritage.com/vw_spares_Lev ... tartPage=1</a>\n<br> \n<br> In cab front were adjuster knob is, it should look like this. thr cable loops over pin so when you turn knob it either extends or retrcts the wire.\n<br> \n<br> \n<a href=\"http://www.customandcommercial.com/vw-split_screen/interior_parts/dash_parts/german_quality_mechanism_for_heater_control_7fslash51-67_10969/\" class=\"postlink\">http://www.customandcommercial.com/vw-s ... -67_10969/</a>",
+    "lastEdited" : "Sat Jan 11, 2014 7:17 pm"
+  }, {
+    "postId" : "764799",
+    "author" : {
+      "username" : "markp",
+      "userId" : "764799",
+      "joined" : "Wed Jul 20, 2011 9:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "northampton",
+      "postCount" : "4965",
+      "avatarPath" : "./download/file.php%3Favatar=35667_1311369872.jpg"
+    },
+    "content" : "Bren\n<br> \n<br> \n<br> Ya da man ..... Perfects ! \n<br> \n<br> Great heads up \n<br> \n<br> \n<br> Mark",
+    "lastEdited" : "Sat Jan 11, 2014 8:08 pm"
+  }, {
+    "postId" : "764804",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "764804",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "Yes those wires connect to the heat exchanger levers. The heater knob essentially screws the wires in and out to pull the levers. Sounds like your cable is broken at the knob end... Its v common... If you unscrew your knurled nut in the cab and dig around in the grease at the bottom of the tube youll probably find the broken ends.... You are going to have to pull the broken wires out and fit a new one.... Then fit new HE levers, clamps and springs, they are all pretty cheap... The hardedst things i found was fitting the spring clips that hold the levers onto the pivot pins, and gettings the new heater wire in without it twisting up and breaking again.\n<br> \n<br> I went through all this early in the summer.... See this thread about the knob and cables....\n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=98434\" class=\"postlink\">viewtopic.php?f=6&amp;t=98434</a>\n<br> \n<br> Good luck \n<img class=\"smilies\" src=\"./images/smilies/icon_bounce.gif\" width=\"15\" height=\"15\" alt=\":bounce:\" title=\"bounce\">",
+    "lastEdited" : "Sat Jan 11, 2014 8:35 pm"
+  } ]
+}

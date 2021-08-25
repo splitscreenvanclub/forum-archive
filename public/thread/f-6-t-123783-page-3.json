@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "123783",
+  "title" : "123ignition tune+",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123783&start=30",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ae93fd83504e3c74e577c10313f47704",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 65,
+  "pageNumber" : 3,
+  "totalPages" : 5,
+  "posts" : [ {
+    "postId" : "926846",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "926846",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Hi Guys,\n<br> \n<br> I just installed a Tune + and haven't a clue what I'm doing, but I've got the engine running.\n<br> \n<br> If I'm understanding the general consensus, having rotated the dizzy counterclockwise until the little green light comes on, I do up the clamp and don't move the physical location of the dizzy any more????\n<br> \n<br> I didn't understand the moving of it to get the wires in a nice place as it seemed to me that when the engine was at tdc, it would only go in in one orientation, which I'm not that happy with as the vacuum pipe is pointing 180 degrees from where I'd like it to be.......\n<br> \n<br> Now the curves.......\n<br> \n<br> I got the app to read a curve, presumably what it's actually doing. I've copied Jim's readings from previous threads above and saved it to app.\n<br> \n<br> How do I make the system use this curve?\n<br> \n<br> All the gear, no idea \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> Steve",
+    "lastEdited" : "Mon Dec 02, 2019 8:20 am"
+  }, {
+    "postId" : "926866",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "926866",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20157",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Just follow the booklet. \n<br> \n<br> Put the dizzy roughly where you want it, then rotate to set the LED. That's TDC and #1 sorted.\n<br> \n<br> Then press the icon to send it to the dizzy. Takes thirty seconds.",
+    "lastEdited" : "Tue Dec 03, 2019 8:31 pm"
+  }, {
+    "postId" : "926875",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "926875",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "I couldn't work out how you get to orient the dizzy in any other position. I would've liked it so the vac nipple pointed towards the carb, but in order to get the light to illuminate, it had to be rotated away....",
+    "lastEdited" : "Wed Dec 04, 2019 6:42 am"
+  }, {
+    "postId" : "926876",
+    "author" : {
+      "username" : "Karl_F",
+      "userId" : "926876",
+      "joined" : "Tue Mar 11, 2014 9:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "665",
+      "avatarPath" : "./download/file.php%3Favatar=38997_1551169722.png"
+    },
+    "content" : "Steve, keep rotating the dizzy until the light comes back on again. There's a pickup every 90 deg.",
+    "lastEdited" : "Wed Dec 04, 2019 7:17 am"
+  }, {
+    "postId" : "926878",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "926878",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Hi Karl and thanks, I wondered if that might be the case.\n<br> \n<br> I'll have another play at the weekend",
+    "lastEdited" : "Wed Dec 04, 2019 7:44 am"
+  }, {
+    "postId" : "930359",
+    "author" : {
+      "username" : "Bluethunder",
+      "userId" : "930359",
+      "joined" : "Sun Apr 06, 2014 12:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "46",
+      "avatarPath" : "./download/file.php%3Favatar=39071_1431021934.jpg"
+    },
+    "content" : "Is there some body who runs a 1835, dual Webers 40mm, counterweighted and balanced bottom end, 100 engle cam, polished and ported heads with stock valves and rockers, 009 dizzy. I changed to a 123 tune+ \n<br> What timing curve are you using with this setup?\n<br> Regards Michel\n<br> \n<br> \n<br> Verzonden vanaf mijn iPhone met Tapatalk",
+    "lastEdited" : "Sat Jun 06, 2020 7:18 pm"
+  }, {
+    "postId" : "930502",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "930502",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys,\n<br> Bought a Tune+ from VWJims bulk buy.... here are my findings/curves so far...\n<br> Jim has put some curves on the 1st page, but I’m not in full agreement with those (sorry Jim! \n<img alt=\"😆\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f606.svg\">) . Using Jim’s/Paul F’s curve you never get more than 32 degrees total advance - (24 mech, 8 vac) I’m replacing an 034 vac advance dizzy, so this can advance up to 42-44 degrees at high vac. \n<br> \n<br> In the 123 ignition booklet they handily give you the original Bosch advance curve diags for an 034 and a 009, but you have to know how to read these charts, they are in distributor speed (half engine speed), so you have to double both the rpm figs and the vac figs to get ‘correct’ engine readings... The 123 app allows you to save multiple files/curves, so you can have lots of curves saved in the app and flip between them in your Bus, just stop the engine, then ign on again to select &amp; write a new file into the diz, it takes a few seconds only.... great!\n<br> \n<br> I have mapped out the Standard 034 dizzy curves from the book diagram and created a map as a baseline, see pics below\n<br> \n<br> 034: \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=39676&amp;sid=ae93fd83504e3c74e577c10313f47704&amp;mode=view\"><img src=\"./download/file.php?id=39676&amp;t=1&amp;sid=ae93fd83504e3c74e577c10313f47704\" class=\"postimage\" alt=\"A58364D8-0CEA-4D62-AE93-10671EEB5746.png\" title=\"A58364D8-0CEA-4D62-AE93-10671EEB5746.png (90.66 KiB) Viewed 1547 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=39677&amp;sid=ae93fd83504e3c74e577c10313f47704&amp;mode=view\"><img src=\"./download/file.php?id=39677&amp;t=1&amp;sid=ae93fd83504e3c74e577c10313f47704\" class=\"postimage\" alt=\"F7778C19-6A5C-4684-8F1C-A07DEFB375CB.png\" title=\"F7778C19-6A5C-4684-8F1C-A07DEFB375CB.png (81.97 KiB) Viewed 1547 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=39678&amp;sid=ae93fd83504e3c74e577c10313f47704&amp;mode=view\"><img src=\"./download/file.php?id=39678&amp;t=1&amp;sid=ae93fd83504e3c74e577c10313f47704\" class=\"postimage\" alt=\"7311F230-99EF-4E55-8728-72C9C962E438.jpeg\" title=\"7311F230-99EF-4E55-8728-72C9C962E438.jpeg (92.96 KiB) Viewed 1546 times\"></a>\n  </dt> \n </dl> \n</div> So this is a stock VW 034 curve, now when you fit this 123 Tune+ distributor you set it at TDC exactly (just as the green light comes on) then that’s it, you don’t ever move the body again, all the timing is now done via your 123 app (via phone, iPad etc).\n<br> The thing to remember is you have NO base static timing, eg your standard 7.5btdc, (the dizzy is at TDC remember!) so this static figure has to be added on to the chart figures, so to arrive at the 034 figures from the original Bosch Distributor chart &amp; to input into the App it is:\n<br> Static timing + centrifugal timing + vac advance = total timing figure.\n<br> \n<br> The 034 points from the original Bosch diag above are: (Go to the centre point between the lines)\n<br> \n<br> 1200rpm (double diz speed) = static timing 7.5 + 0 deg centrifugal = total mechanical timing 7.5\n<br> 1600rpm = 7.5 (static) + 8 deg centrifugal (remember double the fig on the chart) = total timing 15.5\n<br> 2600rpm = 7.5 + 16 deg = 23.5\n<br> 3300rpm = 7.5 + 22 deg = 29.5\n<br> \n<br> Then you can add your MAP curve, now the way 123 work this out is a bit confusing, but in the original distributor charts the vac is shown in mmHg, on the 123 App dashboard it’s in Bar or inHg or Psi, and in the Setting Curves page it’s in Kpa...!!. \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> , and the other thing is it’s also ‘Absolute KPa’ just to add even more confusion. Normal sea level air pressure is already 100kpa, anything above 100kpa is pressure (or boost!), now most of us don’t have turbochargers so anything above 100kpa can be ignored, a vacuum in the engine is actually anything BELOW 100kpa, so 80 kpa absolute is 100kpa ambient Air pressure, minus 20kpa vac signal giving an absolute pressure of 80kpa (get it?)\n<br> \n<br> So the MAP curve on the 034 is: (Again double the vac figs from the Bosch diag)\n<br> 0Deg at 100mmHg - which Converts to 13kpa, which in absolute is 87kpa (100 - 13 = 87)\n<br> 10deg at 200mmHg - which is 27kpa, 73 absolute \n<br> 10deg at 300mmHg - which is 40kpa, 60 absolute \n<br> \n<br> Smack the above figs into your centrifugal curve and map curve, write it to the 123 and you now have a stock 034 distributor.\n<br> \n<br> So when driving, looking at the dashboard of the 123 app, you’ll see your current total timing figure on the LH top dial, and also the vac signal the dizzy sense's from your vac pipe.... so a stock 034 will mech advance up to 29.5 deg, then if you have a light throttle, (high rpms, small throttle opening) you’ll also have some fairly healthy vac advance added too, so 29.5 mech + up to 10 deg vac advance giving you almost 40deg of advance. This is what makes the vac advance dizzys so good, they advance the Timing according to engine ‘load’. As soon as you open the throttle you’ll see the vac signal drop sharply and it will reign in the advance back to the more normal 29/30 deg. Large throttle openings give almost zero vac, so WOT acceleration never uses any vac adv. this is like a 009.\n<br> \n<br> This will get you up the road fairly well, but the advantage of the 123 Tune + is being able to map your curves exactly how you want.... why spend all that dosh and put in a 50 yr old standard map? I have done a bit of research and read a few VW megajolt and MagnaSpark charts and come up with a more aggressive centrifugal map as best I can match the MJ to the slightly more limited 123 curve table.\n<br> \n<br> See my more aggressive map below...this has really picked up the sharpness of my engine, (and remember all engines are different, mines currently a 1904 SP on twin Kadrons, your carbs, compression ratio, cam etc all affect how much timing you can run - Kads tend to like a bit more timing, hence I run 32).... my vac signal maxes out at 9inHg (30.5 kpa) on the App Dial so That’s 70 kpa absolute, so I left the stock 10 deg vac can figures as I couldn’t improve them really, think the megajolt uses MAP (manifold absolute pressure) rather than my Ported Carb Vac, so this is quite different.\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=39679&amp;sid=ae93fd83504e3c74e577c10313f47704&amp;mode=view\"><img src=\"./download/file.php?id=39679&amp;t=1&amp;sid=ae93fd83504e3c74e577c10313f47704\" class=\"postimage\" alt=\"8C37419C-F738-401B-BFBB-A0229550E92C.png\" title=\"8C37419C-F738-401B-BFBB-A0229550E92C.png (87.85 KiB) Viewed 1540 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=39680&amp;sid=ae93fd83504e3c74e577c10313f47704&amp;mode=view\"><img src=\"./download/file.php?id=39680&amp;t=1&amp;sid=ae93fd83504e3c74e577c10313f47704\" class=\"postimage\" alt=\"A96E940A-B255-4E02-886F-7E49CD3316FD.png\" title=\"A96E940A-B255-4E02-886F-7E49CD3316FD.png (81.9 KiB) Viewed 1540 times\"></a>\n  </dt> \n </dl> \n</div> You'll see I start with a higher advance anyway, but it also advances quicker, all in by 2700rpm... I've also added all the 10 possible advance points as it makes it easier to match to the MJ/MagnaSpark charts - To be continued as I fiddle more, but this curve above is more aggressive centrifugal but still tops out at 32deg, plus stock Vac map adding upto 10deg vac adv on a good vac signal as the stock 034 does. (all the MJ boys just seem to add 10 deg on vac it seems to be 'a thing'.\n<br> \n<br> Also the more advance you can add to the idle the better, (up to a point!) as it really steadies the idle, you’ll note I’m running 10 to 11 deg on idle and it ticks over beautifully, but you can add too much, and as soon as you prod the throttle to move off you can create problems with too much idle advance... and starting issues, as it’s over advanced at low cranking rpm... all things to consider... some of the MJ boys are running 17deg idle advance!\n<br> \n<br> Cheers All, and happy fiddling, this 123 Tune + has the capability to keep you occupied for hours! Hahahahaha \n<br> I'm sure VWJim will wade in with some more comments/findings as we get better at dialling in the curves.\n<br> ideally a rolling road would be the best way to tweak the curves, but most of us don't have that luxury.\n<br> You can also dial in ign advance by careful use of a old fashioned Vacuum Gauge Tester, ideally slowly advance the spark whilst carefully watching the vac gauge needle, the higher the vac produced for a given throttle position, the more efficient the engine is working, once you reach max vac and adding more advance ceases to have an effect or becomes deleterious you have reached your optimum advance, but trying to find a road that allows a constant steady throttle, with no hills, traffic etc and reading a vac gauge at the same time, whilst adding realtime 'tune' using the + &amp; - buttons on the app and observing its effects is a big ask! hahaha\n<br> \n<br> Several websites have been very useful, and are recommended reading if you are vaguely interested - see below:\n<br> Understanding Vac Advance and why you need it:\n<br> \n<a href=\"https://www.onallcylinders.com/2015/03/27/ask-away-with-jeff-smith-understanding-vacuum-advance-and-why-you-need-it/\" class=\"postlink\"> https://www.onallcylinders.com/2015/03 ... u-need-it/</a>\n<br> 123 Support pages on reading &amp; adding curves:\n<br> \n<a href=\"https://123ignition.com/support/create-curve-tutorial/\" class=\"postlink\"> https://123ignition.com/support/create-curve-tutorial/</a>\n<br> The Samba on 'What ign system to use' a good debate on the 123 vs MegaJolt on the last pages - look at the timing chart by Miniman82 about halfway down the last page\n<br> \n<a href=\"https://www.thesamba.com/vw/forum/viewtopic.php?t=338881&amp;postdays=0&amp;postorder=asc&amp;start=280\" class=\"postlink\">https://www.thesamba.com/vw/forum/viewt ... &amp;start=280</a>\n<br> Another Samba page worth a read, espcially look at the MJ chart towards the bottom of page 1 posted by Jonboylaw\n<br> \n<a href=\"https://www.thesamba.com/vw/forum/viewtopic.php?t=640208&amp;postdays=0&amp;postorder=asc&amp;start=0\" class=\"postlink\">https://www.thesamba.com/vw/forum/viewt ... sc&amp;start=0</a>",
+    "lastEdited" : "Fri Jun 12, 2020 9:03 pm"
+  }, {
+    "postId" : "930505",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930505",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20157",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I'll have a read through this on the laptop, not the phone. \n<br> \n<br> My map was a generation based on a Mallory curve, as my unit came without anything on it / nothing to work with, so made a safe curve to start from. Not played with it since. But yes, had noticed it never went over 32 on light loads.",
+    "lastEdited" : "Fri Jun 12, 2020 10:16 pm"
+  }, {
+    "postId" : "930507",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930507",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=930502&amp;sid=ae93fd83504e3c74e577c10313f47704#p930502\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37891&amp;sid=ae93fd83504e3c74e577c10313f47704\">ted698</a> wrote: <a href=\"./viewtopic.php?p=930502&amp;sid=ae93fd83504e3c74e577c10313f47704#p930502\" data-post-id=\"930502\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Fri Jun 12, 2020 9:03 pm</span></cite> Hi guys,\n  <br> Bought a Tune+ from VWJims bulk buy.... here are my findings/curves so far...\n  <br> Jim has put some curves on the 1st page, but I’m not in full agreement with those (sorry Jim! \n  <img alt=\"😆\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f606.svg\">) . Using Jim’s/Paul F’s curve you never get more than 32 degrees total advance - (24 mech, 8 vac) I’m replacing an 034 vac advance dizzy, so this can advance up to 42-44 degrees at high vac. \n </div>\n</blockquote> I agree with you, the curves aren't what I intended. Jim will make a lot more power if he updates his max advance. You can run up to 32 degrees for speed based when at full load (ie mechanical advance), and then additional vacuum advance on top for partial load\n<br> \n<br> In the distant past, the mallory unilite with the grey/grey springs was the recommended curve (John at aircooled.net). Many people used these with success.\n<br> \n<br> The curve they gave was as follows, but you set idle as normal (eg at 8degrees). So basically you add on 5 as we set at 8 at idle\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"file\"> \n  <dt class=\"attach-image\">\n   <img src=\"./download/file.php?id=39682&amp;sid=ae93fd83504e3c74e577c10313f47704\" class=\"postimage\" alt=\"mallory.png\" onclick=\"viewableArea(this);\">\n  </dt> \n  <dd>\n   mallory.png (5.56 KiB) Viewed 1515 times\n  </dd> \n </dl> \n</div> For a bus with higher compression, I'd probably set the max timing at 30 (for the mechanical advance only)\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"file\"> \n  <dt class=\"attach-image\">\n   <img src=\"./download/file.php?id=39683&amp;sid=ae93fd83504e3c74e577c10313f47704\" class=\"postimage\" alt=\"base_advance.png\" onclick=\"viewableArea(this);\">\n  </dt> \n  <dd>\n   base_advance.png (5.12 KiB) Viewed 1515 times\n  </dd> \n </dl> \n</div> Then on top of that you can add vacuum advance\n<br> \n<blockquote class=\"uncited\">\n <div>\n  You can also dial in ign advance by careful use of a old fashioned Vacuum Gauge Tester, ideally slowly advance the spark whilst carefully watching the vac gauge needle, the higher the vac produced for a given throttle position, the more efficient the engine is working, once you reach max vac and adding more advance ceases to have an effect or becomes deleterious you have reached your optimum advance\n </div>\n</blockquote> Not sure that is a good way to do it. You don't want to run as much advance as possible, you want to run the most advance for the most torque (which can only be measured on a dyno). I am not convinced that changing the timing will affect the vacuum anyway, the variation is more likely to be load changes due to road incline changes",
+    "lastEdited" : "Sat Jun 13, 2020 6:00 am"
+  }, {
+    "postId" : "930508",
+    "author" : {
+      "username" : "Bluethunder",
+      "userId" : "930508",
+      "joined" : "Sun Apr 06, 2014 12:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "46",
+      "avatarPath" : "./download/file.php%3Favatar=39071_1431021934.jpg"
+    },
+    "content" : "Hi\n<br> \n<br> @ted698, thats a great post you did there, very intresting. \n<br> As I don’t have any vacuüm connected, because it is not possible with the Webers, must I only use the centrifugal curve up to a maximum of about 24 degrees advance? Or must I add some more degrees like there would be a vacuüm hose connected?\n<br> Or is there a way to use vacuüm advance with the Webers?\n<br> \n<br> Best regards, Michel\n<br> \n<br> \n<br> Verzonden vanaf mijn iPhone met Tapatalk",
+    "lastEdited" : "Sat Jun 13, 2020 6:04 am"
+  }, {
+    "postId" : "930516",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "930516",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "Hi Bluethunder...\n<br> As you don’t have any vac advance it doesn’t really matter, but you need way more final advance than 24.\n<br> You can try my figures for Centrifugal Advance only, just leave the Map curve as zero/unplugged...\n<br> This will emulate an 009 distributor (no vac advance)\n<br> Or try Paul F ‘s figures just posted from a Mallory Curve (high end distributor)... so maybe 8, 9, 15, 21, 30\n<br> I don’t recommend anything higher than 32 final adv without anything to check torque or knock.",
+    "lastEdited" : "Sat Jun 13, 2020 9:12 am"
+  }, {
+    "postId" : "930517",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930517",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "You can use vacuum for webers - but you need one of these\n<br> \n<br> \n<a href=\"https://www.dellorto.co.uk/shop/vw-carburettor-kits-parts/vw-aircooled-manifolds-linkages-parts/other-parts-vw-aircooled-manifolds-linkages-parts/anti-pulse-valve-vacuum/\" class=\"postlink\">https://www.dellorto.co.uk/shop/vw-carb ... ve-vacuum/</a>",
+    "lastEdited" : "Sat Jun 13, 2020 9:43 am"
+  }, {
+    "postId" : "930518",
+    "author" : {
+      "username" : "Bluethunder",
+      "userId" : "930518",
+      "joined" : "Sun Apr 06, 2014 12:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "46",
+      "avatarPath" : "./download/file.php%3Favatar=39071_1431021934.jpg"
+    },
+    "content" : "Hi guy’s,\n<br> \n<br> Thank you for the advice!! I set up the curve below at the moment but didn’t get the change to test it properly. Its only mechanical advance, map curve is at 0. But the engine runs, so thats a good start.\n<br> \n<br> What are your thoughts on this curve?\n<br> \n<br> Maybe later I can order one of the vacuüm things to Connect to the manifold, and try that also.\n<br> \n<br> Grtz Michel\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20200613/8a0706079919c81b5249369c3b07e36c.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Verzonden vanaf mijn iPhone met Tapatalk",
+    "lastEdited" : "Sat Jun 13, 2020 12:41 pm"
+  }, {
+    "postId" : "930535",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930535",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "You seem to have a lot of advance below 2000rpm. Id copy the curve I pasted in or the one that Ted pasted in for centrifugal",
+    "lastEdited" : "Sat Jun 13, 2020 7:15 pm"
+  }, {
+    "postId" : "930541",
+    "author" : {
+      "username" : "Bluethunder",
+      "userId" : "930541",
+      "joined" : "Sun Apr 06, 2014 12:08 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "46",
+      "avatarPath" : "./download/file.php%3Favatar=39071_1431021934.jpg"
+    },
+    "content" : "Ok, Thank you I will try one of those curves.\n<br> \n<br> Grtz Michel\n<br> \n<br> \n<br> Verzonden vanaf mijn iPhone met Tapatalk",
+    "lastEdited" : "Sat Jun 13, 2020 8:59 pm"
+  } ]
+}

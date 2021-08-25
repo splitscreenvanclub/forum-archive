@@ -1,0 +1,63 @@
+{
+  "forumId" : "48",
+  "threadId" : "98939",
+  "title" : "oops - sold",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=98939",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "756561",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "756561",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7396",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" alt=\":oops:\" title=\"Red Face\">",
+    "lastEdited" : "Sun Nov 10, 2013 11:25 am"
+  }, {
+    "postId" : "761942",
+    "author" : {
+      "username" : "raymond",
+      "userId" : "761942",
+      "joined" : "Wed Sep 21, 2011 11:39 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "20",
+      "avatarPath" : "./download/file.php%3Favatar=35888_1316610160.jpg"
+    },
+    "content" : "I bought this interior as it is had the rear seat back rest intact, whereas mine is missing. Seems like the more sensible approach rather than try to build one. The sink is also in better condition than mine, so might switch them out too, even though I have sanded mine back, etc.",
+    "lastEdited" : "Fri Dec 20, 2013 9:48 am"
+  }, {
+    "postId" : "762897",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "762897",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "4548",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Is this the repro me that was on eBay for sale in Essex? If so its looked pretty good for a repro. Shame it didn't have the table with it. \n<br>\n<br>Shalom, Lee.",
+    "lastEdited" : "Sat Dec 28, 2013 11:24 pm"
+  }, {
+    "postId" : "763955",
+    "author" : {
+      "username" : "raymond",
+      "userId" : "763955",
+      "joined" : "Wed Sep 21, 2011 11:39 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "20",
+      "avatarPath" : "./download/file.php%3Favatar=35888_1316610160.jpg"
+    },
+    "content" : "The bulk head was a repro, but the back seat was original. It is the back rest I needed and the sink is in very good order, but the main ply base board has speaker cutouts.\n<br>\n<br>There was a table of sorts, unfortunately not an original... I need to keep my eye out for one, but I think there might be a number of people in search of one of these rarites!",
+    "lastEdited" : "Mon Jan 06, 2014 1:20 pm"
+  } ]
+}

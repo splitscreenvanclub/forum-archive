@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "123828",
+  "title" : "Glazed drum brakes and what to do?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123828",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ad3ba65961192399d4ba8ec5cf7a6c9a",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "924978",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "924978",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1448",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "What do you need to do when your drum brakes are glazed?\n<br> Can you keep driving and braking a lot to get rid of it or do you need to take the drum of and fix?\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Fri Sep 06, 2019 12:21 pm"
+  }, {
+    "postId" : "924986",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "924986",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1449",
+      "avatarPath" : null
+    },
+    "content" : "Hi Gertjan,\n<br> \n<br> Normally you get glazed brakes from lightly riding the pedal, or over-adjusted brakes so they are dragging all the time - this heats up the shoes/dums and makes them very smooth &amp; shiny - can also cause squeal/poor stopping power.\n<br> \n<br> Ideally remove the drums and attack the drum braking surface with some emery paper to scuff them up, and also do the same on the brake shoe friction material - it will look glassy/shiny and hard - this is what you need to get off.\n<br> \n<br> Cheers, TED",
+    "lastEdited" : "Fri Sep 06, 2019 3:49 pm"
+  }, {
+    "postId" : "924987",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "924987",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15461",
+      "avatarPath" : null
+    },
+    "content" : "Wear a mask!",
+    "lastEdited" : "Fri Sep 06, 2019 3:54 pm"
+  }, {
+    "postId" : "925059",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "925059",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1448",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "We went to South Devon a few weeks back and because of the hills a lot of braking was done which caused the problem I bet.\n<br> This will be a job for the weekend!\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Mon Sep 09, 2019 5:18 pm"
+  } ]
+}

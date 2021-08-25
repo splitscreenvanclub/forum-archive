@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "57116",
+  "title" : "help explaining vin number",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=57116",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "438389",
+    "author" : {
+      "username" : "stcos85",
+      "userId" : "438389",
+      "joined" : "Wed Aug 24, 2005 9:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melbourne",
+      "postCount" : "398",
+      "avatarPath" : null
+    },
+    "content" : "I went to see a 15 window yesterday which has this vin plate attached behind the seat\n<br> \n<img src=\"http://i83.photobucket.com/albums/j298/stcos85/SDC10007.jpg\" class=\"postimage\" alt=\"Image\">\n<br> Can someone confirm that I haven't got this wrong but this plate looks to be for a walk through panel van when what I looked at was a 15 window with a bench seat\n<br> \n<br> If it is a converted panel then it seems to have been done very well\n<br> \n<img src=\"http://i83.photobucket.com/albums/j298/stcos85/15window1.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> How much work is involved in converting a walk through to a bench type seat?\n<br> \n<br> There is also the number stamped in the back to the right of the engine but I couldn't make out the details on the plate at the back. I am going to get the owner to clean that up\n<br> \n<img src=\"http://i83.photobucket.com/albums/j298/stcos85/SDC10013.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://i83.photobucket.com/albums/j298/stcos85/SDC10014.jpg\" class=\"postimage\" alt=\"Image\">[/quote]\n<br> \n<br> Has there been any previous occurences of a van getting the wrong id plates as the numbers all seem to be right or is this just a case of someone converting a panel?",
+    "lastEdited" : "Sat Jul 18, 2009 8:16 pm"
+  }, {
+    "postId" : "438471",
+    "author" : {
+      "username" : "stcos85",
+      "userId" : "438471",
+      "joined" : "Wed Aug 24, 2005 9:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melbourne",
+      "postCount" : "398",
+      "avatarPath" : null
+    },
+    "content" : "seen some more pics now and the chassis numbers match on all the plates. It seems its the M code info that is the issue and not the chassis number\n<br> \n<br> Has anyone heard of this bfeore?",
+    "lastEdited" : "Sun Jul 19, 2009 8:56 am"
+  } ]
+}

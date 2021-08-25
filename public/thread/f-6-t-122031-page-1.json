@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "122031",
+  "title" : "Weber 36 carbs with a 1776cc Engine",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122031",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=0f0e63cabd00b06fe9e500c28e69043c",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "913436",
+    "author" : {
+      "username" : "gazmate",
+      "userId" : "913436",
+      "joined" : "Sat Jul 29, 2006 3:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "hastings england",
+      "postCount" : "462",
+      "avatarPath" : null
+    },
+    "content" : "Hi there I have a 1776cc engine as a back up engine for my 64 bus \n<br> \n<br> Engine is basically stock, but taken out to 1776cc \n<br> \n<br> I have got hold of a pair of second hand 36 idf's which i have chucked on. \n<br> \n<br> carbs are: \n<br> &gt;Italian Made \n<br> &gt;Stamped \"36 IDF44 9H\" \n<br> \n<br> Settings \n<br> &gt;Tubes F50 \n<br> &gt;Main Jets 135 \n<br> &gt;Air correction jet 220 \n<br> &gt;Idle Jets 52 \n<br> &gt;venturis 30 \n<br> \n<br> \n<br> Just wondering if any one has set 36 IDF's up for a mild 1776 before and what setup/jets you have used? \n<br> \n<br> Any help/suggestions welcome \n<br> \n<br> Gary \n<img class=\"smilies\" src=\"./images/smilies/icon_compress.gif\" width=\"15\" height=\"15\" alt=\":compress:\" title=\"compress\"> \n<br> \n<br> \n<img src=\"https://www.thesamba.com/vw/gallery/pix/1789465.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"https://www.thesamba.com/vw/gallery/pix/1789464.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"https://www.thesamba.com/vw/gallery/pix/1789463.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sun Jun 10, 2018 4:19 pm"
+  }, {
+    "postId" : "913471",
+    "author" : {
+      "username" : "henk",
+      "userId" : "913471",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "272",
+      "avatarPath" : null
+    },
+    "content" : "What is the rest of the engine?\n<br> Valves,cam,...\n<br> I would sure change the tubes to F11 or maybe F7.\n<br> Air maybe a bit high,but think you have a starting point.\n<br> \n<br> Henk!!!",
+    "lastEdited" : "Mon Jun 11, 2018 10:23 am"
+  } ]
+}

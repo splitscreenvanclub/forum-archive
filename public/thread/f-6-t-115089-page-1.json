@@ -1,0 +1,24 @@
+{
+  "forumId" : "6",
+  "threadId" : "115089",
+  "title" : "Battery help please",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115089",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867940",
+    "author" : {
+      "username" : "ally5443",
+      "userId" : "867940",
+      "joined" : "Mon Mar 15, 2010 4:30 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Glasgow",
+      "postCount" : "258",
+      "avatarPath" : "./download/file.php%3Favatar=34047_1336074993.jpg"
+    },
+    "content" : "Had the engine out over the winter and put everything back in, started the bus briefly, then when trying to start it seems like battery not enough juice to turn it over, charged up same thing, put metre on battery and reading 12.6v, have I wired something wrong? only wires I could have mixed is the oil switch and the other black to the coil???.",
+    "lastEdited" : "Thu Mar 17, 2016 5:55 pm"
+  } ]
+}

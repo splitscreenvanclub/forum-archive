@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "116842",
+  "title" : "Starter Motor problem?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=116842",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=42ed8554981b05aec7f5ca3c9484821d",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "880175",
+    "author" : {
+      "username" : "Barney75",
+      "userId" : "880175",
+      "joined" : "Wed Aug 26, 2015 12:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "69",
+      "avatarPath" : "./download/file.php%3Favatar=40725_1455986793.jpg"
+    },
+    "content" : "Hi, would really appreciate some advice.\n<br> \n<br> Went for a drive this morning, all fine, then after having been parked up for about 5 minutes, went to re-start, nothing. All the lights were on, fuel pump was on, but no crank. Battery was fully charged.\n<br> \n<br> RAC man came, scratched his head, couldn't get it to work, so, we did a bump start. \n<br> \n<br> I've got the van home now and since then, tried starting again, and it's back working perfectly.\n<br> \n<br> Any ideas, is this just a random one off, or something more sinister? Should I be considering a new starter motor?\n<br> \n<br> Engine is a twin carb 1776 with Electronic ignition.",
+    "lastEdited" : "Sun Jul 31, 2016 12:15 pm"
+  }, {
+    "postId" : "880197",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "880197",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "472",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "Have had a similar problem, turned out to be a dry/corroded joint at starter motor. the big lead from battery to starter. when i was under the van and the wife tried the starter the large connector that is held on with a 13mm nut would flash from behind. took it apart cleaned up and all fine.",
+    "lastEdited" : "Sun Jul 31, 2016 6:41 pm"
+  }, {
+    "postId" : "880216",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "880216",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Hi Barney.\n<br> Have a read of my thread here.\n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=111951\" class=\"postlink\">viewtopic.php?f=6&amp;t=111951</a>\n<br> Lots of advice and things to check from everyone.\n<br> My problem turned out to be the starter motor bush needed changing.",
+    "lastEdited" : "Sun Jul 31, 2016 9:07 pm"
+  }, {
+    "postId" : "880262",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "880262",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "769",
+      "avatarPath" : null
+    },
+    "content" : "Mine was a dodgy ignition switch, didn't always make a decent connection when against the sprung position.\n<br> \n<br> Then after a good few months of that it (the ignition switch) went up in smoke.",
+    "lastEdited" : "Mon Aug 01, 2016 5:17 pm"
+  }, {
+    "postId" : "880306",
+    "author" : {
+      "username" : "Barney75",
+      "userId" : "880306",
+      "joined" : "Wed Aug 26, 2015 12:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "69",
+      "avatarPath" : "./download/file.php%3Favatar=40725_1455986793.jpg"
+    },
+    "content" : "Thanks all. It failed again today, whilst I was on a rolling road getting the carbs sorted. This time fixed by hitting the motor with a hammer. Will get it up on a ramp in the next day or so and give everything a good clean. Will get hold of a new motor too as something tells me this one is past its use by date.",
+    "lastEdited" : "Mon Aug 01, 2016 8:35 pm"
+  }, {
+    "postId" : "880341",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "880341",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Don't ditch it if it's an original Bosch.\n<br> Make sure you've checked everything else first.\n<br> If you put and new starter in and the problem is the bush you'll have the same problem.\n<br> Easiest way to get the bush out is to pull the engine.\n<br> But you can try and make a puller and drag it out the starter motor side.\n<br> If you do go for a new starter be careful of the new Chinese ones, Schofields told me that these fail quite a lot more than Bosch - thinner wiring.\n<br> I think autocraft have recon Bosch ones in stock.",
+    "lastEdited" : "Tue Aug 02, 2016 7:30 am"
+  }, {
+    "postId" : "880355",
+    "author" : {
+      "username" : "Barney75",
+      "userId" : "880355",
+      "joined" : "Wed Aug 26, 2015 12:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "69",
+      "avatarPath" : "./download/file.php%3Favatar=40725_1455986793.jpg"
+    },
+    "content" : "Thanks Steve, will try other things first and certainly won't ditch it - I don't know what type it is at the moment.\n<br> \n<br> Daft (?) question, but is there anyway for me to prove that the starter is OK? Reason for asking is that as the fault is intermittent, its going to be really difficult to positively prove that I've solved the problem.\n<br> \n<br> I'm off on my main summer trip in the van in a couple of weeks and would really like to have some confidence before I go that I've got this particular issue sorted.\n<br> \n<br> Barney",
+    "lastEdited" : "Tue Aug 02, 2016 12:22 pm"
+  }, {
+    "postId" : "880364",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "880364",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "There's a section in the Muir book 'How to keep your VW alive\" on starters and testing them. Which I presume you have?\n<br> Have a read of that for a better explanation than I can give.\n<br> If it was me going on holiday in 2 weeks I'd be tempted to just go ahead and order the new starter and get it in there with a new bush.\n<br> (Assuming you've checked all the wires and earth connections mentioned on the other thread\n<br> And they were all fine.)\n<br> If you get it up on a ramp and test the old one and it's fine you can always send the new one back.\n<br> I can still remember waiting in the services at 3am with the family asleep in the back, waiting for someone to help me bump start mine. Not fun.",
+    "lastEdited" : "Tue Aug 02, 2016 1:58 pm"
+  }, {
+    "postId" : "880375",
+    "author" : {
+      "username" : "Barney75",
+      "userId" : "880375",
+      "joined" : "Wed Aug 26, 2015 12:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "69",
+      "avatarPath" : "./download/file.php%3Favatar=40725_1455986793.jpg"
+    },
+    "content" : "Thanks Steve, that's a very polite way of saying RTFM \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";)\" title=\"Wink\">\n<br> \n<br> I now have, and think I know what to do.\n<br> \n<br> Probably going to go ahead a get a replacement starter as well though, just in case.",
+    "lastEdited" : "Tue Aug 02, 2016 4:00 pm"
+  }, {
+    "postId" : "880411",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "880411",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "769",
+      "avatarPath" : null
+    },
+    "content" : "I added a length of cable from the spare terminal on the starter motor, through the bulkhead to near the battery, making sure the end of the cable is insulated. Every time the ignition switch failed to turn the starter motor I opened the engine hatch and touched the new cable to the positive terminal.\n<br> \n<br> At least doing this proved to me the starter was ok as it started every time so I ended up believing it was a voltage drop.\n<br> \n<br> But as per my earlier post the ignition switch finally failed so I'm fairly sure in my case it was the switch.",
+    "lastEdited" : "Tue Aug 02, 2016 8:06 pm"
+  }, {
+    "postId" : "880424",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "880424",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Barney75 wrote:</cite>Thanks Steve, that's a very polite way of saying RTFM \n  <img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";)\" title=\"Wink\">\n  <br> \n  <br> I now have, and think I know what to do.\n  <br> \n  <br> Probably going to go ahead a get a replacement starter as well though, just in case.\n </div>\n</blockquote> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> Not at all, I just thought it was quite hard to describe and I remember there being some good drawings in there!\n<br> Just be careful you don't shower yourself in sparks and bang your head like I did \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Tue Aug 02, 2016 10:38 pm"
+  } ]
+}

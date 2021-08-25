@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "123756",
+  "title" : "MPG",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123756",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=d5767d3d46fbb0acac7a14352d7052cf",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "924400",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "924400",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "391",
+      "avatarPath" : null
+    },
+    "content" : "As I don’t have a fuel gauge and was panic filling at every opportunity on the way to Spa I thought I’d calculate what I was getting. \n<br> \n<br> The engine is a 1776 on twin 40 Weber’s, Engle 100 cam and bugpack exhaust (hopefully soon to be vintage volkshaus but that’s another story \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> ). The engine is around 8 months old and now has 1500 miles on it. \n<br> \n<br> I filled up and drove 92 miles (around 80 motorway at an average 60mph) and then filled up again. 12.39L. \n<br> \n<br> If I’m right that works out at 33.7mpg. Does that sound fair for a 1776? \n<br> \n<br> Thanks!",
+    "lastEdited" : "Sat Aug 17, 2019 7:37 am"
+  }, {
+    "postId" : "924402",
+    "author" : {
+      "username" : "Harry UK",
+      "userId" : "924402",
+      "joined" : "Sun Mar 27, 2011 8:45 am",
+      "profileRank" : "Registered user",
+      "location" : "Newport Shropshire",
+      "postCount" : "16",
+      "avatarPath" : null
+    },
+    "content" : "I have 1600 with twin 34’s and recent IRS conversion with AH gearbox.\n<br> \n<br> I have started trying to use a full tank and remember to take photos each time I fill up. I have three calculations 31 / 24 / 26 the variation is mostly down to how low I ran the tank as I wouldn’t want to spoil a holiday running out. \n<br> \n<br> I’ll start doing the same in our bay which has 1700 type 4 with standard gearbox.",
+    "lastEdited" : "Sat Aug 17, 2019 8:10 am"
+  }, {
+    "postId" : "924403",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "924403",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20102",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=13253&amp;sid=d5767d3d46fbb0acac7a14352d7052cf\">ScottyN</a> wrote: <a href=\"./viewtopic.php?p=924400&amp;sid=d5767d3d46fbb0acac7a14352d7052cf#p924400\" data-post-id=\"924400\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sat Aug 17, 2019 7:37 am\n   </div></cite> As I don’t have a fuel gauge and was panic filling at every opportunity on the way to Spa I thought I’d calculate what I was getting. \n  <br> \n  <br> The engine is a 1776 on twin 40 Weber’s, Engle 100 cam and bugpack exhaust (hopefully soon to be vintage volkshaus but that’s another story \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> ). The engine is around 8 months old and now has 1500 miles on it. \n  <br> \n  <br> I filled up and drove 92 miles (around 80 motorway at an average 60mph) and then filled up again. 12.39L. \n  <br> \n  <br> If I’m right that works out at 33.7mpg. Does that sound fair for a 1776? \n  <br> \n  <br> Thanks! \n </div>\n</blockquote> That's not bad. Long cruises will always be more efficient. \n<br> \n<br> As long as your mileage is accurate, ie not relying on a speedo if the tyres are none standard size, then your maths will be correct",
+    "lastEdited" : "Sat Aug 17, 2019 9:05 am"
+  }, {
+    "postId" : "924536",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "924536",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "391",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Jim. Yes - gps measured mileage so accurate measurements. Better than I was expecting so all good \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Thu Aug 22, 2019 8:26 pm"
+  } ]
+}

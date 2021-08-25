@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "102168",
+  "title" : "somethings up with the fuel",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=102168",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=8a85a0f4d1b5843fce7082aab3bcd5e6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 22,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "779297",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "779297",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "So, started having a few running issues with my engine (1776 and twin 34 ict's). It would start to cough (not quite a backfire), worse on hills. Sometime its would just die. After a while, It would start but it would really struggle. Not all the time though.\n<br> \n<br> Thought its the carbs, so fitted some 36 IDFs but on a run, pretty much the same symptoms.\n<br> \n<br> Is it likely to be the fuel pump. I have noticed that the fuel king I have fitted (set to 3 psi) is barely full - don't recall this being this low before, but to be honest haven't checked before. You can just make out the level at the bottom just below the paper element.\n<br> \n<br> \n<a href=\"http://s266.photobucket.com/user/presland123/media/IMAG0231_zps339c039c.jpg.html\" class=\"postlink\"><img src=\"http://i266.photobucket.com/albums/ii275/presland123/IMAG0231_zps339c039c.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> Before I buy a new pump, thought I would ask for views.",
+    "lastEdited" : "Thu Apr 10, 2014 1:03 pm"
+  }, {
+    "postId" : "779304",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "779304",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "now ive got out about an hour later and the glass jar in the filter is full??",
+    "lastEdited" : "Thu Apr 10, 2014 1:31 pm"
+  }, {
+    "postId" : "779308",
+    "author" : {
+      "username" : "JacksHere",
+      "userId" : "779308",
+      "joined" : "Fri Apr 23, 2010 10:11 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "252",
+      "avatarPath" : null
+    },
+    "content" : "Sounds exactly like stock pump ( pumps diaphragm split or even the pumps pivot pin has worked its way out?)\n<br> \n<br> I've had a blocked fuel line to the pump before, but chances are its the pump. If not, then it's still nice to have a spare at hand for future, and you can check the line from the fuel flow when you replace it.",
+    "lastEdited" : "Thu Apr 10, 2014 2:08 pm"
+  }, {
+    "postId" : "779313",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "779313",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1449",
+      "avatarPath" : null
+    },
+    "content" : "Odd - I have exactly the same symptom with the empty filter when engine is running - but I don't have anything as fancy as a filter king - I just have a crappy translucent plastic inline filter.\n<br> \n<br> I noticed that the filter always looks virtually empty, literally a dribble in the end of it, but when you stop the engine, it slowly (over a few mins) completely fills the filter housing back up with fuel.... I noticed this a few weeks ago,a nd though it very odd at the time.\n<br> \n<br> My bus seems to run ok.... is this a symptom of a poorly fuel pump then?\n<br> If the diagram is split - wouldn't it have lots of fuel in the oil?\n<br> \n<br> Stock pump\\carb 1500SP.",
+    "lastEdited" : "Thu Apr 10, 2014 3:09 pm"
+  }, {
+    "postId" : "779314",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "779314",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "changed the pipe and fuel pump and about the same. \n<br> \n<br> the mixture screw on the r/h carbs don't seem to do much, so whilst engine running remove the plug leads on 1 &amp; 2 and didn't do much to the running. If I removed 3 or 4 stalled the engine.\n<br> \n<br> There is fuel to the r/h carb (good drop of fuel when I pull the throttle) but need to investigate further whats going on (or find a local garage that's good with aircooled engines).\n<br> \n<br> Someone said could be an air leak, any easy way to test as everything seems bolted down to the head fine and new gaskets.",
+    "lastEdited" : "Thu Apr 10, 2014 3:16 pm"
+  }, {
+    "postId" : "779317",
+    "author" : {
+      "username" : "JacksHere",
+      "userId" : "779317",
+      "joined" : "Fri Apr 23, 2010 10:11 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "252",
+      "avatarPath" : null
+    },
+    "content" : "Hopefully someone else will chime in about how filters can appear empty? Maybe a pocket of air? \n<br> As long as the carbs float bowls aren't emptying quicker than the evaporated fuel can find its way up to refill them it wouldn't be noticed or matter?\n<br> \n<br> Re the fuel pump, if I remember right, it has a diaphragm inside, when its damaged the petrol would just leak back into the inlet side of the pump, not into the engine case or over the engine.\n<br> \n<br> \n<br> I read the original post as running out of petrol symptons? Do you have a dirty filter between the tank and the pump?\n<br> \n<br> If its still trying to run on one side of the engine, then I would question the fuel flow to and cleanliness of the other side carb...\n<br> \n<br> \n<br> I'm guessing the right sides float bowl has filled up in the meantime, you need to run around and check it can still squirt fuel when it's started running rough..",
+    "lastEdited" : "Thu Apr 10, 2014 4:39 pm"
+  }, {
+    "postId" : "779591",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "779591",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "replaced dizzy, coil, leads etc and checked a spark at each plug. At idle, seems pretty smooth and when blipping the throttle on the drive again seems to rev fairly smoothly. BUt as soon as I pull off it coughs, pops etc.\n<br> \n<br> The filter king is now full though, so the new pump and pipe from the pump to filter seems to have resolved that issue.\n<br> \n<br> Will now start to check the other lines and the carbs themselves.\n<br> \n<br> Does anyone know anyone around the Peterborough area that's good will carbs and aircooled engines?",
+    "lastEdited" : "Sat Apr 12, 2014 1:34 pm"
+  }, {
+    "postId" : "779592",
+    "author" : {
+      "username" : "Max Last",
+      "userId" : "779592",
+      "joined" : "Fri Dec 26, 2008 7:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Spalding, R b!",
+      "postCount" : "1673",
+      "avatarPath" : null
+    },
+    "content" : "Is the filter higher than the tank? It looks high up in the picture, I assume the pump on the engine is lower so gravity keeps fuel going in until the engine is running.Is the fuel going to the pump before the filter?",
+    "lastEdited" : "Sat Apr 12, 2014 2:06 pm"
+  }, {
+    "postId" : "779602",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "779602",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5514",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "My filter king is in roughly the same place and I have no problems with it. Mine is fitter after the pump. \n<br> \n<br> Shalom, Lee.",
+    "lastEdited" : "Sat Apr 12, 2014 4:36 pm"
+  }, {
+    "postId" : "779720",
+    "author" : {
+      "username" : "Max Last",
+      "userId" : "779720",
+      "joined" : "Fri Dec 26, 2008 7:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Spalding, R b!",
+      "postCount" : "1673",
+      "avatarPath" : null
+    },
+    "content" : "Any joy solving the mystery?",
+    "lastEdited" : "Sun Apr 13, 2014 2:10 pm"
+  }, {
+    "postId" : "779767",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "779767",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "so, played around with mixture and balance. Managed to get up to 60ish and up hills, but still running pretty rough and a few pops and bangs. Now thinking it could be an air leak at the manifold to head. Bolted down tight, but will try to work out if there is a leak somewhere.\n<br> \n<br> heading in the right direction though I think",
+    "lastEdited" : "Sun Apr 13, 2014 7:35 pm"
+  }, {
+    "postId" : "779778",
+    "author" : {
+      "username" : "Phil Hughes",
+      "userId" : "779778",
+      "joined" : "Mon Jun 16, 2008 8:19 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Widnes",
+      "postCount" : "184",
+      "avatarPath" : null
+    },
+    "content" : "[quote=\"presland123\"]So, started having a few running issues with my engine (1776 and twin 34 ict's). It would start to cough (not quite a backfire), worse on hills. Sometime its would just die. After a while, It would start but it would really struggle. Not all the time though.\n<br> \n<br> \n<br> I had a similar fault and was down to rust inside the fuel tank blocking the filter in the tank outlet. Only happend on after about 40 minutes driving.",
+    "lastEdited" : "Sun Apr 13, 2014 8:10 pm"
+  }, {
+    "postId" : "779840",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "779840",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5514",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "^^^ I was thinking the same thing, it deffo sounds like a fuel starvation issue. If you pull the fuel pipe off before it goes into the pump does the fuel trickle out or does it pour out? Let it run out into a fuel can for while to see if it slows down as the gunk in the tank clogs up the filter in the bottom of the tank. \n<br> I'm pretty sure my filter king is always full when the bus is running. SFQ but you've deffo got the pipes the right way round on the filter king? Reason I ask is because when I fitted mine I followed the instructions and the diagram in the box and it was wrong \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> Bus ran like a dog for 5 minutes then wouldn't run. I called eurocarb to check which way the pipes should be and they confirmed that the instructions were wrong and were also wrong in all the other boxes they had. It should be fitted with the vertical pipe as the inlet and the horizontal pipe as the outlet if that makes sense. \n<br> \n<br> Shalom, Lee.",
+    "lastEdited" : "Mon Apr 14, 2014 9:55 am"
+  }, {
+    "postId" : "779860",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "779860",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5536",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>presland123 wrote:</cite> \n  <br> the mixture screw on the r/h carbs don't seem to do much, so whilst engine running remove the plug leads on 1 &amp; 2 and didn't do much to the running. If I removed 3 or 4 stalled the engine.\n  <br> \n </div>\n</blockquote> ^^that there is your problem\n<br> your RHS carb , strip it down , sounds like it has a blockage or something similar...maybe some crap in the bottom of the carb body",
+    "lastEdited" : "Mon Apr 14, 2014 1:55 pm"
+  }, {
+    "postId" : "779901",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "779901",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "cheers all, the 1/2 issue was electrics now running on all 4. The filter king is also full since I changed the pump and one of the pipes.\n<br> \n<br> Now its just popping and banging and still spluttering, but at least running and will run up up to 60ish. Will check for airleaks next",
+    "lastEdited" : "Mon Apr 14, 2014 7:01 pm"
+  } ]
+}

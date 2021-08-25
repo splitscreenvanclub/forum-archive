@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "101747",
+  "title" : "Push button cab door handle mechanism -how's the spring fit?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=101747",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=079b8e0b81439bcad06e02424ee05b57",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "776701",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "776701",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "How does the spring and the lever arm fit together at the bottom of the barrel guys?\n<br> \n<br> Just putting mine back together and can't figure out how the spring goes.\n<br> \n<br> These are the bits I'm referring to:\n<br> \n<img src=\"http://i1118.photobucket.com/albums/k604/UK_Monkey/IMAG0239_zpse0be40b1.jpg\" class=\"postimage\" alt=\"Image\">\n<br> How do they attach to this?\n<br> \n<img src=\"http://i1118.photobucket.com/albums/k604/UK_Monkey/IMAG0238_zpsb60ffd37.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Don't worry, the copper slip was just lightly applied between the handle and the lock case. Not on the lock barrel.",
+    "lastEdited" : "Mon Mar 24, 2014 9:38 pm"
+  }, {
+    "postId" : "776717",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "776717",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2671",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "You need to spring it around the peg on the bit in the handle then put the arm on. \n<br> \n<br> Like this:-\n<br> \n<br> \n<a href=\"http://s1173.photobucket.com/user/5hack/media/For%20Sale/5030D773-7D80-45FD-90C5-A5A93DB3DC58_zpsxnhm2smj.jpg.html\" class=\"postlink\"><img src=\"http://i1173.photobucket.com/albums/r596/5hack/For%20Sale/5030D773-7D80-45FD-90C5-A5A93DB3DC58_zpsxnhm2smj.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> \n<a href=\"http://s1173.photobucket.com/user/5hack/media/For%20Sale/F792F51A-DBB3-4B8A-BBE7-F175D4ED55BD_zpsjik0rgay.jpg.html\" class=\"postlink\"><img src=\"http://i1173.photobucket.com/albums/r596/5hack/For%20Sale/F792F51A-DBB3-4B8A-BBE7-F175D4ED55BD_zpsjik0rgay.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Mon Mar 24, 2014 10:28 pm"
+  }, {
+    "postId" : "776720",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "776720",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "So do the spring ends just go on either side of the tab? So when the key turns left and right, the ends try to push it back to the central position?\n<br> \n<br> Mine are pretty weak and not offering much resistance by the looks of it...",
+    "lastEdited" : "Mon Mar 24, 2014 10:48 pm"
+  }, {
+    "postId" : "776727",
+    "author" : {
+      "username" : "Reuben",
+      "userId" : "776727",
+      "joined" : "Wed Jul 13, 2011 5:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "dan saaf",
+      "postCount" : "197",
+      "avatarPath" : "./download/file.php%3Favatar=35637_1316540768.gif"
+    },
+    "content" : "Yes spring ends go either side of the tab, then screw in latch - end/branch facing towards smaller end of handle",
+    "lastEdited" : "Mon Mar 24, 2014 11:14 pm"
+  }, {
+    "postId" : "776738",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "776738",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "Ok, so I had it correct. The spring just isn't providing much resistance. Probably just old and weak.",
+    "lastEdited" : "Tue Mar 25, 2014 6:19 am"
+  } ]
+}

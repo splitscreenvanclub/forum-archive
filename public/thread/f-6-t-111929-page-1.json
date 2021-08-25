@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "111929",
+  "title" : "GEAR BOX",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111929",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "844707",
+    "author" : {
+      "username" : "sjohn821@aol.com",
+      "userId" : "844707",
+      "joined" : "Sat Jul 04, 2015 8:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "Removed my gear box today, \n<br>can anyone identifie the numbers?\n<br> 44\n<br>113.301.103\n<br> D\n<br>\n<br> 44-2\n<br>\n<br>H9 735 775\n<br>\n<br>113.301 173 B\n<br>\n<br>211 301 211 G\n<br> 2",
+    "lastEdited" : "Fri Aug 07, 2015 8:06 pm"
+  }, {
+    "postId" : "844960",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "844960",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "794",
+      "avatarPath" : null
+    },
+    "content" : "Its the H number that is the important one - that means its a late split 1500 SP Big Nut transmission\n<br>\n<br>Is that what your'e expecting it to be?",
+    "lastEdited" : "Mon Aug 10, 2015 12:11 pm"
+  }, {
+    "postId" : "845020",
+    "author" : {
+      "username" : "sjohn821@aol.com",
+      "userId" : "845020",
+      "joined" : "Sat Jul 04, 2015 8:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "yes, that's correct, thanks for letting me know.\n<br>im not sure whats best to do, \n<br>what are my options on engines attached to this box?\n<br>also brakes, should I keep the rear drum brakes or is it wise to change them to disks?\n<br>john",
+    "lastEdited" : "Mon Aug 10, 2015 8:15 pm"
+  }, {
+    "postId" : "845070",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "845070",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5098",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "any type 1 engine will bolt straight on \n<br>keep the drums, changing to rear discs is a waste of time and money (unless you really have a plan that you think requires them…like circuit racing)",
+    "lastEdited" : "Tue Aug 11, 2015 8:25 am"
+  }, {
+    "postId" : "845155",
+    "author" : {
+      "username" : "sjohn821@aol.com",
+      "userId" : "845155",
+      "joined" : "Sat Jul 04, 2015 8:58 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the back brake advice, Front brakes? Discs with some kind of servo?\n<br>\n<br>For the novice, like me, Type 1? I have not a clue, \n<br>But willing to listen\n<br>I have been reading with interest, and I was thinking of an engine that will be reliable, cruise the motorway at 70mph, and hill climb easily.\n<br>Some are saying Subaru some are say 1700 ect, what's your advice? plus, does this mean I have to change my gear box and axles??",
+    "lastEdited" : "Tue Aug 11, 2015 8:48 pm"
+  } ]
+}

@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "83449",
+  "title" : "Fuel Line",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=83449",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "644444",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "644444",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Can someone give the correct layout of the fuel line from tank to carb. I only have one metal pipe. At the moment running from the Carb I have: Rubber pipe - metal pipe - small amount rubber pipe - filter (one end goes through firewall) rubber pipe to tank. I dont think that is right. \n<br> \n<br> Can and where from can I get the rubber firwall grommet as I dont have one at the mo. Have seen that I can use a bit of rubber pipe for the firewall if i have to.\n<br> \n<br> I take it I need a pipe clamp to stop loss of fuel? Is there a cunning plan to replace the pipe from the tank without it being empty?\n<br> \n<br> If I need more metal pipe sections where can I get some from.\n<br> \n<br> Cheers",
+    "lastEdited" : "Sat Mar 17, 2012 2:09 pm"
+  }, {
+    "postId" : "644959",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "644959",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Anyone point me in the right direction as I'm hoping to do this very soon\n<br> \n<br> Cheers.\n<br> \n<br> Ps I have searched on here and all my books from John Muir to Bentley dont show the route and combination of rubber/metal pipe",
+    "lastEdited" : "Mon Mar 19, 2012 4:35 pm"
+  }, {
+    "postId" : "644974",
+    "author" : {
+      "username" : "Banger",
+      "userId" : "644974",
+      "joined" : "Tue Jul 19, 2011 6:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "242",
+      "avatarPath" : "./download/file.php%3Favatar=35663_1320695493.jpg"
+    },
+    "content" : "First of all, it's imperative you have the correct grade of fuel line - try Volksbolts (are on web and Ebay) - they do a kit that has all the correct clamps and hose you'll need to do the job...\n<br> \n<br> Order is (from tank)\n<br> \n<br> This is assuming stock single carb set up...\n<br> \n<br> Short length - 3 to 4\" then into an inline fuel filter - make sure it's the type that has barbed ends - if you've replaced the tank outlet spigot and filter and cleaned and sealed the tank you might not need the filter...\n<br> \n<br> Rubber hose long enough to go from the filter past/through the three tab clips on the underside of the cargo area\n<br> \n<br> Then a metal pipe all the way through the bulkhead, round the fan housing, passing through the HT cable guide (it's a specific part, don't just order what \"looks\" the right one as somebody may have done \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\"> \n<br> \n<br> After that it's a short run from the pipe with a bit of rubber hose to the fuel pump.\n<br> \n<br> Notes:\n<br> ALWAYS use new correct type and bore of hose and replace it annually\n<br> The steel pipe can be had from VW Heritage but it comes with different bends and is a bit of a cow to unbend cos it's Kunifer ie alloy steel pipe. You could probably get this from a motor factor or compressed air specialist I think it's 5.5mm od\n<br> New correct clamps on all joints\n<br> A P clip can be used on the LH fanhousing screw that the steel pipe will go past\n<br> ALWAYS put a grommet where the pipe passes through the bulkhead - again, Status, Heritage and M7 do the correct bit\n<br> \n<br> Hope this helps",
+    "lastEdited" : "Mon Mar 19, 2012 5:30 pm"
+  }, {
+    "postId" : "644976",
+    "author" : {
+      "username" : "211vanman",
+      "userId" : "644976",
+      "joined" : "Wed Mar 03, 2004 10:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "MidlandSplitBusMeet",
+      "postCount" : "1440",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=464178&amp;start=0\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewto ... 78&amp;start=0</a>",
+    "lastEdited" : "Mon Mar 19, 2012 5:32 pm"
+  }, {
+    "postId" : "644980",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "644980",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "That is superb! I have got the rubber pipe, clips and filter off M7 - They dont do the grommet. Will hunt down more metal pipe as mine isnt long enough to go from near the carb and throgh the firewall.\n<br> \n<br> Cheers",
+    "lastEdited" : "Mon Mar 19, 2012 5:56 pm"
+  }, {
+    "postId" : "645040",
+    "author" : {
+      "username" : "coleman keith",
+      "userId" : "645040",
+      "joined" : "Sun Apr 20, 2003 11:09 am",
+      "profileRank" : "Registered user",
+      "location" : "Bridgwater, Somerset",
+      "postCount" : "1156",
+      "avatarPath" : null
+    },
+    "content" : "Have a look at these shot's showing my all steel fuel lines. Not quite standard but much better than rubber \n<br> \n<br> \n<img src=\"http://i5.photobucket.com/albums/y157/colemankeith/IMAG0108.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://i5.photobucket.com/albums/y157/colemankeith/IMAG0111.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Mon Mar 19, 2012 8:27 pm"
+  }, {
+    "postId" : "645136",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "645136",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Very impressive!\n<br> \n<br> Just checked on WW for the grommet on above link $0.75 for the grommet and $41 for shipping!! Have found the items on the usual sites - had to use google to find them rather than the site specific headings.",
+    "lastEdited" : "Tue Mar 20, 2012 1:48 am"
+  } ]
+}

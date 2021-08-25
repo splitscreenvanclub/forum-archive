@@ -1,0 +1,40 @@
+{
+  "forumId" : "28",
+  "threadId" : "55596",
+  "title" : "stinger 4 ecu",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=55596",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=533bc7eff75ef855ffb5052b59136519",
+    "label" : "BWA"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "425504",
+    "author" : {
+      "username" : "utting30",
+      "userId" : "425504",
+      "joined" : "Wed Jun 25, 2003 4:06 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "360",
+      "avatarPath" : null
+    },
+    "content" : "Getting back next week from ems in states, my stinger 4 that I used to run on my efi samba, we couldn\"t get it to talk to the laptop but ems have reset it and checked it over and its all A1 again and ready to go!!!\n<br> you will need wiring loom and null modem cable but comes with ignitor module.\n<br> First 500 gets it ?",
+    "lastEdited" : "Thu Jun 04, 2009 5:18 am"
+  }, {
+    "postId" : "427500",
+    "author" : {
+      "username" : "utting30",
+      "userId" : "427500",
+      "joined" : "Wed Jun 25, 2003 4:06 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "360",
+      "avatarPath" : null
+    },
+    "content" : "this has just landed from the states and will be available to view/buy at deva this weekend \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Jun 10, 2009 2:52 pm"
+  } ]
+}

@@ -1,0 +1,89 @@
+{
+  "forumId" : "5",
+  "threadId" : "115163",
+  "title" : "HELP! Broken Shock Pin",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115163",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868423",
+    "author" : {
+      "username" : "Colin_15window",
+      "userId" : "868423",
+      "joined" : "Mon Apr 18, 2011 8:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "While changing my front shocks on my 1962 bus the pin on the bottom off side trailing arm snapped off.\n<br>Has anyone got a complete arm with the pin attached for an early bus? Or can you just buy the pin separately? \n<br>If you can help in any way, please ring me on 0121 530 1596\n<br>Thanks Colin",
+    "lastEdited" : "Tue Mar 22, 2016 5:25 pm"
+  }, {
+    "postId" : "868462",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "868462",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1561",
+      "avatarPath" : null
+    },
+    "content" : "You'll need to drill it out and re tap the thread. New studs are available.",
+    "lastEdited" : "Tue Mar 22, 2016 8:52 pm"
+  }, {
+    "postId" : "868470",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "868470",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10322",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Was a thread on here about this recently...",
+    "lastEdited" : "Tue Mar 22, 2016 9:43 pm"
+  }, {
+    "postId" : "868546",
+    "author" : {
+      "username" : "Jonesy",
+      "userId" : "868546",
+      "joined" : "Thu Oct 27, 2005 8:27 pm",
+      "profileRank" : "Registered user",
+      "location" : "www.boatyardbuses.com",
+      "postCount" : "1553",
+      "avatarPath" : "http://i34.photobucket.com/albums/d115/boatyardbuses/boatyard_avatar.gif"
+    },
+    "content" : "Simon has asked me about this Colin. I'll try and find one out for you the weekend and give you a call.\n<br>Cheers,\n<br>Neil",
+    "lastEdited" : "Wed Mar 23, 2016 12:45 pm"
+  }, {
+    "postId" : "868717",
+    "author" : {
+      "username" : "Colin_15window",
+      "userId" : "868717",
+      "joined" : "Mon Apr 18, 2011 8:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "Hi Jonesy\n<br>\n<br>Thank you for your message. If you could help that would be great. If you manage to find one at the weekend give me a call as I am free to come and collect it on Sunday if this suits you.\n<br>Colin",
+    "lastEdited" : "Thu Mar 24, 2016 8:01 pm"
+  }, {
+    "postId" : "868719",
+    "author" : {
+      "username" : "Colin_15window",
+      "userId" : "868719",
+      "joined" : "Mon Apr 18, 2011 8:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "hi flatbed\n<br>Thanks for your reply. Where can I get one of these pins from? Colin",
+    "lastEdited" : "Thu Mar 24, 2016 8:07 pm"
+  } ]
+}

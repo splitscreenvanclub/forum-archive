@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "119330",
+  "title" : "Gear link bushes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119330",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=dc78ba5ece5a6aed26c3b1f766b5d160",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "897768",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "897768",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3260",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "Hi guys.\n<br> \n<br> I'll shortly be having my gearbox out and,after speaking to Paul from Bears, I'm wanting to replace all the bushes.\n<br> \n<br> It seems that there's 2 types of gear linkage set ups - see diagram - mine is the one on the bottom.\n<br> \n<br> I'm going to need the 19 I think.\n<br> \n<br> What's the part number and where can I get it from? Gfs doesn't seem to stock them.\n<br> \n<br> Also I'm pretty sure I've lost the little pin that goes through the ball at the o\n<br> Bottom of the gear stick, any idea where I could get one ?\n<br> \n<br> Apart from a couple of the shuttlecock bushes for three rods, is there anything else I need to make changing gear smoother. \n<br> Thanks\n<br> \n<br> Jason\n<br> \n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1104589.jpg\" class=\"postimage\" alt=\"Image\">[/quote]",
+    "lastEdited" : "Fri May 26, 2017 10:40 am"
+  }, {
+    "postId" : "897781",
+    "author" : {
+      "username" : "mark-s",
+      "userId" : "897781",
+      "joined" : "Mon Sep 26, 2005 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Newcastle, UK",
+      "postCount" : "686",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://www.alanhschofield.com/ourparts/cat_644500-Gear-Linkage-Parts.html\" class=\"postlink\">http://www.alanhschofield.com/ourparts/ ... Parts.html</a>",
+    "lastEdited" : "Fri May 26, 2017 6:28 pm"
+  }, {
+    "postId" : "897808",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "897808",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "19 = 211 711 197 (from chassis # 216 028 112)",
+    "lastEdited" : "Sat May 27, 2017 11:41 am"
+  }, {
+    "postId" : "897964",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "897964",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3260",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>mark-s wrote:</cite>\n  <a href=\"http://www.alanhschofield.com/ourparts/cat_644500-Gear-Linkage-Parts.html\" class=\"postlink\">http://www.alanhschofield.com/ourparts/ ... Parts.html</a>\n </div>\n</blockquote> I was up North today and dropped in on \"Mr Schofield\"\n<br> \n<br> I met Brian who helped me with the parts I needed, and some advice also some directions home to avoid the traffic.\n<br> \n<br> Top bloke and a credit to the company.\n<br> \n<br> Thanks guys.\n<br> \n<br> All the parts I need to get the leaky gearbox and somtimes wonky gear selection sorted, plus some other bits.\n<br> \n<br> Jason",
+    "lastEdited" : "Tue May 30, 2017 9:05 pm"
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "104027",
+  "title" : "Alloy wheel choices what offset do I need?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=104027",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "791244",
+    "author" : {
+      "username" : "rikkisk",
+      "userId" : "791244",
+      "joined" : "Sun Jul 31, 2011 8:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "125",
+      "avatarPath" : null
+    },
+    "content" : "I am trying to choose what alloys to go for. Can someone tell me what off set I need? Got a standard width beam and dropped spindles, I was thinking about SSP Slot Mag or SSP Torque. Will these be ok with regards to rubbing on the arches and what size tyres would you recommend, lower the better. \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Sun Jun 29, 2014 9:22 am"
+  }, {
+    "postId" : "791702",
+    "author" : {
+      "username" : "rikkisk",
+      "userId" : "791702",
+      "joined" : "Sun Jul 31, 2011 8:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "125",
+      "avatarPath" : null
+    },
+    "content" : "Anyone?",
+    "lastEdited" : "Tue Jul 01, 2014 5:21 pm"
+  }, {
+    "postId" : "791708",
+    "author" : {
+      "username" : "scottish splitty",
+      "userId" : "791708",
+      "joined" : "Sun Oct 08, 2006 4:39 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "stirling scotland",
+      "postCount" : "461",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> Most of the SSP alloys (ET20+)will fit okay with your set up.\n<br> The tyre size will make a difference depend on how low you go.if it's just the drop spindles any of the choices below should work.\n<br> On the front 165/50/15 if you want it low,165/65/15 should work if you don't want to go that low.\n<br> I'm sure you can fit just about any profile tyre on the rear with 185 /15 size tyre.\n<br> Hope that helps.. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Jul 01, 2014 6:09 pm"
+  }, {
+    "postId" : "791712",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "791712",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "As above. What you have to remember though is that the lower profile tyre you go for the choppier the ride will be. A 165/50x15 looks the nuts but it does rattle your fillings somewhat \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> Also you don't want to go too low with the profile on the rear or you will be revving the nuts off the engine on motorway cruising speeds. That said, it'd be quick off the line at the traffic light Grand Prix though \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> With your setup I'd probably go for 165/50x15 fronts and 195/60 or 65 X15 rears. \n<br> \n<br> Cheers, Lee",
+    "lastEdited" : "Tue Jul 01, 2014 6:46 pm"
+  }, {
+    "postId" : "791719",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "791719",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "Every bus is different and it'll depend on how well your torsion leaves have aged, what shocks and what state they're in, what brakes you have, the width of the wheels and what tyres you want. But as a general principle I'd get the biggest offset you can as you will be able to have bigger (ie comfier) tyres without rubbing. \n<br> \n<br> Around 40 is a good offset and more common on original wheels, 20 is average for repro wheels, any less than that is low and probably to be avoided with your setup unless you want to narrow your beam. \n<br> \n<br> It's in mm so the difference between eg an ET42 and an ET12 is an inch, so equivalent to a 2\" narrowed beam or a 2 inch narrower wheel.",
+    "lastEdited" : "Tue Jul 01, 2014 7:01 pm"
+  } ]
+}

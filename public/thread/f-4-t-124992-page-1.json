@@ -1,0 +1,66 @@
+{
+  "forumId" : "4",
+  "threadId" : "124992",
+  "title" : "Electrical switches",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124992",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=2588e135c2d5d86cdf22efd8cc7e93de",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931451",
+    "author" : {
+      "username" : "El torro",
+      "userId" : "931451",
+      "joined" : "Thu Aug 10, 2017 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "I have hazard switch hella ,headlamp switch(VW) and 2 speed windscreen wiper switch that has been repaired and tested as working as have others,pm me for photos and prices as I have never mastered loading them on forum,ps hazard switch was fitted to my 66 bus I am assuming original and worked through big relay system",
+    "lastEdited" : "Mon Jul 27, 2020 3:27 pm"
+  }, {
+    "postId" : "931452",
+    "author" : {
+      "username" : "april",
+      "userId" : "931452",
+      "joined" : "Sat Mar 30, 2013 10:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "172",
+      "avatarPath" : null
+    },
+    "content" : "I take the hazard switch please",
+    "lastEdited" : "Mon Jul 27, 2020 6:46 pm"
+  }, {
+    "postId" : "931453",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "931453",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "804",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Sorry, thought I sent this pm earlier\n<br> \n<br> Jim",
+    "lastEdited" : "Mon Jul 27, 2020 7:48 pm"
+  }, {
+    "postId" : "931456",
+    "author" : {
+      "username" : "El torro",
+      "userId" : "931456",
+      "joined" : "Thu Aug 10, 2017 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Hazard switch sold",
+    "lastEdited" : "Mon Jul 27, 2020 10:28 pm"
+  } ]
+}

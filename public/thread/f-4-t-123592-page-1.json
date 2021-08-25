@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "123592",
+  "title" : "Splitscreen bits for sale",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123592",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=a6e670aff32d4ccfb2cbabd7e52085a9",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "923302",
+    "author" : {
+      "username" : "Steve Trott",
+      "userId" : "923302",
+      "joined" : "Sat May 09, 2009 2:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "20",
+      "avatarPath" : null
+    },
+    "content" : "Bits from my 1965 Splittie for sale ; Steering wheel, has cracks in the bakelite, looks as though it was black originally but has been painted white at some stage, works fine but needs a bit of TLC \n<strong class=\"text-strong\">£ 75.00</strong>, Fuel gauge 12v good condition and working £ 35.00 SOLD, Air cooled accessories aluminum dash cup holder / tray £ 25.00 VGC. SOLD If anyone is interested, let me know and I'll send pics, costs include P &amp; P.",
+    "lastEdited" : "Mon Jul 01, 2019 11:03 am"
+  }, {
+    "postId" : "923338",
+    "author" : {
+      "username" : "Steve Trott",
+      "userId" : "923338",
+      "joined" : "Sat May 09, 2009 2:57 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "20",
+      "avatarPath" : null
+    },
+    "content" : "Fuel gauge now sold",
+    "lastEdited" : "Tue Jul 02, 2019 8:55 am"
+  } ]
+}

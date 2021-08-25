@@ -1,0 +1,63 @@
+{
+  "forumId" : "2",
+  "threadId" : "115047",
+  "title" : "Project",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115047",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867678",
+    "author" : {
+      "username" : "Tz55uk",
+      "userId" : "867678",
+      "joined" : "Fri May 29, 2015 9:48 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "7",
+      "avatarPath" : null
+    },
+    "content" : "Hi all I'm still looking for a split project or very similar and very new to all this what are the Brazil ones like as there seems to be a lot on eBay plus iv only got 9 grand lol any help ideas would be great yours andy",
+    "lastEdited" : "Tue Mar 15, 2016 9:36 am"
+  }, {
+    "postId" : "867729",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "867729",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "2026",
+      "avatarPath" : null
+    },
+    "content" : "If you're after a project you may get one for £9k but be prepared to either be a dab hand with a welder and have a few grand for decent spare panels, or spend £10k easily on an average resto.\n<br>\n<br>You won't get a decent splitty done cheaply, you're better off in the long run buying one that's been sorted, but that will be out of your budget by the sound of things.\n<br>\n<br>The trouble is once you start spending it never seems to end...",
+    "lastEdited" : "Tue Mar 15, 2016 8:29 pm"
+  }, {
+    "postId" : "867796",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "867796",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1130",
+      "avatarPath" : "http://www.charity-bolivia.org/vw/DOUGAL.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>JonnyCJ wrote:</cite>The trouble is once you start spending it never seems to end...\n </div>\n</blockquote>\n<br>\n<br>Correction: The trouble is once you start spending it never \n<span class=\"abbc3_strike\" style=\"text-decoration: line-through\">seems to</span> ends...",
+    "lastEdited" : "Wed Mar 16, 2016 1:24 pm"
+  }, {
+    "postId" : "867801",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "867801",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "2026",
+      "avatarPath" : null
+    },
+    "content" : "True - 3 years in and can almost see light at the end of the tunnel.\n<br>\n<br>But I know it's just a train coming the other way.",
+    "lastEdited" : "Wed Mar 16, 2016 2:03 pm"
+  } ]
+}

@@ -1,0 +1,30 @@
+{
+  "forumId" : "48",
+  "threadId" : "121188",
+  "title" : "Original Paint?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=121188",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=8ed23b04e162aca533961f690651a517",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48&sid=8ed23b04e162aca533961f690651a517",
+    "label" : "Canterbury Pitt"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "909322",
+    "author" : {
+      "username" : "PeterJ",
+      "userId" : "909322",
+      "joined" : "Wed Feb 16, 2011 9:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Not sure if it's been covered on here before but a while ago I was doing a bit of research into the paint M codes on my Canterbury Pitt van. They show that it was originally painted, upper and lower, in pearl white. The earliest picture I have is with the van in two tone, sea blue and white. Who knows when the blue was actually added but I wondered if it was common practise to supply vans to the conversion companies in all white then for any additional paint to be added prior to sale.\n<br> \n<br> Thanks.",
+    "lastEdited" : "Fri Feb 16, 2018 12:39 pm"
+  } ]
+}

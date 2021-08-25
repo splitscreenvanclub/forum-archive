@@ -1,0 +1,37 @@
+{
+  "forumId" : "10",
+  "threadId" : "110917",
+  "title" : "SSVC camp out Whitby 12th-14th June",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=110917",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "837928",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "837928",
+      "joined" : "Tue Sep 02, 2003 1:14 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Matlock",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "Club camping weekend at Whitby 12th to 14th June \n<br>Sorry for the short notice, its in the mag but mag is running a little late.\n<br>£8 per unit, ten minute dive from Whitby, toilets, showers and shop on site along with tea rooms selling home made ice cream sold in and around Whitby, pub at the site entrance.\n<br>The address is Beacon Farm Sneaton YO22 5HS \n<br>Just turn up unless you want hook up then book it through me as there are only a few available\n<br>\n<br>Hope you can make it\n<br>Nige.",
+    "lastEdited" : "Wed Jun 10, 2015 6:42 pm"
+  }, {
+    "postId" : "837950",
+    "author" : {
+      "username" : "eddy",
+      "userId" : "837950",
+      "joined" : "Tue Jun 23, 2009 9:25 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "-",
+      "postCount" : "308",
+      "avatarPath" : "./download/file.php%3Favatar=33257_1316296205.jpg"
+    },
+    "content" : "I've already packed the bus, see you there.",
+    "lastEdited" : "Wed Jun 10, 2015 8:33 pm"
+  } ]
+}

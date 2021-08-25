@@ -1,0 +1,66 @@
+{
+  "forumId" : "5",
+  "threadId" : "123167",
+  "title" : "Complete Brazilian beam",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=123167",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=5ef76462b9b1ce19cd21984d2393f29a",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920873",
+    "author" : {
+      "username" : "scottish splitty",
+      "userId" : "920873",
+      "joined" : "Sun Oct 08, 2006 4:39 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "stirling scotland",
+      "postCount" : "461",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> Looking for complete front axle disc to disc for brazilian splitscreen,beam condition unimportant.\n<br> Cash waiting",
+    "lastEdited" : "Sun Mar 24, 2019 6:28 pm"
+  }, {
+    "postId" : "921002",
+    "author" : {
+      "username" : "mattp",
+      "userId" : "921002",
+      "joined" : "Mon Sep 15, 2008 12:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leatherhead, Surrey",
+      "postCount" : "789",
+      "avatarPath" : null
+    },
+    "content" : "Have PM'd you on VZi and have 2 sets. If you want pics send over your number and I'll whatsapp them over",
+    "lastEdited" : "Fri Mar 29, 2019 2:21 pm"
+  }, {
+    "postId" : "923772",
+    "author" : {
+      "username" : "scottish splitty",
+      "userId" : "923772",
+      "joined" : "Sun Oct 08, 2006 4:39 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "stirling scotland",
+      "postCount" : "461",
+      "avatarPath" : null
+    },
+    "content" : "Still looking for Brazilian front beam set up",
+    "lastEdited" : "Sun Jul 21, 2019 7:42 pm"
+  }, {
+    "postId" : "927232",
+    "author" : {
+      "username" : "scottish splitty",
+      "userId" : "927232",
+      "joined" : "Sun Oct 08, 2006 4:39 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "stirling scotland",
+      "postCount" : "461",
+      "avatarPath" : null
+    },
+    "content" : "Still looking for late split beam complete,doesnt need to be brazilian,drum to drum or just beam,leaves and arms,even individual parts.what you got",
+    "lastEdited" : "Thu Jan 02, 2020 6:16 pm"
+  } ]
+}

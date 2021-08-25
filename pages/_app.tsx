@@ -12,7 +12,7 @@ function ForumArchive({ Component, pageProps }) {
           href="https://hubble-live-assets.s3.amazonaws.com/ssvc/theme/icon/1/logo-favion.png"
         />
       </Head>
-      <div className="flex flex-col items-center min-h-screen py-2">
+      <div className="flex flex-col items-center min-h-screen">
         <header className="py-4 w-full mb-8 bg-white border-b border-gray-100">
           <div className="flex mx-auto xl:max-w-screen-xl space-x-8 px-6">
             <div>

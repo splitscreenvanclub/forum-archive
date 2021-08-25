@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "123919",
+  "title" : "Westfalia jalousie Windows",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123919",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=c4df3534bd6ec7889ee28e26f7eba710",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925564",
+    "author" : {
+      "username" : "Rick T",
+      "userId" : "925564",
+      "joined" : "Wed Mar 19, 2014 9:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Barnsley",
+      "postCount" : "666",
+      "avatarPath" : null
+    },
+    "content" : "4 x westfalia jalousie Windows, \n<br> \n<br> All in very good working condition, including fly mesh(2 x fly mesh have small holes) includes brown inner surround, gaskets, no broken glass\n<br> \n<br> Would clean up very nice\n<br> \n<br> Curtain rail in pictures not included\n<br> \n<br> Collection only due to glass, S73, area\n<br> \n<br> Can take more pictures if needed\n<br> \n<br> £600",
+    "lastEdited" : "Tue Sep 24, 2019 5:07 pm"
+  }, {
+    "postId" : "925783",
+    "author" : {
+      "username" : "Rick T",
+      "userId" : "925783",
+      "joined" : "Wed Mar 19, 2014 9:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Barnsley",
+      "postCount" : "666",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39019&amp;sid=c4df3534bd6ec7889ee28e26f7eba710\">Rick T</a> wrote: <a href=\"./viewtopic.php?p=925564&amp;sid=c4df3534bd6ec7889ee28e26f7eba710#p925564\" data-post-id=\"925564\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Tue Sep 24, 2019 5:07 pm\n   </div></cite> 4 x westfalia jalousie Windows, \n  <br> \n  <br> All in very good working condition, including fly mesh(2 x fly mesh have small holes) includes brown inner surround, gaskets, no broken glass\n  <br> \n  <br> Would clean up very nice\n  <br> \n  <br> Curtain rail in pictures not included\n  <br> \n  <br> Collection only due to glass, S73, area\n  <br> \n  <br> Can take more pictures if needed\n  <br> \n  <br> Sold \n </div>\n</blockquote>",
+    "lastEdited" : "Thu Oct 03, 2019 3:49 pm"
+  } ]
+}

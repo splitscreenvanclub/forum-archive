@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "87399",
+  "title" : "009 dizzy timing",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=87399",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=8eea10a2ef6680ef4113a9ff7939c29d",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "673238",
+    "author" : {
+      "username" : "delux 67",
+      "userId" : "673238",
+      "joined" : "Thu Jun 30, 2005 10:36 am",
+      "profileRank" : "SSVC Member",
+      "location" : "manchester",
+      "postCount" : "3807",
+      "avatarPath" : null
+    },
+    "content" : "hopefully someone can help\n<br> \n<br> a friend is having trouble setting his 009 to the correct timing\n<br> \n<br> on his 1600 twinport engine,\n<br> \n<br> cheers Brian",
+    "lastEdited" : "Sun Aug 05, 2012 5:57 pm"
+  }, {
+    "postId" : "673240",
+    "author" : {
+      "username" : "Grant Draper",
+      "userId" : "673240",
+      "joined" : "Tue May 26, 2009 6:34 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Derbyshire",
+      "postCount" : "689",
+      "avatarPath" : "./download/file.php%3Favatar=33163_1271432047.jpg"
+    },
+    "content" : "I have 1776 twin port,with 009, rolling road guy set at 29 degrees, most set around 30.@ 3000 rpm hope this helps\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sun Aug 05, 2012 6:06 pm"
+  }, {
+    "postId" : "673242",
+    "author" : {
+      "username" : "delux 67",
+      "userId" : "673242",
+      "joined" : "Thu Jun 30, 2005 10:36 am",
+      "profileRank" : "SSVC Member",
+      "location" : "manchester",
+      "postCount" : "3807",
+      "avatarPath" : null
+    },
+    "content" : "cheers fella will pass it on",
+    "lastEdited" : "Sun Aug 05, 2012 6:13 pm"
+  }, {
+    "postId" : "673713",
+    "author" : {
+      "username" : "leeco10",
+      "userId" : "673713",
+      "joined" : "Mon Dec 17, 2007 8:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire",
+      "postCount" : "564",
+      "avatarPath" : null
+    },
+    "content" : "If he's still using the standard carb, he'd be better off with vacuum advace dizzy, I ftted a 009 to my twin port beetle in the belief that it would help performance, it didn't, it would either struggle to start, like the battery was flat, then run ok, but with a massive flat spot at about 1200-1500rpm.\n<br> Or if I adjusted the timing it would start first time, run ok till warmed up, then backfire on deceleration.\n<br> 009s work best on dual carbs above 36mm, I'm using a standard carb with twin 34Icts and it runs smooth with no flat spots \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> Brian",
+    "lastEdited" : "Tue Aug 07, 2012 9:22 pm"
+  } ]
+}

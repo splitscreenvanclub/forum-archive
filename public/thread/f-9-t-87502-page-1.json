@@ -1,0 +1,50 @@
+{
+  "forumId" : "9",
+  "threadId" : "87502",
+  "title" : "camping near tatton park",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=87502",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "674029",
+    "author" : {
+      "username" : "littlebing",
+      "userId" : "674029",
+      "joined" : "Fri May 06, 2011 5:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "North yorkshire",
+      "postCount" : "16",
+      "avatarPath" : null
+    },
+    "content" : "hi, Any good camp site's near tatton park for next year's show",
+    "lastEdited" : "Thu Aug 09, 2012 4:47 pm"
+  }, {
+    "postId" : "682323",
+    "author" : {
+      "username" : "Reb",
+      "userId" : "682323",
+      "joined" : "Sun Jan 31, 2010 10:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northern England",
+      "postCount" : "207",
+      "avatarPath" : null
+    },
+    "content" : "Hi, I'm actually currently on a site at the moment called Beech Croft Farm which is between Buxton and Bakewell off the A6 and about 30 miles from Tatton I think.\n<br>Current cost is £12.50 for the van, awning and 2 adults, electric is on a pay as you go basis. You get a card with credit on it and at the end of your stay what you don't use is refunded.\n<br>The site is immaculate and the toilet block is like new.\n<br>\n<br>It's cold and wet at the moment but with free wifi Mrs Reb can watch xfactor while I catch up on the Forum.\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Sun Sep 23, 2012 7:30 pm"
+  }, {
+    "postId" : "682329",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "682329",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "3930",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Best I know is at The Hollies on the a49 near cuddington, its posh! with a restaurant etc, its bout 8 mile away. Near a gastropub called the cabbage hall and alton park race circuit.",
+    "lastEdited" : "Sun Sep 23, 2012 7:39 pm"
+  } ]
+}

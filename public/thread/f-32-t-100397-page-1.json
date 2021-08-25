@@ -1,0 +1,102 @@
+{
+  "forumId" : "32",
+  "threadId" : "100397",
+  "title" : "Emails sit in outbox for ages",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=100397",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "767409",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "767409",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "1577",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "I've noticed that when sending pm's they go to the outbox and then sometimes sit there for ages before actually being sent. Why is this.\n<br>\n<br>There is also no \"resend this message\" feature\n<br>\n<br>Steve",
+    "lastEdited" : "Sun Jan 26, 2014 8:02 pm"
+  }, {
+    "postId" : "767411",
+    "author" : {
+      "username" : "TJW964",
+      "userId" : "767411",
+      "joined" : "Tue Nov 27, 2007 9:59 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Near Ludlow",
+      "postCount" : "1373",
+      "avatarPath" : "./download/file.php%3Favatar=12800_1314382902.jpg"
+    },
+    "content" : "Same for me too.",
+    "lastEdited" : "Sun Jan 26, 2014 8:12 pm"
+  }, {
+    "postId" : "767412",
+    "author" : {
+      "username" : "ziggy",
+      "userId" : "767412",
+      "joined" : "Fri May 04, 2012 6:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfolk",
+      "postCount" : "675",
+      "avatarPath" : "./download/file.php%3Favatar=36575_1369206557.jpg"
+    },
+    "content" : "They sit in the outbox until read by the recipient I believe",
+    "lastEdited" : "Sun Jan 26, 2014 8:16 pm"
+  }, {
+    "postId" : "767416",
+    "author" : {
+      "username" : "Aspro",
+      "userId" : "767416",
+      "joined" : "Tue Oct 23, 2012 7:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "398",
+      "avatarPath" : null
+    },
+    "content" : "Correct. They stay in your outbox till the recipient next logs in and reads them.",
+    "lastEdited" : "Sun Jan 26, 2014 8:30 pm"
+  }, {
+    "postId" : "767423",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "767423",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "1577",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "That's actually not a bad system, once you know how it works!\n<br>\n<br>At least you know that they've been seen, unlike normal email.\n<br>\n<br>I'll stop trying to copy them and resend them now \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br>\n<br>Thanks\n<br>\n<br>Steve",
+    "lastEdited" : "Sun Jan 26, 2014 8:45 pm"
+  }, {
+    "postId" : "786251",
+    "author" : {
+      "username" : "eliotc",
+      "userId" : "786251",
+      "joined" : "Mon May 04, 2009 8:09 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "83",
+      "avatarPath" : "./download/file.php%3Favatar=33079_1401711020.jpg"
+    },
+    "content" : "I have a suggestion about this for the administrators of this site. Can this be made obvious please, so that I and probably every other user doesn't have to search these forums for an answer to this. Something along the lines of a notification saying \"Your email will sit in your Outbox until it has been read by the recipient\". Or better still, for it not to go into your Outbox, but rather into Sent Items. Seems obvious, no?",
+    "lastEdited" : "Mon May 26, 2014 10:09 am"
+  }, {
+    "postId" : "786255",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "786255",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6011",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Sorry this functionality is built into the phpbb forum software. We can't (easily) modify it\n<br>\n<br>Sent from my GT-I9300 using Tapatalk",
+    "lastEdited" : "Mon May 26, 2014 11:01 am"
+  } ]
+}

@@ -1,0 +1,105 @@
+{
+  "forumId" : "2",
+  "threadId" : "119504",
+  "title" : "Help with paint",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=119504",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=24ec3b7289a8d23e5e9aef7aefdff190",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "898842",
+    "author" : {
+      "username" : "13 window pete",
+      "userId" : "898842",
+      "joined" : "Thu Jun 15, 2017 3:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "Hi all i am looking at painting my van (13window bus)\n<br> I dont like the look of 2 pack too plastic looking in my eyes so i been thinking of cellulose whats the views on this as i had most disagree with me also any decent painters in essex thanks pete",
+    "lastEdited" : "Thu Jun 15, 2017 10:23 pm"
+  }, {
+    "postId" : "898858",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "898858",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2857",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "you will regret cellulose, have a look at water based paint it looks less platic than 2k. Having said that i think with 2k its all in the buffing to weater it looks platic or not",
+    "lastEdited" : "Fri Jun 16, 2017 9:25 am"
+  }, {
+    "postId" : "898869",
+    "author" : {
+      "username" : "13 window pete",
+      "userId" : "898869",
+      "joined" : "Thu Jun 15, 2017 3:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "Why regret cellulose?\n<br> I want it to fade",
+    "lastEdited" : "Fri Jun 16, 2017 11:50 am"
+  }, {
+    "postId" : "898872",
+    "author" : {
+      "username" : "malum",
+      "userId" : "898872",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "557",
+      "avatarPath" : null
+    },
+    "content" : "Are you painting it yourself? If so, unless you have breathing kit and a booth you are pretty much limited to cellulose.\n<br> I did mine last year in cellulose and it looks great. It also means that I can redo any dings,scratches and stone chips any time I want so I'm not too worried about actually using a pristine bus.\n<br> 2 pack is much harder and resistant to damage from both knocks and chemicals (including petrol) If I was having someone else do it I'd have 2 pack for those reasons.",
+    "lastEdited" : "Fri Jun 16, 2017 1:00 pm"
+  }, {
+    "postId" : "898874",
+    "author" : {
+      "username" : "susta",
+      "userId" : "898874",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "Speak to Spike, he's in Essex",
+    "lastEdited" : "Fri Jun 16, 2017 1:22 pm"
+  }, {
+    "postId" : "898894",
+    "author" : {
+      "username" : "13 window pete",
+      "userId" : "898894",
+      "joined" : "Thu Jun 15, 2017 3:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "How do i find him?",
+    "lastEdited" : "Sat Jun 17, 2017 5:53 am"
+  }, {
+    "postId" : "898895",
+    "author" : {
+      "username" : "malum",
+      "userId" : "898895",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "557",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"https://www.spikesvintagerestoration.com/home\" class=\"postlink\">https://www.spikesvintagerestoration.com/home</a>\n<br> \n<br> you'll need deep pockets and I expect there's a long waiting list but your bus will look awesome.",
+    "lastEdited" : "Sat Jun 17, 2017 7:44 am"
+  } ]
+}

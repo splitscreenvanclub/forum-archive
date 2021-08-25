@@ -1,0 +1,76 @@
+{
+  "forumId" : "32",
+  "threadId" : "110761",
+  "title" : "Photos and videos",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=110761",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "836980",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "836980",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "Attaching photos and videos has proved impossible for me as it always asks for a number of pixels wide and pixels long. Surely in this day and age photos and videos taken by smart phones should be downloadable onto the site without having to get involved in a third party editing suite",
+    "lastEdited" : "Tue Jun 02, 2015 9:57 am"
+  }, {
+    "postId" : "836981",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "836981",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1813",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Taffy\n<br>\n<br>Please see this thread:-\n<br>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=53&amp;t=110311\">viewtopic.php?f=53&amp;t=110311</a>\n<!-- l -->\n<br>\n<br>We are all aware of the issues and frustrations, I understand that if you use TapaTalk on your smartphone you can post images more easily, alternatively use Photobucket or similar to store your images and simply copy &amp; paste the IMG link into your posts.",
+    "lastEdited" : "Tue Jun 02, 2015 10:03 am"
+  }, {
+    "postId" : "837133",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "837133",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "Apparently I am not authorised to view the link / forum - how do I get authority for this ?",
+    "lastEdited" : "Wed Jun 03, 2015 8:15 am"
+  }, {
+    "postId" : "837135",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "837135",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1813",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Taffy\n<br>\n<br>Sorry that thread is in the members only area, if you are a member take a look at this thread and get your account linked.\n<br>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=32&amp;t=97182\">viewtopic.php?f=32&amp;t=97182</a>\n<!-- l -->\n<br>\n<br>If not there is a new forum coming soon where it will be easier to upload.\n<br>\n<br>Richard",
+    "lastEdited" : "Wed Jun 03, 2015 8:26 am"
+  }, {
+    "postId" : "837328",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "837328",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "I am a member. I'll try and get it linked",
+    "lastEdited" : "Thu Jun 04, 2015 9:00 pm"
+  } ]
+}

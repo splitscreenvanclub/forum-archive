@@ -1,0 +1,24 @@
+{
+  "forumId" : "2",
+  "threadId" : "108144",
+  "title" : "Linking your membership to your forum account",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=108144",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "819204",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "819204",
+      "joined" : "Tue Sep 02, 2003 1:14 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Matlock",
+      "postCount" : "180",
+      "avatarPath" : null
+    },
+    "content" : "The automatic link to be able to access the members area is currently not working.\n<br>If forum users who are paid up members would like their membership linking then please PM me or e mail with your full name, membership number and forum user name and I will link them for you manually.",
+    "lastEdited" : "Thu Jan 29, 2015 12:58 pm"
+  } ]
+}

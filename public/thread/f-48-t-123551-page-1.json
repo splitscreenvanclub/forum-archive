@@ -1,0 +1,82 @@
+{
+  "forumId" : "48",
+  "threadId" : "123551",
+  "title" : "Help with Canterbury Pitt fold down, metal table legs please.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=123551",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=f28b9c20f282a2bca85bdce9a58fe4b3",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48&sid=f28b9c20f282a2bca85bdce9a58fe4b3",
+    "label" : "Canterbury Pitt"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "923090",
+    "author" : {
+      "username" : "PeterJ",
+      "userId" : "923090",
+      "joined" : "Wed Feb 16, 2011 9:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Following the earlier thread re my Canterbury Pitt table restoration – now over three years ago - for a bit of fun I'm thinking of trying to make a set of the short, fold down, metal legs. An internet search came up with pictures showing what they basically look like (tubular metal legs fitted into simple metal brackets) but I wondered if anyone has these on their van's table and could take some more detailed pictures/measurements for me, or could describe/remember how they work. \n<br> \n<br> Among other things, I'm interested in finding out what metal the legs/brackets were made from: all steel or aluminium/steel? What diameter tubing the legs were made out of (I'm guessing half an inch or perhaps a bit more) and how the brackets worked to keep the legs in place when in the horizontal and vertical positions – maybe, just by the width between the top edge of the brackets' sides being slightly narrower than the tubing? Any hidden springs/securing pins? I also wondered if the legs splayed out a little bit from the vertical when folded out, with perhaps the end of the tube resting against a stop?\n<br> \n<br> Thanks very much.",
+    "lastEdited" : "Fri Jun 21, 2019 6:23 pm"
+  }, {
+    "postId" : "923101",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "923101",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15341",
+      "avatarPath" : null
+    },
+    "content" : "I do not have a CP or a table but have these pictures.\n<br> Is this what you are asking about?\n<br> Looks quite crude.\n<br> Angle iron and 5/8\" tubular steel (rusted?) with simple screws to the bottom of the table rolled rivets though flattened tube ends. Inset foot inside tube leg ends. \n<img src=\"//uploads.tapatalk-cdn.com/20190622/9da4bce299bab7fe7f4ac4a24137c841.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20190622/ea0866003fbd06a7eb28cbb52bbab8dd.jpg\" class=\"postimage\" alt=\"Image\">\n<img src=\"//uploads.tapatalk-cdn.com/20190622/5bcb09f96b2a1b8717f84f54ecfe0a5f.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br>",
+    "lastEdited" : "Sat Jun 22, 2019 8:48 am"
+  }, {
+    "postId" : "923109",
+    "author" : {
+      "username" : "PeterJ",
+      "userId" : "923109",
+      "joined" : "Wed Feb 16, 2011 9:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Thanks very much for the photos. Unfortunately no, these aren't the ones I'm interested in. The ones I'm looking for more info on are individual legs (four of, all the same), each made up of simple straight tubing about 12 inches long (sitting inside double, right angled metal brackets). It could well be that these like yours are 5/8” diameter steel so it's useful to see that that's what other tables used.\n<br> \n<br> Thanks again.",
+    "lastEdited" : "Sat Jun 22, 2019 5:19 pm"
+  }, {
+    "postId" : "925051",
+    "author" : {
+      "username" : "PeterJ",
+      "userId" : "925051",
+      "joined" : "Wed Feb 16, 2011 9:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Thought I'd complete this thread with a piccie of the short table legs that I've made. Couldn't find out exactly how the originals might have stayed in place vertically and horizontally, so after making a few different prototypes I went with a friction plus sprung button approach using 16mm (very close to 5/8”) diameter tubing. The bracket corners are rounded off a bit compared to the originals. If anyone could confirm, it would still be good to know how the original ones stayed in place.",
+    "lastEdited" : "Mon Sep 09, 2019 2:48 pm"
+  }, {
+    "postId" : "925054",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925054",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15341",
+      "avatarPath" : null
+    },
+    "content" : "Those look great! I suspect 99.9% of the scene have no idea how they looked!\n<br> Nice for me to be in the majority for a change!",
+    "lastEdited" : "Mon Sep 09, 2019 4:43 pm"
+  } ]
+}

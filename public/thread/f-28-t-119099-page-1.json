@@ -1,0 +1,53 @@
+{
+  "forumId" : "28",
+  "threadId" : "119099",
+  "title" : "What Is Rikki James Engine Spec",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=119099",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28",
+    "label" : "BWA"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "896147",
+    "author" : {
+      "username" : "VeeDubRacing",
+      "userId" : "896147",
+      "joined" : "Sat Sep 06, 2014 4:43 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "5",
+      "avatarPath" : null
+    },
+    "content" : "Just editing a quick video of Rikki going down the strip at Big Bang. He ran a 16.69 @ 82mph\n<br> Can somebody let me know the engine spec, so I can add it to the details.\n<br> Will post link here when done.\n<br> \n<br> Cheers,\n<br> \n<br> Simon\n<br> VeeDubRacing",
+    "lastEdited" : "Tue Apr 25, 2017 8:12 am"
+  }, {
+    "postId" : "896253",
+    "author" : {
+      "username" : "rikki james",
+      "userId" : "896253",
+      "joined" : "Wed Apr 16, 2003 11:15 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "3607",
+      "avatarPath" : null
+    },
+    "content" : "Modified Porsche 914 engine (now 2.6) with 48 IDF's, hooked up to a super tall Porsche 915 gearbox (hence the not so quick times).\n<br> \n<br> Cheers",
+    "lastEdited" : "Wed Apr 26, 2017 12:22 pm"
+  }, {
+    "postId" : "896287",
+    "author" : {
+      "username" : "VeeDubRacing",
+      "userId" : "896287",
+      "joined" : "Sat Sep 06, 2014 4:43 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "5",
+      "avatarPath" : null
+    },
+    "content" : "Cheers for info.\n<br> \n<br> Video now on YouTube - \n<a href=\"https://youtu.be/zk1r-gYCYT4\" class=\"postlink\">https://youtu.be/zk1r-gYCYT4</a>\n<br> \n<br> Will also be on Facebook page shortly.",
+    "lastEdited" : "Wed Apr 26, 2017 6:32 pm"
+  } ]
+}

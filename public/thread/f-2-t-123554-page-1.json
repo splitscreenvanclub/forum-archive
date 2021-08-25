@@ -1,0 +1,27 @@
+{
+  "forumId" : "2",
+  "threadId" : "123554",
+  "title" : "A very nice man !",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123554",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ba52e5fdf4fb1402823ff87efde669b2",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "923113",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "923113",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3071",
+      "avatarPath" : null
+    },
+    "content" : "Took my bus over to Nige Collier to get it finally valued this morning. Had a very pleasant drive to Nige’s place in the beautiful Peak District and was extremely impressed with the thoroughness he applied to valuing the bus.\n<br> \n<br> This really is an in depth service provided by SSVC and much appreciated.\n<br> \n<br> Thanks Nige - a true gent and a pleasure to meet you.\n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Sat Jun 22, 2019 8:03 pm"
+  } ]
+}

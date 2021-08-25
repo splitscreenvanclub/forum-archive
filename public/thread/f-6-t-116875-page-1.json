@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "116875",
+  "title" : "Erratic speedo dial",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=116875",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=d7913c1c1cb034fb2e527e4856d603c7",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "880414",
+    "author" : {
+      "username" : "skipps",
+      "userId" : "880414",
+      "joined" : "Mon Oct 02, 2006 9:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new barn kent",
+      "postCount" : "422",
+      "avatarPath" : null
+    },
+    "content" : "Hi all my speedo pointer has started to go all funny it's very erattic from about 30 mph to about 60 mph its at its worst, I have disconnected it from the speedo all feels fine and checked the front near side wheel found the split pln almost broken so replaced it, put cable back into speedo Went for a drive still no better , so before I get a new cable any ldea's\n<br> Cheers skipps",
+    "lastEdited" : "Tue Aug 02, 2016 8:25 pm"
+  }, {
+    "postId" : "880458",
+    "author" : {
+      "username" : "PeterJ",
+      "userId" : "880458",
+      "joined" : "Wed Feb 16, 2011 9:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> You probably would have noticed already but just in case...\n<br> Is the square hole in the grease cap or the square end of the cable rounded off a bit? If either of these, the cable may not be being driven properly especially as the speed increases. A simple and cheap way to check this is to fasten the end of the cable onto the grease cap with a piece of gaffer or similar strong tape.\n<br> \n<br> Hope this helps.\n<br> Peter",
+    "lastEdited" : "Wed Aug 03, 2016 11:50 am"
+  }, {
+    "postId" : "880476",
+    "author" : {
+      "username" : "skipps",
+      "userId" : "880476",
+      "joined" : "Mon Oct 02, 2006 9:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new barn kent",
+      "postCount" : "422",
+      "avatarPath" : null
+    },
+    "content" : "Hi Pete \n<br> well took the van for it's MOT today and the speedo was doing it's dance all the way there, passed it's MOT with no advisories \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">, on the way back home noticed the speedo was back to normal no more dancing so what ever they done when checking under the front end must of corrected the problem and I never mentioned the problem to the tester\n<br> When I did get home I checked the cable and the grease cap hole, no wear on the square hole just a bit of play on the cable so I did stick some duck tape on the cap \n<br> Thanks for the tip ....Dave (skipps)",
+    "lastEdited" : "Wed Aug 03, 2016 7:30 pm"
+  }, {
+    "postId" : "880477",
+    "author" : {
+      "username" : "Manzo",
+      "userId" : "880477",
+      "joined" : "Fri Mar 24, 2006 11:08 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "385",
+      "avatarPath" : "./download/file.php%3Favatar=2211_1484821261.jpg"
+    },
+    "content" : "I had this for a little while then the cable snapped completely. Possibly it's fraying at some point inside the casing and catching, causing it to read erratically. Looks like yours may be on the way out",
+    "lastEdited" : "Wed Aug 03, 2016 7:31 pm"
+  }, {
+    "postId" : "880487",
+    "author" : {
+      "username" : "james309",
+      "userId" : "880487",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "603",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "Normally a worn cable just about to snap. \n<br> \n<br> James",
+    "lastEdited" : "Wed Aug 03, 2016 9:08 pm"
+  } ]
+}

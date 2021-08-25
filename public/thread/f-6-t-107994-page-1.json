@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "107994",
+  "title" : "Carb set up probs",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=107994",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 20,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "818042",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "818042",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5736",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "Im building a 1776,nearly finished. I have a pair of Dells DRLA 36's to go on with a scat linkage,they came with the longblock engine i bought. Engines all built ,went to fit carbs but can't get them to operate correctly with the linkage,its as tho one operates agaisnt the other,am i missing something here?\n<br> Linkage\n<br> \n<img src=\"http://img.photobucket.com/albums/v216/kevsplitty/IMG_20150118_145442_zps321f7ca5.jpg\" class=\"postimage\" alt=\"Image\">\n<br> left carb\n<br> \n<img src=\"http://img.photobucket.com/albums/v216/kevsplitty/IMG_20150118_145414_zpsb620b3ba.jpg\" class=\"postimage\" alt=\"Image\">\n<br> right carb\n<br> \n<img src=\"http://img.photobucket.com/albums/v216/kevsplitty/IMG_20150118_145431_zpse46442d6.jpg\" class=\"postimage\" alt=\"Image\">\n<br> Right hand is fine,operates ok when throttle operated,but left hand to operate that the lever would have to be uppermost therefore the rod won't fit as heater outlet in way? New fan housing needed,one with different position heater outlets? Bit confused as to whats wrong \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Wed Jan 21, 2015 8:58 pm"
+  }, {
+    "postId" : "818077",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "818077",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Kev, is the centre spigot (where the cable and rods connect) up the correct way. If the cable attached to the bottom and the rod connectors at the top but towards the rear it would move in the right way and clear the heater tubes. \n<br> \n<br> Grant",
+    "lastEdited" : "Wed Jan 21, 2015 10:10 pm"
+  }, {
+    "postId" : "818095",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "818095",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5736",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "Think so Grant,cant get it any lower, its more of a fact that the levers on the carbs go in opposite directions,on my 1641 engine i have 34 kadrons,similar linkage &amp; those carbs both levers go same way! I havent altered these new ones at all &amp; fella who i got them off ran them for two years no probs,totally confused. Had a mate look at it at the weekend he could'nt suss it,got another looking tonight. Have spoken to eurocarb they said move lever on rhd carb to 5 oclock position it should work,makes it worse!!!! \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Thu Jan 22, 2015 6:58 am"
+  }, {
+    "postId" : "818101",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "818101",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "ok this is what I meant, remove the top half of the centre mount and refit it with the cable pull at the bottom and the rod connectors at the top but facing rear and about 180 degrees for its present postition. The rods will then work in the correct orientation, I'll search for a pic. \n<br> \n<br> Grant",
+    "lastEdited" : "Thu Jan 22, 2015 7:39 am"
+  }, {
+    "postId" : "818108",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "818108",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Think this shows my description. Note the centre pull compared to yours. \n<br> \n<br> \n<img src=\"http://i1077.photobucket.com/albums/w462/grantddavies/aef030a041215d1a6eccf3b0831885ea.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Grant",
+    "lastEdited" : "Thu Jan 22, 2015 9:32 am"
+  }, {
+    "postId" : "818113",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "818113",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "I would have the left side flipped 180 degrees, not the right…as you may find the rod has clearance issues with the bottom of the alternator \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";-)\" title=\"Wink\">",
+    "lastEdited" : "Thu Jan 22, 2015 10:00 am"
+  }, {
+    "postId" : "818177",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "818177",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5736",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>gazpilot wrote:</cite>Think this shows my description. Note the centre pull compared to yours. \n  <br> \n  <br> \n  <img src=\"http://i1077.photobucket.com/albums/w462/grantddavies/aef030a041215d1a6eccf3b0831885ea.jpg\" class=\"postimage\" alt=\"Image\">\n  <br> \n  <br> Grant\n </div>\n</blockquote> Just tried that but as you look at it the right hand rod hits dynamo so won't work \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Thu Jan 22, 2015 6:47 pm"
+  }, {
+    "postId" : "818179",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "818179",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Doh......get a hex bar mate",
+    "lastEdited" : "Thu Jan 22, 2015 6:50 pm"
+  }, {
+    "postId" : "818183",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "818183",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5736",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "Definately can't have the rods on top as will hit dynamo whatever way i try,don't wanna go hex bar route as i always think this type of linkage is better \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Thu Jan 22, 2015 6:59 pm"
+  }, {
+    "postId" : "818188",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "818188",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>maddison wrote:</cite>I would have the left side flipped 180 degrees, not the right…as you may find the rod has clearance issues with the bottom of the alternator \n  <img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";-)\" title=\"Wink\">\n </div>\n</blockquote>",
+    "lastEdited" : "Thu Jan 22, 2015 7:24 pm"
+  }, {
+    "postId" : "818192",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "818192",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Ok my second guess would be to put the long bar to the left carb and the shorter one to tHe right as that crank will have to be right of the 12 o'clock position to pull the left and push the right. \n<br> \n<br> Maddison, is that what you mean mate. \n<br> \n<br> Grant",
+    "lastEdited" : "Thu Jan 22, 2015 7:33 pm"
+  }, {
+    "postId" : "818203",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "818203",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Forget all my above, something doesn't look right here. Kev, with that L/H carb linkage roasted 180 how much are you fouling the air outlet by. \n<br> \n<br> Grant",
+    "lastEdited" : "Thu Jan 22, 2015 8:02 pm"
+  }, {
+    "postId" : "818225",
+    "author" : {
+      "username" : "Bren Ralls",
+      "userId" : "818225",
+      "joined" : "Mon Sep 12, 2011 6:16 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Deal, Kent.",
+      "postCount" : "1231",
+      "avatarPath" : null
+    },
+    "content" : "had a similar issue with heater pipe outlet clearance but not bar related. only way to get clearance was to alter outlet position, a simple v shape removed. Then a small bit of welding &amp; paint, ok not very og but done the job.",
+    "lastEdited" : "Thu Jan 22, 2015 9:22 pm"
+  }, {
+    "postId" : "818227",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "818227",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "Bronze bits on the carbs...\n<br> \n<br> Left one up.\n<br> Right one down.\n<br> \n<br> \n<br> Simples",
+    "lastEdited" : "Thu Jan 22, 2015 9:25 pm"
+  }, {
+    "postId" : "818232",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "818232",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5736",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Bren Ralls wrote:</cite>had a similar issue with heater pipe outlet clearance but not bar related. only way to get clearance was to alter outlet position, a simple v shape removed. Then a small bit of welding &amp; paint, ok not very og but done the job.\n </div>\n</blockquote> Yep thats what ive come up with,only way its gonna work is alter the left hand outlet,job for weekend \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> Thanks guys for all your help,much appreciated \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Thu Jan 22, 2015 9:44 pm"
+  } ]
+}

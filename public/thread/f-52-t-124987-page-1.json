@@ -1,0 +1,66 @@
+{
+  "forumId" : "52",
+  "threadId" : "124987",
+  "title" : "12v Invertor",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=124987",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=17d8b2558d5233f02b6e2bc7867c7660",
+    "label" : "Non Bus Things For Sale"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931443",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "931443",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1938",
+      "avatarPath" : null
+    },
+    "content" : "Fed up with that noisy genny, get an inverter, \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> Geoff (payment by PayPal please) yours for £30!(posts UK only)",
+    "lastEdited" : "Mon Jul 27, 2020 10:46 am"
+  }, {
+    "postId" : "931446",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "931446",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1938",
+      "avatarPath" : null
+    },
+    "content" : "Inverter",
+    "lastEdited" : "Mon Jul 27, 2020 11:25 am"
+  }, {
+    "postId" : "932176",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "932176",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1938",
+      "avatarPath" : null
+    },
+    "content" : "HUP",
+    "lastEdited" : "Thu Sep 10, 2020 9:39 am"
+  }, {
+    "postId" : "932362",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "932362",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1938",
+      "avatarPath" : null
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> SOLD \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Wed Sep 23, 2020 5:39 pm"
+  } ]
+}

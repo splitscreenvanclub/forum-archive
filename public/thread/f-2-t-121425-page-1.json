@@ -1,0 +1,66 @@
+{
+  "forumId" : "2",
+  "threadId" : "121425",
+  "title" : "Best Finish 4 Oak Panels",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=121425",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=e66d099f4b5c6447ffe1bfcedebd26c8",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "910536",
+    "author" : {
+      "username" : "Pie",
+      "userId" : "910536",
+      "joined" : "Tue Feb 24, 2015 5:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "215",
+      "avatarPath" : null
+    },
+    "content" : "Going for a devonish look, was thinking Danish Oil but Im open to suggestions, Cheers",
+    "lastEdited" : "Sat Mar 24, 2018 8:37 pm"
+  }, {
+    "postId" : "910694",
+    "author" : {
+      "username" : "susta",
+      "userId" : "910694",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "Dont simple, Best option is Osmo hard wax oil let first coat dry, de nib, and then apply second coat and burnish",
+    "lastEdited" : "Tue Mar 27, 2018 4:02 pm"
+  }, {
+    "postId" : "910803",
+    "author" : {
+      "username" : "Pie",
+      "userId" : "910803",
+      "joined" : "Tue Feb 24, 2015 5:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "215",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=910694&amp;sid=e66d099f4b5c6447ffe1bfcedebd26c8#p910694\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=38749&amp;sid=e66d099f4b5c6447ffe1bfcedebd26c8\">susta</a> wrote: <a href=\"./viewtopic.php?p=910694&amp;sid=e66d099f4b5c6447ffe1bfcedebd26c8#p910694\" data-post-id=\"910694\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Tue Mar 27, 2018 4:02 pm</span></cite> Dont simple, Best option is Osmo hard wax oil let first coat dry, de nib, and then apply second coat and burnish \n </div>\n</blockquote> Many thanks, I take it that its just clear?",
+    "lastEdited" : "Thu Mar 29, 2018 12:34 pm"
+  }, {
+    "postId" : "911072",
+    "author" : {
+      "username" : "susta",
+      "userId" : "911072",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "Yep",
+    "lastEdited" : "Fri Apr 06, 2018 1:48 pm"
+  } ]
+}

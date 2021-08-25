@@ -1,0 +1,53 @@
+{
+  "forumId" : "57",
+  "threadId" : "125185",
+  "title" : "Issue 218",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=125185",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=ac87f08dd6282e2ac16ddb3262694fd9",
+    "label" : "Magazine"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932523",
+    "author" : {
+      "username" : "Terry",
+      "userId" : "932523",
+      "joined" : "Sun Apr 27, 2003 2:47 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Silver End, Essex",
+      "postCount" : "1856",
+      "avatarPath" : "./download/file.php%3Favatar=148_1464560012.jpg"
+    },
+    "content" : "Received my magazine today. \n<br> It was long awaited as 217 only had Seedlings birthdays to September and my Granddaughter's birthday is October. My daughter founded the Children's Club (Seedlings) back in 1997 as a teenager. She started the page and packed it full of stuff sent by children in the club, quizzes, puzzles, word searches, jokes, colouring pictures and information about what activities were being arranged at events. Along with this but just as a small part she included a list of children who had birthdays so that they and their parents could see their names in print and feel special. Birthday cards were also sent out. As time has gone by the Seedlings page has become little more than a birthday announcement list. Imagine how I felt when the latest magazine has completely missed listing birthdays that fall in October, November and December.\n<br> \n<br> Amanda's first baby and my first Granddaughter will be one year old this weekend and the club that has been a huge part of our lives have failed to print her birthday best wishes !! I obviously am not the only person that this error will affect as there are lots of children with birthdays in the omitted months \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Sat Oct 03, 2020 11:57 am"
+  }, {
+    "postId" : "932525",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "932525",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "914",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Terry, please accept my apologies, this is an oversight and obviously not done deliberately. \n<br> I can confirm your granddaughter is on the list for a birthday card though.\n<br> Amanda's efforts were very much appreciated, my own kids were young enough to get involved and enjoy the activities she organized.",
+    "lastEdited" : "Sat Oct 03, 2020 3:34 pm"
+  }, {
+    "postId" : "932527",
+    "author" : {
+      "username" : "Terry",
+      "userId" : "932527",
+      "joined" : "Sun Apr 27, 2003 2:47 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Silver End, Essex",
+      "postCount" : "1856",
+      "avatarPath" : "./download/file.php%3Favatar=148_1464560012.jpg"
+    },
+    "content" : "Thank you for your reply. It has just been something I looked forward to (silly really) being able to have a copy of the Seedlings page with Josie's name on it.",
+    "lastEdited" : "Sat Oct 03, 2020 5:01 pm"
+  } ]
+}

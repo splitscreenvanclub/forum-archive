@@ -1,0 +1,53 @@
+{
+  "forumId" : "2",
+  "threadId" : "121729",
+  "title" : "Owatrol anybody tried it",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=121729",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=69dd365fd2253d8225946df81f6cec70",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "911800",
+    "author" : {
+      "username" : "oldspa",
+      "userId" : "911800",
+      "joined" : "Fri Sep 23, 2011 8:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "18",
+      "avatarPath" : null
+    },
+    "content" : "A writer in one of the classic car mags recommended this Owatrol Oil for protecting rusty surfaces that you do not want to paint:\n<br> \n<br> \n<a href=\"https://owatrol.com/en/car-motorbike/all-our-auto-moto-products/7936-owatrol-oil.html\" class=\"postlink\">https://owatrol.com/en/car-motorbike/al ... l-oil.html</a>\n<br> \n<br> The underside of my split is rusty but 100% solid and OG. I do not wish to paint it, just protect it and keep the OG look. Has anybody tried this stuff \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\">",
+    "lastEdited" : "Thu Apr 26, 2018 1:38 pm"
+  }, {
+    "postId" : "911908",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "911908",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Never used it...always gone for Dinitrol, but if you do give it a go will you post some feedback on here and let us know what you think ?\n<br> Cheers\n<br> Nige",
+    "lastEdited" : "Sun Apr 29, 2018 4:01 pm"
+  }, {
+    "postId" : "911965",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "911965",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "769",
+      "avatarPath" : null
+    },
+    "content" : "Never used Owatrol Oil but FWIW I used their Seasonite on fresh cut white cedar decking and it did exactly what they said....",
+    "lastEdited" : "Tue May 01, 2018 8:54 am"
+  } ]
+}

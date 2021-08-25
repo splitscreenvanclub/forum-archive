@@ -1,0 +1,50 @@
+{
+  "forumId" : "6",
+  "threadId" : "111973",
+  "title" : "Clutch and gear problem",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111973",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "844878",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "844878",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "501",
+      "avatarPath" : null
+    },
+    "content" : "Hi everyone, \n<br>\n<br>On the way back from an 80 mile trip, i seem to have developed an issue. I noticed a slight sqeal from the gearbox and then my clutch started to stamp and some times judder on clutch control. Then a little later i started to lose my forth gear, or just couldnt get it in. The coupling looks fine still. \n<br>\n<br>Any ideas of what this could be, do i need a new clutch? New gearbox mounts? What can i look for? \n<br>\n<br>Could they be linked, they seem to hapen together?\n<br>\n<br>Many thanks\n<br>\n<br>Karl",
+    "lastEdited" : "Sun Aug 09, 2015 2:36 pm"
+  }, {
+    "postId" : "844957",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "844957",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "794",
+      "avatarPath" : null
+    },
+    "content" : "Hmmm - sounds like clutch release bearing to me if you can feel it through the pedal.\n<br>\n<br>If the clutch is'nt clearing properly that will give you selection issues - but normally 1st &amp; 2nd are worst for that (lower geared)\n<br>So check your cable too.\n<br>\n<br>I've had my clutch cable 'unwind' itself on long motorway journeys before now - a turn of two of the nut and its fine again.",
+    "lastEdited" : "Mon Aug 10, 2015 12:01 pm"
+  }, {
+    "postId" : "844971",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "844971",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "501",
+      "avatarPath" : null
+    },
+    "content" : "Ill give it a look and update here later. Thank you",
+    "lastEdited" : "Mon Aug 10, 2015 12:57 pm"
+  } ]
+}

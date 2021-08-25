@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "104359",
+  "title" : "Chassis number",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=104359",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=d3d6f7cd3f11db3792033a041b1cc87f",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "793389",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "793389",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "210",
+      "avatarPath" : null
+    },
+    "content" : "I'm looking at van with a view to a purchase. I'm told it is a 62 and imported from Indonesia but can't find the Vin plate. There's a number stamped into the chassis next to the engine - 5090651 - does this make any sense to anyone ? It also has non standard rear lights which are not flat but stick out - any thoughts?",
+    "lastEdited" : "Sat Jul 12, 2014 6:00 pm"
+  }, {
+    "postId" : "793401",
+    "author" : {
+      "username" : "Rob b",
+      "userId" : "793401",
+      "joined" : "Sun Aug 12, 2012 7:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "17",
+      "avatarPath" : null
+    },
+    "content" : "Here's a good site to help you with chassis numbers \n<a href=\"http://www.thesamba.com/vw/archives/info/chassisdating.php\" class=\"postlink\">http://www.thesamba.com/vw/archives/inf ... dating.php</a>\n<br> \n<br> An looking at the numbers you put on your post I'm\n<br> Not sure what they are. There should be a plate in the engine bay an one around the seat bulkhead area \n<br> \n<br> \n<br> Hope that's helps \n<br> \n<br> \n<br> Rob",
+    "lastEdited" : "Sat Jul 12, 2014 8:51 pm"
+  }, {
+    "postId" : "793411",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "793411",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "4045",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "62 will be stamped either side under the tank facing out. Some that were made were ckd and may never have had plates or had panels replaced.",
+    "lastEdited" : "Sat Jul 12, 2014 10:31 pm"
+  } ]
+}

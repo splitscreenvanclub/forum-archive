@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "121423",
+  "title" : "2 seat bench seat with arm rest",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=121423",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=90da4d3518ed85d39693ca5f6466dc9b",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "910525",
+    "author" : {
+      "username" : "Scousey12",
+      "userId" : "910525",
+      "joined" : "Wed Aug 24, 2016 8:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "80",
+      "avatarPath" : null
+    },
+    "content" : "2 seat bench seat with arm rest. Single fixed. Arm rest to the right as it faces the front. Requires new covering though solid and complete. I have no real idea what its worth other than what ive reviewed. Will go for over £1000 from what ive seen. I wouldnt pay that myself. Im sure some guys on here will put me right. Offers welcome. Photo to follow.\n<br> Regards",
+    "lastEdited" : "Sat Mar 24, 2018 4:17 pm"
+  }, {
+    "postId" : "913868",
+    "author" : {
+      "username" : "tggwtb",
+      "userId" : "913868",
+      "joined" : "Fri Jan 20, 2017 3:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "Germany",
+      "postCount" : "13",
+      "avatarPath" : null
+    },
+    "content" : "Hey there, \n<br> can you send me some pictures at \n<a href=\"mailto:tggwtb@gmail.com\">tggwtb@gmail.com</a>. Where is the seat bench located?\n<br> Thanks",
+    "lastEdited" : "Thu Jun 21, 2018 7:19 pm"
+  } ]
+}

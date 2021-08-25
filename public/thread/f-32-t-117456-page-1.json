@@ -1,0 +1,24 @@
+{
+  "forumId" : "32",
+  "threadId" : "117456",
+  "title" : "Icons",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=117456",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "884274",
+    "author" : {
+      "username" : "Scousey12",
+      "userId" : "884274",
+      "joined" : "Wed Aug 24, 2016 8:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br>Can anyone tell me what the icons mean at the side of topics/ posts.\n<br>They are either red or blue..some are scrolling and then some have stars on them. Lastly is there a simple way of checking who ive messaged or do I just have to wait for a reply. The reason im asking is that ive asked others questions and cant recall them all.\n<br>Regards\n<br>Darren.",
+    "lastEdited" : "Sat Sep 24, 2016 7:14 am"
+  } ]
+}

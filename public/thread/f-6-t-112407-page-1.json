@@ -1,0 +1,50 @@
+{
+  "forumId" : "6",
+  "threadId" : "112407",
+  "title" : "clutch pedal free play",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112407",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847794",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "847794",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "718",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br>\n<br>Could someone pls tell me the amount of 'free play' there should be in the clutch pedal on my 64 bus (has a Kennedy stage 1 clutch with lightened 8 dowel flywheel but wouldn't have thought that would make any difference?) before the resistance starts to bite.\n<br>\n<br>Thanks",
+    "lastEdited" : "Thu Sep 03, 2015 8:43 pm"
+  }, {
+    "postId" : "847811",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "847811",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Redditch",
+      "postCount" : "456",
+      "avatarPath" : "http://i35.photobucket.com/albums/d186/grahamdouglas/0569c237-0d92-4795-b3f4-ea8b7af1452b_zpsqrk1envh.jpg"
+    },
+    "content" : "An inch at the pedal",
+    "lastEdited" : "Fri Sep 04, 2015 4:44 am"
+  }, {
+    "postId" : "847827",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "847827",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "718",
+      "avatarPath" : null
+    },
+    "content" : "thanks Dougie",
+    "lastEdited" : "Fri Sep 04, 2015 8:25 am"
+  } ]
+}

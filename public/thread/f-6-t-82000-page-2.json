@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "82000",
+  "title" : "Drag link mod (Raised steering box)",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=82000&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 19,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "635301",
+    "author" : {
+      "username" : "leeco10",
+      "userId" : "635301",
+      "joined" : "Mon Dec 17, 2007 8:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire",
+      "postCount" : "564",
+      "avatarPath" : null
+    },
+    "content" : "Job done \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> Aye you were right enough Jim, It seems I do have a bay pitman arm, so I'll try and source a split one.\n<br> \n<br> \n<img src=\"http://i258.photobucket.com/albums/hh241/leeco10/Bus/CIMG1022.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sun Feb 05, 2012 8:47 pm"
+  }, {
+    "postId" : "635579",
+    "author" : {
+      "username" : "lowbug",
+      "userId" : "635579",
+      "joined" : "Fri Mar 25, 2005 7:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Zummerset.. Land of Cider, Combines & Campers",
+      "postCount" : "1097",
+      "avatarPath" : "./download/file.php%3Favatar=1290_1283543621.jpg"
+    },
+    "content" : "On my beetle my track rods are half beetle half vauxhall Astra welded and braced, passed every time \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Feb 06, 2012 11:54 pm"
+  }, {
+    "postId" : "635637",
+    "author" : {
+      "username" : "dsbus",
+      "userId" : "635637",
+      "joined" : "Wed Mar 08, 2006 11:43 am",
+      "profileRank" : "Registered user",
+      "location" : "Manchester",
+      "postCount" : "1082",
+      "avatarPath" : "./download/file.php%3Favatar=2165_1305217478.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>leeco10 wrote:</cite>Job done \n  <img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> Aye you were right enough Jim, It seems I do have a bay pitman arm, so I'll try and source a split one.\n  <br> \n  <br> \n  <img src=\"http://i258.photobucket.com/albums/hh241/leeco10/Bus/CIMG1022.jpg\" class=\"postimage\" alt=\"Image\">\n </div>\n</blockquote> Job very well done \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> \n<br> Don't think the drag link mod will work as well with the longer splitscreen pitman arm. \n<br> does the shorter bay pitman arm sharpen up the steering????",
+    "lastEdited" : "Tue Feb 07, 2012 10:34 am"
+  }, {
+    "postId" : "635713",
+    "author" : {
+      "username" : "leeco10",
+      "userId" : "635713",
+      "joined" : "Mon Dec 17, 2007 8:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire",
+      "postCount" : "564",
+      "avatarPath" : null
+    },
+    "content" : "They're the same length..............I think \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\"> the only difference is the bay arm has a slight kink on it meaning the drag link sits higher than it would on the split arm, causing it foul the top tube of the beam, oh and the track rod taper is smaller. \n<br> \n<br> This was a previous post thread I had when I had problems mounting the steering damper.\n<br> \n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=69681\" class=\"postlink\">viewtopic.php?f=6&amp;t=69681</a>",
+    "lastEdited" : "Tue Feb 07, 2012 5:41 pm"
+  } ]
+}

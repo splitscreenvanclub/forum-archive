@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "112409",
+  "title" : "IRS using T1 Arms - Track Width?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112409",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847806",
+    "author" : {
+      "username" : "jenkinso",
+      "userId" : "847806",
+      "joined" : "Fri Apr 25, 2003 7:51 am",
+      "profileRank" : "Registered user",
+      "location" : "Wakefield, West Yorkshire",
+      "postCount" : "96",
+      "avatarPath" : null
+    },
+    "content" : "I'm looking to use T1 Beetle Control arms for my IRS conversion. Can anyone let me know what this will do the track width? I've Googled and can't find any specifics. Will it widen or narrow the track and by how many mm? Anyone know for sure?",
+    "lastEdited" : "Thu Sep 03, 2015 10:22 pm"
+  }, {
+    "postId" : "848037",
+    "author" : {
+      "username" : "jenkinso",
+      "userId" : "848037",
+      "joined" : "Fri Apr 25, 2003 7:51 am",
+      "profileRank" : "Registered user",
+      "location" : "Wakefield, West Yorkshire",
+      "postCount" : "96",
+      "avatarPath" : null
+    },
+    "content" : "Anyone?",
+    "lastEdited" : "Sun Sep 06, 2015 11:01 pm"
+  }, {
+    "postId" : "848040",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "848040",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6009",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "What setup do you currently have and what brakes will you use?",
+    "lastEdited" : "Mon Sep 07, 2015 5:30 am"
+  }, {
+    "postId" : "848053",
+    "author" : {
+      "username" : "jenkinso",
+      "userId" : "848053",
+      "joined" : "Fri Apr 25, 2003 7:51 am",
+      "profileRank" : "Registered user",
+      "location" : "Wakefield, West Yorkshire",
+      "postCount" : "96",
+      "avatarPath" : null
+    },
+    "content" : "Good question. I should've included this info in my initial post. I'm currently running a Swing Axle bug setup with long axles and CSP 5x205 drums (the ones which use the later wide brake shoes). I'm wanting to move to IRS and to initially stick with the same brakes but upgrade to the Porsche 944 disk brakes and 5x130 pattern later.\n<br>\n<br>I'm going to use Beetle IRS control arms and am trying to figure out whether there will be an increase in track if I stick with my existing CSP drums.",
+    "lastEdited" : "Mon Sep 07, 2015 9:07 am"
+  } ]
+}

@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "119344",
+  "title" : "How long to heat up ?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119344",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ff359ff38207979a32c3582affae7b2e",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "897848",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "897848",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "How long does it take an engine to get to full operating temp ?\n<br> \n<br> If I leave it in tickover on the drive how long would it normally take ?\n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Sun May 28, 2017 5:36 pm"
+  }, {
+    "postId" : "897946",
+    "author" : {
+      "username" : "susta",
+      "userId" : "897946",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "Don't forget that it is now an offense to leave a vehicle unattended ticking over,",
+    "lastEdited" : "Tue May 30, 2017 4:02 pm"
+  }, {
+    "postId" : "897947",
+    "author" : {
+      "username" : "slippy8v",
+      "userId" : "897947",
+      "joined" : "Wed Aug 10, 2016 9:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "378",
+      "avatarPath" : null
+    },
+    "content" : "long enough for some low life to steal it",
+    "lastEdited" : "Tue May 30, 2017 4:17 pm"
+  }, {
+    "postId" : "897950",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "897950",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1056",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I reckon it takes mine about 5 mins to get up to normal temperature.\n<br> \n<br> It's not a great way to warm the engine up though, especially if you've got an automatic choke. The choke opens up on a stepped gear.\n<br> \n<br> As the choke coil heats up, it unwinds and moves the stepped gear. If you just leave the engine idling, the throttle return spring holds the gear against a notch on the carb and the gear can't move, so the enine stays on full choke as it warms up.\n<br> \n<br> Better to drive it, or at least rev it every few seconds, so the gear frees up and can click round to open the choke up.\n<br> \n<br> Also, if you've got thermostatic flaps, the thermostat opening temperature is designed to match the rate that the automatic choke opens on normal driving.",
+    "lastEdited" : "Tue May 30, 2017 5:18 pm"
+  }, {
+    "postId" : "897991",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "897991",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Got twin Dells, so no choke.\n<br> \n<br> Struggling to get a reading on my oil temp guage. Even leaving for 10 mins it's not moving. Fitted a new VDO gauge and VDO sender, tried the earthing gauge test which shows gauge is good. Signal obviously getting through, but gauge not moving.\n<br> \n<br> Sender is the correct VDO 150 one for a 150 deg gauge so all in theory should be hunky dory. That's why I'm thinking I'm just not getting warm enough on idle.\n<br> \n<br> Can't take it on the road at the mo as need to get cab door gaps sorted and that's a 2 man job. Hopefully that'll get it hot enough.\n<br> \n<br> Got a Save My Bug as a fails safe, but don't like things that don't work when they should !",
+    "lastEdited" : "Wed May 31, 2017 4:09 pm"
+  }, {
+    "postId" : "898028",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "898028",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1449",
+      "avatarPath" : null
+    },
+    "content" : "I think you'll struggle - I can leave mine ticking over for an hour on the drive and it will not move the oil temp gauge - the cooling of the fan is just too efficient - take it for a drive for 20 mins and you'll see it move - but even just tootling around town I'll struggle to raise it up by much - its only once you get on a fast open road you'll see it climb to what I would consider a 'normal' operating temp...\n<br> \n<br> I think your worrying about your worry gauge - hahahaha\n<br> I tested mine by holding it in a rolling boil kettle -took the kettle out to the van - make sure the side of the sender is earthed (lash up a cable from the body of the sender to an good engine earth) and keep the centre 'gauge' wire in place, ign on - hold it in the boiling water - it will shoot up then - also good for checking that 100c in your kettle IS 100c (or close) on your gauge.",
+    "lastEdited" : "Thu Jun 01, 2017 1:42 pm"
+  }, {
+    "postId" : "898070",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "898070",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Brill - thanks Ted. Will try the kettle trick.",
+    "lastEdited" : "Thu Jun 01, 2017 9:14 pm"
+  }, {
+    "postId" : "898131",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "898131",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Ted - you is legend !\n<br> \n<br> Did the cup of hot water trick and it worked perfectly. The worry gauge did as it should and even recorded the correct temperature.\n<br> \n<br> I am now not worried about my worry gauge, which is one less thing to worry about...\n<br> \n<br> Not that I was worried or owt \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\">",
+    "lastEdited" : "Fri Jun 02, 2017 8:49 pm"
+  }, {
+    "postId" : "898140",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "898140",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3157",
+      "avatarPath" : null
+    },
+    "content" : "I've got the same. Mine doesn't move much. When driving it moves a little. I've put it down to my oil cooler doing its job...",
+    "lastEdited" : "Sat Jun 03, 2017 6:37 am"
+  }, {
+    "postId" : "899052",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "899052",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Having done a 2hr trip through mid Wales, up hill and down dale, with Mrs CJ and Little Sam the oil temp gauge didn't go much above 60ish.\n<br> \n<br> That was fully laden and on one of the hottest days of the year.\n<br> \n<br> Gives me some comfort !",
+    "lastEdited" : "Wed Jun 21, 2017 5:30 pm"
+  }, {
+    "postId" : "899422",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "899422",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "What type of sender units are you using and where are they placed?",
+    "lastEdited" : "Thu Jun 29, 2017 5:01 pm"
+  }, {
+    "postId" : "899430",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "899430",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "VDO sender and gauge - no type 3 blanking to tap into I'm afraid so the sender is going into the side of the engine case on an adapter with the oil pressure sender.\n<br> \n<br> It's the correct 150deg sender for the matching VDO gauge.\n<br> \n<br> Not ideal positioning I know, but it's a relative thing, rather than an absolute reading.\n<br> \n<br> I also have a save my bug in the dipstick hole which I would rely on more and that's never flickered. I have tested that it works.\n<br> \n<br> Was thinking of a sump mounted sender for a more accurate reading but they have their own inherent problems.",
+    "lastEdited" : "Thu Jun 29, 2017 9:34 pm"
+  }, {
+    "postId" : "899448",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "899448",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Morning. You won't get anything like an accurate temp reading if you've come off of where the pressure warning sender goes...\n<br> You'd be much better off with one of the VDO dipstick senders. Not cheap I appreciate but one of the most accurate senders I've used when used with a VDO gauge.",
+    "lastEdited" : "Fri Jun 30, 2017 9:27 am"
+  }, {
+    "postId" : "899451",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "899451",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Hadn't heard about those ? Will have a google....\n<br> \n<br> Googled and ordered !\n<br> \n<br> Thanks FB",
+    "lastEdited" : "Fri Jun 30, 2017 11:04 am"
+  }, {
+    "postId" : "899461",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "899461",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Cool. Now just make sure you wire it up the right way round.....it's got 2 spade terminals...one is a brass colour and the other is a bronze colour. Brass goes to earth and bronze to gauge \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> I had about 6\" of wire from the spade connectors and then a little plug connector thingy, scavenged from an old remote control car battery pack so I could disconnect easily for using the dipstick to check the oil. \n<br> You may find you have to give it a little bend/curve to clear the Dynamo/alternator. Measure against the old dipstick to set the level...its adjustable....and give it a little bend above the 'stop'.\n<br> \n<br> Nige",
+    "lastEdited" : "Fri Jun 30, 2017 12:49 pm"
+  } ]
+}

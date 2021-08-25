@@ -1,0 +1,196 @@
+{
+  "forumId" : "6",
+  "threadId" : "119322",
+  "title" : "Speedo/Odometer Not Working - MOT Due",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119322&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=155474617e01c624ec7d49a927337711",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 29,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "898026",
+    "author" : {
+      "username" : "amd",
+      "userId" : "898026",
+      "joined" : "Tue Oct 02, 2012 6:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kent",
+      "postCount" : "157",
+      "avatarPath" : "./download/file.php%3Favatar=37087_1428522717.jpg"
+    },
+    "content" : "Hey Chris, Speedo cable just unscrews from the back of Speedo. Mine was a pain though , but unbolted the shelf &amp; was very easy. Only thing is your cable looks like it goes through your shelf so maybe a bit more awkward .",
+    "lastEdited" : "Thu Jun 01, 2017 1:24 pm"
+  }, {
+    "postId" : "898027",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "898027",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15639",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>amd wrote:</cite>Hey Chris, Speedo cable just unscrews from the back of Speedo. Mine was a pain though , but unbolted the shelf &amp; was very easy. Only thing is your cable looks like it goes through your shelf so maybe a bit more awkward .\n </div>\n</blockquote> Threaded collar ring on the end of the cable engages on the male thread on the speedo case.\n<br> \n<br> The inner cable should then engage in the drive. Check it is screwed tight..\n<br> Looking at the rear of the speedo body turn the ring anti clockwise..\n<br> \n<br> To undo..\n<br> Righty tighty\n<br> Lefty loosey\n<br> \n<br> G",
+    "lastEdited" : "Thu Jun 01, 2017 1:28 pm"
+  }, {
+    "postId" : "898087",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "898087",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "Thanks very much.... I'll give it a go on Sunday hopefully.",
+    "lastEdited" : "Fri Jun 02, 2017 9:17 am"
+  }, {
+    "postId" : "898238",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "898238",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "Took the speedo cable off the back of the speedo and it looked nothing like the cables that you posted Graham, unless I need to remove the collar: -\n<br> \n<br> Sorry for the cr@p photo. \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=21676&amp;sid=155474617e01c624ec7d49a927337711&amp;mode=view\"><img src=\"./download/file.php?id=21676&amp;t=1&amp;sid=155474617e01c624ec7d49a927337711\" class=\"postimage\" alt=\"20170604_192655_resized.jpg\" title=\"20170604_192655_resized.jpg (249.36 KiB) Viewed 2245 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Mon Jun 05, 2017 10:08 am"
+  }, {
+    "postId" : "898245",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "898245",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15639",
+      "avatarPath" : null
+    },
+    "content" : "No the picture I posted was the drive gear inside which was misaligned and chewed the teeth off the gear, Hence non functioning.\n<br> Knackered chewed gear on the left, Replacement undamaged gear on the right!\n<br> \n<br> So from here can you get someone else to check that the brass inner moves when you are driving?\n<br> Does it look as if it would drive the speedometer?\n<br> \n<br> I cannot see the inside of the speedo cable well..\n<br> I will dig out my components to check what I expected to see..",
+    "lastEdited" : "Mon Jun 05, 2017 12:07 pm"
+  }, {
+    "postId" : "898246",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "898246",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15639",
+      "avatarPath" : null
+    },
+    "content" : "The speedo has a female hole in the back in the centre and I expected to see a male square drive inside the speedo cable collar which mates with the female hole to provide the turning action to drive the speedo round.\n<br> So you need to get someone to see if the drive cable inside the speedo cable does in fact turn when you are driving along! \n<br> You could do this by jacking up the front end corner which you showed has the split pinned end of the speedo inner and checking for movement at the speedo end!\n<br> It MAY be sheared! \n<br> Or\n<br> The female may be worn\n<br> Or \n<br> the gear I showed a photo of may be chewed inside the speedo which will need to be repaired..\n<br> Just need to eliminate the obvious with the cable..\n<br> Mine was repaired by Thorsten \n<br> I did a thread showing before and after pictures of my repair..\n<br> G",
+    "lastEdited" : "Mon Jun 05, 2017 12:15 pm"
+  }, {
+    "postId" : "898308",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "898308",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "Ahh... gotcha.\n<br> Will give it another try when I get some spare time.\n<br> It did have a male part in the end of the cable, but that looked a bit rounded, so maybe that is the culprit.\n<br> Thanks Graham.",
+    "lastEdited" : "Tue Jun 06, 2017 6:41 am"
+  }, {
+    "postId" : "898647",
+    "author" : {
+      "username" : "jap",
+      "userId" : "898647",
+      "joined" : "Fri Oct 21, 2005 8:51 am",
+      "profileRank" : "Registered user",
+      "location" : "at home",
+      "postCount" : "92",
+      "avatarPath" : null
+    },
+    "content" : "Just unscrews and slides out (big plastic nut on end of cable that's screwed to the speedo head) while out you could check if cable spins round (it shouldn't freely turn) and get a match and pop it into the back of the speedo and see if it moves when you spin that",
+    "lastEdited" : "Mon Jun 12, 2017 3:13 pm"
+  }, {
+    "postId" : "899531",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "899531",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "To replace a inner on a RHD bus how do you Di it. Thanks \n<br> \n<br> I believe mine has snapped as you can pull it out when you disconnect it from the speedo. I didn't try and remove it all",
+    "lastEdited" : "Sat Jul 01, 2017 9:48 pm"
+  }, {
+    "postId" : "899541",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "899541",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15639",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Starsky2727 wrote:</cite>To replace a inner on a RHD bus how do you Di it. Thanks \n  <br> \n  <br> I believe mine has snapped as you can pull it out when you disconnect it from the speedo. I didn't try and remove it all\n </div>\n</blockquote> Can buy complete speedo cable from machine7 and easily replace the lot.\n<br> Just work out the run and feef the cable through the same holes following the same route.\n<br> If yours has snapped the inner has snagged on the outer somewhere. Best to replace it all.\n<br> G",
+    "lastEdited" : "Sun Jul 02, 2017 6:47 am"
+  }, {
+    "postId" : "899565",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "899565",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Thanks, replaced cable. All working fine after correctly running cable",
+    "lastEdited" : "Mon Jul 03, 2017 5:36 am"
+  }, {
+    "postId" : "899566",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "899566",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15639",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Starsky2727 wrote:</cite>Thanks, replaced cable. All working fine after correctly running cable\n </div>\n</blockquote> Result!\n<br> G",
+    "lastEdited" : "Mon Jul 03, 2017 5:41 am"
+  }, {
+    "postId" : "899629",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "899629",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "My bus is currently in the garage having the king pins sorted \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> \n<br> \n<br> I'm hoping the garage are going to sort the cable issue out at the same time, but if not, I will be purchasing a new cable and giving it a go.",
+    "lastEdited" : "Tue Jul 04, 2017 12:46 pm"
+  }, {
+    "postId" : "923681",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "923681",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=897927&amp;sid=155474617e01c624ec7d49a927337711#p897927\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=40101&amp;sid=155474617e01c624ec7d49a927337711\">Gunnsie</a> wrote: <a href=\"./viewtopic.php?p=897927&amp;sid=155474617e01c624ec7d49a927337711#p897927\" data-post-id=\"897927\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Tue May 30, 2017 6:51 am</span></cite> Hi All,\n  <br> \n  <br> I have finally had time to get the bus out and have a look at the hub and behind the speedo and everything looks fine. I had a fiddle around with the cable behind the speedo and it feels like its attached well...... so I still have no idea why the speedo isn't working. \n  <img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> \n  <br> \n  <br> 20170529_170551_resized.jpg\n  <br> 20170529_170436_resized.jpg\n  <br> 20170529_170620_resized.jpg\n  <br> \n  <br> Anyone else got anymore ideas at all?\n  <br> \n  <br> Cheers. \n </div>\n</blockquote> Does the cable move when you spin the wheel? My cable is slightly worn, so has to put some washers on it. Have a look at keep your vw alive for more info",
+    "lastEdited" : "Wed Jul 17, 2019 1:31 pm"
+  } ]
+}

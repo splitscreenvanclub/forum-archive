@@ -1,0 +1,92 @@
+{
+  "forumId" : "4",
+  "threadId" : "123027",
+  "title" : "Flat four Enkeis for sale until",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123027",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=b395f779a15f80a7d3cfe889ff8db721",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "919916",
+    "author" : {
+      "username" : "russbmx",
+      "userId" : "919916",
+      "joined" : "Thu Sep 17, 2015 9:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "Iv decided to sell my Enkeis. \n<br> All In really good condition (a few bits of lacquer peel)\n<br> Centre caps included.\n<br> Front tyres have done 5 miles and rears a couple of hundred.\n<br> 165 55 15’s on the front and 185 65 15’s on the rear.\n<br> Ideally cash on collection.\n<br> Located In Eastbourne, East Sussex.\n<br> £650 ovno",
+    "lastEdited" : "Sun Feb 17, 2019 5:34 pm"
+  }, {
+    "postId" : "919917",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "919917",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2671",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Price?",
+    "lastEdited" : "Sun Feb 17, 2019 6:44 pm"
+  }, {
+    "postId" : "919919",
+    "author" : {
+      "username" : "russbmx",
+      "userId" : "919919",
+      "joined" : "Thu Sep 17, 2015 9:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=919917&amp;sid=b395f779a15f80a7d3cfe889ff8db721#p919917\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36819&amp;sid=b395f779a15f80a7d3cfe889ff8db721\">8 8US</a> wrote: <a href=\"./viewtopic.php?p=919917&amp;sid=b395f779a15f80a7d3cfe889ff8db721#p919917\" data-post-id=\"919917\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Feb 17, 2019 6:44 pm</span></cite>Price?\n </div>\n</blockquote> Sorry, I copied and pasted the description and didn’t notice I missed that bit \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Sun Feb 17, 2019 7:09 pm"
+  }, {
+    "postId" : "919932",
+    "author" : {
+      "username" : "russbmx",
+      "userId" : "919932",
+      "joined" : "Thu Sep 17, 2015 9:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "A photo of the wheels I was sent when I bought them a few months ago. I’ve driven 5 miles since fitting them",
+    "lastEdited" : "Mon Feb 18, 2019 8:47 pm"
+  }, {
+    "postId" : "920009",
+    "author" : {
+      "username" : "russbmx",
+      "userId" : "920009",
+      "joined" : "Thu Sep 17, 2015 9:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "Can deliver to volksworld",
+    "lastEdited" : "Thu Feb 21, 2019 11:14 pm"
+  }, {
+    "postId" : "920038",
+    "author" : {
+      "username" : "russbmx",
+      "userId" : "920038",
+      "joined" : "Thu Sep 17, 2015 9:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "Open to near offers or px for us spec slash cut bumpers",
+    "lastEdited" : "Sat Feb 23, 2019 12:30 pm"
+  } ]
+}

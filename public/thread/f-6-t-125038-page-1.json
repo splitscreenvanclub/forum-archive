@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "125038",
+  "title" : "Fuel pump pushrod",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125038",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=3a0ab57c7d8a0dc61ff40becfc553227",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931677",
+    "author" : {
+      "username" : "El torro",
+      "userId" : "931677",
+      "joined" : "Thu Aug 10, 2017 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "77",
+      "avatarPath" : null
+    },
+    "content" : "Is this operated by cam on crankshaft or camshaft,on my rebuilt engine it does not seem to move,very strange,going to fit electric pump anyway but just curious",
+    "lastEdited" : "Fri Aug 14, 2020 9:42 am"
+  }, {
+    "postId" : "931683",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "931683",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "914",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Drive comes from the distributor drive shaft. Very odd that it doesn't move as the engine turns over",
+    "lastEdited" : "Fri Aug 14, 2020 2:02 pm"
+  }, {
+    "postId" : "931685",
+    "author" : {
+      "username" : "El torro",
+      "userId" : "931685",
+      "joined" : "Thu Aug 10, 2017 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "77",
+      "avatarPath" : null
+    },
+    "content" : "Yup engine runs,I know the dizzy drive is not in proper location but solved by moving spark plug leads,will try and do pressure test as I have put another fuel pump on",
+    "lastEdited" : "Fri Aug 14, 2020 3:08 pm"
+  }, {
+    "postId" : "931729",
+    "author" : {
+      "username" : "El torro",
+      "userId" : "931729",
+      "joined" : "Thu Aug 10, 2017 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "77",
+      "avatarPath" : null
+    },
+    "content" : "Other fuel pump worked ok, did not realise spinning engine over on starter got push rod going up and down thanks to previous reply about 2 revs of engine equal one pump",
+    "lastEdited" : "Tue Aug 18, 2020 6:53 pm"
+  }, {
+    "postId" : "931733",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "931733",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2667",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=931729&amp;sid=3a0ab57c7d8a0dc61ff40becfc553227#p931729\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=42322&amp;sid=3a0ab57c7d8a0dc61ff40becfc553227\">El torro</a> wrote: <a href=\"./viewtopic.php?p=931729&amp;sid=3a0ab57c7d8a0dc61ff40becfc553227#p931729\" data-post-id=\"931729\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Tue Aug 18, 2020 6:53 pm</span></cite> Other fuel pump worked ok, did not realise spinning engine over on starter got push rod going up and down thanks to previous reply about 2 revs of engine equal one pump \n </div>\n</blockquote> There are two different push rod lengths, 100mm and 108mm, for two different pumps. Do you have the correct one?\n<br> \n<br> \n<a href=\"https://www.heritagepartscentre.com/uk/113127025f-fuel-pump-for-100mm-push-rod-alternator-type.html\" class=\"postlink\">https://www.heritagepartscentre.com/uk/ ... -type.html</a>\n<br> \n<br> \n<a href=\"https://www.heritagepartscentre.com/uk/113127025dr-fuel-pump-for-108mm-push-rod-dynamo-type.html\" class=\"postlink\">https://www.heritagepartscentre.com/uk/ ... -type.html</a>",
+    "lastEdited" : "Wed Aug 19, 2020 10:57 am"
+  }, {
+    "postId" : "931739",
+    "author" : {
+      "username" : "El torro",
+      "userId" : "931739",
+      "joined" : "Thu Aug 10, 2017 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "77",
+      "avatarPath" : null
+    },
+    "content" : "Yes correct length for Dynamo ,I had two spare fuel pumps the Brazil one was knackered but VW one with inspection plate worked fine",
+    "lastEdited" : "Wed Aug 19, 2020 3:30 pm"
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "forumId" : "5",
+  "threadId" : "115231",
+  "title" : "Front bench seat wanted",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115231",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868959",
+    "author" : {
+      "username" : "Lambrettats1",
+      "userId" : "868959",
+      "joined" : "Wed Aug 17, 2011 1:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "stonnall, staffordshire",
+      "postCount" : "150",
+      "avatarPath" : "./download/file.php%3Favatar=35753_1319578442.jpg"
+    },
+    "content" : "Hi, I'm looking to change my 66 front seat 2+1 to a bench seat either an original or new remade Any body out there with one they want to sell? Or if you can tell me of anyone who makes them,Cheers Jon",
+    "lastEdited" : "Sun Mar 27, 2016 10:53 am"
+  }, {
+    "postId" : "868969",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "868969",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "906",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Try Evam Classics in the Netherlands.",
+    "lastEdited" : "Sun Mar 27, 2016 3:02 pm"
+  } ]
+}

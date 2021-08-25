@@ -1,0 +1,53 @@
+{
+  "forumId" : "5",
+  "threadId" : "124747",
+  "title" : "So42 coolbox Or head banger front panel wanted",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124747",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=23ec75ec2d5ff1e673d8484eb4d3730b",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930057",
+    "author" : {
+      "username" : "jxcons",
+      "userId" : "930057",
+      "joined" : "Sun Sep 14, 2008 5:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bournemouth",
+      "postCount" : "29",
+      "avatarPath" : null
+    },
+    "content" : "Does any one have a so42 cool box unit or head banger front wood panel with or without door\n<br> John 07711 930937",
+    "lastEdited" : "Sat May 23, 2020 3:50 pm"
+  }, {
+    "postId" : "930089",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "930089",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "450",
+      "avatarPath" : null
+    },
+    "content" : "Hi mate, nla sell new ice boxes for £500 I think . They look super nice.",
+    "lastEdited" : "Sun May 24, 2020 8:11 pm"
+  }, {
+    "postId" : "930091",
+    "author" : {
+      "username" : "jxcons",
+      "userId" : "930091",
+      "joined" : "Sun Sep 14, 2008 5:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bournemouth",
+      "postCount" : "29",
+      "avatarPath" : null
+    },
+    "content" : "Cheers mate in after og if possible",
+    "lastEdited" : "Mon May 25, 2020 7:00 am"
+  } ]
+}

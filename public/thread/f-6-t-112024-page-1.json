@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "112024",
+  "title" : "Lost 4th gear from beneath gearstick (cab end)",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112024",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "845252",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "845252",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "501",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br>\n<br>I have just started to loose 4th gear and have just had a look under the camper cabin floor at whats happening when i change gear. I have noticed that the ball of the gear stick is jumping out of the cup, hence random 4th gear. It has a quik shift. Is this just a matter of moving the position of the st k slightly from inside the cab?",
+    "lastEdited" : "Wed Aug 12, 2015 3:15 pm"
+  }, {
+    "postId" : "845259",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "845259",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "794",
+      "avatarPath" : null
+    },
+    "content" : "It should have a big cone shaped spring on the gearlever above the ball to prevent this.... do you have this?\n<br>It may just need the stop plate adjusting again, in case its moved...\n<br>See here: \n<a href=\"http://www.vw-resource.com/stop_plate.html\" class=\"postlink\">http://www.vw-resource.com/stop_plate.html</a>",
+    "lastEdited" : "Wed Aug 12, 2015 4:17 pm"
+  }, {
+    "postId" : "845288",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "845288",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "501",
+      "avatarPath" : null
+    },
+    "content" : "the spring cone sits on the inside on top of the stop plate. I just took the quik shift of and when bolted back together it stopped working altogether, guess it needs a different gear stick or put the quik shift back on",
+    "lastEdited" : "Wed Aug 12, 2015 6:04 pm"
+  }, {
+    "postId" : "845422",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "845422",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "501",
+      "avatarPath" : null
+    },
+    "content" : "Fixed it today, i sliced 5mm from the top of the quik shift so the ball sunk deeper in the cup. Its bullet proof now. \n<br>\n<br>Well done me \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Thu Aug 13, 2015 6:23 pm"
+  } ]
+}

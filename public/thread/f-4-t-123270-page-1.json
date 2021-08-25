@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "123270",
+  "title" : "STOP LIGHT (STOP) SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123270",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=ef9b4f823c52ad09cea523916f2690cf",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "921443",
+    "author" : {
+      "username" : "Fixer",
+      "userId" : "921443",
+      "joined" : "Mon Jul 25, 2011 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "575",
+      "avatarPath" : null
+    },
+    "content" : "SOLD",
+    "lastEdited" : "Mon Apr 15, 2019 7:16 pm"
+  }, {
+    "postId" : "921682",
+    "author" : {
+      "username" : "Fixer",
+      "userId" : "921682",
+      "joined" : "Mon Jul 25, 2011 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "575",
+      "avatarPath" : null
+    },
+    "content" : "Yes will be at V/F and S/H",
+    "lastEdited" : "Fri Apr 26, 2019 12:44 pm"
+  }, {
+    "postId" : "922055",
+    "author" : {
+      "username" : "Fixer",
+      "userId" : "922055",
+      "joined" : "Mon Jul 25, 2011 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "575",
+      "avatarPath" : null
+    },
+    "content" : "One now sold still one for sale",
+    "lastEdited" : "Tue May 07, 2019 7:34 pm"
+  } ]
+}

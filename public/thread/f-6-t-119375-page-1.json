@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "119375",
+  "title" : "Re-oil",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119375",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b3c52d0fdd984b5c59a3098f6dd10cb1",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "898094",
+    "author" : {
+      "username" : "Mr mouse",
+      "userId" : "898094",
+      "joined" : "Sun Sep 27, 2015 8:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "3",
+      "avatarPath" : null
+    },
+    "content" : "Hi folks,\n<br> What's the best oil to use in a splitty, I've heard the millers 20/50 is good or is there better?\n<br> thanks Dave.",
+    "lastEdited" : "Fri Jun 02, 2017 1:30 pm"
+  }, {
+    "postId" : "898097",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "898097",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2659",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Take a look at Steve's post, maybe speak to him about the zinc properties?\n<br> \n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=4&amp;t=119094\" class=\"postlink\">viewtopic.php?f=4&amp;t=119094</a>",
+    "lastEdited" : "Fri Jun 02, 2017 1:51 pm"
+  }, {
+    "postId" : "898098",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "898098",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3253",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "I'm sure someone will correct me if I'm wrong but I'm sure I heard,read,was told that 30 is the proper stuff.\n<br> \n<br> The numbers respond the viscosity of the oil. If when it heats up it becomes too thin there won't be enough pressure for the oil pressure switch to work and then the little red light come on in the dash.\n<br> \n<br> If my memory serves me correct it was Steve from Wolfgang International in California that told me this, and he's a pretty knowledge able chap.\n<br> \n<br> Mind you, I'm talking nearly 10 years ago now but I buy 30 and so far so good.\n<br> \n<br> Jason",
+    "lastEdited" : "Fri Jun 02, 2017 2:34 pm"
+  }, {
+    "postId" : "898127",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "898127",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "This is one of those topics that always seems to run and run with lots of different answers.\n<br> I always use Morris Golden Film which is an SAE 30 and this was one of VWs own recommended lubricants from their own literature in the 60s and 70s.\n<br> Search for \"VW air cooled engine oil\" online and there is tons of stuff which will keep you going for hours.\n<br> Good luck!\n<br> DD",
+    "lastEdited" : "Fri Jun 02, 2017 8:03 pm"
+  }, {
+    "postId" : "898141",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "898141",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3157",
+      "avatarPath" : null
+    },
+    "content" : "Hi Dave.\n<br> \n<br> I use the Halso brand.\n<br> \n<br> Paul Miller (Harry Harpics) used it in my new engine that he built for me. Dan Simpson was using it too. That was good enough recommendation for me.\n<br> \n<br> Three weights, depending on your engine and cooling arrangement.\n<br> \n<br> I started stocking it at work a year or so ago. I can post you out some a a fairly decent price if you want....pm me if of interest.\n<br> \n<br> Cheers\n<br> \n<br> Steve",
+    "lastEdited" : "Sat Jun 03, 2017 6:43 am"
+  }, {
+    "postId" : "898372",
+    "author" : {
+      "username" : "seablue67",
+      "userId" : "898372",
+      "joined" : "Mon Mar 29, 2010 7:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "407",
+      "avatarPath" : null
+    },
+    "content" : "The first number i.e. 20W is an indication of it's viscosity when cold (very cold!), the 2nd number is an indication when it's hot, 100deg C +\n<br> \n<br> You don't want it too thin when cold, 10W to 20W is fine.\n<br> \n<br> You want it reasonably thick when hot for old air cooled stuff, so 40 - 60. (30 grades probably fine when they left the factory .... not so much now I would imagine)\n<br> \n<br> There is no real need to go down to XW-30 grades, and zero benefit for mono grades, the polymer in the multi grades will help wear prevention etc and maintain a thicker oil film when cold.\n<br> Racers use thin stuff like 0W-20's etc but it's only in the engine for a short amount of time, personally wouldn't recommend it for an engine designed in the 60's.\n<br> \n<br> Zinc content is only one element of wear prevention, there are many other things in an oil which prevent wear. So choose an oil claiming a decent set of specification (back label), ACEA or API and you'll be fine. Something like ACEA A3/B3 or B4 (Avoid the C category ones as they tend to have lower levels of some of the components that would be good in an air cooled engine)\n<br> \n<a href=\"http://www.oilspecifications.org/acea.php\" class=\"postlink\">http://www.oilspecifications.org/acea.php</a>\n<br> For API specs I would say at least API SL and if you really want a 30 grade oil then avoid SN/SM and stick with SL as there are limits f some of those good things air cooled stuff likes in the 30 grades (for exhaust after treatment compatibility)\n<br> \n<a href=\"http://www.oilspecifications.org/api_eolcs.php\" class=\"postlink\">http://www.oilspecifications.org/api_eolcs.php</a>\n<br> \n<br> My best advice is always go with a reputable manufacture, one of the big oil marketers, Castrol, Shell, Mobil etc etc as they have a lot of reputation to lose if they get something wrong, so are very unlikely to baffle you with Marketing fluff which isn't supportable.\n<br> Or just go with what someone who you respect (and might actually know about oil) recommends...... It's a complicated subject and not any one right answer I'm afraid.\n<br> \n<br> Hope that helps!\n<br> (I work for one of the big 3 oil marketers in a technical role and normally try to resit getting involved in these threads as there are too many \"experts\" already \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" width=\"15\" height=\"15\" alt=\":-)\" title=\"Smile\">, I don't claim to be one by the way!)",
+    "lastEdited" : "Wed Jun 07, 2017 10:54 am"
+  }, {
+    "postId" : "898377",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "898377",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1055",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "The deciding factor for me when choosing Morris Golden Film was their claim that the formulation isn't designed to hold particles in suspension like more modern oils that are designed for full-flow filter systems which clean the debris out of suspension. I'm not running a full-flow filter, so need any crud to settle in the sump so it can get flushed out at the next oil change.\n<br> \n<br> \n<a href=\"https://www.morrislubricants.co.uk/fileuploader/download/download/?d=0&amp;file=custom%2Fupload%2FFile-1458213936.pdf\" class=\"postlink\">https://www.morrislubricants.co.uk/file ... 213936.pdf</a>",
+    "lastEdited" : "Wed Jun 07, 2017 12:18 pm"
+  }, {
+    "postId" : "898463",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "898463",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3533",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Very amusing thread! If you have 24 hours to spare and endless supplies of coffee try doing a search on almost every VW forum worldwide. You will end up feeling like you have just been through the election - bewildered, confused and wishing you had never asked the question. Just stick some engine oil in it mate. Avoid using gearbox oil, castor oil and olive oil and you'll be fine \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";)\" title=\"Wink\">",
+    "lastEdited" : "Fri Jun 09, 2017 1:05 pm"
+  }, {
+    "postId" : "898465",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "898465",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1449",
+      "avatarPath" : null
+    },
+    "content" : "Castrol Classic for me... even comes in a nice retro can \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> \n<br> \n<img src=\"https://www.customandcommercial.com/resizeimg.aspx?file=S28141.jpg&amp;brand=&amp;width=500&amp;maxheight=500\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri Jun 09, 2017 1:28 pm"
+  }, {
+    "postId" : "898470",
+    "author" : {
+      "username" : "seablue67",
+      "userId" : "898470",
+      "joined" : "Mon Mar 29, 2010 7:53 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "407",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>BJ1 wrote:</cite>Very amusing thread! If you have 24 hours to spare and endless supplies of coffee try doing a search on almost every VW forum worldwide. You will end up feeling like you have just been through the election - bewildered, confused and wishing you had never asked the question. Just stick some engine oil in it mate. Avoid using gearbox oil, castor oil and olive oil and you'll be fine \n  <img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";)\" title=\"Wink\">\n </div>\n</blockquote> Exactly! and very well put!\n<br> I shied away from saying anything will be fine .... apart from the ones you mention, but it's true, extremely unlikely that you will notice any difference in our old things.\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> \n<br> Can the moderators instantly lock threads is someone asks this question again, with the auto response of \"google it and enjoy!\"? \n<img class=\"smilies\" src=\"./images/smilies/icon_evil.gif\" width=\"15\" height=\"15\" alt=\":evil:\" title=\"Evil\">",
+    "lastEdited" : "Fri Jun 09, 2017 1:59 pm"
+  }, {
+    "postId" : "898707",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "898707",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3157",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>rusty1962 wrote:</cite>Hi Dave.\n  <br> \n  <br> I use the Halso brand.\n  <br> \n  <br> Paul Miller (Harry Harpics) used it in my new engine that he built for me. Dan Simpson was using it too. That was good enough recommendation for me.\n  <br> \n  <br> Three weights, depending on your engine and cooling arrangement.\n  <br> \n  <br> I started stocking it at work a year or so ago. I can post you out some a a fairly decent price if you want....pm me if of interest.\n  <br> \n  <br> Cheers\n  <br> \n  <br> Steve\n </div>\n</blockquote> Hi Dave\n<br> \n<br> 2 cans of oil duly dispatched!\n<br> \n<br> Thanks for the order.\n<br> \n<br> Steve",
+    "lastEdited" : "Tue Jun 13, 2017 12:21 pm"
+  } ]
+}

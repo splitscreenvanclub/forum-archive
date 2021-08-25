@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "120728",
+  "title" : "Roof section",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=120728",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=4f1a108cf6eed02eb1f461af44762411",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "906431",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "906431",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Roof section removed when fitting a Dormobile roof. \n<br> \n<br> Good metal but a few dents. £50 collection only.\n<br> \n<br> \n<img src=\"http://i64.tinypic.com/jaffrb.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Thu Nov 30, 2017 8:04 am"
+  }, {
+    "postId" : "910590",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "910590",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Bump",
+    "lastEdited" : "Mon Mar 26, 2018 6:03 am"
+  } ]
+}

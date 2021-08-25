@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "121447",
+  "title" : "55-62 Parcel tray",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=121447",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=57ff1a2a3d79a1215a951c9fd2ecac54",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "910634",
+    "author" : {
+      "username" : "malkovitch",
+      "userId" : "910634",
+      "joined" : "Sat Jul 05, 2008 2:11 pm",
+      "profileRank" : "Registered user",
+      "location" : "Portugal",
+      "postCount" : "124",
+      "avatarPath" : null
+    },
+    "content" : "55-62 Parcel tray\n<br> Price: €200",
+    "lastEdited" : "Mon Mar 26, 2018 7:43 pm"
+  }, {
+    "postId" : "910643",
+    "author" : {
+      "username" : "MorecambeandWize",
+      "userId" : "910643",
+      "joined" : "Fri May 08, 2009 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "203",
+      "avatarPath" : null
+    },
+    "content" : "£150?\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Mar 26, 2018 8:06 pm"
+  } ]
+}

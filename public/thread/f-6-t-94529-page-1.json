@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "94529",
+  "title" : "Reduction box Oil",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=94529",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=2a5252e5b1df0bbaee2e61e911905c31",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "724793",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "724793",
+      "joined" : "Mon May 23, 2005 10:30 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Mayrhofen, Austria (but my for sale bits are in the UK)",
+      "postCount" : "1738",
+      "avatarPath" : null
+    },
+    "content" : "I've just been out and done some oil changes on the bus to fill the void left by what looked like a big old leak over winter ....\n<br> \n<br> Left side reduction box, drained, .25ltr in ... easy\n<br> Gear box, drain via the plug at the front of the gearbox (closest to the steering wheel), was pretty furry (should I worry ?), filled it via the side plug till it overflowed (just under 2ltrs)\n<br> Right side reduction box (the one with the biggest leak over winter), drained .... looked at the oil coming out and some of it was real thick black stuff, but some of it looked brand new, like the stuff I'd just put in the gear box, and it kept coming out .... I topped it up with .20ltrs\n<br> \n<br> Is it normal for the gearbox oil to filter down into the reduction box ?\n<br> \n<br> over the winter I've had leaks from what looks like the gearbox and box reduction boxes, have managed to get a mate to sort a ramp for tomorrow, hence filling it today, just wondering if I should be worried about what I've perceived as gearbox oil filtering down ...\n<br> \n<br> Cheers\n<br> \n<br> Nik",
+    "lastEdited" : "Fri May 24, 2013 2:08 pm"
+  }, {
+    "postId" : "724795",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "724795",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20110",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "No that's completely normal to oil to circulate around like that.",
+    "lastEdited" : "Fri May 24, 2013 2:27 pm"
+  }, {
+    "postId" : "724799",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "724799",
+      "joined" : "Mon May 23, 2005 10:30 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Mayrhofen, Austria (but my for sale bits are in the UK)",
+      "postCount" : "1738",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>No that's completely normal to oil to circulate around like that.\n </div>\n</blockquote> Thanks Jim.\n<br> \n<br> Is there an order to do this in then ? Cause if I put .25 in the reduction box and the gearbox is topping that up, could I end up with too much ?",
+    "lastEdited" : "Fri May 24, 2013 2:37 pm"
+  }, {
+    "postId" : "724842",
+    "author" : {
+      "username" : "SSVC Van Register",
+      "userId" : "724842",
+      "joined" : "Thu May 04, 2006 10:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "90",
+      "avatarPath" : "./download/file.php%3Favatar=2355_1351277882.jpg"
+    },
+    "content" : ".25 ltr in each reeduction box, then top up gearbox. Run it for a bit then recheck gearbox level. Job done. Use EP 80w gear oil for the UK climate.\n<br> \n<br> Steve S.",
+    "lastEdited" : "Fri May 24, 2013 6:01 pm"
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "forumId" : "2",
+  "threadId" : "125230",
+  "title" : "Roof rack question",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=125230",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=f31bcd18ad7921d2e77197888fefdd8a",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932758",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "932758",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "727",
+      "avatarPath" : null
+    },
+    "content" : "Hi I've just bought a westy 3 bow rack from Wolfsburg west.\n<br> I've not assembled it yet and just wondered if the just campers cover fits with a roof rack?\n<br> Just thought I'd ask before trying myself.",
+    "lastEdited" : "Sat Oct 17, 2020 9:23 pm"
+  }, {
+    "postId" : "932775",
+    "author" : {
+      "username" : "airkooled72",
+      "userId" : "932775",
+      "joined" : "Sat Mar 04, 2006 8:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "trowbridge",
+      "postCount" : "1079",
+      "avatarPath" : null
+    },
+    "content" : "yeah fitted over my split, snag is with a lot of rain the water sits in the centre of the rack and puts a strain on the cover on the corners of the cover where it fits over the rack.",
+    "lastEdited" : "Sun Oct 18, 2020 8:24 pm"
+  }, {
+    "postId" : "932789",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "932789",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "727",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=932775&amp;sid=f31bcd18ad7921d2e77197888fefdd8a#p932775\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=2150&amp;sid=f31bcd18ad7921d2e77197888fefdd8a\">airkooled72</a> wrote: <a href=\"./viewtopic.php?p=932775&amp;sid=f31bcd18ad7921d2e77197888fefdd8a#p932775\" data-post-id=\"932775\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Oct 18, 2020 8:24 pm</span></cite> yeah fitted over my split, snag is with a lot of rain the water sits in the centre of the rack and puts a strain on the cover on the corners of the cover where it fits over the rack. \n </div>\n</blockquote> Thanks airkooled72, it's under a carport so rain won't be a issue.",
+    "lastEdited" : "Mon Oct 19, 2020 5:31 pm"
+  }, {
+    "postId" : "932790",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "932790",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "727",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=932775&amp;sid=f31bcd18ad7921d2e77197888fefdd8a#p932775\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=2150&amp;sid=f31bcd18ad7921d2e77197888fefdd8a\">airkooled72</a> wrote: <a href=\"./viewtopic.php?p=932775&amp;sid=f31bcd18ad7921d2e77197888fefdd8a#p932775\" data-post-id=\"932775\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Oct 18, 2020 8:24 pm</span></cite> yeah fitted over my split, snag is with a lot of rain the water sits in the centre of the rack and puts a strain on the cover on the corners of the cover where it fits over the rack. \n </div>\n</blockquote> Thanks airkooled72, it's under a carport so rain won't be a issue.",
+    "lastEdited" : "Mon Oct 19, 2020 5:31 pm"
+  }, {
+    "postId" : "932829",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "932829",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5538",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "why fit a cover if it's under a car port ?\n<br> \n<br> it will survice winter better if you wax it and leave it under the car port uncovered \n<br> popping it in a big plastic bag isnt good for condensation etc..and really is a last resort if you dont have a garage or car port\n<br> let it breath, it will last longer \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";-)\" title=\"Wink\">",
+    "lastEdited" : "Thu Oct 22, 2020 7:33 am"
+  } ]
+}

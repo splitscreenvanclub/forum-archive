@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "119322",
+  "title" : "Speedo/Odometer Not Working - MOT Due",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119322",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=785f967e5269576d5a3cbe2c6f663288",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 29,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "897690",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "897690",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "Hi All,\n<br> \n<br> My Speedo and Odometer stopped working a little while back... I've just noticed the Kilometers noted for the MOT last year is the same as what it reads now (I haven't done loads of kilometers this year, possibly 200KMs)... The MOT is due in June... would this be an MOT failure?\n<br> \n<br> Would anyone know what the problem could possibly be and is it easy to fix?\n<br> \n<br> Cheers\n<br> \n<br> Chris",
+    "lastEdited" : "Wed May 24, 2017 8:56 am"
+  }, {
+    "postId" : "897691",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "897691",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15640",
+      "avatarPath" : null
+    },
+    "content" : "Does the Speedometer indicate Speed?\n<br> MOT manual says...\n<br> 6.7 Speedometer\n<br> Information\n<br> This inspection applies to all vehicles first used on or after 01 October 1937.\n<br> \n<br> If the dial glass is cracked, it is not a Reason for Rejection, providing: \n<br> there is no possibility of misreading the speedometer or \n<br> there is no possibility fouling of the indicator needle or \n<br> the cracked glass does not create a safety hazard.\n<br> \n<br> A Tachograph is an acceptable alternative to a speedometer providing it satisfies the requirements of this inspection.\n<br> Method of Inspection\n<br> 1. Check that a speedometer is fitted.\n<br> \n<br> 2. Check the condition of the speedometer.\n<br> \n<br> 3. Check that the speedometer can be illuminated.\n<br> Reason for Rejection\n<br> 1. Speedometer not fitted.\n<br> \n<br> 2. Speedometer incomplete, clearly inoperative or the dial glass broken or missing.\n<br> \n<br> 3. The speedometer cannot be illuminated.",
+    "lastEdited" : "Wed May 24, 2017 9:27 am"
+  }, {
+    "postId" : "897692",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "897692",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "Cheers.\n<br> \n<br> No the speedo doesn't show the speed (I've had to rely on an iPhone App to make sure I didn't go through any cameras at speed).\n<br> The glass is in perfect condition.\n<br> The Tach is easily readable.\n<br> It still illuminates at night.\n<br> \n<br> I think it must just be a case of something has become disconnected somewhere.\n<br> \n<br> Chris",
+    "lastEdited" : "Wed May 24, 2017 9:35 am"
+  }, {
+    "postId" : "897693",
+    "author" : {
+      "username" : "Bally",
+      "userId" : "897693",
+      "joined" : "Thu Mar 09, 2006 3:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melburg",
+      "postCount" : "777",
+      "avatarPath" : null
+    },
+    "content" : "IT could be the cables not working: either snapped or popped out of the drive end. Check the dust cap on one front wheel (cannot remember which) it'll have a square hole in it which should have a speedo cable poking through held in place by a circlip of split pin. If there is nothing holding it in poke it back through and secure it. If it is still there it could be a nomen cable. Good luck. Dave\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Wed May 24, 2017 9:45 am"
+  }, {
+    "postId" : "897694",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "897694",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "Cheers Dave... I'll try and get her up in the air over the weekend and see if there is anything obvious lurking.",
+    "lastEdited" : "Wed May 24, 2017 10:47 am"
+  }, {
+    "postId" : "897695",
+    "author" : {
+      "username" : "Bally",
+      "userId" : "897695",
+      "joined" : "Thu Mar 09, 2006 3:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melburg",
+      "postCount" : "777",
+      "avatarPath" : null
+    },
+    "content" : "First stop is take the hubcap off and check the end of the cable is located properly. You can do that with the wheels on the ground \n<img src=\"http://emoji.tapatalk-cdn.com/emoji1.png\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Wed May 24, 2017 10:52 am"
+  }, {
+    "postId" : "897696",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "897696",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "LOL... good point Dave.",
+    "lastEdited" : "Wed May 24, 2017 10:54 am"
+  }, {
+    "postId" : "897700",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "897700",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15640",
+      "avatarPath" : null
+    },
+    "content" : "NS I think!\n<br> G",
+    "lastEdited" : "Wed May 24, 2017 11:43 am"
+  }, {
+    "postId" : "897701",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "897701",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "LHD Bus.... I think from memory it's the one under the drivers seat.",
+    "lastEdited" : "Wed May 24, 2017 11:44 am"
+  }, {
+    "postId" : "897704",
+    "author" : {
+      "username" : "malum",
+      "userId" : "897704",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "558",
+      "avatarPath" : null
+    },
+    "content" : "Mine didn't work (Tacho and odometer) for three years and never failed an MOT. Whether or not it should have is another matter!\n<br> I'd check the back of the speedo as well, make sure it's screwed in. Might be an easy fix",
+    "lastEdited" : "Wed May 24, 2017 1:21 pm"
+  }, {
+    "postId" : "897736",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "897736",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "That's good to know thanks Malum",
+    "lastEdited" : "Thu May 25, 2017 9:21 am"
+  }, {
+    "postId" : "897743",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "897743",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "Not an MOT failure...when I told my tester not working he said doesn't matter....and since they don't road test anymore not really any chance of them noticing...?",
+    "lastEdited" : "Thu May 25, 2017 11:31 am"
+  }, {
+    "postId" : "897927",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "897927",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "Hi All,\n<br> \n<br> I have finally had time to get the bus out and have a look at the hub and behind the speedo and everything looks fine. I had a fiddle around with the cable behind the speedo and it feels like its attached well...... so I still have no idea why the speedo isn't working. \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=21605&amp;sid=785f967e5269576d5a3cbe2c6f663288&amp;mode=view\"><img src=\"./download/file.php?id=21605&amp;t=1&amp;sid=785f967e5269576d5a3cbe2c6f663288\" class=\"postimage\" alt=\"20170529_170551_resized.jpg\" title=\"20170529_170551_resized.jpg (421.9 KiB) Viewed 2743 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=21604&amp;sid=785f967e5269576d5a3cbe2c6f663288&amp;mode=view\"><img src=\"./download/file.php?id=21604&amp;t=1&amp;sid=785f967e5269576d5a3cbe2c6f663288\" class=\"postimage\" alt=\"20170529_170436_resized.jpg\" title=\"20170529_170436_resized.jpg (311.26 KiB) Viewed 2743 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=21603&amp;sid=785f967e5269576d5a3cbe2c6f663288&amp;mode=view\"><img src=\"./download/file.php?id=21603&amp;t=1&amp;sid=785f967e5269576d5a3cbe2c6f663288\" class=\"postimage\" alt=\"20170529_170620_resized.jpg\" title=\"20170529_170620_resized.jpg (402.98 KiB) Viewed 2743 times\"></a>\n  </dt> \n </dl> \n</div> Anyone else got anymore ideas at all?\n<br> \n<br> Cheers.",
+    "lastEdited" : "Tue May 30, 2017 6:51 am"
+  }, {
+    "postId" : "897930",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "897930",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15640",
+      "avatarPath" : null
+    },
+    "content" : "So...\n<br> Last check is to unscrew the end off the back of the speedo and position it so someone else can check/ see (whilst you are driving!) at the open end that the inner is actually turning so should be driving the speedo round. It should be OK.. but best to check before you seek to replace or repair..\n<br> \n<br> I had this one repaired by Thorsten because the inner drive was chewed.\n<br> Mine on left.. replaced by item in right.\n<br> \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20170530/8c21b9e87004f273feb61c56ad04e484.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue May 30, 2017 7:15 am"
+  }, {
+    "postId" : "898025",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "898025",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "232",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>type21f wrote:</cite>So...\n  <br> Last check is to unscrew the end off the back of the speedo and position it so someone else can check/ see (whilst you are driving!) at the open end that the inner is actually turning so should be driving the speedo round. It should be OK.. but best to check before you seek to replace or repair..\n  <br> \n  <br> I had this one repaired by Thorsten because the inner drive was chewed.\n  <br> Mine on left.. replaced by item in right.\n  <br> \n  <br> \n  <br> \n  <img src=\"//uploads.tapatalk-cdn.com/20170530/8c21b9e87004f273feb61c56ad04e484.jpg\" class=\"postimage\" alt=\"Image\">\n </div>\n</blockquote> Thanks very much.... is it easy to disconnect this from the back of the speedo?",
+    "lastEdited" : "Thu Jun 01, 2017 1:05 pm"
+  } ]
+}

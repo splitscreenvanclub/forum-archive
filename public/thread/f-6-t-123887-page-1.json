@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "123887",
+  "title" : "Small window Tailgate question",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123887",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=61e3fd26e1517cf3cde16e8bce1a3591",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925364",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925364",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "I’m onto the rear of the car now and looking at the tailgate fitting. When looking at the belt running around the body my tailgate sits about 2mm higher than the body and doesn’t quite line up. So... should there be a spacer between the hinge and the body?",
+    "lastEdited" : "Tue Sep 17, 2019 1:42 pm"
+  }, {
+    "postId" : "925365",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925365",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15726",
+      "avatarPath" : null
+    },
+    "content" : "Rubber seal\n<br> I searched for deal with AH Schofield but could not see..\n<br> Example...\n<br> \n<br> \n<a href=\"https://www.customandcommercial.com/vw-split_screen/splitscreen_door_tailgate_engine_lid--and--pick_up_parts/splitscreen_tailgate--and--tailgate_handle_parts/german_quality_tailgate_hinge_beading_bus_55-63_2133/\" class=\"postlink\">https://www.customandcommercial.com/vw- ... 5-63_2133/</a>\n<br>",
+    "lastEdited" : "Tue Sep 17, 2019 1:43 pm"
+  }, {
+    "postId" : "925432",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925432",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "All done, the seal worked perfectly",
+    "lastEdited" : "Thu Sep 19, 2019 3:59 pm"
+  }, {
+    "postId" : "925433",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925433",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15726",
+      "avatarPath" : null
+    },
+    "content" : "Great! It was something I learned on strip down of my rotted out roof RESULT!",
+    "lastEdited" : "Thu Sep 19, 2019 4:08 pm"
+  }, {
+    "postId" : "925436",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925436",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "Yeah, cant say Ive even noticed them on other buse befores, Im sure I will now i know. Thanks for your help",
+    "lastEdited" : "Thu Sep 19, 2019 5:51 pm"
+  }, {
+    "postId" : "925438",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925438",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15726",
+      "avatarPath" : null
+    },
+    "content" : "Pleasure!",
+    "lastEdited" : "Thu Sep 19, 2019 5:57 pm"
+  } ]
+}

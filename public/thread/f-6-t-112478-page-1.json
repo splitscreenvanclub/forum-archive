@@ -1,0 +1,180 @@
+{
+  "forumId" : "6",
+  "threadId" : "112478",
+  "title" : "Compression Test - OK or knackered?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112478",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 13,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "848233",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "848233",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffs",
+      "postCount" : "647",
+      "avatarPath" : null
+    },
+    "content" : "Evenin' All,\n<br>\n<br>The following are the results of a compression test on my 1200 engine:\n<br>\n<br>Cyl 1 118 psi\n<br>\n<br>Cyl 2 122 psi\n<br>\n<br>Cyl 3 120 psi\n<br>\n<br>Cyl 4 122 psi\n<br>\n<br>Ignoring the relatively minor discrepancies between the individual cylinders, would the general level of the readings indicate a reasonably healthy or a worn out engine? \n<br>\n<br>Can anyone suggest what level of readings should be expected from a low mileage motor in good condition? \n<br>\n<br>I don't know what the total mileage is on this motor, but it is possibly around 50,000 or more. It has been used on an occasional basis for quite a few years and although it starts easily and runs smoothly, it does not have very much power. I know that the 1200 motor is not renowned for being the most powerful unit on the planet, but this one is certainly lacklustre in that respect. (BTW it is fitted in my Oval, so it is not having to shift the weight of a Bus).\n<br>\n<br>I'm undecided as to whether it needs an overhaul or whether I'm expecting too much of it. \n<br>\n<br>Thanks in anticipation.",
+    "lastEdited" : "Tue Sep 08, 2015 8:31 pm"
+  }, {
+    "postId" : "848240",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "848240",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17467",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Have the valves been checked recently before the test? \n<br>\n<br>Those figures aren't bad. Highest I've ever seen is on our old Cabrio bug which was 140 or there abouts. \n<br>\n<br>Most test around the 120 mark. Close too, or below 100 and I'd be investigating refreshes. \n<br>\n<br>Seen them as low as single figures on a \"running\" engine before too....",
+    "lastEdited" : "Tue Sep 08, 2015 8:56 pm"
+  }, {
+    "postId" : "848246",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "848246",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffs",
+      "postCount" : "647",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Jim, that's useful info. I didn't check the valves before the test. I happened to have the plugs out to clean and regap them and thought of doing a compression test on the spur of the moment.\n<br>\n<br>However, I will check the tappets and the ignition timing as well, just to ensure that I'm getting the best out of the engine. \n<br>\n<br>I guess that means that the old girl is good to go for a couple more years then!\n<br>\n<br>Cheers,\n<br>Dave.",
+    "lastEdited" : "Tue Sep 08, 2015 9:59 pm"
+  }, {
+    "postId" : "848276",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "848276",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "814",
+      "avatarPath" : null
+    },
+    "content" : "I'd say they were OK too - I was always told that anything les than 100 was time for investigation of engine - regardless of VW or not.\n<br>Obviously if one is way down on the other 3 that's a bit different due to mismatch.",
+    "lastEdited" : "Wed Sep 09, 2015 9:15 am"
+  }, {
+    "postId" : "848277",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "848277",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffs",
+      "postCount" : "647",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Ted, a second positive opinion. Looks like, with a little more fettling, I'll be zooming up the slow lane with the best of them!\n<br>\n<br>Cheers,\n<br>Dave.",
+    "lastEdited" : "Wed Sep 09, 2015 9:25 am"
+  }, {
+    "postId" : "848309",
+    "author" : {
+      "username" : "split999",
+      "userId" : "848309",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2156",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : "Did you perform the test with engine warm and accelerator down fully?",
+    "lastEdited" : "Wed Sep 09, 2015 5:19 pm"
+  }, {
+    "postId" : "848313",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "848313",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffs",
+      "postCount" : "647",
+      "avatarPath" : null
+    },
+    "content" : "No, engine was cold. Throttle closed.\n<br>\n<br>Hmm, I can see that the engine being warm could change the readings somewhat, but can't quite figure the accelerator's effect? Is this the accepted method of conducting a compression test?",
+    "lastEdited" : "Wed Sep 09, 2015 5:49 pm"
+  }, {
+    "postId" : "848321",
+    "author" : {
+      "username" : "split999",
+      "userId" : "848321",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2156",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : "Readings can vary by up to approx 20%, but the good news is the readings with throttle open will be slightly higher. Your figures are good to start with but more importantly are closer together. As said, generally 100 psi is signs of a worn engine, but if all four cylinders are similar (like yours) you'll probably find that 100 psi engine will run happily for a good few years before having to open it up. Especially if you drive it accordingly. \n<br>\n<br>The warm or cold engine difference will not amount to more than 3-4 psi\n<br>\n<br>Hth",
+    "lastEdited" : "Wed Sep 09, 2015 6:12 pm"
+  }, {
+    "postId" : "848322",
+    "author" : {
+      "username" : "split999",
+      "userId" : "848322",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2156",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>DoubleD wrote:</cite>...... but can't quite figure the accelerator's effect? Is this the accepted method of conducting a compression test?\n </div>\n</blockquote>\n<br>\n<br>\n<br> Similar to breathing through a straw. The amount of air entering the combustion chamber is reduced when you have a restriction blocking the path of the flow. (Closed throttle)\n<br>\n<br>Less air means there is less to compress, which follows that the overall pressure will be reduced.\n<br>\n<br>Hth",
+    "lastEdited" : "Wed Sep 09, 2015 6:17 pm"
+  }, {
+    "postId" : "848370",
+    "author" : {
+      "username" : "DoubleD",
+      "userId" : "848370",
+      "joined" : "Wed Dec 13, 2006 11:00 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffs",
+      "postCount" : "647",
+      "avatarPath" : null
+    },
+    "content" : "I get the picture - interesting stuff. Many thanks for your input.\n<br>\n<br>Cheers,\n<br>Dave.",
+    "lastEdited" : "Wed Sep 09, 2015 11:36 pm"
+  }, {
+    "postId" : "849300",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "849300",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "244",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Sorry to butt in, but will the choke being closed have the same effect as the closed throttle? If so by how much?\n<br>\n<br>Ran a test today and got 85-95psi per cylinder with a cold engine, but the choke was closed.\n<br>\n<br>This is the first time I've used a compression tester.\n<br>\n<br>Been trying to track down a misfire that appeared few weeks ago and has been getting worse ( although I think I've actually tracked that to a duff HT lead).",
+    "lastEdited" : "Sat Sep 19, 2015 2:29 pm"
+  }, {
+    "postId" : "849309",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "849309",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17467",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "With the choke in any position, those numbers are very low",
+    "lastEdited" : "Sat Sep 19, 2015 6:54 pm"
+  }, {
+    "postId" : "849318",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "849318",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "244",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwJim wrote:</cite>With the choke in any position, those numbers are very low\n </div>\n</blockquote>\n<br>\n<br>Thought so \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<br>\n<br>I'm disappointed but not entirely surprised given the number of 'deferred maintenance' issues I've found.\n<br>\n<br>That said, it does drive OK when it's running properly, so I'll probably nurse it for a while.",
+    "lastEdited" : "Sat Sep 19, 2015 8:43 pm"
+  } ]
+}

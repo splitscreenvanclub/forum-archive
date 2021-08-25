@@ -1,0 +1,206 @@
+{
+  "forumId" : "6",
+  "threadId" : "13930",
+  "title" : "Front Beam Options Technical Topic",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=13930&start=105",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 128,
+  "pageNumber" : 8,
+  "totalPages" : 9,
+  "posts" : [ {
+    "postId" : "563454",
+    "author" : {
+      "username" : "rustydiver",
+      "userId" : "563454",
+      "joined" : "Fri Oct 22, 2010 6:19 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Somerset",
+      "postCount" : "489",
+      "avatarPath" : "./download/file.php%3Favatar=34778_1314278801.jpg"
+    },
+    "content" : "Ok I want to sort out the front suspension, it's very bumpy hard ride.\n<br>\n<br>It's a 62 crew cab it's been IRS'd at the rear, bean adjusters at the front with a CSP disk conversion.\n<br>Will drop spindles do the job, or will a change of shocks do. \n<br>\n<br>Options please after reading I'm now a bir confused \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" alt=\":drunken:\" title=\"drunken\"> and that's easy at the best of times. \n<br>\n<br>Has anybody fitted the red design 9 steering rack/ independent suspension thing up front.",
+    "lastEdited" : "Sun Feb 13, 2011 8:49 am"
+  }, {
+    "postId" : "564147",
+    "author" : {
+      "username" : "ade7",
+      "userId" : "564147",
+      "joined" : "Wed Mar 04, 2009 10:04 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "68",
+      "avatarPath" : null
+    },
+    "content" : "rusty, your ride will be crap if you've only got adjusters on the front to lower it so that its level with back (probably 3.5\" lower), as the suspension geometry has changed so much from standard. Drop spindles will give a much better ride, although they need even more maintenance than an undropped spindle. You will also probably not be able to use an 80 profile tyre with dropped spindles, or even a 70, unless you narrow the beam (to me, narrowed beams just look pointless). You don't have to run as low as 3.5\" down, even with IRS: there are ways to raise it back up a bit, hence your front may not then need dropped spindles: it could be mildly lowered, say upto 2\", in which case adjusters might be ok. Either way, really good dampers are essential: but they won't improve your current ride much. I assume your bump stops are already cut off. You really need to decide what wheel/tyre combo you want, and do some measuring up to see how much tyre travel you'll have before they hit the floor pan (unless you want to go to the cost of tubbing) with whatever lowering device you want to use, then you'll be able to get the right length dampers.\n<br>I think i'm right in saying some people have fitted R9D double wishbone, but no one has put pen to paper after living with it for even a few months. Take from that what you will....ade",
+    "lastEdited" : "Tue Feb 15, 2011 7:10 pm"
+  }, {
+    "postId" : "564164",
+    "author" : {
+      "username" : "yakboy",
+      "userId" : "564164",
+      "joined" : "Wed Apr 07, 2004 6:26 pm",
+      "profileRank" : "Registered user",
+      "location" : "Malton, North Yorkshire",
+      "postCount" : "999",
+      "avatarPath" : "http://www.muchos.co.uk/members/yakboy/avtar.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ade7 wrote:</cite>I think i'm right in saying some people have fitted R9D double wishbone, but no one has put pen to paper after living with it for even a few months. Take from that what you will....ade\n </div>\n</blockquote>\n<br>\n<br>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=2&amp;t=66962&amp;hilit=+red9+wishbone\">viewtopic.php?f=2&amp;t=66962&amp;hilit=+red9+wishbone</a>\n<!-- l --> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Feb 15, 2011 8:00 pm"
+  }, {
+    "postId" : "571923",
+    "author" : {
+      "username" : "cyclosport",
+      "userId" : "571923",
+      "joined" : "Sat May 02, 2009 9:59 am",
+      "profileRank" : "Registered user",
+      "location" : "Thames Valley",
+      "postCount" : "38",
+      "avatarPath" : "./download/file.php%3Favatar=33070_1300092275.jpg"
+    },
+    "content" : "I'm thinking of going this way, after removing my front beam.\n<br>\n<br>Take at look at this - \n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=73960\">viewtopic.php?f=6&amp;t=73960</a>\n<!-- l -->\n<br>\n<br>Any thoughts from fellow SSVC dubbers?",
+    "lastEdited" : "Wed Mar 16, 2011 9:59 am"
+  }, {
+    "postId" : "591201",
+    "author" : {
+      "username" : "orange",
+      "userId" : "591201",
+      "joined" : "Tue Jul 04, 2006 6:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "south london, sutton",
+      "postCount" : "312",
+      "avatarPath" : "http://i177.photobucket.com/albums/w208/bowatpa/avatar/hippyvancropped.jpg"
+    },
+    "content" : "Just received a 4\" narrowed beam from t2d but there's no steering damper bracket fitted.\n<br>\n<br>I'll be cutting my old leaf springs to length and not sure how far I should cut them thus how far the trailing arms will move in against the beam on to the bushes (2\" each side is the obvious answer). there is a radius on the trailing arms but not on the bush, should this gap be taken up by the original seal? But an old seal carrier won't fit.(am I getting confused with a later beam having seal carriers)\n<br>\n<br>1.Do other narrow beam manufactures have the damper bracket fitted?\n<br>2.What effect does running no damper have on the stearing?\n<br>3.Should I make a steering damper bracket and weld it to my new shiny powder coated beam?\n<br>4.Will I need to modify my old seal carriers or just slide new seal on?\n<br>5.Or do I just let the solid( not sure what they are made from) bearings hold the grease in?\n<br>\n<br>Oh one more thing I've seen the mod to cut drill and attach the lower shock mount on the trailing arm but\n<br>6. how do you space out the upper mount so the shock is not rubbing on the flat plate? \n<br>7.Do I need to make some custom spacers?\n<br>8.If I'm going to weld the new beam for a damper bracket should I also weld a threaded spacer to the top mount? \n<br>9.Have I just answered my own question?\n<br>10. Should I get someone else to come round to help me work this out rather than try a do it by myself?\n<br>11. Should new beams come with instructions?",
+    "lastEdited" : "Sun Jun 12, 2011 2:01 pm"
+  }, {
+    "postId" : "661339",
+    "author" : {
+      "username" : "Stashwell",
+      "userId" : "661339",
+      "joined" : "Wed Feb 29, 2012 10:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "48",
+      "avatarPath" : "./download/file.php%3Favatar=36345_1331254857.jpg"
+    },
+    "content" : "I'm looking for some advice too,\n<br>\n<br>My Link pins are shot on my 66' lowered beam but i have just been offered an adjustable early bay BJ beam with 4 brand new (150mile) BJ'S and 3 equally new steering arms. this beam is mint condition and has spindles on it but no hubs or brakes (will get a pair of exchange bay callipers for free) for £350.\n<br>\n<br>Having read this thread it seems as thought the bay BJ beam won't lower well although i don't feel i want to cut grass with my set up as i have a rear IRS and like the height and the ride is ok to bouncy (hopefully the pics say it all) so just looking for a good ride and drive ready for 2 months in europe next spring. Current set up, other than the steering being all over the place (link pins are bad), my bus is a bit bumpy but no arch rubbing or turning circle loss. I also have to consider the fact i want disks and a servo soon so;\n<br>\n<br>1. How low will i need to go on the beam to keep the look and will this seriously compromise ride quality?\n<br>2. What options do i have (outside very pricy kits) for disks on an early bay BJ beam? are these better than the options for amy K&amp;L?\n<br>3. I have seen dropped spindles mentioned in the thread for a BJ beam in the US, anyone have experience of them as a way of maintaing ride whilst lowering?\n<br>4. do i just sit tight, do the link pins, live with the ok ride and stump up for a VWJim servo and Willwood brake kit? \n<br>\n<br>Thanks guys.",
+    "lastEdited" : "Tue Jun 05, 2012 10:41 pm"
+  }, {
+    "postId" : "666492",
+    "author" : {
+      "username" : "pete nice",
+      "userId" : "666492",
+      "joined" : "Thu Aug 27, 2009 10:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "Aldershot, Hants",
+      "postCount" : "198",
+      "avatarPath" : null
+    },
+    "content" : "What shocks are people running on the front?\n<br>\n<br>I have a 4\" narrowed creative beam with adjusters &amp; dropped spindles. I have dropped it low on the adjusters &amp; used air shocks with about 90psi to lift it back up.\n<br>\n<br>The ride is much improved over the rock hard KYB's, but is still too hard for my liking.\n<br>\n<br>My next step is a pair of col overs.\n<br>\n<br>What have others done for a smooth ride?\n<br>\n<br>\n<img src=\"http://i70.photobucket.com/albums/i104/aircooledtechnic/IMAG0382.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Jun 30, 2012 10:22 pm"
+  }, {
+    "postId" : "722369",
+    "author" : {
+      "username" : "63CorvairSplit",
+      "userId" : "722369",
+      "joined" : "Fri Mar 22, 2013 1:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Weymouth, Dorset, Fitting a smaller engine in the van!",
+      "postCount" : "515",
+      "avatarPath" : "./download/file.php%3Favatar=37607_1381262828.jpg"
+    },
+    "content" : "I have a quick question which i`ve not seen the answer to - will dropped spindles narrow the track, widen the track or keep it the same?\n<br>\n<br>Or does it depend on how they are dropped?\n<br>\n<br>thanks, mike",
+    "lastEdited" : "Mon May 13, 2013 9:58 pm"
+  }, {
+    "postId" : "722398",
+    "author" : {
+      "username" : "nige1171",
+      "userId" : "722398",
+      "joined" : "Thu Aug 12, 2010 2:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1076",
+      "avatarPath" : "http://i24.photobucket.com/albums/c32/Big-Nige/My%2015%20Window%20Split/StanfordHallDesktop2-1.jpg"
+    },
+    "content" : "They keep the same width.\n<br>\n<br>Some disc brake setups increase/decrease width though.",
+    "lastEdited" : "Tue May 14, 2013 6:20 am"
+  }, {
+    "postId" : "728108",
+    "author" : {
+      "username" : "busface",
+      "userId" : "728108",
+      "joined" : "Tue Mar 20, 2012 12:29 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Marche, Italy",
+      "postCount" : "122",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Mon Jun 10, 2013 6:51 pm"
+  }, {
+    "postId" : "728125",
+    "author" : {
+      "username" : "busface",
+      "userId" : "728125",
+      "joined" : "Tue Mar 20, 2012 12:29 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Marche, Italy",
+      "postCount" : "122",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Mon Jun 10, 2013 7:12 pm"
+  }, {
+    "postId" : "744635",
+    "author" : {
+      "username" : "rob.e",
+      "userId" : "744635",
+      "joined" : "Tue Aug 06, 2013 9:33 am",
+      "profileRank" : "Registered user",
+      "location" : "Oxford",
+      "postCount" : "31",
+      "avatarPath" : null
+    },
+    "content" : "Ok, so I've read the thread from start to finish, very interesting reading.\n<br>\n<br>I'm looking to buy a van soon (most likely a late split) and i'm planning out what to do. I don't want something that's in the weeds - it needs to sit nicely lower than stock but still be practical as a family camping bus, handle ride and stop well (ideally discs on the front, maybe with a servo too?).\n<br>\n<br>I've priced up the \"traditional\" approach ie dropped spindles, narrowed adjustable beam on the front, shorter shocks and a spline change at the rear, but having read this thread it looks to make more sense to go with the Red9 wishbone upgrade, given it's not that much more expensive, has great reviews from owners and also has the benefit of rack and pinion.\n<br>\n<br>So here's the question in a nutshell; starting with a stock late split van and a buget of say, £3k where would your money go?\n<br>\n<br>Red9 wishbones with late bay discs on the front + servo, one spline at the rear, or should i just save some money and go with just dropped spindles (+discs) given its only having a mild drop?",
+    "lastEdited" : "Thu Sep 05, 2013 10:42 am"
+  }, {
+    "postId" : "745021",
+    "author" : {
+      "username" : "tictac",
+      "userId" : "745021",
+      "joined" : "Tue Sep 21, 2010 7:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "168",
+      "avatarPath" : null
+    },
+    "content" : "Here's the red9 beam with the bay brakes fitted - and adapters to wide 5. The beam with bay hubs and discs comes up 12mm narrower which allows to fit an adapter for the wide 5 wheels at normal width. (obviously depending on what wheels you fit. I've got some Porsche replicas)\n<br>\n<br>Just finishing fitting this now. \n<br>\n<br>Can also see in my photo the brake pipes need a short length and new bracket (which doesn't come in kit) I decided on a short brake pipe, which I made, so that if I want to lower it I can just make up a new short pipe rather than have to replumb back to the master cylinder. \n<br>\n<br>I did try fitting the bay brake backing plate, but it fouls with the lower wishbone arm, so I took it off.",
+    "lastEdited" : "Sat Sep 07, 2013 9:16 am"
+  }, {
+    "postId" : "745500",
+    "author" : {
+      "username" : "rob.e",
+      "userId" : "745500",
+      "joined" : "Tue Aug 06, 2013 9:33 am",
+      "profileRank" : "Registered user",
+      "location" : "Oxford",
+      "postCount" : "31",
+      "avatarPath" : null
+    },
+    "content" : "Thanks tictac - that looks great. I had a look at Red9 on saturday at busfest and the kit looks to be good quality. I've not read any bad reviews.\n<br>\n<br>The only downside i can see from what i've read is that you lose the horn from the s/w but i guess i could live with that \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Mon Sep 09, 2013 1:41 pm"
+  }, {
+    "postId" : "745536",
+    "author" : {
+      "username" : "tictac",
+      "userId" : "745536",
+      "joined" : "Tue Sep 21, 2010 7:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "168",
+      "avatarPath" : null
+    },
+    "content" : "Most narrowed beam options seem to lose the horn on the steering wheel. There's always the wireless horn kit available if you really need it on the steering wheel. Personally it just stops the kids knowing where the horn is and keeps the peace and quiet. Just got a momentary switch on the dash they haven't found yet!",
+    "lastEdited" : "Mon Sep 09, 2013 4:02 pm"
+  } ]
+}

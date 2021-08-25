@@ -1,0 +1,66 @@
+{
+  "forumId" : "5",
+  "threadId" : "125022",
+  "title" : "Early US spec sliding window felt",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=125022",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=2ef2a5fc9bf911690264d19c47779c1e",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931609",
+    "author" : {
+      "username" : "LeeS",
+      "userId" : "931609",
+      "joined" : "Sat Feb 02, 2019 7:50 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "Anybody know where to get the bottom felt for the early sliding windows?\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=40496&amp;sid=2ef2a5fc9bf911690264d19c47779c1e&amp;mode=view\"><img src=\"./download/file.php?id=40496&amp;t=1&amp;sid=2ef2a5fc9bf911690264d19c47779c1e\" class=\"postimage\" alt=\"IMG_1718.jpg\" title=\"IMG_1718.jpg (248.62 KiB) Viewed 147 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Sat Aug 08, 2020 1:58 pm"
+  }, {
+    "postId" : "931631",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "931631",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "Are they not all the same...",
+    "lastEdited" : "Mon Aug 10, 2020 5:25 pm"
+  }, {
+    "postId" : "931655",
+    "author" : {
+      "username" : "Paul L",
+      "userId" : "931655",
+      "joined" : "Sun Feb 26, 2012 9:59 am",
+      "profileRank" : "Registered user",
+      "location" : "Newton Abbot",
+      "postCount" : "231",
+      "avatarPath" : null
+    },
+    "content" : "I got mine on the samba.com And inported from the states\n<br> The only place I could find them at the time",
+    "lastEdited" : "Tue Aug 11, 2020 8:58 pm"
+  }, {
+    "postId" : "931660",
+    "author" : {
+      "username" : "LeeS",
+      "userId" : "931660",
+      "joined" : "Sat Feb 02, 2019 7:50 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "They're a bit different, putting holes in the glass weakens the laminate so the catches are on a frame which runs along the bottom of the glass making it too wide to slide in the felt. So basically one channel is wider than the other.\n<br> \n<br> I did look on the samba and noticed someone making repros but some of the reviews didnt fill me with confidence plus the cost so I would probably modify the ones I have if I cant find any",
+    "lastEdited" : "Wed Aug 12, 2020 8:29 am"
+  } ]
+}

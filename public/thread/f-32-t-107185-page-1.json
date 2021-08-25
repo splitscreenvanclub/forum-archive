@@ -1,0 +1,115 @@
+{
+  "forumId" : "32",
+  "threadId" : "107185",
+  "title" : "Devon threads don't show in active topics",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=107185",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "812303",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "812303",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "938",
+      "avatarPath" : "http://i1068.photobucket.com/albums/u451/clymoj/Bus/Bus005_zps44edd617.jpg"
+    },
+    "content" : "When on the 'view active topics' view, threads in the Devon section don't show, even if there are recent posts.\n<br>\n<br>They show in 'view new posts' and they show in my tapatalk timeline.\n<br>\n<br>Is this so us Devon types don't pervert the general public? \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Mon Dec 01, 2014 9:04 pm"
+  }, {
+    "postId" : "812337",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "812337",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6011",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "I will check the setting for that forum",
+    "lastEdited" : "Tue Dec 02, 2014 7:05 am"
+  }, {
+    "postId" : "812346",
+    "author" : {
+      "username" : "nige1171",
+      "userId" : "812346",
+      "joined" : "Thu Aug 12, 2010 2:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1034",
+      "avatarPath" : "http://i24.photobucket.com/albums/c32/Big-Nige/My%2015%20Window%20Split/StanfordHallDesktop2-1.jpg"
+    },
+    "content" : "Used to be the same with Events but not checked recently",
+    "lastEdited" : "Tue Dec 02, 2014 9:00 am"
+  }, {
+    "postId" : "812377",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "812377",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6011",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "I fixed events",
+    "lastEdited" : "Tue Dec 02, 2014 5:36 pm"
+  }, {
+    "postId" : "812394",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "812394",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7448",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "....and Devon?",
+    "lastEdited" : "Tue Dec 02, 2014 7:41 pm"
+  }, {
+    "postId" : "812665",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "812665",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6011",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "I have checked and corrected the setting for every forum on the board!\n<br>\n<br>Cheers\n<br>Paul",
+    "lastEdited" : "Fri Dec 05, 2014 8:21 pm"
+  }, {
+    "postId" : "812672",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "812672",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7448",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "paul_f....I told you....YOU ARE GOOD...thanks",
+    "lastEdited" : "Fri Dec 05, 2014 8:46 pm"
+  }, {
+    "postId" : "812859",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "812859",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "938",
+      "avatarPath" : "http://i1068.photobucket.com/albums/u451/clymoj/Bus/Bus005_zps44edd617.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>paul_f wrote:</cite>I have checked and corrected the setting for every forum on the board!\n  <br>\n  <br>Cheers\n  <br>Paul\n </div>\n</blockquote>\n<br>\n<br>All working now, thanks Paul \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Mon Dec 08, 2014 11:32 am"
+  } ]
+}

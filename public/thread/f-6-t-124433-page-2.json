@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "124433",
+  "title" : "Fishing in the fuel tank",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124433&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b7c5d525b3f237932110451eb1db804d",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 20,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "928662",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "928662",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4272",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "Well done for persevering :0)",
+    "lastEdited" : "Wed Apr 01, 2020 9:38 pm"
+  }, {
+    "postId" : "928664",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "928664",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15726",
+      "avatarPath" : null
+    },
+    "content" : "Nothing wrong with fishing!\n<br> \n<br> \n<br> \n<br>",
+    "lastEdited" : "Wed Apr 01, 2020 9:52 pm"
+  }, {
+    "postId" : "928665",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "928665",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15726",
+      "avatarPath" : null
+    },
+    "content" : "I like fishing but in water not petrol .. friend now has no eyebrows from causing a spark.. thankfully he ducked and did close his eyes and just scorched his eyelids and removed his hair.. !\n<br>",
+    "lastEdited" : "Wed Apr 01, 2020 9:56 pm"
+  }, {
+    "postId" : "928693",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "928693",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3260",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "How are you getting on with this Brian ?\n<br> \n<br> Jason",
+    "lastEdited" : "Fri Apr 03, 2020 12:34 pm"
+  }, {
+    "postId" : "928743",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "928743",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3544",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=928693&amp;sid=b7c5d525b3f237932110451eb1db804d#p928693\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=28832&amp;sid=b7c5d525b3f237932110451eb1db804d\">jayvanman</a> wrote: <a href=\"./viewtopic.php?p=928693&amp;sid=b7c5d525b3f237932110451eb1db804d#p928693\" data-post-id=\"928693\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Fri Apr 03, 2020 12:34 pm</span></cite> How are you getting on with this Brian ?\n  <br> \n  <br> Jason \n </div>\n</blockquote> It's on the road now Jason - but can't go anywhere! Just the wheels to paint and interior to finish - curtains, coolbox unit, spice rack to go in. Fortunately this SO42 came with everything intact - except the bodywork!",
+    "lastEdited" : "Mon Apr 06, 2020 8:29 am"
+  } ]
+}

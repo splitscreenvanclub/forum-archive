@@ -1,0 +1,89 @@
+{
+  "forumId" : "6",
+  "threadId" : "112499",
+  "title" : "Fitting a vintage speed shifter",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112499",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "848418",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "848418",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2070",
+      "avatarPath" : "http://www.tigerhomes.org/animal/images/avatars/monkey-2.gif"
+    },
+    "content" : "Just a quick question regarding the vinatge speed shifter I have.\n<br>\n<br>For later buses they require the installation of a spacer plate underneath them. Does the spacer late sit on top of the reverse lock out plate, or does that go on top of the spacer plate?\n<br>\n<br>Thanks for clarifying.",
+    "lastEdited" : "Thu Sep 10, 2015 1:45 pm"
+  }, {
+    "postId" : "848429",
+    "author" : {
+      "username" : "split999",
+      "userId" : "848429",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2178",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : "The spacer I believe goes directly onto the floor....then lock out plate on top.\n<br>\n<br>Could always ring Dan Simpson at VS",
+    "lastEdited" : "Thu Sep 10, 2015 4:13 pm"
+  }, {
+    "postId" : "848447",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "848447",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2070",
+      "avatarPath" : "http://www.tigerhomes.org/animal/images/avatars/monkey-2.gif"
+    },
+    "content" : "Just found the installation sheet, which is as you describe.\n<br>\n<br>Still not clear how I lock the bottom nut though to stop the stick from twisting loose.",
+    "lastEdited" : "Thu Sep 10, 2015 5:51 pm"
+  }, {
+    "postId" : "848455",
+    "author" : {
+      "username" : "split999",
+      "userId" : "848455",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2178",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : "I have one of the original VS shifters which I think are slightly different to the latest design. However on mine to secure the stick, wind down the nut to the bottom on the thread (nearest to the floor) then wind on your stick. Get your stick set at the most comfortable position for you, and then wind back up the nut so that it jambs tight against the end of the stick, thus locking it into place. Before you do any of that though, apply some loctite to all threads. They have a habit of becoming loose if you don't. Remember, there's always a little slop feel in the VS shifters. This is due I believe to the lift to reverse mechanism incorporated into the design. \n<br>\n<br>Hope this helps.",
+    "lastEdited" : "Thu Sep 10, 2015 6:46 pm"
+  }, {
+    "postId" : "848494",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "848494",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2070",
+      "avatarPath" : "http://www.tigerhomes.org/animal/images/avatars/monkey-2.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>split999 wrote:</cite>I have one of the original VS shifters which I think are slightly different to the latest design. However on mine to secure the stick, wind down the nut to the bottom on the thread (nearest to the floor) then wind on your stick. Get your stick set at the most comfortable position for you, and then wind back up the nut so that it jambs tight against the end of the stick, thus locking it into place. Before you do any of that though, apply some loctite to all threads. They have a habit of becoming loose if you don't. Remember, there's always a little slop feel in the VS shifters. This is due I believe to the lift to reverse mechanism incorporated into the design. \n  <br>\n  <br>Hope this helps.\n </div>\n</blockquote>\n<br>Got it!\n<br>\n<br>Done.\n<br>\n<br>Doesn't seem the best way to lock the shaft in position. I can see why it could come loose.\n<br>\n<br>Thanks\n<br>\n<br>Matt",
+    "lastEdited" : "Fri Sep 11, 2015 7:48 am"
+  }, {
+    "postId" : "848521",
+    "author" : {
+      "username" : "split999",
+      "userId" : "848521",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2178",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : "Exactly Matt, that's why plenty of Loctite is advisable. Mine has stayed firm since I used Loctite, but before that it was coming loose regularly. \n<br>\n<br>Glad you got it sorted.",
+    "lastEdited" : "Fri Sep 11, 2015 2:14 pm"
+  } ]
+}

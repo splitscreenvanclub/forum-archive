@@ -1,0 +1,27 @@
+{
+  "forumId" : "6",
+  "threadId" : "124720",
+  "title" : "So42 ice box top",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124720",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=4fc572929aa28bf8bfd86c71b7576f8b",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929888",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "929888",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "450",
+      "avatarPath" : null
+    },
+    "content" : "Hi all , could anyone tell me the measurements for a 67 wesfalia ice box Formica top ? Kind regards Neil",
+    "lastEdited" : "Sat May 16, 2020 8:48 pm"
+  } ]
+}

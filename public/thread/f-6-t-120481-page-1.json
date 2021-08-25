@@ -1,0 +1,183 @@
+{
+  "forumId" : "6",
+  "threadId" : "120481",
+  "title" : "Engine running problems",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120481",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=3d618fe0bd1a03bd1712052950e74eae",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 13,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "904978",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "904978",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Help needed\n<br> Have a new 1776 engine with twin Weber 34 ict carbs fitted, standard fuel pump and fuel regulator fitted.\n<br> Will fire up and run for a short time but not long enough to warm up and respond to accelerator, will then cut out sometimes re-starts but not for long or will backfire loudly, after that won't start at all until following day.\n<br> I've tried various ways to start but no difference, any advice would be appreciated.\n<br> Thanks",
+    "lastEdited" : "Mon Oct 23, 2017 6:47 pm"
+  }, {
+    "postId" : "904979",
+    "author" : {
+      "username" : "lids_2001",
+      "userId" : "904979",
+      "joined" : "Sat Dec 10, 2005 7:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Enfield, North London",
+      "postCount" : "283",
+      "avatarPath" : null
+    },
+    "content" : "Get another body to help set the throttle linkage then just screw in the idle screws until it runs, even if slightly more than 900 rpm. If this doesn’t work then it will be a case of working through all the possible issues until they are all eliminated. Did the engine builder install thhe engine as well?\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Oct 23, 2017 7:27 pm"
+  }, {
+    "postId" : "904980",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "904980",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Engine was supplied as turnkey and all set up, I installed it.",
+    "lastEdited" : "Mon Oct 23, 2017 7:33 pm"
+  }, {
+    "postId" : "904985",
+    "author" : {
+      "username" : "lids_2001",
+      "userId" : "904985",
+      "joined" : "Sat Dec 10, 2005 7:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Enfield, North London",
+      "postCount" : "283",
+      "avatarPath" : null
+    },
+    "content" : "You must have removed carbs etc to install, I reckon it’s out of sync\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Oct 23, 2017 8:42 pm"
+  }, {
+    "postId" : "904986",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "904986",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Didn't have to remove carbs as the icts are quite small, nothing altered from delivery of engine just connected fuel lines etc.",
+    "lastEdited" : "Mon Oct 23, 2017 8:50 pm"
+  }, {
+    "postId" : "904988",
+    "author" : {
+      "username" : "Robgrav",
+      "userId" : "904988",
+      "joined" : "Sun Jul 19, 2015 5:24 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "456",
+      "avatarPath" : null
+    },
+    "content" : "If all you’ve had to do is connect fuel lines then it’s a fuel issue. What regulator is on it.",
+    "lastEdited" : "Mon Oct 23, 2017 8:55 pm"
+  }, {
+    "postId" : "904991",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "904991",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Filter King regulator pre-set and supplied with engine, I feel that it is a fuel problem but can't find out what the problem is",
+    "lastEdited" : "Mon Oct 23, 2017 9:22 pm"
+  }, {
+    "postId" : "904992",
+    "author" : {
+      "username" : "lids_2001",
+      "userId" : "904992",
+      "joined" : "Sat Dec 10, 2005 7:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Enfield, North London",
+      "postCount" : "283",
+      "avatarPath" : null
+    },
+    "content" : "remove in line filter, remove fuel cap. See if it runs? is the backfire through the carbs? if it is then its lean",
+    "lastEdited" : "Mon Oct 23, 2017 9:29 pm"
+  }, {
+    "postId" : "904994",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "904994",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5514",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Check that you've got the fuel lines on the filter King the right way round because on the instructions that came in the box with mine they were shown the wrong way round. Ran like a bag of poo until I swapped them. The fitting that pokes out horizontally goes to the carbs (hope that makes sense) and the one that points downwards goes to the fuel pump.",
+    "lastEdited" : "Mon Oct 23, 2017 9:33 pm"
+  }, {
+    "postId" : "904995",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "904995",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "Filter King was supplied fitted, also has an arrow on it for direction of flow, fittings are both horizontal. Backfire sounded as though from exhaust, will try removing filter and fuel cap. Thanks for input guys.",
+    "lastEdited" : "Mon Oct 23, 2017 9:47 pm"
+  }, {
+    "postId" : "904996",
+    "author" : {
+      "username" : "lids_2001",
+      "userId" : "904996",
+      "joined" : "Sat Dec 10, 2005 7:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Enfield, North London",
+      "postCount" : "283",
+      "avatarPath" : null
+    },
+    "content" : "check your timing, backfire through exhaust is normally ignition related, but not always.",
+    "lastEdited" : "Mon Oct 23, 2017 10:11 pm"
+  }, {
+    "postId" : "905339",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "905339",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Sounds like you're over feeling. Starts and runs when cold....being overly rich is like having a cold start choke....but once a little warm it'll stumble and stop? Backfire through the zorst also suggest over fuelling so try winding in the idle mixtures and leaning it off a bit.",
+    "lastEdited" : "Tue Oct 31, 2017 8:50 pm"
+  }, {
+    "postId" : "905546",
+    "author" : {
+      "username" : "Rich W",
+      "userId" : "905546",
+      "joined" : "Wed May 27, 2015 8:48 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "24",
+      "avatarPath" : null
+    },
+    "content" : "After checking all possibilities of a fuel issue including float heights, adjusting mixture screws and checking fuel lines engine is now running perfectly, not sure what the actual cause was but it's running great now. Thanks again for the suggestions.",
+    "lastEdited" : "Sun Nov 05, 2017 8:42 pm"
+  } ]
+}

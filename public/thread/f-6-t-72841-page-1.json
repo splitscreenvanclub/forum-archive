@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "72841",
+  "title" : "Indicator Wiring Question",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=72841",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "561849",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "561849",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "I went to connect up the indicator yesterday, and discovered that the wire colours are all different from standard \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br> \n<br> Its a reproduction indicator from Custom &amp; Commercial (so I'm guessing that it is a Wolfsburg West one).\n<br> \n<br> Anyway the colours of the leads are:\n<br> \n<br> 1. Black with a white trace\n<br> 2. Black with a yellow trace\n<br> 3. Black with a green trace\n<br> 4. Black with a red trace\n<br> 5. Black\n<br> 6. Long black\n<br> \n<br> I buzzed the assembly last night, and found out the following:\n<br> \n<br> \n<span style=\"text-decoration:underline\">When the indicator is in the MIDDLE position, the following wires are connected:</span>\n<br> Black with red trace + Black with yellow trace + black\n<br> \n<br> \n<span style=\"text-decoration:underline\">When the indicator is in the LEFT position, the following wires are connected:</span>\n<br> 1. Black with white trace + black with yellow trace + Long black\n<br> 2. Black with red trace + black\n<br> \n<br> \n<span style=\"text-decoration:underline\">When the indicator is in the RIGHT position, the following wires are connected:</span>\n<br> 1. Black with green trace + Black with red trace + Long black\n<br> 2. Black with yellow trace + Black\n<br> \n<br> Can anyone help me with identifying which cable goes to the front indicators, rear indicators, fuse block and relay ????\n<br> \n<br> Thanks,\n<br> \n<br> Phil. \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\">",
+    "lastEdited" : "Mon Feb 07, 2011 12:45 pm"
+  }, {
+    "postId" : "561866",
+    "author" : {
+      "username" : "tewski58",
+      "userId" : "561866",
+      "joined" : "Sun Oct 04, 2009 11:40 pm",
+      "profileRank" : "Registered user",
+      "location" : "MIDLANDSHIRE",
+      "postCount" : "166",
+      "avatarPath" : "./download/file.php%3Favatar=33623_1288657066.jpg"
+    },
+    "content" : "<a href=\"http://www.vintagebus.com/\" class=\"postlink\">http://www.vintagebus.com/</a> \n<br> \n<br> good chance every bus on here has a slightly , if not completely diffrent , wiring set up , nature of the beast i spose , if you go to link above you can download a full set of diagrams n indexes for your year bus and you can sort it out by the process of elimination , thats what i did , first job tho ...CHECK N CLEAN ALL EARTHS ... hope this helps dude",
+    "lastEdited" : "Mon Feb 07, 2011 1:42 pm"
+  }, {
+    "postId" : "561881",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "561881",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "Cheers tewski58,\n<br> \n<br> The indicator assembly is BRAND NEW, and it is the flying leads I'm trying to identify...... \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\"> \n<br> \n<br> Will have another look at vintagebus.com tonight.\n<br> \n<br> I'll also e-mail WW to see what they say.\n<br> \n<br> Cheers,\n<br> \n<br> Phil. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Feb 07, 2011 3:06 pm"
+  }, {
+    "postId" : "561897",
+    "author" : {
+      "username" : "shambly",
+      "userId" : "561897",
+      "joined" : "Mon Aug 20, 2007 8:09 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Salisbury",
+      "postCount" : "139",
+      "avatarPath" : null
+    },
+    "content" : "Phil,\n<br> \n<br> I'd say\n<br> \n<br> Left front Indicator: Black/White\n<br> Right front Indicator: Black/Green\n<br> \n<br> Left rear Indicator/Brake: Black/Yellow\n<br> Right rear Indicator/Brake: Black/Red\n<br> \n<br> Black = supply from brake switch\n<br> \n<br> Black Long = indicator supply from flasher\n<br> \n<br> (On the basis that this is a us switch so 3 wires are for the rear lights and 3 for the front. The switch is disconnecting the brake light from the side that is flashing as it is a single common bulb).\n<br> \n<br> Does that help? I stripped all this stuff out of my 64 to convert to a 3 wire stalk and fitting euro rear lights. It got rid of a ton of wiring....\n<br> \n<br> Simon",
+    "lastEdited" : "Mon Feb 07, 2011 4:37 pm"
+  }, {
+    "postId" : "562020",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "562020",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "Hi Simon,\n<br> \n<br> Yea it helps, cheers \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> - It has confirmed what I was thinking, and made me have another look at the wiring diagrams (as I think I am using a bit off 3 different years \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> ). I might have to make my own diagram up for future reference.\n<br> \n<br> Although I have a USA bus, I'm running euro style with bullet indicators at the front, and seperate indicators at the rear (not combined with the brake lights anymore).\n<br> \n<br> I think I agree that 4 of the wires are to the 4 indicators, and that the long black goes to the flasher relay.\n<br> \n<br> The short black is just not used (as my brake switch will go from the fuse box to the switch, and straight to the rear lights). It doesn't go anywhere near the indicator switch at all......\n<br> \n<br> Thanks for the help \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Feb 07, 2011 9:17 pm"
+  }, {
+    "postId" : "562158",
+    "author" : {
+      "username" : "OxonPhil",
+      "userId" : "562158",
+      "joined" : "Tue Aug 30, 2005 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "2718",
+      "avatarPath" : null
+    },
+    "content" : "I've just received a reply from Wolfsburg West (very nice man \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> )\n<br> \n<br> Wire connection is based on the year of your Bus, as well as if you are have a 4-way emergency flasher system installed. Here's the information for what each wire controls:\n<br> \n<br> 1. Black with a white trace (controls front left indicator function)\n<br> 2. Black with a yellow trace (controls left rear taillight)\n<br> 3. Black with a green trace (controls front right indicator function)\n<br> 4. Black with a red trace (controls right rear taillight function)\n<br> 5. Black with a purple trace (input from brake light switch, the wire coming from your brake light switch is typically black/red)\n<br> 6. Long black (input to turn signal flasher relay.To terminal 87b if using 4-way emergency flash system. If not equipped with 4-way emergency flash system, connect to Terminal 54 of original turn signal flasher or 49a if using a replacement turn signal flasher.) \n<br> \n<br> Guess that confirms that the brake light switch to indicator isn't needed \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> Thanks for all the help.........just need to try it now.",
+    "lastEdited" : "Tue Feb 08, 2011 12:38 pm"
+  }, {
+    "postId" : "886990",
+    "author" : {
+      "username" : "R32GUY",
+      "userId" : "886990",
+      "joined" : "Mon Jul 04, 2016 12:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : "./download/file.php%3Favatar=41494_1476111301.png"
+    },
+    "content" : "don't suppose you have a contact email with who helped you on this- I have a indicator with a flasher action (9 cable version) that I want to have similar info on.\n<br> \n<br> Ta",
+    "lastEdited" : "Mon Nov 07, 2016 10:11 pm"
+  } ]
+}

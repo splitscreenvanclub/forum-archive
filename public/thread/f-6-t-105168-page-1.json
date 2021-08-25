@@ -1,0 +1,50 @@
+{
+  "forumId" : "6",
+  "threadId" : "105168",
+  "title" : "944 n/a caliper adaptors",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=105168",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "799005",
+    "author" : {
+      "username" : "Ollie",
+      "userId" : "799005",
+      "joined" : "Wed Oct 05, 2005 11:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "On the beach",
+      "postCount" : "958",
+      "avatarPath" : "./download/file.php%3Favatar=1749_1264418851.jpg"
+    },
+    "content" : "Does anyone have the measurement for how thick they are?\n<br>\n<br>I need the thickness of the section that the caliper mounts to...\n<br>\n<br>Thanks,\n<br>\n<br>Ollie",
+    "lastEdited" : "Thu Aug 21, 2014 1:31 pm"
+  }, {
+    "postId" : "799014",
+    "author" : {
+      "username" : "orange",
+      "userId" : "799014",
+      "joined" : "Tue Jul 04, 2006 6:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "south london, sutton",
+      "postCount" : "314",
+      "avatarPath" : "http://i177.photobucket.com/albums/w208/bowatpa/avatar/hippyvancropped.jpg"
+    },
+    "content" : "Hi what callipers? steel or 4 pot,\n<br>\n<br>I calculated the thickness by taking distance of the centre line of the calliper to its inner mount face and comparing it to the distance of the centre line of the disc to the mounting face of the adaptor on the spindle.\n<br>\n<br>here's the drawing of the calliper mount I made for 4 pot callipers\n<br>\n<br>Hope this helps\n<br>\n<br>\n<img src=\"https://lh3.googleusercontent.com/-fJBWNvvBd8U/U_YFlgcOxXI/AAAAAAAAIpU/Tw0newAEMtc/s640/944%2520caliper%2520mount%2520for%2520split%2520screen%2520van.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>\n<img src=\"https://lh5.googleusercontent.com/-HMiebp4QDRE/Rq5zNMyunzI/AAAAAAAAFA4/9O37Ws0iZE0/s400/caliper%2520mount%2520and%2520caliper.JPG\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Thu Aug 21, 2014 2:57 pm"
+  }, {
+    "postId" : "799188",
+    "author" : {
+      "username" : "Ollie",
+      "userId" : "799188",
+      "joined" : "Wed Oct 05, 2005 11:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "On the beach",
+      "postCount" : "958",
+      "avatarPath" : "./download/file.php%3Favatar=1749_1264418851.jpg"
+    },
+    "content" : "Thanks Paul, I was after the single pot steels. I wonder if they're the same? Ollie",
+    "lastEdited" : "Sat Aug 23, 2014 6:31 am"
+  } ]
+}

@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "115120",
+  "title" : "King and link pins",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115120",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868145",
+    "author" : {
+      "username" : "Ukrobotman",
+      "userId" : "868145",
+      "joined" : "Wed Mar 12, 2014 5:57 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Welshpool, Wales",
+      "postCount" : "65",
+      "avatarPath" : "./download/file.php%3Favatar=39002_1423944720.jpg"
+    },
+    "content" : "Can anyone advise me about how to asses the state of King and link pins.\n<br>I've stripped my 62 and am now looking at front spindles, King pins and link pins. The problem is I'm not experienced in being able to asses what state these are in and if I need to replace anything. Can anyone tell me what procedure you use to work out excess play etc, what to look for. Or failing that who I can send them to that has more experience than me to tell me\n<br>Who refurbishes these complete units?\n<br>Steve\n<br>\n<a href=\"http://s91.photobucket.com/user/Ukrobotman/media/image_zpsj2fhb7sh.jpeg.html\" class=\"postlink\"><img src=\"http://i91.photobucket.com/albums/k289/Ukrobotman/image_zpsj2fhb7sh.jpeg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Sat Mar 19, 2016 5:47 pm"
+  }, {
+    "postId" : "868157",
+    "author" : {
+      "username" : "craig_rose",
+      "userId" : "868157",
+      "joined" : "Sat Feb 01, 2014 6:51 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sunny slough",
+      "postCount" : "402",
+      "avatarPath" : null
+    },
+    "content" : "If you want the spindles re furbished gillybilly on here is your man",
+    "lastEdited" : "Sat Mar 19, 2016 8:25 pm"
+  }, {
+    "postId" : "868317",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "868317",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1332",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "You should have checked for play before you took them off the bus, difficult to detect when off, unless completely knackered",
+    "lastEdited" : "Mon Mar 21, 2016 5:30 pm"
+  }, {
+    "postId" : "868323",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "868323",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10374",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "I have used Rustng Hulk\n<br>Recommended...\n<br>G",
+    "lastEdited" : "Mon Mar 21, 2016 7:05 pm"
+  }, {
+    "postId" : "869022",
+    "author" : {
+      "username" : "tim.b",
+      "userId" : "869022",
+      "joined" : "Tue Mar 01, 2005 5:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "Worcestershire",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "Thumbs up for Rusting Hulk. Did a great job on my king and links",
+    "lastEdited" : "Sun Mar 27, 2016 11:32 pm"
+  }, {
+    "postId" : "869060",
+    "author" : {
+      "username" : "split999",
+      "userId" : "869060",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2287",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>tim.b wrote:</cite>Thumbs up for Rusting Hulk. Did a great job on my king and links\n </div>\n</blockquote>\n<br>\n<br>And mine too. Also a very helpful chap. Thoroughly recommend Rusting Hulk.",
+    "lastEdited" : "Mon Mar 28, 2016 1:08 pm"
+  }, {
+    "postId" : "869070",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "869070",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10374",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Yes very good guy is Simon...\n<br>G",
+    "lastEdited" : "Mon Mar 28, 2016 1:57 pm"
+  } ]
+}

@@ -1,0 +1,50 @@
+{
+  "forumId" : "6",
+  "threadId" : "112406",
+  "title" : "Year of my bus",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112406",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847793",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "847793",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "501",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br>\n<br>I bought my van 3 years ago as a 58 import from the states, so i was told. I registered as 58. Now, i have receive my birth certificate which states its a 57. Should i get my v5 changed to say 57, or am I missing something here?",
+    "lastEdited" : "Thu Sep 03, 2015 8:41 pm"
+  }, {
+    "postId" : "847798",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "847798",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "192",
+      "avatarPath" : null
+    },
+    "content" : "Will possibly be that it was manufactured 57 and registered for the first time in 58",
+    "lastEdited" : "Thu Sep 03, 2015 9:43 pm"
+  }, {
+    "postId" : "847911",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "847911",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7396",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "What month 57?\n<br>My bus is September 64 which makes it a 65 model year. ....in VW parlance....",
+    "lastEdited" : "Sat Sep 05, 2015 3:01 am"
+  } ]
+}

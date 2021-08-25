@@ -1,0 +1,37 @@
+{
+  "forumId" : "6",
+  "threadId" : "110968",
+  "title" : "Bus keeps pulling to the right when braking",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=110968&start=15",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 17,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "838653",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "838653",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hampshire",
+      "postCount" : "2080",
+      "avatarPath" : "./download/file.php%3Favatar=504_1262875373.jpg"
+    },
+    "content" : "Have you tried swapping the wheels over ..... might sound funny but I had an issue like this a couple of years back kept adjusting, removing, replacing the brakes checked tyre pressures etc did my head in only to find it was wheel balance just something to keep in mind.",
+    "lastEdited" : "Tue Jun 16, 2015 3:04 pm"
+  }, {
+    "postId" : "838664",
+    "author" : {
+      "username" : "Vermeulen",
+      "userId" : "838664",
+      "joined" : "Sun Sep 25, 2005 8:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Belgium",
+      "postCount" : "713",
+      "avatarPath" : "http://img.photobucket.com/albums/v296/blackred206cc/Lemorrisbus.gif"
+    },
+    "content" : "yup swapped the wheels , swapped de brake lines and swapped the drums . \n<br>\n<br>Every time the same problem . Hot on the right , pulling to the right\n<br>\n<br>Hope i have my new brakepads by thursday",
+    "lastEdited" : "Tue Jun 16, 2015 5:02 pm"
+  } ]
+}

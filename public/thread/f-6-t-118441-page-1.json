@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "118441",
+  "title" : "Where to get tracking done?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=118441",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ba8f6bb0a0ff4fc6201af8dfdf695e88",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "891612",
+    "author" : {
+      "username" : "DaveyMoon",
+      "userId" : "891612",
+      "joined" : "Fri Oct 17, 2014 9:46 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York, UK",
+      "postCount" : "24",
+      "avatarPath" : "./download/file.php%3Favatar=39791_1420570114.gif"
+    },
+    "content" : "Having done a bunch of work on my bus I need to get the tracking done. Is doing splitty tracking a fairly standard job i.e. Should it be done right if I go to a decent independent garage? or do I need to take it to a bus specialist?",
+    "lastEdited" : "Sun Feb 05, 2017 5:21 pm"
+  }, {
+    "postId" : "891688",
+    "author" : {
+      "username" : "PeterJ",
+      "userId" : "891688",
+      "joined" : "Wed Feb 16, 2011 9:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> It is pretty standard but you'll likely need to go to somewhere where they have older tracking kit. Some time ago I went along to my friendly tyre/service centre and was told that their modern laser gear wasn't suitable for the job. They kindly directed me to another local place which had a set of the more traditional Dunlop optical gauges. If you might want to check your tracking on a more regular basis you could consider getting a second hand set, usually available from the usual well known auction site. Other optical gauges are also available, including Trackace and Trackrite but I've never used those so don't know how well they might work.",
+    "lastEdited" : "Mon Feb 06, 2017 3:55 pm"
+  }, {
+    "postId" : "891715",
+    "author" : {
+      "username" : "DaveyMoon",
+      "userId" : "891715",
+      "joined" : "Fri Oct 17, 2014 9:46 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York, UK",
+      "postCount" : "24",
+      "avatarPath" : "./download/file.php%3Favatar=39791_1420570114.gif"
+    },
+    "content" : "Great - thank you Peter",
+    "lastEdited" : "Tue Feb 07, 2017 12:30 am"
+  }, {
+    "postId" : "891716",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "891716",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1042",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I had no problem at my local National Tyre Centre last spring. Can't see why any other place with modern gear should struggle.\n<br> \n<br> Be aware that if it's miles off because a previous owner has buggered around with it, you may have to adjust the drag link to correct your steering wheel alignment after they set the road wheel alignment. Adjusting the drag link to centre the steering wheel won't be part of a tyre centre etc's service. My alignment was off by 8mm and someone had centred the steering wheel while the alignment was wrong, so I had to adjust the drag link. If yours has been looked after, you shouldn't have a problem though.\n<br> \n<br> If you'd trust the place to fit your tyres, they should be capable of sorting the alignment on a splitty.\n<br> \n<br> If you need tyres though, and you've got stock wheels, look for a place that does commercial and/or agricultural tyres. The tyre valves aren't the same as most modern cars use (Land Rover valves will fit though) and the lack of a centre hole for the hub makes balancing them impossible on modern wheel balancing kit without an adaptor that they probably won't have.",
+    "lastEdited" : "Tue Feb 07, 2017 8:12 am"
+  }, {
+    "postId" : "892056",
+    "author" : {
+      "username" : "eliotc",
+      "userId" : "892056",
+      "joined" : "Mon May 04, 2009 8:09 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "124",
+      "avatarPath" : "./download/file.php%3Favatar=33079_1401711020.jpg"
+    },
+    "content" : "I struggled to find a garage who could do mine, because of the large hub nut on the rear axle meaning that they couldn't fit their laser kit on the back wheels. Also, the first reaction from the garages were that this car wouldn't be on their database so they wouldn't know how much camber they should set. So if you find someone, you'll probably need to tell them how much camber is needed. Sorry, I can't remember the values off the top off my head. If you do take it to a garage, spray the lock nuts on the track arms first with WD40 and see if you can loosen them yourself - that'll save any ham fisted mechanic breaking something if they're seized. In the end, after following some instructions on the net, I did it the old fashion way - with string and after about 10,000 miles I don't have any uneven tyre wear, so I reckon I've got it about right.",
+    "lastEdited" : "Mon Feb 13, 2017 11:47 am"
+  }, {
+    "postId" : "892102",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "892102",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20054",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yep, I use the Dunlop gauges, as all the places around here hang the modern kit off the tyres and you need wheel arch clearance to do that, which lowered buses don't have.",
+    "lastEdited" : "Mon Feb 13, 2017 8:40 pm"
+  } ]
+}

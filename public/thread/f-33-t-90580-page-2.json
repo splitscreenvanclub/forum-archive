@@ -1,0 +1,66 @@
+{
+  "forumId" : "33",
+  "threadId" : "90580",
+  "title" : "Rikki james",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=90580&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=2821269c15d60abd378e42751711c228",
+    "label" : "Pointless Bitching"
+  } ],
+  "totalPosts" : 19,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "702037",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "702037",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>buzz wrote:</cite>i agree with this thread....... totally pointless!!!! \n  <img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">\n </div>\n</blockquote> Exactly \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Sat Feb 02, 2013 11:52 pm"
+  }, {
+    "postId" : "711363",
+    "author" : {
+      "username" : "jerry h",
+      "userId" : "711363",
+      "joined" : "Thu Mar 14, 2013 4:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "hampshire",
+      "postCount" : "156",
+      "avatarPath" : null
+    },
+    "content" : "Sorry to ask but who or what is a rikki james?\n<br> Is it some sort of galvanised trailer ?",
+    "lastEdited" : "Tue Mar 19, 2013 10:02 pm"
+  }, {
+    "postId" : "711368",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "711368",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "4054",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>jerry h wrote:</cite>Sorry to ask but who or what is a rikki james?\n  <br> Is it some sort of galvanised trailer ?\n </div>\n</blockquote> Rikki told of a very, very early bus find, but did not reveal it due to secrets about its location and seller! We all lost the will to live and its still unresolved as hoaxes were thrown in to the mix. All in all a great laugh..",
+    "lastEdited" : "Tue Mar 19, 2013 10:09 pm"
+  }, {
+    "postId" : "711407",
+    "author" : {
+      "username" : "matt d",
+      "userId" : "711407",
+      "joined" : "Tue Nov 30, 2010 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "South Devon.",
+      "postCount" : "1773",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>jerry h wrote:</cite>Sorry to ask but who or what is a rikki james?\n  <br> Is it some sort of galvanised trailer ?\n </div>\n</blockquote> That's his dad Brian isn't it?? \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Wed Mar 20, 2013 7:32 am"
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "forumId" : "6",
+  "threadId" : "110841",
+  "title" : "Steam train noises !",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=110841",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 10,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "837556",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "837556",
+      "joined" : "Mon May 23, 2005 10:30 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Mayrhofen, Austria (but my for sale bits are in the UK)",
+      "postCount" : "1629",
+      "avatarPath" : "http://farm2.static.flickr.com/1289/4696117776_437112e1e3_t.jpg"
+    },
+    "content" : "Hello\n<br>\n<br>Was just adjusting the timing on my engine and i notices that when i turn the pulley manually I occasional get a whistle noise, not really loud, but loud enough for me to notice it !\n<br>\n<br>It's the kind of whistle you hear from a steam train .... \n<br>\n<br>Should any be worrying ?\n<br>\n<br>Anything i need to be checking as a priority ?\n<br>\n<br>Thanks\n<br>\n<br>NikC",
+    "lastEdited" : "Sun Jun 07, 2015 2:14 pm"
+  }, {
+    "postId" : "837558",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "837558",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7449",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Compressing gases escaping past the valve seats",
+    "lastEdited" : "Sun Jun 07, 2015 2:53 pm"
+  }, {
+    "postId" : "837559",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "837559",
+      "joined" : "Mon May 23, 2005 10:30 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Mayrhofen, Austria (but my for sale bits are in the UK)",
+      "postCount" : "1629",
+      "avatarPath" : "http://farm2.static.flickr.com/1289/4696117776_437112e1e3_t.jpg"
+    },
+    "content" : "Ok, I'm guessing that's not great.\n<br>\n<br>I can here a similar but faster white at low power acceleration also ... Seems to disappear when I give it more gas ...\n<br>\n<br>Also running hot, too hot to hold the dipstick \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">\n<br>\n<br>Time to call in a pro I guess \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">\n<br>\n<br>\n<br>Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun Jun 07, 2015 2:56 pm"
+  }, {
+    "postId" : "837595",
+    "author" : {
+      "username" : "OP",
+      "userId" : "837595",
+      "joined" : "Thu Apr 17, 2003 7:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham/Cornwall",
+      "postCount" : "1959",
+      "avatarPath" : "http://img.photobucket.com/albums/v215/Dubberware/55%20Bus/ron_newark_air_160314_160px_zps5d2a0148.gif"
+    },
+    "content" : "Have you checked your valve clearances lately?",
+    "lastEdited" : "Sun Jun 07, 2015 11:34 pm"
+  }, {
+    "postId" : "837607",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "837607",
+      "joined" : "Mon May 23, 2005 10:30 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Mayrhofen, Austria (but my for sale bits are in the UK)",
+      "postCount" : "1629",
+      "avatarPath" : "http://farm2.static.flickr.com/1289/4696117776_437112e1e3_t.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>OP wrote:</cite>Have you checked your valve clearances lately?\n </div>\n</blockquote>\n<br>\n<br>Nope - will get it on the list, a possible candidate for the noise ?",
+    "lastEdited" : "Mon Jun 08, 2015 8:54 am"
+  }, {
+    "postId" : "837655",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "837655",
+      "joined" : "Mon May 23, 2005 10:30 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Mayrhofen, Austria (but my for sale bits are in the UK)",
+      "postCount" : "1629",
+      "avatarPath" : "http://farm2.static.flickr.com/1289/4696117776_437112e1e3_t.jpg"
+    },
+    "content" : "Ok - went an had another look .... it seems to be coming from the left carb, see:\n<br>\n<br>[youtube]http://www.youtube.com/watch?v=clW7RNq0fEg[/youtube]",
+    "lastEdited" : "Mon Jun 08, 2015 4:56 pm"
+  }, {
+    "postId" : "837780",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "837780",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2419",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1337002549.jpg"
+    },
+    "content" : "Compression test",
+    "lastEdited" : "Tue Jun 09, 2015 7:31 pm"
+  }, {
+    "postId" : "837984",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "837984",
+      "joined" : "Mon May 23, 2005 10:30 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Mayrhofen, Austria (but my for sale bits are in the UK)",
+      "postCount" : "1629",
+      "avatarPath" : "http://farm2.static.flickr.com/1289/4696117776_437112e1e3_t.jpg"
+    },
+    "content" : "So it seems the issue is a gasket ... and a known issue !\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://vwparts.aircooled.net/Dellorto-DRLA-Anti-Whistle-Base-Gaskets-PAIR-p/dellorto-whistle-gasket.htm\">http://vwparts.aircooled.net/Dellorto-D ... gasket.htm</a>\n<!-- m -->\n<br>\n<br>I've ordered new gaskets already, but sadly not these ones \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Thu Jun 11, 2015 9:27 am"
+  }, {
+    "postId" : "838720",
+    "author" : {
+      "username" : "Camper Chick",
+      "userId" : "838720",
+      "joined" : "Wed Apr 20, 2011 6:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "27",
+      "avatarPath" : "./download/file.php%3Favatar=35311_1304615212.jpg"
+    },
+    "content" : "Hi Nik\n<br>\n<br>Did you get the noise sorted? We have a whining/whistling noise on our engine. We've tried everything to no avail so the engine's coming out tomoro for further investigation. Wonder if it's the same problem you've got. I'll try and get a video later. It might help other people.\n<br>\n<br>Good luck with the fault finding!\n<br>\n<br>Amanda",
+    "lastEdited" : "Wed Jun 17, 2015 6:54 am"
+  }, {
+    "postId" : "839132",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "839132",
+      "joined" : "Mon May 23, 2005 10:30 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Mayrhofen, Austria (but my for sale bits are in the UK)",
+      "postCount" : "1629",
+      "avatarPath" : "http://farm2.static.flickr.com/1289/4696117776_437112e1e3_t.jpg"
+    },
+    "content" : "Sadly not ! Just changed the gasket on the carb today and its still there ....\n<br>\n<br>When the engine is running its fine, when i stop the engine it does one \"peep\"\n<br>\n<br>Interestingly ... when i turn the engine over by hand with the throttle open, no noise, when its close, i get the noise ....\n<br>\n<br>A bit lost now ....",
+    "lastEdited" : "Sat Jun 20, 2015 3:38 pm"
+  } ]
+}

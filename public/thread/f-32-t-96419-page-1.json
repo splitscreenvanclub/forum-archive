@@ -1,0 +1,76 @@
+{
+  "forumId" : "32",
+  "threadId" : "96419",
+  "title" : "Inbox full and wont let me 'Mark all'",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=96419",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "738138",
+    "author" : {
+      "username" : "Sooty",
+      "userId" : "738138",
+      "joined" : "Sun Dec 09, 2007 10:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Upt Norfff........ Bingley.",
+      "postCount" : "10075",
+      "avatarPath" : "http://i249.photobucket.com/albums/gg224/spikecrewcab/Random/CB4DC5D0-7468-422E-A389-2417B023445D-6862-000007698E793465.jpg"
+    },
+    "content" : "Few too many PM's so I would like to delete some.\n<br>\n<br>The icon at the bottom, 'MARK ALL' is great, but when clicked it just returns you to the top of the page.\n<br>\n<br>Also, search for a member starting with the letter .... still isn't working.\n<br>\n<br>Many thanks, Soots.",
+    "lastEdited" : "Fri Aug 02, 2013 9:53 am"
+  }, {
+    "postId" : "738168",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "738168",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "762",
+      "avatarPath" : null
+    },
+    "content" : "Do you mean search for a member using the Find Member link? You have to add the wildcard (*) after the single letter, e.g. searching for s* works.\n<br>\n<br>Mark",
+    "lastEdited" : "Fri Aug 02, 2013 11:54 am"
+  }, {
+    "postId" : "738175",
+    "author" : {
+      "username" : "Sooty",
+      "userId" : "738175",
+      "joined" : "Sun Dec 09, 2007 10:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Upt Norfff........ Bingley.",
+      "postCount" : "10075",
+      "avatarPath" : "http://i249.photobucket.com/albums/gg224/spikecrewcab/Random/CB4DC5D0-7468-422E-A389-2417B023445D-6862-000007698E793465.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>MarkFer wrote:</cite>Do you mean search for a member using the Find Member link? You have to add the wildcard (*) after the single letter, e.g. searching for s* works.\n  <br>\n  <br>Mark\n </div>\n</blockquote>\n<br>\n<br>No, click members then on the left is username begins with and a box. Click the box and A - Z should come up. \n<br>\n<br>It's just blank. \n<br>\n<br>Useful if you know roughly what a user is called or even the first letter. \n<br>\n<br>I managed to find the person I was after but had to start at A and click next page a fair few times to get to H!",
+    "lastEdited" : "Fri Aug 02, 2013 12:32 pm"
+  }, {
+    "postId" : "788134",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "788134",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Both of these should now be fixed \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Sat Jun 07, 2014 2:00 pm"
+  }, {
+    "postId" : "788217",
+    "author" : {
+      "username" : "Sooty",
+      "userId" : "788217",
+      "joined" : "Sun Dec 09, 2007 10:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Upt Norfff........ Bingley.",
+      "postCount" : "10075",
+      "avatarPath" : "http://i249.photobucket.com/albums/gg224/spikecrewcab/Random/CB4DC5D0-7468-422E-A389-2417B023445D-6862-000007698E793465.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>paul_f wrote:</cite>Both of these should now be fixed \n  <img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">\n </div>\n</blockquote>\n<br>\n<br>\n<br>Diamond. \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Sat Jun 07, 2014 10:00 pm"
+  } ]
+}

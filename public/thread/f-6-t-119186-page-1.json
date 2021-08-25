@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "119186",
+  "title" : "jacking up the front end advice please",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119186",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=456dc8c6353ec686fb96527f9bb10f93",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "896718",
+    "author" : {
+      "username" : "piran",
+      "userId" : "896718",
+      "joined" : "Thu Jul 24, 2014 5:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "hi,\n<br> my bus is fitted with a red9 design front beam set up and i need to jack up the front end but don't have the kind of jack that fits in to the jacking points on my bus and i believe you can use the jack on the red9 set up in case it gets damaged etc.\n<br> any ideas with pics if poss of other places on the front end i can jack up without damaging anything.\n<br> many thanks",
+    "lastEdited" : "Wed May 03, 2017 5:35 pm"
+  }, {
+    "postId" : "896738",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "896738",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5514",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Use a trolley jack with a bit of wood to spread the load and jack it where the outrigger meets the chassis rail.",
+    "lastEdited" : "Wed May 03, 2017 8:52 pm"
+  }, {
+    "postId" : "896747",
+    "author" : {
+      "username" : "piran",
+      "userId" : "896747",
+      "joined" : "Thu Jul 24, 2014 5:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "many thanks for your help\n<br> much appreciated",
+    "lastEdited" : "Wed May 03, 2017 9:45 pm"
+  }, {
+    "postId" : "896821",
+    "author" : {
+      "username" : "susta",
+      "userId" : "896821",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "I use a bit of 80mm square Oak across the chassis rails in front of the Red9, that way you lift the front of the bus complete",
+    "lastEdited" : "Fri May 05, 2017 3:28 pm"
+  } ]
+}

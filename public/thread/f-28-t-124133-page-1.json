@@ -1,0 +1,40 @@
+{
+  "forumId" : "28",
+  "threadId" : "124133",
+  "title" : "whats happening with BWA",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=124133",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=e22f48d5ac6d31fa4b314b989b5f8c13",
+    "label" : "BWA"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "926871",
+    "author" : {
+      "username" : "gihanj",
+      "userId" : "926871",
+      "joined" : "Wed Jul 24, 2019 3:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "BWA STILL GOING ?\n<br> how to join etc, i cant see any updates on this anywhere",
+    "lastEdited" : "Tue Dec 03, 2019 10:34 pm"
+  }, {
+    "postId" : "926990",
+    "author" : {
+      "username" : "bugdude63",
+      "userId" : "926990",
+      "joined" : "Sat Mar 01, 2014 11:23 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "I think i was the only one out this year lol.",
+    "lastEdited" : "Thu Dec 12, 2019 10:08 pm"
+  } ]
+}

@@ -1,0 +1,24 @@
+{
+  "forumId" : "55",
+  "threadId" : "97610",
+  "title" : "Ebay forum",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=97610",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "746801",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "746801",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6009",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "This is a new forum to allow the posting of your own VW only related Ebay items\n<br>\n<br>Cheers\n<br>Paul",
+    "lastEdited" : "Sun Sep 15, 2013 1:56 pm"
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "forumId" : "57",
+  "threadId" : "119678",
+  "title" : "Next deadline",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=119678",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57",
+    "label" : "Magazine"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "899981",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "899981",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1204",
+      "avatarPath" : "http://www.charity-bolivia.org/vw/DOUGAL.jpg"
+    },
+    "content" : "When is the next deadline for articles to be included into the next magazine?\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Tue Jul 11, 2017 9:40 am"
+  }, {
+    "postId" : "900033",
+    "author" : {
+      "username" : "Sally",
+      "userId" : "900033",
+      "joined" : "Fri May 19, 2017 1:58 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "Next issue will be out in October so the deadline will be around the beginning of September.\n<br> July issue should be in the post this week.\n<br> Hope you all enjoy the read.\n<br> Please send your articles to \n<a href=\"mailto:magazine@ssvc.org.uk\">magazine@ssvc.org.uk</a>\n<br> Thanks,\n<br> Sally",
+    "lastEdited" : "Tue Jul 11, 2017 9:06 pm"
+  }, {
+    "postId" : "900285",
+    "author" : {
+      "username" : "ninja007",
+      "userId" : "900285",
+      "joined" : "Mon Apr 03, 2017 12:39 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=42152\">Sally</a> wrote: <a href=\"./viewtopic.php?p=900033#p900033\" data-post-id=\"900033\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Tue Jul 11, 2017 9:06 pm\n   </div></cite> Next issue will be out in October so the deadline will be around the beginning of September.\n  <br> July issue should be in the post this week.\n  <br> Hope you all enjoy the read.\n  <br> Please send your articles to \n  <a href=\"mailto:magazine@ssvc.org.uk\">magazine@ssvc.org.uk</a>\n  <br> Thanks,\n  <br> Sally \n </div>\n</blockquote> Thanks for sharing email address i was looking for it!",
+    "lastEdited" : "Mon Jul 17, 2017 9:37 am"
+  } ]
+}

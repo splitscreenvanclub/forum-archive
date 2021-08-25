@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "108685",
+  "title" : "Help me to understand trans gear ratios",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=108685",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 33,
+  "pageNumber" : 1,
+  "totalPages" : 3,
+  "posts" : [ {
+    "postId" : "822866",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "822866",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "980",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "I had a new (rebuilt) Rancho trans installed in my 67' S042 last year. I am running stock height with reduction boxes and a 1600 dual port single carb set-up. I discussed what was best for my usage plans ( distance driving on freeway and mountain climbs in France ect..) with the guys at Rancho. I told them I wanted a longer 4th gear (freeway flyer) and they said they understood what I wanted. It was installed it all works fine but there just seems to be something missing. I called them yesterday and asked for the tech data from the build and this is what they sent back. \n<br> \n<br> \n<strong class=\"text-strong\"><br> Stock Rebuilt 002 Bus Trans 5.38 R/P 3.80-2.06-1.26-.82 </strong>\n<br> \n<br> I have read a lot on the web but I am more confused then ever. Could someone here explain exactly what they did and if it right for what I need.\n<br> \n<br> Thanks,\n<br> \n<br> Dan (aka it seems: Bertrand)",
+    "lastEdited" : "Sat Feb 21, 2015 8:36 am"
+  }, {
+    "postId" : "822879",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "822879",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Do you have a bay gearbox?",
+    "lastEdited" : "Sat Feb 21, 2015 9:55 am"
+  }, {
+    "postId" : "822881",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "822881",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "980",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "My best answer to that is I don't know. The code stamped on the trans is: AH 2776548. Would that make a difference? Totally in the dark here.",
+    "lastEdited" : "Sat Feb 21, 2015 10:03 am"
+  }, {
+    "postId" : "822932",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "822932",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "No sounds like a beetle IRS gearbox to me. Can you take a photo of it?",
+    "lastEdited" : "Sat Feb 21, 2015 6:57 pm"
+  }, {
+    "postId" : "822935",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "822935",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "980",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "I can make a photo but can I have an IRS gearbox if I have reduction boxes? probably a stupid question. Try to get a photo tomorrow.\n<br> \n<br> Update: It seems that it is a Beetle IRS box. But since it has been rebuilt does it matter what the case was originally used for?",
+    "lastEdited" : "Sat Feb 21, 2015 7:15 pm"
+  }, {
+    "postId" : "822951",
+    "author" : {
+      "username" : "gbsteve",
+      "userId" : "822951",
+      "joined" : "Fri Sep 30, 2011 12:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Dorset",
+      "postCount" : "305",
+      "avatarPath" : null
+    },
+    "content" : "Hi the Ah denotes a 1303s irs box but i could have had it's internals modified you need to confirm its not irs first it seems strange that you have a freeway flyer with reduction boxes i might be wrong but the whole point of changing the box is to get better ratios for cruising on motorways where as reduction boxes lower the ratios for better hill climbing",
+    "lastEdited" : "Sat Feb 21, 2015 8:09 pm"
+  }, {
+    "postId" : "822984",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "822984",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Yes they have used an AH (1302S case). But those ratios are stock bus ones, but they may have used the 4.12 ring and pinion from that box.\n<br> \n<br> They have given you the wrong information about the vox they supplied though as it definitely isn't a 002 box",
+    "lastEdited" : "Sun Feb 22, 2015 7:42 am"
+  }, {
+    "postId" : "822989",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "822989",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "980",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Thanks for the replies. Still don't really understand though. Does it matter what case they used? Did they actually build what I asked them to?",
+    "lastEdited" : "Sun Feb 22, 2015 8:08 am"
+  }, {
+    "postId" : "823017",
+    "author" : {
+      "username" : "Cam Arnott",
+      "userId" : "823017",
+      "joined" : "Thu Jan 31, 2013 11:43 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "Seems a bit odd to me…...\n<br> \n<br> If I am reading it correctly it is saying your ring and pinion is 5.38 which would be much shorter than the stock 4.375 for a big nut transmission. The gears they have listed are stock including the .82 fourth. Did you ask for a ring &amp; pinion change or a 4th gear change?\n<br> \n<br> Taller ring and pinions from stock would be 4.12 and 3.88.\n<br> \n<br> HTH",
+    "lastEdited" : "Sun Feb 22, 2015 12:29 pm"
+  }, {
+    "postId" : "823031",
+    "author" : {
+      "username" : "Sweet Rides",
+      "userId" : "823031",
+      "joined" : "Wed Oct 18, 2006 7:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "Out in the sticks...",
+      "postCount" : "2624",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Cam Arnott wrote:</cite>Seems a bit odd to me…...\n  <br> \n  <br> If I am reading it correctly it is saying your ring and pinion is 5.38 which would be much shorter than the stock 4.375 for a big nut transmission. The gears they have listed are stock including the .82 fourth. Did you ask for a ring &amp; pinion change or a 4th gear change?\n  <br> \n  <br> Taller ring and pinions from stock would be 4.12 and 3.88.\n  <br> \n  <br> HTH\n </div>\n</blockquote> This ^^^ is the correct info. If you hve stock RGB`s a .82 fourth and a 5.35 R+P then the gearng is going to be horrible. Really Really low geared.\n<br> \n<br> Askings for a box built with a taller 4th gear is a big mistake. Makes the bus horrible to drive with a big gap between third and fourth. In any case they (luckily) haven`t built you a box with a taller fourth as the internal gears you have quoted are all stock ratios.\n<br> \n<br> What is not stock is the 5.35 ring gear. Stock is a 4.37. The 5.35 will make the bus LOWER geared than stock, i.e the opposite of what you are trying to achieve.\n<br> \n<br> If you change out the 5.35 R+P for a 4.12 R+P then you will have the \"Freeway Flier\" gearbox that you want. Do not mess with the 1-4th gears themselves if you want a bus that drives nicely. \n<br> \n<br> The 3.88 R+P option would be too high geared for your 1600 motor and wouldn`t work well at all.\n<br> \n<br> I have no idea why they would fit a 5.35 R+P, that`s very strange indeed. The bus must be screaming at 50mph \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\"> \n<br> \n<br> In short \"NO\" they have not built the box you asked for (but that isn`t necessarily a bad thing as changing the 4th gear is a mistake) BUT they haven`t built you any kind of Freeway Flier box either. Luckily it`s not too major to change out the R+P and if you do this and put in a 4.12, then you will have the box you want \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> No idea on the case codes I`m afriad, that`s not my thing.",
+    "lastEdited" : "Sun Feb 22, 2015 1:17 pm"
+  }, {
+    "postId" : "823044",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "823044",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "980",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Thanks for all the replies. Now I'm really confused and depressed. Why would they build this for me if I asked for a freeway flyer and some hill climbing on vacation. I don't live in the Alps. Let's say I want to change over the R and P. Motor out. Trans/axels out. Can they split the trans case to change the gears without removing the axels and reduction boxes? Wish I would have looked into this sooner as the season is almost here. I guess I'll call Rancho tomorrow to ask why the did what they did. There is a really good VW trans guy here who I will contact as well. Any suggestions of trans experts in the UK?",
+    "lastEdited" : "Sun Feb 22, 2015 3:05 pm"
+  }, {
+    "postId" : "823049",
+    "author" : {
+      "username" : "Sweet Rides",
+      "userId" : "823049",
+      "joined" : "Wed Oct 18, 2006 7:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "Out in the sticks...",
+      "postCount" : "2624",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>paul_f wrote:</cite>Yes they have used an AH (1302S case). But those ratios are stock bus ones, but they may have used the 4.12 ring and pinion from that box.\n  <br> \n  <br> They have given you the wrong information about the box they supplied though as it definitely isn't a 002 box\n </div>\n</blockquote> Rancho are normally really good and I find it hard to belive they would have built you the box you have quoted in your first post based on you saying that you want a freewy flier. I also think that Rancho would have strongly advised against changing the fourth gear to a higher gear as this is well known to give an unpleasant driving experience. When Rancho normally do a freeway flier for a bus (and they do a lot of these...)they usually just use stock bus gear ratios and change out the ring gear from the stock 4.37 to either a 4.12 or 3.88 (depending on what your motor will pull). 90% of the time the best choice is the 4.12. \n<br> \n<br> I know this is the regular \"freeway flier\" RGB set up from Rancho - because I have one myself from them! \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> I have quoted Pauls post above as he could possbky be onto something - maybe they used the 4.12 ring gear from the beetle box you mentioned?\n<br> \n<br> Also is your bus revving hard at 50mph in fourth? If you have a rev counter, a sat nav for speed and know your tyre size it will be possible to calculate what Ring gear you have fitted in the box without having to remove anything \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sun Feb 22, 2015 3:29 pm"
+  }, {
+    "postId" : "823051",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "823051",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "They haven't put a 5.xx r and p in there as it doesn't fit. The lowest is the stock 4.37\n<br> \n<br> Do you have a rev counter? I can work out the ratios if you measure GPS speed and rpm in 3rd and 4th.\n<br> \n<br> Are you using 46mm hub but reduction boxes? Did they supply those?",
+    "lastEdited" : "Sun Feb 22, 2015 3:30 pm"
+  }, {
+    "postId" : "823056",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "823056",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "980",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>paul_f wrote:</cite>They haven't put a 5.xx r and p in there as it doesn't fit. The lowest is the stock 4.37\n  <br> \n  <br> Do you have a rev counter? I can work out the ratios if you measure GPS speed and rpm in 3rd and 4th.\n  <br> \n  <br> Are you using 46mm hub but reduction boxes? Did they supply those?\n </div>\n</blockquote> \n<br> Now I'm really getting a headache. I don't have a rev counter in the bus but I do have an auto multi meter that measures RPMs. Could I hook that up with longer leads and head out on the freeway with my Satnav?\n<br> \n<br> I am indeed using 46mm nuts on the hubs but whether they supplied them or not I don't know as I ordered the trans and it was shipped direct to my garage to be installed along with the new motor.\n<br> \n<br> As a 5.x.x r and p won't fit, could the email I received from Rancho be a misprint and they meant 4.38? just a thought.",
+    "lastEdited" : "Sun Feb 22, 2015 3:48 pm"
+  }, {
+    "postId" : "823057",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "823057",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "980",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "As 50 MPH is 80 KM p\\h, I would not say the motor is screaming but what RPM it is , I don't know. But getting up over 100km seems to be another story.",
+    "lastEdited" : "Sun Feb 22, 2015 3:51 pm"
+  } ]
+}

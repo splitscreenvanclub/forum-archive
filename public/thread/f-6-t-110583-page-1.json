@@ -1,0 +1,206 @@
+{
+  "forumId" : "6",
+  "threadId" : "110583",
+  "title" : "stuck in a carpark with no gears. need gear linkage advice",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=110583",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 17,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "835767",
+    "author" : {
+      "username" : "matd67devon",
+      "userId" : "835767",
+      "joined" : "Wed Apr 13, 2011 6:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Milton Keynes",
+      "postCount" : "63",
+      "avatarPath" : "http://i91.photobucket.com/albums/k307/mafncaf/VW/BusAvatar.jpg"
+    },
+    "content" : "No gears and the gear stick is moving around freely. Looked under the bus and the rear linkage has come apart. I've never worked on the transmission so not sure how to get this back together and running. Stuck in a carpark near Rutland Water on a bank holiday weekend away \n<img class=\"smilies\" src=\"./images/smilies/sad.gif\" alt=\":-(\" title=\"Sad\">\n<br>\n<br>Anyone got any advice?",
+    "lastEdited" : "Sat May 23, 2015 5:15 pm"
+  }, {
+    "postId" : "835769",
+    "author" : {
+      "username" : "Max Last",
+      "userId" : "835769",
+      "joined" : "Fri Dec 26, 2008 7:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Spalding, R b!",
+      "postCount" : "1480",
+      "avatarPath" : "http://i249.photobucket.com/albums/gg224/spikecrewcab/Mobile%20Uploads/1F5FCDF5-C368-43E9-9DF7-0322EBDEF445_zpsvtexhnfv.png"
+    },
+    "content" : "Is it the gear linkage that's pulled apart? If so can you cobble together a temporary connector, it should have something like one of these joining it. \n<img src=\"http://images.tapatalk-cdn.com/15/05/23/05118969c68bc6d5616ce95051cf4749.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>\n<br>\n<br>Sent from my sofa.",
+    "lastEdited" : "Sat May 23, 2015 5:47 pm"
+  }, {
+    "postId" : "835772",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "835772",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "There's a diagram on the VW heritage site with how is should look ( not sure if it differs by year but you get the idea ).\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"https://www.vwheritage.com/shop/split-bus/pedals-cables-hand-controls/gear-selectors/\">https://www.vwheritage.com/shop/split-b ... selectors/</a>\n<!-- m -->\n<br>\n<br>I guess you need to see where it has come disconnected number 7 or number 11. Maybe just one of your secrews ( number 8 ) has undone\n<br>\n<br>Andy",
+    "lastEdited" : "Sat May 23, 2015 6:23 pm"
+  }, {
+    "postId" : "835773",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "835773",
+      "joined" : "Wed Dec 21, 2011 6:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northampton",
+      "postCount" : "1171",
+      "avatarPath" : null
+    },
+    "content" : "What has likely happened is your rear connector has sheared.\n<br>\n<br>It consists of two top hat shaped steel flanges connected with rubber.\n<br>\n<br>If you can get the two sides lined up and close enough to each other, I have heard of people clamping a mole wrench around the perimeter to hold them together as a 'get you home' solution.\n<br>\n<br>This of course assumes you have said pair or mole wrenches to hand.\n<br>\n<br>It's worth considering that if the fix fails on the road, you'll be in a more dangerous location, so worth considering getting recovered from your current safe location.\n<br>\n<br>Hope this helps and best of luck.\n<br>\n<br>Nik",
+    "lastEdited" : "Sat May 23, 2015 6:37 pm"
+  }, {
+    "postId" : "835777",
+    "author" : {
+      "username" : "matd67devon",
+      "userId" : "835777",
+      "joined" : "Wed Apr 13, 2011 6:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Milton Keynes",
+      "postCount" : "63",
+      "avatarPath" : "http://i91.photobucket.com/albums/k307/mafncaf/VW/BusAvatar.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>andy f wrote:</cite>I guess you need to see where it has come disconnected number 7 or number 11. Maybe just one of your secrews ( number 8 ) has undone\n  <br>\n  <br>Andy\n </div>\n</blockquote>\n<br>\n<br>Thanks for the responses. It's the coupling (number 11) that has split into 2 parts, with each still connected to the rod (front) and the next section into the gearbox. If clamp these back together with mole grips then I regain a working gear shifter but there is no obvious way to bodge these together to allow me to dare drive home. There's no holes to pass a bolt or other fixing through. It looks like the 2 halves are bound together by some sort of plastic/rubber material that has failed over some time. Earlier today I was having trouble finding 2nd gear... It kept wanting to go into 4th instead. Before today I've had no other issues.\n<br>\n<br>Anyway, I think the holiday has come to an abrupt end and a recovery vehicle is on its way. Glad I'm only 50 miles from home.",
+    "lastEdited" : "Sat May 23, 2015 6:57 pm"
+  }, {
+    "postId" : "835778",
+    "author" : {
+      "username" : "matd67devon",
+      "userId" : "835778",
+      "joined" : "Wed Apr 13, 2011 6:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Milton Keynes",
+      "postCount" : "63",
+      "avatarPath" : "http://i91.photobucket.com/albums/k307/mafncaf/VW/BusAvatar.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Nik wrote:</cite>It's worth considering that if the fix fails on the road, you'll be in a more dangerous location, so worth considering getting recovered from your current safe location.\n  <br>\n  <br>Hope this helps and best of luck.\n  <br>\n  <br>Nik\n </div>\n</blockquote>\n<br>\n<br>That's exactly what the wife said when I tried this. She's now passing on her thanks to you for your sensible advice",
+    "lastEdited" : "Sat May 23, 2015 7:01 pm"
+  }, {
+    "postId" : "835781",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "835781",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10385",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Sad to hear of you failure but maybe you can buy the part..\n<br>Fit it........ and be back off again. ..",
+    "lastEdited" : "Sat May 23, 2015 7:11 pm"
+  }, {
+    "postId" : "835788",
+    "author" : {
+      "username" : "Banger",
+      "userId" : "835788",
+      "joined" : "Tue Jul 19, 2011 6:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "184",
+      "avatarPath" : "./download/file.php%3Favatar=35663_1320695493.jpg"
+    },
+    "content" : "Just seen this - got a new one in my shed/bus which you're welcome to use if it gets your hols back on track... I'm just south of Lincoln",
+    "lastEdited" : "Sat May 23, 2015 9:21 pm"
+  }, {
+    "postId" : "835815",
+    "author" : {
+      "username" : "matd67devon",
+      "userId" : "835815",
+      "joined" : "Wed Apr 13, 2011 6:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Milton Keynes",
+      "postCount" : "63",
+      "avatarPath" : "http://i91.photobucket.com/albums/k307/mafncaf/VW/BusAvatar.jpg"
+    },
+    "content" : "Cheers, Banger. Great of you to offer but we were only out for the bank hol weekend and today I'll be mostly driving back to Rutland in the car to collect the awning and camping gear.\n<br>I'll take my time and check all the couplings, boots, etc, to see if anything else needs replacing before I take the bus out again",
+    "lastEdited" : "Sun May 24, 2015 10:11 am"
+  }, {
+    "postId" : "836078",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "836078",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2640",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1337002549.jpg"
+    },
+    "content" : "carry cable ties , ive seen this issue fixed in this way and the guy drove it around for 3months before he pit a proper one om",
+    "lastEdited" : "Tue May 26, 2015 9:21 pm"
+  }, {
+    "postId" : "836082",
+    "author" : {
+      "username" : "beetleben",
+      "userId" : "836082",
+      "joined" : "Fri Aug 20, 2010 8:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "Colwyn Bay",
+      "postCount" : "1009",
+      "avatarPath" : "http://i1331.photobucket.com/albums/w592/beetleben1/8668b2e0-d675-4baf-a0ad-0e3d3cac9ff9_zps29643102.jpg"
+    },
+    "content" : "Just seen this myself. I had the same problem not that long ago and did the cable ties around both ends and then ties linking the 2 parts together. It wasn't that good, it'd only let me get 2nd and 4th gear but I managed a 10 mile trip home then a 10 mile trip to the garage once I got the part. \n<br>As already said...better to be safe and call recovery",
+    "lastEdited" : "Tue May 26, 2015 9:31 pm"
+  }, {
+    "postId" : "836552",
+    "author" : {
+      "username" : "matd67devon",
+      "userId" : "836552",
+      "joined" : "Wed Apr 13, 2011 6:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Milton Keynes",
+      "postCount" : "63",
+      "avatarPath" : "http://i91.photobucket.com/albums/k307/mafncaf/VW/BusAvatar.jpg"
+    },
+    "content" : "Cable ties would possibly have got me home but reckon I was best calling the recovery wagon.\n<br>\n<br>I've now got a new rear coupling but there's not enough gap between the two rods to allow me to fit it. I need another 10mm and have the selector rod pushed into the gearbox (not sure what gear it clicked into) and gear stick back in 2nd/4th position to bring the rear shift rod as forward as possible. How can I increase the gap? Will removing the gear stick assembly and loosening the front shift rod allow it all to slide forward more? Surely I don't need to drop the engine and gearbox just to fit this coupling?",
+    "lastEdited" : "Sat May 30, 2015 5:14 pm"
+  }, {
+    "postId" : "836553",
+    "author" : {
+      "username" : "stu(pid)",
+      "userId" : "836553",
+      "joined" : "Mon Oct 13, 2003 8:37 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "281",
+      "avatarPath" : null
+    },
+    "content" : "You need the gearbox to be in first or third, and then put the lever in second or fourth. That should give you enough gap.",
+    "lastEdited" : "Sat May 30, 2015 5:28 pm"
+  }, {
+    "postId" : "836556",
+    "author" : {
+      "username" : "matd67devon",
+      "userId" : "836556",
+      "joined" : "Wed Apr 13, 2011 6:02 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Milton Keynes",
+      "postCount" : "63",
+      "avatarPath" : "http://i91.photobucket.com/albums/k307/mafncaf/VW/BusAvatar.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>stu(pid) wrote:</cite>You need the gearbox to be in first or third\n </div>\n</blockquote>\n<br>How easy is it to find 1st or 3rd with no coupling? I wiggled it in as far as I though it would go with my mole grips and it felt like I'd selected a gear but not sure which",
+    "lastEdited" : "Sat May 30, 2015 5:42 pm"
+  }, {
+    "postId" : "836561",
+    "author" : {
+      "username" : "stu(pid)",
+      "userId" : "836561",
+      "joined" : "Mon Oct 13, 2003 8:37 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "281",
+      "avatarPath" : null
+    },
+    "content" : "It's fairly easy to get it lined up, but pushing the shaft into the gearbox is difficult. Try and line it up using mole grips, hold the coupling in the right place, then get someone to push the lever forward to try and force the shaft in.",
+    "lastEdited" : "Sat May 30, 2015 6:36 pm"
+  } ]
+}

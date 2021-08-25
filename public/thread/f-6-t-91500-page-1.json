@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "91500",
+  "title" : "Blue Wire",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=91500",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ae3110c3b5a536c42a7e01c7267dd796",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "704302",
+    "author" : {
+      "username" : "KEVIN BOWER",
+      "userId" : "704302",
+      "joined" : "Sat Jul 08, 2006 10:18 am",
+      "profileRank" : "Registered user",
+      "location" : "STOCKPORT",
+      "postCount" : "39",
+      "avatarPath" : null
+    },
+    "content" : "Hi everyone\n<br> \n<br> Just been in the garage cleaning the inside of my van, 1966 12 volt UK split and was cleaning the metal parcel shelf just by the washer bottle, right of the steering wheel. I dont know if I have caught something whilst cleaning but I have found a blue wire with a brass female push terminal on its end around not connected to anything just hanging around. It is not an add on as it originates from the loom. The part of the loom that goes towards the indicator stalk and headlight dip switch. It comes out of the looms black protective shroud just beneath the steering column securing plate. Ive had a good look under the dash and for the life of me cant see where it might have come from.\n<br> \n<br> I know the clever ones amoungst you will say, just see what not working and the wire will come from there, ive no battery on the van at the moment, dont ask why, its a second tier security thing I do.\n<br> \n<br> Ive looked in all the manuels I have but there all in black and white and dont mention colour.\n<br> \n<br> Is there anywhere on here that shows a detailed colour picture of the wiring in the dash\n<br> \n<br> Thanks\n<br> \n<br> Kevin Bower",
+    "lastEdited" : "Tue Feb 12, 2013 11:36 pm"
+  }, {
+    "postId" : "704308",
+    "author" : {
+      "username" : "dsbus",
+      "userId" : "704308",
+      "joined" : "Wed Mar 08, 2006 11:43 am",
+      "profileRank" : "Registered user",
+      "location" : "Manchester",
+      "postCount" : "1082",
+      "avatarPath" : "./download/file.php%3Favatar=2165_1305217478.jpg"
+    },
+    "content" : "<a href=\"http://www.thesamba.com/vw/archives/info/wiringt2.php\" class=\"postlink\">http://www.thesamba.com/vw/archives/info/wiringt2.php</a>\n<br> \n<br> Most likely the ignition warning wiring between the red warning lamp back of the dash to the alternator/regulator",
+    "lastEdited" : "Wed Feb 13, 2013 3:53 am"
+  }, {
+    "postId" : "704416",
+    "author" : {
+      "username" : "KEVIN BOWER",
+      "userId" : "704416",
+      "joined" : "Sat Jul 08, 2006 10:18 am",
+      "profileRank" : "Registered user",
+      "location" : "STOCKPORT",
+      "postCount" : "39",
+      "avatarPath" : null
+    },
+    "content" : "[ur[im[/img][/url][/url]\n<blockquote>\n <div>\n  <cite>dsbus wrote:</cite>\n  <a href=\"http://www.thesamba.com/vw/archives/info/wiringt2.php\" class=\"postlink\">http://www.thesamba.com/vw/archives/info/wiringt2.php</a>\n  <br> \n  <br> Most likely the ignition warning wiring between the red warning lamp back of the dash to the alternator/regulator\n </div>\n</blockquote> \n<br> Thanks for your help, have downloaded the colour wiring diagram, fantastic\n<br> \n<br> Regards\n<br> \n<br> \n<br> Kevin Bower",
+    "lastEdited" : "Wed Feb 13, 2013 6:34 pm"
+  }, {
+    "postId" : "704503",
+    "author" : {
+      "username" : "DubMinx",
+      "userId" : "704503",
+      "joined" : "Fri Feb 08, 2013 8:06 pm",
+      "profileRank" : "Registered user",
+      "location" : "North Yorkshire",
+      "postCount" : "132",
+      "avatarPath" : "./download/file.php%3Favatar=37396_1378069415.jpg"
+    },
+    "content" : "Ditto thanks -good for me too!",
+    "lastEdited" : "Wed Feb 13, 2013 10:13 pm"
+  }, {
+    "postId" : "705213",
+    "author" : {
+      "username" : "quillansmith",
+      "userId" : "705213",
+      "joined" : "Mon Jul 21, 2008 7:18 pm",
+      "profileRank" : "Registered user",
+      "location" : "Colchester",
+      "postCount" : "187",
+      "avatarPath" : "./download/file.php%3Favatar=27108_1328042313.jpg"
+    },
+    "content" : "Hazard switch uses a blue wire near to that area.",
+    "lastEdited" : "Sun Feb 17, 2013 4:31 pm"
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "forumId" : "28",
+  "threadId" : "111325",
+  "title" : "BWA Updates",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=111325",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "840927",
+    "author" : {
+      "username" : "orb",
+      "userId" : "840927",
+      "joined" : "Wed Jan 14, 2004 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kingston upon Thames",
+      "postCount" : "2460",
+      "avatarPath" : "http://img.photobucket.com/albums/v645/orb666/BusatPrept.jpg"
+    },
+    "content" : "Hey all\n<br>I know there are a few of us out there that have run new PB's that need updating on the BWA site so I have said I'd try and help Paul F out by collating them all together so it's easier for our already overworked moderators \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<br>\n<br>With this in mind if there is anyone out there that needs their times updating then please send a scanned copy of the timing slip and details of when and where to me at \n<!-- e -->\n<a href=\"mailto:orb666@blueyonder.co.uk\">orb666@blueyonder.co.uk</a>\n<!-- e --> and I will liase with Paul.\n<br>\n<br>I'll post this in the BWA site as well, any problem give me a shout\n<br>\n<br>Orb",
+    "lastEdited" : "Sat Jul 04, 2015 9:49 am"
+  }, {
+    "postId" : "861941",
+    "author" : {
+      "username" : "rikki james",
+      "userId" : "861941",
+      "joined" : "Wed Apr 16, 2003 11:15 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "3556",
+      "avatarPath" : null
+    },
+    "content" : "Well done Orb!!",
+    "lastEdited" : "Thu Jan 28, 2016 6:33 pm"
+  } ]
+}

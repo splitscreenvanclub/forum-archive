@@ -1,0 +1,66 @@
+{
+  "forumId" : "4",
+  "threadId" : "125300",
+  "title" : "Oil bath air filter",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=125300",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=fdabfd9a7bd3a96c983ceaeead22825b",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "933220",
+    "author" : {
+      "username" : "nodrog",
+      "userId" : "933220",
+      "joined" : "Sun Jul 10, 2005 6:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "62",
+      "avatarPath" : null
+    },
+    "content" : "This oil bath is unrecognisable to me, as I am used to 67 vans.\n<br> It's serial number is 261 128 613A. (I think, my eye sight is not great) I assume it's for a Type 2.\n<br> It's overall condition is good and clean. However, the flap at the air intake is missing. There are 2 outlets next to the flap, one has collar the other is just a circular hole with no collar. (See pics)\n<br> £30 + £9 Parcel Force",
+    "lastEdited" : "Wed Nov 18, 2020 4:48 pm"
+  }, {
+    "postId" : "933238",
+    "author" : {
+      "username" : "Waynebates",
+      "userId" : "933238",
+      "joined" : "Sat May 07, 2016 9:56 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "25",
+      "avatarPath" : null
+    },
+    "content" : "Interested sent you a pm",
+    "lastEdited" : "Thu Nov 19, 2020 10:03 pm"
+  }, {
+    "postId" : "933264",
+    "author" : {
+      "username" : "Waynebates",
+      "userId" : "933264",
+      "joined" : "Sat May 07, 2016 9:56 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "25",
+      "avatarPath" : null
+    },
+    "content" : "Sent you a text",
+    "lastEdited" : "Sat Nov 21, 2020 7:09 pm"
+  }, {
+    "postId" : "933267",
+    "author" : {
+      "username" : "nodrog",
+      "userId" : "933267",
+      "joined" : "Sun Jul 10, 2005 6:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "62",
+      "avatarPath" : null
+    },
+    "content" : "NOW SOLD",
+    "lastEdited" : "Sun Nov 22, 2020 5:14 pm"
+  } ]
+}

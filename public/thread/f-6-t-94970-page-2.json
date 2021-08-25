@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "94970",
+  "title" : "Engine keeps leaking oil",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=94970&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=3be0fb957175104c18ec93832143a161",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 20,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "727920",
+    "author" : {
+      "username" : "panel van lee",
+      "userId" : "727920",
+      "joined" : "Tue Mar 03, 2009 9:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "101",
+      "avatarPath" : null
+    },
+    "content" : "Hi Mick.\n<br> I'm not suggesting this is a cure but I think a lot of people with a deep sump run the oil level nearer to minimum. When I first fitted my larger engine I filled to max on dipstickmand had a rubbish breather. Result oil everywhere . Now running sand seal,csp breather box and oil filled to minimum on dipstick. No leaks at present.\n<br> Cheers Lee.",
+    "lastEdited" : "Sun Jun 09, 2013 9:43 pm"
+  }, {
+    "postId" : "727923",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727923",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Cheers lee I will try and run at lower level but I think I need a breather box to nice to know I'm not alone with problems good to share results thanks \n<br> \n<br> Mick",
+    "lastEdited" : "Sun Jun 09, 2013 9:53 pm"
+  }, {
+    "postId" : "727927",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "727927",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Ah yeah, forgot about oil levels. Good thing about threads like this is that they kind of refresh your knowledge as more people input to them. I don't run a deep sump but found that if I filled to max level it tended to blow out until it was about 3/4 mark on the dipstick then stop. Guess it was finding its own level of sorts. \n<br> \n<br> Shalom, Lee",
+    "lastEdited" : "Sun Jun 09, 2013 9:57 pm"
+  }, {
+    "postId" : "727929",
+    "author" : {
+      "username" : "mickg",
+      "userId" : "727929",
+      "joined" : "Sat Nov 17, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "70",
+      "avatarPath" : null
+    },
+    "content" : "Cheers lee I have pm you my e mail if you could find it I would appreciate it thanks\n<br> \n<br> Mick",
+    "lastEdited" : "Sun Jun 09, 2013 10:00 pm"
+  }, {
+    "postId" : "728128",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "728128",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2859",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "I run a deep sump on the 1776 and yep with oil level any higher than 3/4 oil gets dumped out the bottom of the stock breather tube onto.the floor, I run a breather box which vents from the rocker covers and run a scat pulley, no leaks",
+    "lastEdited" : "Mon Jun 10, 2013 7:14 pm"
+  } ]
+}

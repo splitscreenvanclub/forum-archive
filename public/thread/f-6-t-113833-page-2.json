@@ -1,0 +1,144 @@
+{
+  "forumId" : "6",
+  "threadId" : "113833",
+  "title" : "How to add pictures to a forum post",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=113833&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=dee926af27e59fdf167bdb4d41046008",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 25,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "910546",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "910546",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4259",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=910543&amp;sid=dee926af27e59fdf167bdb4d41046008#p910543\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=38450&amp;sid=dee926af27e59fdf167bdb4d41046008\">rusty1962</a> wrote: <a href=\"./viewtopic.php?p=910543&amp;sid=dee926af27e59fdf167bdb4d41046008#p910543\" data-post-id=\"910543\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sat Mar 24, 2018 10:55 pm</span></cite> I started adding my photos directly because of the Photobucket issues, but for some reason they are duplicating and the attachments are also showing. Look t the last post on my thread to see what I mean....\n  <br> \n  <br> Any idea why this is?\n  <br> \n  <br> Steve \n </div>\n</blockquote> Steve, I have taken three images off your build build threa\n<br> \n<br> The three images seem to be displaying OK.\n<br> \n<br> I have used, the attachments option, Add Files, and Place inline to display them.",
+    "lastEdited" : "Sun Mar 25, 2018 12:14 am"
+  }, {
+    "postId" : "910556",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "910556",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=910546&amp;sid=dee926af27e59fdf167bdb4d41046008#p910546\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=4&amp;sid=dee926af27e59fdf167bdb4d41046008\">miles</a> wrote: <a href=\"./viewtopic.php?p=910546&amp;sid=dee926af27e59fdf167bdb4d41046008#p910546\" data-post-id=\"910546\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Mar 25, 2018 12:14 am</span></cite> \n  <blockquote cite=\"./viewtopic.php?p=910543&amp;sid=dee926af27e59fdf167bdb4d41046008#p910543\">\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=38450&amp;sid=dee926af27e59fdf167bdb4d41046008\">rusty1962</a> wrote: <a href=\"./viewtopic.php?p=910543&amp;sid=dee926af27e59fdf167bdb4d41046008#p910543\" data-post-id=\"910543\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sat Mar 24, 2018 10:55 pm</span></cite> I started adding my photos directly because of the Photobucket issues, but for some reason they are duplicating and the attachments are also showing. Look at the last post on my thread to see what I mean....\n    <br> \n    <br> Any idea why this is?\n    <br> \n    <br> Steve \n   </div>\n  </blockquote> Steve, I have taken three images off your build build threa\n  <br> \n  <br> The three images seem to be displaying OK.\n  <br> \n  <br> I have used, the attachments option, Add Files, and Place inline to display them. \n </div>\n</blockquote> Thanks Miles\n<br> \n<br> If you look at my build thread though, you will see that after the initial three photos, they are displaying again, umpteen times, with a heading of \"Attachments?\"\n<br> \n<br> At least they are on my PC, iMac, laptop, tablet and phone \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> Steve",
+    "lastEdited" : "Sun Mar 25, 2018 9:54 am"
+  }, {
+    "postId" : "910557",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "910557",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4259",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "Morning Steve,\n<br> \n<br> The problem is that there is a weird attachment (called 20180324_192857.jpg), which is refusing to go away, even after trying to delete it. Try deleting this attachment. I've tried to, but it's refusing to go.\n<br> \n<br> If you can delete the post, and try re-doing it, it \"may\" fix it.\n<br> \n<br> Miles.",
+    "lastEdited" : "Sun Mar 25, 2018 10:14 am"
+  }, {
+    "postId" : "911303",
+    "author" : {
+      "username" : "Weissach_FLB",
+      "userId" : "911303",
+      "joined" : "Sun Oct 02, 2016 3:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "39",
+      "avatarPath" : "./download/file.php%3Favatar=41740_1522239481.jpg"
+    },
+    "content" : "Hi, Any ideas why I can't see the pictures in my post? I follow the instructions then everything is fine. Click preview still good and then when I click submit only one appears?\n<br> \n<br> Thanks",
+    "lastEdited" : "Fri Apr 13, 2018 12:56 pm"
+  }, {
+    "postId" : "911308",
+    "author" : {
+      "username" : "Weissach_FLB",
+      "userId" : "911308",
+      "joined" : "Sun Oct 02, 2016 3:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "39",
+      "avatarPath" : "./download/file.php%3Favatar=41740_1522239481.jpg"
+    },
+    "content" : "I think I have answered my own question.\n<br> \n<br> It seems to work if I don't click preview first.\n<br> \n<br> Thanks",
+    "lastEdited" : "Fri Apr 13, 2018 1:41 pm"
+  }, {
+    "postId" : "930823",
+    "author" : {
+      "username" : "Bods1",
+      "userId" : "930823",
+      "joined" : "Fri Feb 01, 2013 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "Why when I try and upload photo's do they appear upside down??",
+    "lastEdited" : "Sun Jun 28, 2020 9:35 am"
+  }, {
+    "postId" : "930843",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930843",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4259",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=930823&amp;sid=dee926af27e59fdf167bdb4d41046008#p930823\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37351&amp;sid=dee926af27e59fdf167bdb4d41046008\">Bods1</a> wrote: <a href=\"./viewtopic.php?p=930823&amp;sid=dee926af27e59fdf167bdb4d41046008#p930823\" data-post-id=\"930823\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Jun 28, 2020 9:35 am</span></cite> Why when I try and upload photo's do they appear upside down?? \n </div>\n</blockquote> Your pictures have been taken upsidedown, or that's what the forum thinks.\n<br> \n<br> Have a look at what you have taken, and see what your PC / laptop thinks they are.\n<br> \n<br> If they are upsidedown, then you will need to rotate them, save as a new image, and then add them to the forum.",
+    "lastEdited" : "Sun Jun 28, 2020 8:37 pm"
+  }, {
+    "postId" : "930935",
+    "author" : {
+      "username" : "Bods1",
+      "userId" : "930935",
+      "joined" : "Fri Feb 01, 2013 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=930843&amp;sid=dee926af27e59fdf167bdb4d41046008#p930843\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=4&amp;sid=dee926af27e59fdf167bdb4d41046008\">miles</a> wrote: <a href=\"./viewtopic.php?p=930843&amp;sid=dee926af27e59fdf167bdb4d41046008#p930843\" data-post-id=\"930843\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Jun 28, 2020 8:37 pm</span></cite> \n  <blockquote cite=\"./viewtopic.php?p=930823&amp;sid=dee926af27e59fdf167bdb4d41046008#p930823\">\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37351&amp;sid=dee926af27e59fdf167bdb4d41046008\">Bods1</a> wrote: <a href=\"./viewtopic.php?p=930823&amp;sid=dee926af27e59fdf167bdb4d41046008#p930823\" data-post-id=\"930823\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Jun 28, 2020 9:35 am</span></cite> Why when I try and upload photo's do they appear upside down?? \n   </div>\n  </blockquote> Your pictures have been taken upsidedown, or that's what the forum thinks.\n  <br> \n  <br> Have a look at what you have taken, and see what your PC / laptop thinks they are.\n  <br> \n  <br> If they are upsidedown, then you will need to rotate them, save as a new image, and then add them to the forum. \n </div>\n</blockquote> Thanks ill try, this.",
+    "lastEdited" : "Thu Jul 02, 2020 2:40 pm"
+  }, {
+    "postId" : "930937",
+    "author" : {
+      "username" : "Bods1",
+      "userId" : "930937",
+      "joined" : "Fri Feb 01, 2013 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=930935&amp;sid=dee926af27e59fdf167bdb4d41046008#p930935\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37351&amp;sid=dee926af27e59fdf167bdb4d41046008\">Bods1</a> wrote: <a href=\"./viewtopic.php?p=930935&amp;sid=dee926af27e59fdf167bdb4d41046008#p930935\" data-post-id=\"930935\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Jul 02, 2020 2:40 pm</span></cite> \n  <blockquote cite=\"./viewtopic.php?p=930843&amp;sid=dee926af27e59fdf167bdb4d41046008#p930843\">\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=4&amp;sid=dee926af27e59fdf167bdb4d41046008\">miles</a> wrote: <a href=\"./viewtopic.php?p=930843&amp;sid=dee926af27e59fdf167bdb4d41046008#p930843\" data-post-id=\"930843\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Jun 28, 2020 8:37 pm</span></cite> \n    <blockquote cite=\"./viewtopic.php?p=930823&amp;sid=dee926af27e59fdf167bdb4d41046008#p930823\">\n     <div>\n      <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37351&amp;sid=dee926af27e59fdf167bdb4d41046008\">Bods1</a> wrote: <a href=\"./viewtopic.php?p=930823&amp;sid=dee926af27e59fdf167bdb4d41046008#p930823\" data-post-id=\"930823\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Jun 28, 2020 9:35 am</span></cite> Why when I try and upload photo's do they appear upside down?? \n     </div>\n    </blockquote> Your pictures have been taken upsidedown, or that's what the forum thinks.\n    <br> \n    <br> Have a look at what you have taken, and see what your PC / laptop thinks they are.\n    <br> \n    <br> If they are upsidedown, then you will need to rotate them, save as a new image, and then add them to the forum. \n   </div>\n  </blockquote> Thanks ill try, this. \n </div>\n</blockquote> Done thanks!! \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Thu Jul 02, 2020 3:04 pm"
+  }, {
+    "postId" : "930938",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930938",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4259",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=930937&amp;sid=dee926af27e59fdf167bdb4d41046008#p930937\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37351&amp;sid=dee926af27e59fdf167bdb4d41046008\">Bods1</a> wrote: <a href=\"./viewtopic.php?p=930937&amp;sid=dee926af27e59fdf167bdb4d41046008#p930937\" data-post-id=\"930937\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Jul 02, 2020 3:04 pm</span></cite> \n  <blockquote cite=\"./viewtopic.php?p=930935&amp;sid=dee926af27e59fdf167bdb4d41046008#p930935\">\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37351&amp;sid=dee926af27e59fdf167bdb4d41046008\">Bods1</a> wrote: <a href=\"./viewtopic.php?p=930935&amp;sid=dee926af27e59fdf167bdb4d41046008#p930935\" data-post-id=\"930935\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Jul 02, 2020 2:40 pm</span></cite> \n    <blockquote cite=\"./viewtopic.php?p=930843&amp;sid=dee926af27e59fdf167bdb4d41046008#p930843\">\n     <div>\n      <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=4&amp;sid=dee926af27e59fdf167bdb4d41046008\">miles</a> wrote: <a href=\"./viewtopic.php?p=930843&amp;sid=dee926af27e59fdf167bdb4d41046008#p930843\" data-post-id=\"930843\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Jun 28, 2020 8:37 pm</span></cite> \n      <br> \n      <br> Your pictures have been taken upsidedown, or that's what the forum thinks.\n      <br> \n      <br> Have a look at what you have taken, and see what your PC / laptop thinks they are.\n      <br> \n      <br> If they are upsidedown, then you will need to rotate them, save as a new image, and then add them to the forum. \n     </div>\n    </blockquote> Thanks ill try, this. \n   </div>\n  </blockquote> Done thanks!! \n  <img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n  <img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n </div>\n</blockquote> Glad it's all worked \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Thu Jul 02, 2020 3:53 pm"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "124722",
+  "title" : "Throttle Cables(Varios Lengths)",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124722",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=a8dd42c0d05872f0f5ef443952480d30",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "929908",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "929908",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1938",
+      "avatarPath" : null
+    },
+    "content" : "4 x Throttle cables , various lengths £10 the lot or £3:50 each (plus £2.50p p+p)",
+    "lastEdited" : "Sun May 17, 2020 10:27 am"
+  }, {
+    "postId" : "930123",
+    "author" : {
+      "username" : "Magic8Ball",
+      "userId" : "930123",
+      "joined" : "Tue Jul 08, 2003 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Deepest Darkest London ! (Harrow to be Precise)",
+      "postCount" : "1938",
+      "avatarPath" : null
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_bounce.gif\" width=\"15\" height=\"15\" alt=\":bounce:\" title=\"bounce\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_bounce.gif\" width=\"15\" height=\"15\" alt=\":bounce:\" title=\"bounce\"> ALL SOLD \n<img class=\"smilies\" src=\"./images/smilies/icon_bounce.gif\" width=\"15\" height=\"15\" alt=\":bounce:\" title=\"bounce\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_bounce.gif\" width=\"15\" height=\"15\" alt=\":bounce:\" title=\"bounce\">",
+    "lastEdited" : "Tue May 26, 2020 2:07 pm"
+  } ]
+}

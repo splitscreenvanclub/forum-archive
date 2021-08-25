@@ -1,0 +1,131 @@
+{
+  "forumId" : "2",
+  "threadId" : "121361",
+  "title" : "end of resto",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=121361",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=34bc3308279c5193693264f6cbe88496",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "910289",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "910289",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "i am fast approaching the end of a 5 year plus restoration of a van that i bought and there's quite a few bits left over that we have replaced / modded /updated etc which can now be sold... things like engine, gearbox, beam, seats etc..... any cash that i can claw back would be greatly welcomed as it has cost me a fortune to get the work done etc..... i have no idea what any of this stuff is worth and i dont want to break any rules by sticking it on the for sale bit of the site with no prices.... could anyone help?\n<br> \n<br> cheers",
+    "lastEdited" : "Sun Mar 18, 2018 4:06 pm"
+  }, {
+    "postId" : "910293",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "910293",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "eBay it - you’ll reach a larger audience and it will find its own price.\n<br> \n<br> If you want to set a reserve, see what similar items sell for on eBay and set your reserve 20% lower - condition dependant of course.",
+    "lastEdited" : "Sun Mar 18, 2018 7:24 pm"
+  }, {
+    "postId" : "910294",
+    "author" : {
+      "username" : "Max Last",
+      "userId" : "910294",
+      "joined" : "Fri Dec 26, 2008 7:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Spalding, R b!",
+      "postCount" : "1673",
+      "avatarPath" : null
+    },
+    "content" : "Out of curiosity, what year bus? Are the parts in working order? Repro or original stuff?",
+    "lastEdited" : "Sun Mar 18, 2018 7:50 pm"
+  }, {
+    "postId" : "910296",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "910296",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "It’s a 66 or 67 all original stuff",
+    "lastEdited" : "Sun Mar 18, 2018 9:22 pm"
+  }, {
+    "postId" : "910298",
+    "author" : {
+      "username" : "kilgore",
+      "userId" : "910298",
+      "joined" : "Thu Oct 13, 2005 8:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "sunny Birmmingham",
+      "postCount" : "1242",
+      "avatarPath" : null
+    },
+    "content" : "List what you have im sure people here will chip in with a good estimation on value. Most original parts have good value",
+    "lastEdited" : "Sun Mar 18, 2018 9:57 pm"
+  }, {
+    "postId" : "910305",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "910305",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "cheers kilgore, should i put the list on this thread rather than the for sale thread?",
+    "lastEdited" : "Mon Mar 19, 2018 8:37 am"
+  }, {
+    "postId" : "910333",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "910333",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11919",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "You need a price on the for sale thread so probably here.\n<br> \n<br> Buzzers",
+    "lastEdited" : "Mon Mar 19, 2018 10:05 pm"
+  }, {
+    "postId" : "910334",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "910334",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "Cheers that’s what I thought",
+    "lastEdited" : "Tue Mar 20, 2018 6:57 am"
+  }, {
+    "postId" : "910437",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "910437",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "have got a couple of pics of the engine and the a bench type seat, what do we think?",
+    "lastEdited" : "Thu Mar 22, 2018 8:52 am"
+  } ]
+}

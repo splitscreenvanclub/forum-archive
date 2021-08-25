@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "116480",
+  "title" : "Wiring Loom",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=116480",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "877927",
+    "author" : {
+      "username" : "whathaveigoneanddone",
+      "userId" : "877927",
+      "joined" : "Sun Jul 13, 2014 11:22 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "66",
+      "avatarPath" : null
+    },
+    "content" : "Hello, advice on where I should get a new loom from please for a 65 12v LHD?\n<br> \n<br> Thanks, Andy",
+    "lastEdited" : "Wed Jun 29, 2016 7:10 pm"
+  }, {
+    "postId" : "877946",
+    "author" : {
+      "username" : "BlastingDiePast",
+      "userId" : "877946",
+      "joined" : "Sat Feb 02, 2013 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "1803",
+      "avatarPath" : null
+    },
+    "content" : "Vwloom.co.uk\n<br> \n<br> Or vintage wiring looms\n<br> \n<br> We use them on all our restorations.",
+    "lastEdited" : "Wed Jun 29, 2016 8:02 pm"
+  }, {
+    "postId" : "877949",
+    "author" : {
+      "username" : "whathaveigoneanddone",
+      "userId" : "877949",
+      "joined" : "Sun Jul 13, 2014 11:22 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "66",
+      "avatarPath" : null
+    },
+    "content" : "Thank you",
+    "lastEdited" : "Wed Jun 29, 2016 8:14 pm"
+  }, {
+    "postId" : "878006",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "878006",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "VWLooms for me too. Great customer service",
+    "lastEdited" : "Thu Jun 30, 2016 4:19 pm"
+  }, {
+    "postId" : "878012",
+    "author" : {
+      "username" : "whathaveigoneanddone",
+      "userId" : "878012",
+      "joined" : "Sun Jul 13, 2014 11:22 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "66",
+      "avatarPath" : null
+    },
+    "content" : "Thanks clymoj",
+    "lastEdited" : "Thu Jun 30, 2016 5:16 pm"
+  }, {
+    "postId" : "878050",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "878050",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "I used VWLooms.com\n<br> \n<br> John is very helpful and the loom is well made.",
+    "lastEdited" : "Thu Jun 30, 2016 10:27 pm"
+  } ]
+}

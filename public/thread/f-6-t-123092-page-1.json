@@ -1,0 +1,183 @@
+{
+  "forumId" : "6",
+  "threadId" : "123092",
+  "title" : "What’s the difference between a 64 and 67 Kombi 11 windows?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123092",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=34cab52f675880739155d5238f373879",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 13,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920330",
+    "author" : {
+      "username" : "John82",
+      "userId" : "920330",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "What’s the differences between a 64 and 67 Kombi 11 windows?",
+    "lastEdited" : "Mon Mar 04, 2019 8:10 pm"
+  }, {
+    "postId" : "920520",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "920520",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "908",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "It's a bit of a broad question, a quick glance at the two and probably not a lot, but quite a bit under the skin. If you look at the parts you're interested in on one of the regular suppliers websites you see how year specific they are.",
+    "lastEdited" : "Fri Mar 08, 2019 5:01 pm"
+  }, {
+    "postId" : "920527",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "920527",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "For instance ‘65’s are a ‘one year only’ with some parts being unique to that year.",
+    "lastEdited" : "Sat Mar 09, 2019 12:02 am"
+  }, {
+    "postId" : "920528",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "920528",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1449",
+      "avatarPath" : null
+    },
+    "content" : "67 is a pretty weird ‘one year only’ too.... first factory 12v, black rubber dash knobs, fresh air vent internal changes, 2 speed wipers, some markets got dual circuit brakes and reverse lights... it’s a potential minefield .... but visually they look pretty much identical.",
+    "lastEdited" : "Sat Mar 09, 2019 12:10 am"
+  }, {
+    "postId" : "920529",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "920529",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15456",
+      "avatarPath" : null
+    },
+    "content" : "Essentially VW brought about changes to meet changing requirements and to attempt ro meet/resolve market/ legal requirements and to make improvements.\n<br> They like other makers would introduce a technology in/on one market or model and then introduce it progressively across other models or markets in an attempt to improve or maybe reduce costs by commonisation. The modern ETKA (the VW/Audi/Seat etc. wide parts list) shows model feature part details but also where parts are common. Some air cooled items are listed back to 1949 for engines.\n<br> VW recorded those changes in a model wide log called Progressive Changes.\n<br> Often there are questions attempting to date a vehicle from features and this reference is invaluable in helping to identify. You can access these details electronically on the Obsolete air cooled documentation site.\n<br> More often than not posters want to know what featutes/parts a bus should have to recreate originality.",
+    "lastEdited" : "Sat Mar 09, 2019 6:13 am"
+  }, {
+    "postId" : "920619",
+    "author" : {
+      "username" : "John82",
+      "userId" : "920619",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "So is this a 64 or 67 bus. There are 2 M plates for the same car. I have no engine. And no chassis number. Is there any other number that I have to check so as to recognize what is the year of the bus?",
+    "lastEdited" : "Tue Mar 12, 2019 2:25 pm"
+  }, {
+    "postId" : "920622",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "920622",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1448",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "67",
+    "lastEdited" : "Tue Mar 12, 2019 3:24 pm"
+  }, {
+    "postId" : "920624",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "920624",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1448",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Where are the M-plates? Any pictures?\n<br> Has the dash been replaced? It has a 67 radio hole.\n<br> There is a thread with all the 67 changes but can't find it that quickly.",
+    "lastEdited" : "Tue Mar 12, 2019 3:34 pm"
+  }, {
+    "postId" : "920633",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "920633",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1449",
+      "avatarPath" : null
+    },
+    "content" : "The biggest difference (and one that hasn’t been previously mentioned) is the biggest obvious change.... a full size radio hole was a 67 only feature..... before 67 model year it was a squarer hole with 2 round holes for the radio knob spindles.\n<br> If the dash is uncut and original it’s a guaranteed 67 for sure.",
+    "lastEdited" : "Tue Mar 12, 2019 10:17 pm"
+  }, {
+    "postId" : "920634",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "920634",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37891&amp;sid=34cab52f675880739155d5238f373879\">ted698</a> wrote: <a href=\"./viewtopic.php?p=920633&amp;sid=34cab52f675880739155d5238f373879#p920633\" data-post-id=\"920633\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Tue Mar 12, 2019 10:17 pm\n   </div></cite> The biggest difference (and one that hasn’t been previously mentioned) is the biggest obvious change.... a full size radio hole was a 67 only feature..... before 67 model year it was a squarer hole with 2 round holes for the radio knob spindles.\n  <br> If the dash is uncut and original it’s a guaranteed 67 for sure. \n </div>\n</blockquote> I think you’ll find that’s what DOUGAL said in the post above yours ‘it has a ‘67 radio hole’. \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Mar 12, 2019 10:25 pm"
+  }, {
+    "postId" : "920635",
+    "author" : {
+      "username" : "John82",
+      "userId" : "920635",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "154",
+      "avatarPath" : null
+    },
+    "content" : "Yes it has a large radio hole! Soooo it’s a 67!!! Thank you very much!",
+    "lastEdited" : "Wed Mar 13, 2019 5:03 am"
+  }, {
+    "postId" : "920636",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "920636",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "908",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Chassis number should be stamped in the engine bay",
+    "lastEdited" : "Wed Mar 13, 2019 5:40 am"
+  }, {
+    "postId" : "920637",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "920637",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15456",
+      "avatarPath" : null
+    },
+    "content" : "On the flat plates on the RHS of the engine",
+    "lastEdited" : "Wed Mar 13, 2019 7:27 am"
+  } ]
+}

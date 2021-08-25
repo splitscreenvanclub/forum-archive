@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "120737",
+  "title" : "SOLD - Deluxe bumper trims - SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=120737",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=75616f337c530dacbb9e22e7f7992523",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "906514",
+    "author" : {
+      "username" : "andy",
+      "userId" : "906514",
+      "joined" : "Thu May 01, 2003 6:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfhamptonville",
+      "postCount" : "475",
+      "avatarPath" : null
+    },
+    "content" : "Deluxe bumper trims 250 posted in UK \n<br> You will need to remove the trims to fit new bolts. These aren't new plenty of dents and dings \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=25080&amp;sid=75616f337c530dacbb9e22e7f7992523&amp;mode=view\"><img src=\"./download/file.php?id=25080&amp;t=1&amp;sid=75616f337c530dacbb9e22e7f7992523\" class=\"postimage\" alt=\"1512232446127696303396.jpg\" title=\"1512232446127696303396.jpg (224.59 KiB) Viewed 560 times\"></a>\n  </dt> \n </dl> \n</div>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=25078&amp;sid=75616f337c530dacbb9e22e7f7992523&amp;mode=view\"><img src=\"./download/file.php?id=25078&amp;t=1&amp;sid=75616f337c530dacbb9e22e7f7992523\" class=\"postimage\" alt=\"1512232400886688644838.jpg\" title=\"1512232400886688644838.jpg (202.29 KiB) Viewed 560 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Sat Dec 02, 2017 4:43 pm"
+  }, {
+    "postId" : "906656",
+    "author" : {
+      "username" : "andy",
+      "userId" : "906656",
+      "joined" : "Thu May 01, 2003 6:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfhamptonville",
+      "postCount" : "475",
+      "avatarPath" : null
+    },
+    "content" : "SOLD",
+    "lastEdited" : "Tue Dec 05, 2017 8:12 pm"
+  } ]
+}

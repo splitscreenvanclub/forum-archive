@@ -1,0 +1,63 @@
+{
+  "forumId" : "47",
+  "threadId" : "104210",
+  "title" : "Westy awning repair material.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=104210",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "792406",
+    "author" : {
+      "username" : "johnny k",
+      "userId" : "792406",
+      "joined" : "Fri Jan 15, 2010 8:43 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1109",
+      "avatarPath" : "./download/file.php%3Favatar=33882_1321790293.jpg"
+    },
+    "content" : "Got a bit for sale in the relevant section.\n<br>Grey/yellow stripe.\n<br>Ta.",
+    "lastEdited" : "Sun Jul 06, 2014 7:56 am"
+  }, {
+    "postId" : "807873",
+    "author" : {
+      "username" : "nick",
+      "userId" : "807873",
+      "joined" : "Sat Apr 26, 2003 2:32 am",
+      "profileRank" : "SSVC Member",
+      "location" : "hairy ford",
+      "postCount" : "4798",
+      "avatarPath" : null
+    },
+    "content" : "Have you got any brown and pink?",
+    "lastEdited" : "Fri Oct 24, 2014 4:16 pm"
+  }, {
+    "postId" : "826218",
+    "author" : {
+      "username" : "johnny k",
+      "userId" : "826218",
+      "joined" : "Fri Jan 15, 2010 8:43 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1109",
+      "avatarPath" : "./download/file.php%3Favatar=33882_1321790293.jpg"
+    },
+    "content" : "Got pink and brown.",
+    "lastEdited" : "Sun Mar 15, 2015 7:44 pm"
+  }, {
+    "postId" : "826465",
+    "author" : {
+      "username" : "nick",
+      "userId" : "826465",
+      "joined" : "Sat Apr 26, 2003 2:32 am",
+      "profileRank" : "SSVC Member",
+      "location" : "hairy ford",
+      "postCount" : "4798",
+      "avatarPath" : null
+    },
+    "content" : "poo. i need green and blue",
+    "lastEdited" : "Tue Mar 17, 2015 5:02 pm"
+  } ]
+}

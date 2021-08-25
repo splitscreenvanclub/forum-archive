@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "69325",
+  "title" : "Breather box",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=69325",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=f85eee86f2b2366be2ae03be9a0abe47",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "533262",
+    "author" : {
+      "username" : "jerrythegerman",
+      "userId" : "533262",
+      "joined" : "Sun Feb 08, 2009 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "327",
+      "avatarPath" : "./download/file.php%3Favatar=31695_1261564571.jpg"
+    },
+    "content" : "Any tips for a decent one?\n<br> \n<br> Running a 2.1 with a turbo and the crank case pressure is blowing out of the dipstick hole despite having 1/2 breathers on the rockers. a feed from the blanked off fuel pump fitting (running electric fuel pump) and all into a CSP tower breather, Even got a 1/2 pipe going to the airfilter to help drag it into the airfilter and a small breather filter to help out if needed. The engine is run in and has great compression.\n<br> \n<br> Only happens at high rev's ( I know, dont rev it!!)",
+    "lastEdited" : "Fri Sep 10, 2010 2:32 pm"
+  }, {
+    "postId" : "533294",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "533294",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "You need to hook a spring from it down to the tinker screw. If you look at most racers they have to do it.",
+    "lastEdited" : "Fri Sep 10, 2010 6:05 pm"
+  }, {
+    "postId" : "533307",
+    "author" : {
+      "username" : "jerrythegerman",
+      "userId" : "533307",
+      "joined" : "Sun Feb 08, 2009 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "327",
+      "avatarPath" : "./download/file.php%3Favatar=31695_1261564571.jpg"
+    },
+    "content" : "Good point, I do that on my coopers rally car, but its just to stop it jumping out. \n<br> \n<br> It's a CB/Autolinea block so doesnt have the boss coming up from the hole that see on the original AS 41 block's, would that be a issue with the seal? It also threw me on my dipstick level as I am unsure if it now affectively is longer due to the fact it goes further down into the sump?\n<br> \n<br> Any one got any measurements? I have a adjustable VDO one for temp too.",
+    "lastEdited" : "Fri Sep 10, 2010 7:04 pm"
+  }, {
+    "postId" : "533333",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "533333",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "I'd check the level by measuring the amount of oil you put in. If you are running it with a deep sump I'd run at the min point of a normal dipstick.",
+    "lastEdited" : "Fri Sep 10, 2010 10:35 pm"
+  } ]
+}

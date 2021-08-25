@@ -1,0 +1,131 @@
+{
+  "forumId" : "6",
+  "threadId" : "119870",
+  "title" : "6 volt or 12 volt",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119870",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=9c04b3fea48e90c5553a9c38bbe1693e",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "901063",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "901063",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "I have a 66 registered bus which was manufactured in 65 would this have left the factory as a 6 or 12 volt? Reason for asking is that the wipers seem to run very fast and I was thinking that perhaps it has been converted to 12 from 6.\n<br> As always any advice would be greatly appreciated.",
+    "lastEdited" : "Thu Aug 03, 2017 7:46 pm"
+  }, {
+    "postId" : "901087",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "901087",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "There was an option to have 12v fitted from new complete with 12v battery cover. All the factory fitted items were 12v.\n<br> Check your m codes.\n<br> Does the bus have a 12v battery?\n<br> Around then VW fitted 2 speed 12v wipers!\n<br> Is yours 2 speed?\n<br> Are you selecting fast?\n<br> \n<br> If the bus has been converted to 12v then the wiper motor may not have been converted to 12v.\n<br> Early breadlof motors easy to convert.\n<br> 65 with frame much more difficult.\n<br> 66 67 with cylinder body no idea\n<br> \n<br> vwed is the wiper expert.\n<br> \n<br> Wiper motors draw high current so people do not fit voltage droppers that often.\n<br> They get very hot!\n<br> \n<br> G\n<br> \n<br> \n<br> \n<br> \n<br> \n<br>",
+    "lastEdited" : "Fri Aug 04, 2017 6:57 am"
+  }, {
+    "postId" : "901142",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "901142",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "As above, the M code for a 12 volt Bus is M620.\n<br> If your Bus is originally from the States it is likely to have this.\n<br> UK/European Buses remained 6 volt until the start of the '67 model year (August '66) when they too became 12 volt.\n<br> As above, I would have thought a quick look at your battery will give you the answer!",
+    "lastEdited" : "Sat Aug 05, 2017 11:52 am"
+  }, {
+    "postId" : "901190",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "901190",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "I understand what you are saying but why would a quick look at the battery tell me if the bus left the factory with a 12v battery or if someone changed it at a later date?",
+    "lastEdited" : "Sun Aug 06, 2017 9:25 pm"
+  }, {
+    "postId" : "901194",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "901194",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Slippers wrote:</cite>I understand what you are saying but why would a quick look at the battery tell me if the bus left the factory with a 12v battery or if someone changed it at a later date?\n </div>\n</blockquote> How is the battery strapped down?\n<br> \n<br> It would have / should still have a 12v battery cover and longer battery strap.\n<br> The mcode plate should have the m code on it.. m620\n<br> The wiper motor part number would be for a 6v or 12v\n<br> The fuel gauge would be for a 6v or 12v..\n<br> Easy to see if it started as 12v..",
+    "lastEdited" : "Mon Aug 07, 2017 2:29 am"
+  }, {
+    "postId" : "901196",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "901196",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "Ah, I see what you mean now (not usually this stupid!!) the wipers are two speed and both seem to be pretty fast, perhaps that is how it is supposed to be. It has the cylinder type motor and I have been told that a Freelander one can be used to replace it with not to much modification so perhaps I will give this a try. Thanks for the info.",
+    "lastEdited" : "Mon Aug 07, 2017 6:59 am"
+  }, {
+    "postId" : "901200",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "901200",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "Bear in mind that both the 6 volt and 12 volt cylindrical wiper motor were 2 speed.\n<br> Best to look at the part number.\n<br> 211 955 111 Q = 6 volt.\n<br> 211 955 113 Q = 12 volt.",
+    "lastEdited" : "Mon Aug 07, 2017 7:32 am"
+  }, {
+    "postId" : "901202",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "901202",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "Brilliant, you certainly are a hive of information.",
+    "lastEdited" : "Mon Aug 07, 2017 8:29 am"
+  }, {
+    "postId" : "901204",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "901204",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "...told you..LOL.\n<br> G",
+    "lastEdited" : "Mon Aug 07, 2017 8:36 am"
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "17587",
+  "title" : "Help neede with rear air shocks",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=17587",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "123292",
+    "author" : {
+      "username" : "paulypaul",
+      "userId" : "123292",
+      "joined" : "Fri Sep 16, 2005 4:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "North Norfolk",
+      "postCount" : "598",
+      "avatarPath" : null
+    },
+    "content" : "Just discovered that our 63 from Arizona has a pair of rear shocks that seem to be air dampened. \n<br> There is a valve fitted in the engine bay tray (opposite that main battery tray). I cant figure out who manufactured the shocks and I am wondering if any of you guys know how much pressure should these be inflated to so I can check them without ruining anything. \n<br> Thanks, Paul \n<br> \n<br> They have some writing on them saying: \n<br> 729204 \n<br> Made in USA \n<br> P043\n<br> \n<br> \n<img src=\"http://i29.photobucket.com/albums/c280/paulyana/100_1058.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Mar 25, 2006 10:11 am"
+  }, {
+    "postId" : "123359",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "123359",
+      "joined" : "Thu Apr 17, 2003 9:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "In front of the computer",
+      "postCount" : "1769",
+      "avatarPath" : null
+    },
+    "content" : "They are gabriel airjackers. They are not air dampers but airsprung oil dampers. The air pressure should be between 25 and 200 psi. Mike",
+    "lastEdited" : "Sat Mar 25, 2006 4:29 pm"
+  }, {
+    "postId" : "123475",
+    "author" : {
+      "username" : "paulypaul",
+      "userId" : "123475",
+      "joined" : "Fri Sep 16, 2005 4:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "North Norfolk",
+      "postCount" : "598",
+      "avatarPath" : null
+    },
+    "content" : "Mike, thats quite a large range of pressure to choose between. How come the range is so vast? Whats recommended?\n<br> Paul",
+    "lastEdited" : "Sat Mar 25, 2006 10:19 pm"
+  }, {
+    "postId" : "123478",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "123478",
+      "joined" : "Thu Apr 17, 2003 9:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "In front of the computer",
+      "postCount" : "1769",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>paulypaul wrote:</cite>Mike, thats quite a large range of pressure to choose between. How come the range is so vast? Whats recommended?\n  <br> Paul\n </div>\n</blockquote> They are design to be used where you are going to carry heavy weights. You can Set the pressure low for every day use and blow them up when you are gonna carry some thing heavy. I have a pair fitted to my van at the front so I can get over speed bumps without damaging the steering box, they give about two inches lift at 200psi. I think they say keep 25psi in them to stop the air bag from pinching. I have fitted a small compressor and gauge so I can adjust them as I drive. Mike",
+    "lastEdited" : "Sat Mar 25, 2006 10:31 pm"
+  }, {
+    "postId" : "123632",
+    "author" : {
+      "username" : "paulypaul",
+      "userId" : "123632",
+      "joined" : "Fri Sep 16, 2005 4:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "North Norfolk",
+      "postCount" : "598",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Mike, there does seem to be some evidence of wiring/pipework to the dash with warning lights etc so perhaps they were operated at one point from the driving seat...dont think I'll even go there. Thanks for your help, shame about the tyres though. Ta, Paul",
+    "lastEdited" : "Sun Mar 26, 2006 6:25 pm"
+  } ]
+}

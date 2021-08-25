@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "119722",
+  "title" : "Side pop out seals which way round?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119722",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=53536e38424f4b3180d061b800ffc4f6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "900242",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "900242",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "I'm hoping someone can help tell me which way round the seals go on side pop out windows. \n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"file\"> \n  <dt class=\"attach-image\">\n   <img src=\"./download/file.php?id=22306&amp;sid=53536e38424f4b3180d061b800ffc4f6\" class=\"postimage\" alt=\"IMG_0799.JPG\" onclick=\"viewableArea(this);\">\n  </dt> \n  <dd>\n   IMG_0799.JPG (12.12 KiB) Viewed 1004 times\n  </dd> \n </dl> \n</div> In the picture above I've always assumed the left side was the inside profile and the right the outside so that the extra rubber that protrudes provides cover over the frame/screw holes. However, opening the windows is so hard that I've broken catches before. This week I was told this is because my seals are the wrong way round. Before I change them all can someone confirm?\n<br> \n<br> Ignore the red circle I've just borrowed the photo from elsewhere. \n<br> \n<br> Thanks",
+    "lastEdited" : "Sun Jul 16, 2017 8:22 am"
+  }, {
+    "postId" : "900248",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "900248",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Fair play, I've just tried it the other way around and it is so much better in terms of opening and closing and the seals still look good. It would be helpful to confirm however as I suspect there are many of us that have had the same thoughts and issues. \n<br> \n<br> Cheers\n<br> \n<br> Steve",
+    "lastEdited" : "Sun Jul 16, 2017 9:43 am"
+  }, {
+    "postId" : "900279",
+    "author" : {
+      "username" : "mark-s",
+      "userId" : "900279",
+      "joined" : "Mon Sep 26, 2005 12:42 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Newcastle, UK",
+      "postCount" : "686",
+      "avatarPath" : null
+    },
+    "content" : "I don't think your seals are the wrong way round, I just checked the original one one my van. I have a new one too and yes, it is hard to open.",
+    "lastEdited" : "Mon Jul 17, 2017 6:04 am"
+  } ]
+}

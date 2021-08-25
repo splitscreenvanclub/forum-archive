@@ -1,0 +1,131 @@
+{
+  "forumId" : "28",
+  "threadId" : "61832",
+  "title" : "turbo..",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=61832",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=ca4270cf0394fd89e83402c7f57b65b5",
+    "label" : "BWA"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "478758",
+    "author" : {
+      "username" : "Doogle",
+      "userId" : "478758",
+      "joined" : "Tue Jun 10, 2008 9:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Isle of Wight",
+      "postCount" : "2376",
+      "avatarPath" : "./download/file.php%3Favatar=24442_1262223466.jpg"
+    },
+    "content" : "Whats the best turbo to use, and the best way of going about turboing a fairly stock motor, 1600ish twin port.\n<br> \n<br> Iv got to strip it over winter to find out whats inside and the actual CC but I know the block is an AE code 1303S block and it was built by Mark Wolter (Stricktly foreign) somewhen before being imported\n<br> \n<br> I was thinking of draw through with a single twin choke weber but also thinking of fitting twin webers to it anyway so could I fit a small turbo in before these and have forced air going into them or is that a more costly complicated way of doing it? Looking to try and build it up myself as well. Not looking for strip action just street, dont have 5k+ to blow on building a 2ltr+ motor from scratch, would mainly be for posing so I can say its a turbo'd motor \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\"> \n<br> \n<br> Any ideas/help please?",
+    "lastEdited" : "Thu Dec 24, 2009 12:37 am"
+  }, {
+    "postId" : "478953",
+    "author" : {
+      "username" : "jerrythegerman",
+      "userId" : "478953",
+      "joined" : "Sun Feb 08, 2009 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "327",
+      "avatarPath" : "./download/file.php%3Favatar=31695_1261564571.jpg"
+    },
+    "content" : "I think a twin webers would be over kill to be honest. If you put them in a blow through configuration, you would have to seal them (to stop the fuel coming out of things like the spindles, blowing gaskets) dellortos would be better as they actually made turbo charged, sealed version's and you can also buy a conversion kit for standard ones.\n<br> \n<br> Draw throughs easier as you don't have to worry about sealing the carbs and jetting is less trick (no modulator rings and the like), People are also starting to use the good old big SU too!!, loads of needles available and if set up properly, very good. Trouble is with draw through's you end up putting most of the header in the engine compartement. Ok in buggie's, but not good for bus'es because of the heat. Still, you won't suffer with carb freezing!!\n<br> \n<br> A fair few people have converted a PICT 34 to work quite well in a blow through config, look up shoptalk forums, a few chaps on there have done it with good results.\n<br> \n<br> Buy the Turbo mania book, it's a bit CB biased (produced by them) but it will give you idea's on converting standard fuel pumps and give's a good overall grounding on what's required. Turbo sizing and the like is covered there. \n<br> \n<br> Turbo size wise, I'd be looking at a GT 12, 15 or 20 top's for that size engine (and only in blow through as you cannot put a carbon seal in them, as required for draw through), for it to remain drivable and keep the boost down to around 7-8 PSI. That would give a healthy increase without causing too much concern, but theres not just the turbo to think of, there's the additional heat and oil supply's to think of too. For a small turbo, you'll have to make a manifold or feed the turbo from a small merged header as production turbo headers currently made, don't really suit yor engine size, again Shoptalk forums have a few designs about to answer it. Maybe a T2 in draw through, but it could be still a little too big.\n<br> \n<br> You can go on forever making better, really you should be making sure the clutch is good and dumping the clutch on a 4dowelled crank is not good. Not sure if you really convert it if the engine is out? Also, put a return line into the tanks whilst you can access it, then you have the option to use a boost sensitive regulator and a electric pump. \n<br> \n<br> There's a thread on VZi with someone blowing a bay with a GT15 and a Renault 5 Turbo carb too, have a good look at it.\n<br> \n<br> I think you need to do load's of reading, I'm not sure of your mechanical capabilities but it really is a bit more than just bolting one on. Still, I wish you uck, loads look into it and do nothing.",
+    "lastEdited" : "Sat Dec 26, 2009 11:12 am"
+  }, {
+    "postId" : "478979",
+    "author" : {
+      "username" : "Doogle",
+      "userId" : "478979",
+      "joined" : "Tue Jun 10, 2008 9:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Isle of Wight",
+      "postCount" : "2376",
+      "avatarPath" : "./download/file.php%3Favatar=24442_1262223466.jpg"
+    },
+    "content" : "Thanks for your reply, will look some stuff up certainly seems like alot of reading to do and thanks for the links of where to look.",
+    "lastEdited" : "Sat Dec 26, 2009 2:45 pm"
+  }, {
+    "postId" : "478997",
+    "author" : {
+      "username" : "13bussing",
+      "userId" : "478997",
+      "joined" : "Fri Jul 18, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "St Ives, Cornwall",
+      "postCount" : "844",
+      "avatarPath" : null
+    },
+    "content" : "You can mod your carb and fuel pump with relative ease have a look here \n<a href=\"http://www.shoptalkforums.com/viewtopic.php?f=3&amp;t=118340\" class=\"postlink\">http://www.shoptalkforums.com/viewtopic ... 3&amp;t=118340</a>\n<br> \n<br> You could also think abut using a k03 of a golf t or an audi and Quite cheap on evil bay, you also will need to lock your distributor.\n<br> \n<br> have a good read through here all is explained quite well.\n<br> \n<br> \n<a href=\"http://www.volkszone.co.uk/VZi/showthread.php?t=395047\" class=\"postlink\">http://www.volkszone.co.uk/VZi/showthread.php?t=395047</a>\n<br> \n<br> I should be starting my build soon on a standard 1600 but using efi and crank controled ignition.",
+    "lastEdited" : "Sat Dec 26, 2009 7:49 pm"
+  }, {
+    "postId" : "479007",
+    "author" : {
+      "username" : "Doogle",
+      "userId" : "479007",
+      "joined" : "Tue Jun 10, 2008 9:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Isle of Wight",
+      "postCount" : "2376",
+      "avatarPath" : "./download/file.php%3Favatar=24442_1262223466.jpg"
+    },
+    "content" : "Thanks very much, this isnt looking too bad to do.\n<br> \n<br> Im sure I can find a turbo at the local scrappy or evil bay, Im tempted to go the same route with a renault turbo carb too, or twin carbs with hats? but would still need to get the carbs sealed im assuming and find the top covers from somewhere.\n<br> \n<br> Sealing carbs and locking dizzy are two things that I fear a little, I havnt a clue where to start with dizzy or why this needs to be done?? Is this something that anyone can help me with if I supplied my dizzy (currently have a 009)",
+    "lastEdited" : "Sat Dec 26, 2009 9:54 pm"
+  }, {
+    "postId" : "479060",
+    "author" : {
+      "username" : "jerrythegerman",
+      "userId" : "479060",
+      "joined" : "Sun Feb 08, 2009 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "327",
+      "avatarPath" : "./download/file.php%3Favatar=31695_1261564571.jpg"
+    },
+    "content" : "The basic way is to set your timing at 24 or 27 deg max advance at 3000 rpm. It's a good start, but really the best way is to either buy something like a MSD set up with a boost retarder or look at some of the Mega jolt syastems.",
+    "lastEdited" : "Sun Dec 27, 2009 5:00 pm"
+  }, {
+    "postId" : "479066",
+    "author" : {
+      "username" : "Doogle",
+      "userId" : "479066",
+      "joined" : "Tue Jun 10, 2008 9:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Isle of Wight",
+      "postCount" : "2376",
+      "avatarPath" : "./download/file.php%3Favatar=24442_1262223466.jpg"
+    },
+    "content" : "Im guesing the best way is MSD etc, dont know where to start with dizzy but what is that likely to cost?",
+    "lastEdited" : "Sun Dec 27, 2009 5:38 pm"
+  }, {
+    "postId" : "479149",
+    "author" : {
+      "username" : "13bussing",
+      "userId" : "479149",
+      "joined" : "Fri Jul 18, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "St Ives, Cornwall",
+      "postCount" : "844",
+      "avatarPath" : null
+    },
+    "content" : "As jarythegerman said mega jolt would be a good way forward ( more reading \n<a href=\"http://www.capitalcitycorvairs.com/home/how-tos/7-d-i-s\" class=\"postlink\">http://www.capitalcitycorvairs.com/home/how-tos/7-d-i-s</a> ) but you could also go the whole hog and get a megasquirt magnegment sytem to run the ignition then in the futcher you can go fi \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> \n<br> \n<a href=\"http://www.msextra.com/forums/index.php\" class=\"postlink\">http://www.msextra.com/forums/index.php</a>\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=212747&amp;postdays=0&amp;postorder=asc&amp;start=00\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewto ... c&amp;start=00</a>\n<br> \n<br> I would also use a singal throttle body/carb then you dont have the proplem of having to balacing the bodys.\n<br> \n<br> Think this may be good in techincal now????",
+    "lastEdited" : "Mon Dec 28, 2009 11:47 am"
+  }, {
+    "postId" : "479235",
+    "author" : {
+      "username" : "Doogle",
+      "userId" : "479235",
+      "joined" : "Tue Jun 10, 2008 9:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Isle of Wight",
+      "postCount" : "2376",
+      "avatarPath" : "./download/file.php%3Favatar=24442_1262223466.jpg"
+    },
+    "content" : "Thanks, more reading \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">\n<br> \n<br> Put it in here cos i assued you BWA boys had more experience with turbo'ing but might move it if needs be.\n<br> \n<br> \n<br> cheers",
+    "lastEdited" : "Mon Dec 28, 2009 9:12 pm"
+  } ]
+}

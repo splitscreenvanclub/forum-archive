@@ -1,0 +1,196 @@
+{
+  "forumId" : "6",
+  "threadId" : "14126",
+  "title" : "rear brake lights..",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=14126",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 14,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "94250",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "94250",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "667",
+      "avatarPath" : null
+    },
+    "content" : "on my 64 my LHS (opposite side to battery) brake wire doesnt seem to have power running through it, b4 i go and rip the wiring to bits does this simply daisy chain from the opposite light?? and where normally does the wires meet? \n<br> \n<br> Thanks\n<br> \n<br> Andy \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Nov 22, 2005 11:07 pm"
+  }, {
+    "postId" : "94257",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "94257",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "if seperate indicators yes.\n<br> \n<br> have a look at the wiring diagrams on vintagebus.com",
+    "lastEdited" : "Tue Nov 22, 2005 11:19 pm"
+  }, {
+    "postId" : "94437",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "94437",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "667",
+      "avatarPath" : null
+    },
+    "content" : "Hi, I had a look at the wiring diagrams but I think I must be missing something, I followed the wires from stop light switch to rear lights and it doesn't seem to connect correctly.. I know that the wire I have from left to right hand side rear light is black/grey on my bus, but it doesn't show where the feed wire is that powers both rear lights.. Can anyone help pleeeeaaaasssseeeee??????!!!!!!!!!! \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Wed Nov 23, 2005 9:50 pm"
+  }, {
+    "postId" : "95438",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "95438",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "667",
+      "avatarPath" : null
+    },
+    "content" : "Anyone?????? Someone must know.. I don't want to strip the whole loom only to find that there is a wire for each reaqr light.. can anyone advise if the LH brake light gets its feed from the RH light (beside the battery?)\n<br> \n<br> Thanks\n<br> \n<br> Andrew \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> \n<br> PS: I hate electrical issues.. ;o(",
+    "lastEdited" : "Sun Nov 27, 2005 10:15 pm"
+  }, {
+    "postId" : "95450",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "95450",
+      "joined" : "Thu Apr 17, 2003 9:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "In front of the computer",
+      "postCount" : "1769",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>andydlc wrote:</cite>Anyone?????? Someone must know.. I don't want to strip the whole loom only to find that there is a wire for each reaqr light.. can anyone advise if the LH brake light gets its feed from the RH light (beside the battery?)\n  <br> \n  <br> Thanks\n  <br> \n  <br> Andrew \n  <img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n  <br> \n  <br> PS: I hate electrical issues.. ;o(\n </div>\n</blockquote> As Wilgartw says if you have a seperate indicator and brake light IE European Specification then you have a wire between both stop lamps. If you have a USA specification bus then the lamps are seperately fed from the indicator switch. Please state which country you van was from and whether it has seperate indicator and tailight/brake light bulbs.",
+    "lastEdited" : "Sun Nov 27, 2005 11:38 pm"
+  }, {
+    "postId" : "95671",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "95671",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "667",
+      "avatarPath" : null
+    },
+    "content" : "Hello there, its a US spec van, LHD, 64 model, All red rear lenses, I think thats the way it works, brake light goes off if you indicate.. Never looked behind it and tried! \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br> \n<br> I know, i know.. \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> Thanks\n<br> \n<br> Andrew",
+    "lastEdited" : "Mon Nov 28, 2005 7:56 pm"
+  }, {
+    "postId" : "95672",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "95672",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "667",
+      "avatarPath" : null
+    },
+    "content" : "I think the indicator does work on the side with the faulty brake light.. If that helps?",
+    "lastEdited" : "Mon Nov 28, 2005 7:57 pm"
+  }, {
+    "postId" : "95769",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "95769",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "how many bulbs do you have?\n<br> \n<br> if you only have one, then the indicator, stop, and tail light are all one.\n<br> \n<br> if there are two, then the stop and tail are one, and the indicator is the other.\n<br> \n<br> for a '64 american spec you should just have one bulb.\n<br> \n<br> so, the indicator and brake light should be fed by the same wire at the indicator switch on the steering column. Does the indicator switch look original? \n<br> \n<br> I suspect some chopping has gone on by the original owner. It probably works this way as the PO could not get it to work. If you are indicating right and you put your foot on the brake, does it continue to flash. it should. \n<br> \n<br> i think you should concentrate around the indicator switch, and brake light switch rather than at the back of the bus.",
+    "lastEdited" : "Tue Nov 29, 2005 9:39 am"
+  }, {
+    "postId" : "95770",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "95770",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "ps, where are you based?",
+    "lastEdited" : "Tue Nov 29, 2005 9:39 am"
+  }, {
+    "postId" : "95993",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "95993",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "667",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for all the info wilgartw, I have one bulb which does everything.. \n<br> \n<br> It is US spec..\n<br> \n<br> So you think the indicator column.. I shall check this next.. Thanks very much for the info you have provided.. \n<br> \n<br> Will update soon! \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Nov 29, 2005 10:51 pm"
+  }, {
+    "postId" : "95994",
+    "author" : {
+      "username" : "andydlc",
+      "userId" : "95994",
+      "joined" : "Thu Sep 15, 2005 1:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "Jersey, Channel Islands",
+      "postCount" : "667",
+      "avatarPath" : null
+    },
+    "content" : "And I am based in Jersey in the Channel Islands...! \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Nov 29, 2005 10:52 pm"
+  }, {
+    "postId" : "96003",
+    "author" : {
+      "username" : "2splitsjay",
+      "userId" : "96003",
+      "joined" : "Mon Mar 22, 2004 11:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "dudley west midlands",
+      "postCount" : "367",
+      "avatarPath" : null
+    },
+    "content" : "ave a quick lookie on vintagebus.com \n<br> ear it is \n<a href=\"http://66.34.72.138/index.html\" class=\"postlink\">http://66.34.72.138/index.html</a>\n<br> ope it elps jay",
+    "lastEdited" : "Wed Nov 30, 2005 12:27 am"
+  }, {
+    "postId" : "96006",
+    "author" : {
+      "username" : "brianjbox",
+      "userId" : "96006",
+      "joined" : "Fri Jun 24, 2005 9:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "3064",
+      "avatarPath" : null
+    },
+    "content" : "I had an American spec 69 bay with the same red all in one rear lights, do you intend to sperate the indicators from the brake lights as I had to for the M.O.T.\n<br> I ended up running coloured bulbs in the reversing lights as indicators and used the red lights just as braking/sidelights.\n<br> If you are seperating [don't know laws over there] this was quite easy to do at the brake master cylinder, the brake master cylinder has a live feed going to a switch [on the cylinder] and a switched live [when brake pedal depressed and ignition on] returning to the indicators? I disconnected this switched live and instead run a feed straight from the switch to the rear brake lights [disconnecting the original indicator fed one, taped up].\n<br> This would work if you were converting to the european style lights, not a lot of use though if your not.",
+    "lastEdited" : "Wed Nov 30, 2005 6:27 am"
+  }, {
+    "postId" : "96052",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "96052",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>brianjbox wrote:</cite>I had an American spec 69 bay with the same red all in one rear lights, do you intend to sperate the indicators from the brake lights as I had to for the M.O.T.\n  <br> I ended up running coloured bulbs in the reversing lights as indicators and used the red lights just as braking/sidelights.\n  <br> If you are seperating [don't know laws over there] this was quite easy to do at the brake master cylinder, the brake master cylinder has a live feed going to a switch [on the cylinder] and a switched live [when brake pedal depressed and ignition on] returning to the indicators? I disconnected this switched live and instead run a feed straight from the switch to the rear brake lights [disconnecting the original indicator fed one, taped up].\n  <br> This would work if you were converting to the european style lights, not a lot of use though if your not.\n </div>\n</blockquote> you do not need to do this for a '64, but it is an option, in my opinion, the single light is not as safe as the seperate eu amber style, as not all drivers are aware of what they are, and so i think (not based on any fact whatsoever) that you are more likely to be shunted from behind.\n<br> \n<br> in saying that all red lenses are much cooler.\n<br> \n<br> It all depends whether you want stock or not. I have the small red lenses, and i have had these wired up as they were originally intended, but then i have made a high level brake light to incorperate amber turn signals.\n<br> \n<br> the picture isn't very good, but here is the van braking and turning left.\n<br> \n<img src=\"http://images.fotopic.net/yatiyu.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Wed Nov 30, 2005 11:54 am"
+  } ]
+}

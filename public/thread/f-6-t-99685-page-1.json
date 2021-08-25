@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "99685",
+  "title" : "Gearbox code H ???",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=99685",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "762202",
+    "author" : {
+      "username" : "nabuko",
+      "userId" : "762202",
+      "joined" : "Sun Feb 17, 2008 8:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Belgium (W-VL)",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "Hello\n<br> \n<br> On my fifteen window that has been imported from the US, I have a gearbox with the code H..... I can't find this code in any of the lists I found on the net.\n<br> \n<br> Does anyone happen to know where this gearbox is coming from?\n<br> \n<br> Thx!\n<br> \n<br> Pics:\n<br> \n<br> \n<a href=\"http://s44.photobucket.com/user/nabukogolf/media/DSCN7517.jpg.html\" class=\"postlink\"><img src=\"http://i44.photobucket.com/albums/f25/nabukogolf/DSCN7517.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> \n<a href=\"http://s44.photobucket.com/user/nabukogolf/media/IMG_2974.jpg.html\" class=\"postlink\"><img src=\"http://i44.photobucket.com/albums/f25/nabukogolf/IMG_2974.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Sun Dec 22, 2013 11:49 am"
+  }, {
+    "postId" : "762260",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "762260",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3553",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Standard box for 1500 engine. German made.",
+    "lastEdited" : "Sun Dec 22, 2013 9:32 pm"
+  }, {
+    "postId" : "762320",
+    "author" : {
+      "username" : "nabuko",
+      "userId" : "762320",
+      "joined" : "Sun Feb 17, 2008 8:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Belgium (W-VL)",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "Thx! I'll try using this one then. I wanted to keep it stock height but it allready had flipped spindles and another gearbox. I'll use the 1500H engine from my '67 bus for this one, so I think that'll work.",
+    "lastEdited" : "Mon Dec 23, 2013 4:56 pm"
+  } ]
+}

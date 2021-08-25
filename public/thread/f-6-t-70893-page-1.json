@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "70893",
+  "title" : "Whats this nosecone off ?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=70893",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "545666",
+    "author" : {
+      "username" : "slammeddeluxe",
+      "userId" : "545666",
+      "joined" : "Fri Oct 12, 2007 8:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "bishop auckland",
+      "postCount" : "1685",
+      "avatarPath" : "./download/file.php%3Favatar=10784_1233095807.jpg"
+    },
+    "content" : "Not sure what its off - can anyone help ?\n<br> \n<br> Thanks\n<br> \n<img src=\"http://i119.photobucket.com/albums/o160/ooh_bugster/3ebabdc4.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://i119.photobucket.com/albums/o160/ooh_bugster/19120322.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://i119.photobucket.com/albums/o160/ooh_bugster/6f32102d.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue Nov 09, 2010 9:32 pm"
+  }, {
+    "postId" : "545678",
+    "author" : {
+      "username" : "slammeddeluxe",
+      "userId" : "545678",
+      "joined" : "Fri Oct 12, 2007 8:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "bishop auckland",
+      "postCount" : "1685",
+      "avatarPath" : "./download/file.php%3Favatar=10784_1233095807.jpg"
+    },
+    "content" : "<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?p=4409648\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewto ... ?p=4409648</a>\n<br> \n<br> Split Bus ?",
+    "lastEdited" : "Tue Nov 09, 2010 9:39 pm"
+  }, {
+    "postId" : "545707",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "545707",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20158",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "'H' is later split bus, though thought the number ended in 205 not 211.",
+    "lastEdited" : "Tue Nov 09, 2010 10:25 pm"
+  }, {
+    "postId" : "545715",
+    "author" : {
+      "username" : "slammeddeluxe",
+      "userId" : "545715",
+      "joined" : "Fri Oct 12, 2007 8:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "bishop auckland",
+      "postCount" : "1685",
+      "avatarPath" : "./download/file.php%3Favatar=10784_1233095807.jpg"
+    },
+    "content" : "Cheers Jim !",
+    "lastEdited" : "Tue Nov 09, 2010 10:33 pm"
+  }, {
+    "postId" : "545812",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "545812",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Early (ie 60s) beetle I think, the hockey stick isn't bent on the end like it should be, and the hockey stick enters the nosecone to high for it to be a bus one.\n<br> \n<br> Here is a pic from thesamba showing what it should be like with a bend\n<br> \n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/333419.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Wed Nov 10, 2010 1:16 pm"
+  }, {
+    "postId" : "545821",
+    "author" : {
+      "username" : "slammeddeluxe",
+      "userId" : "545821",
+      "joined" : "Fri Oct 12, 2007 8:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "bishop auckland",
+      "postCount" : "1685",
+      "avatarPath" : "./download/file.php%3Favatar=10784_1233095807.jpg"
+    },
+    "content" : "Thanks Paul\n<br> \n<br> So Early 60's bug it is !\n<br> \n<br> Cheers",
+    "lastEdited" : "Wed Nov 10, 2010 1:24 pm"
+  } ]
+}

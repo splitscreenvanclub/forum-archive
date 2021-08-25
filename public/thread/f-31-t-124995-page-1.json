@@ -1,0 +1,40 @@
+{
+  "forumId" : "31",
+  "threadId" : "124995",
+  "title" : "Big stack of VW mags - collection West Berks",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=31&t=124995",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=31&sid=aec1c575cb8838819d4f307b22f3bb7b",
+    "label" : "Free!"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931461",
+    "author" : {
+      "username" : "Eternal Optimist",
+      "userId" : "931461",
+      "joined" : "Fri May 02, 2003 11:50 am",
+      "profileRank" : "SSVC Member",
+      "location" : "West Berks",
+      "postCount" : "1255",
+      "avatarPath" : null
+    },
+    "content" : "Hi - vast collection Of VW mags dating from mid 2000’s to probably 2014 or so. Collection only.",
+    "lastEdited" : "Tue Jul 28, 2020 5:29 pm"
+  }, {
+    "postId" : "931522",
+    "author" : {
+      "username" : "Eternal Optimist",
+      "userId" : "931522",
+      "joined" : "Fri May 02, 2003 11:50 am",
+      "profileRank" : "SSVC Member",
+      "location" : "West Berks",
+      "postCount" : "1255",
+      "avatarPath" : null
+    },
+    "content" : "Gone, pending collection.",
+    "lastEdited" : "Tue Aug 04, 2020 6:19 am"
+  } ]
+}

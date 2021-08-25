@@ -1,0 +1,40 @@
+{
+  "forumId" : "8",
+  "threadId" : "107833",
+  "title" : "Sherry: Ship of Theseus: The Timbers are Caulked!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=107833&start=675",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=6d19e447f3d7797beb6156796493ddc5",
+    "label" : "Rides and Projects"
+  } ],
+  "totalPosts" : 677,
+  "pageNumber" : 46,
+  "totalPages" : 46,
+  "posts" : [ {
+    "postId" : "928395",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "928395",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1070",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=900207&amp;sid=6d19e447f3d7797beb6156796493ddc5#p900207\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=5773&amp;sid=6d19e447f3d7797beb6156796493ddc5\">type21f</a> wrote: <a href=\"./viewtopic.php?p=900207&amp;sid=6d19e447f3d7797beb6156796493ddc5#p900207\" data-post-id=\"900207\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sat Jul 15, 2017 6:31 am</span></cite> Front cab seat belt wheel tub mounts fitted..\n  <br> \n  <br> \n  <img src=\"//uploads.tapatalk-cdn.com/20170715/cf7ad0a0a29a0300f2c6e4582221a545.jpg\" class=\"postimage\" alt=\"Image\"> \n </div>\n</blockquote> A guy on the Volkswagen Split Trucks group on Facebook was asking for info on the seat belt mounts. I've pointed him to your posts here. Hope that's OK?\n<br> \n<br> Cheers\n<br> \n<br> Andy",
+    "lastEdited" : "Wed Mar 18, 2020 6:26 pm"
+  }, {
+    "postId" : "928396",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "928396",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15708",
+      "avatarPath" : null
+    },
+    "content" : "Cheers Supplement Z14 thesamba.com Technical Supplements has info for fronts\n<br> \n<br> Micribus rear solution was via parts from karl_f for narrow hatch buses. Not available any more...",
+    "lastEdited" : "Wed Mar 18, 2020 6:29 pm"
+  } ]
+}

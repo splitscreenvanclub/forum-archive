@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "123243",
+  "title" : "Nos 9 pin relay SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123243",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=615c972b54e5bb9acdb37b59852a4ae1",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "921303",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "921303",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "These were like hens teeth a few years ago, WW do a repro but this is genuine VW in the box, \n<br> £65 posted.\n<br> \n<br> Ron",
+    "lastEdited" : "Tue Apr 09, 2019 3:17 pm"
+  }, {
+    "postId" : "922239",
+    "author" : {
+      "username" : "PWP211E",
+      "userId" : "922239",
+      "joined" : "Mon May 13, 2019 7:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hi Ron\n<br> If you still have your 9 pin relay (and it works) I will have it. \n<br> Give me a call\n<br> Cheers\n<br> Simon\n<br> 07785 231635",
+    "lastEdited" : "Tue May 14, 2019 1:02 pm"
+  }, {
+    "postId" : "922245",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "922245",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "PayPal is \n<a href=\"mailto:ron@vwendangeredspecies.co.uk\">ron@vwendangeredspecies.co.uk</a>",
+    "lastEdited" : "Tue May 14, 2019 4:22 pm"
+  } ]
+}

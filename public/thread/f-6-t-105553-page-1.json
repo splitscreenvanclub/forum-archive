@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "105553",
+  "title" : "What makes a \"67 only\" wiper ...a.67 only?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=105553",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "801188",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "801188",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "I seem to have a 67 only wiper unit , well the part number on the motor is 211 955 113G and the part number on the frame work is 211 955 605 A.\n<br> \n<br> So what makes it a 67 only ?\n<br> \n<br> Also.......\n<br> How can I test it if I don't have a 67 wiper switch, it has 4 elec contacts live, earth and something else, and the other one \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";)\" title=\"Wink\"> \n<br> \n<br> Thanks \n<br> Andy",
+    "lastEdited" : "Sun Sep 07, 2014 4:09 pm"
+  }, {
+    "postId" : "801196",
+    "author" : {
+      "username" : "thesickness",
+      "userId" : "801196",
+      "joined" : "Sun Nov 28, 2010 8:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "459",
+      "avatarPath" : null
+    },
+    "content" : "It's 2 speed \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";)\" title=\"Wink\">",
+    "lastEdited" : "Sun Sep 07, 2014 4:36 pm"
+  }, {
+    "postId" : "801198",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "801198",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15810",
+      "avatarPath" : null
+    },
+    "content" : "It is 12v?\n<br> On a frame\n<br> With different motor shape - cylinder shaped\n<br> The spindles are longer and have longer arms..\n<br> and they are hard to find!",
+    "lastEdited" : "Sun Sep 07, 2014 4:47 pm"
+  }, {
+    "postId" : "801235",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "801235",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Don' know it is a 12 vt. Would it have it stamped on it ?\n<div class=\"inline-attachment\">\n <!-- ia0 -->ImageUploadedByTapatalk1410121918.713240.jpg\n <!-- ia0 -->\n</div>\n<div class=\"inline-attachment\">\n <!-- ia1 -->ImageUploadedByTapatalk1410121946.243496.jpg\n <!-- ia1 -->\n</div>\n<div class=\"inline-attachment\">\n <!-- ia2 -->ImageUploadedByTapatalk1410121974.603427.jpg\n <!-- ia2 -->\n</div>",
+    "lastEdited" : "Sun Sep 07, 2014 8:33 pm"
+  }, {
+    "postId" : "801236",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "801236",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "<div class=\"inline-attachment\">\n <!-- ia0 -->ImageUploadedByTapatalk1410122005.806142.jpg\n <!-- ia0 -->\n</div>\n<div class=\"inline-attachment\">\n <!-- ia1 -->ImageUploadedByTapatalk1410122023.271838.jpg\n <!-- ia1 -->\n</div>",
+    "lastEdited" : "Sun Sep 07, 2014 8:33 pm"
+  }, {
+    "postId" : "801245",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "801245",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15810",
+      "avatarPath" : null
+    },
+    "content" : "211955113G is listed as 12v 1967 only...",
+    "lastEdited" : "Sun Sep 07, 2014 8:48 pm"
+  }, {
+    "postId" : "801310",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "801310",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Cool, so does anybody know how to test without a 2 speed switch ?\n<br> \n<br> Thanks\n<br> Andy",
+    "lastEdited" : "Mon Sep 08, 2014 9:47 am"
+  }, {
+    "postId" : "801312",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "801312",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3260",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "My thinking would be it wouldnt matter what switch you use. A motor is a motor. The switch , i aassume willallow mord current to flow and therefore motir goes faster.\n<br> \n<br> But dont do what i done and try it without a relay. \n<br> \n<br> I powered mine up whilst connected to the arms on the frame without relay. Got so far and could turn back and im pretty sure i buggered it up.\n<br> \n<br> Any way, i could bd wrong on all of this but im sure someone will put me right if i am wrong.\n<br> \n<br> Jason",
+    "lastEdited" : "Mon Sep 08, 2014 10:19 am"
+  }, {
+    "postId" : "801314",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "801314",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Hey Jason, I found this\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=226619\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewtopic.php?t=226619</a>\n<br> \n<br> So if I get time I'll have a play one evening.\n<br> \n<br> Andy",
+    "lastEdited" : "Mon Sep 08, 2014 10:34 am"
+  }, {
+    "postId" : "801419",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "801419",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15810",
+      "avatarPath" : null
+    },
+    "content" : "Very Interesting article and diagram. Thanks!",
+    "lastEdited" : "Mon Sep 08, 2014 7:39 pm"
+  }, {
+    "postId" : "801513",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "801513",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "It is quite easy to test the motor on its own without a switch.\n<br> Remove the motor from the frame (3 bolts) and also disconnect the linkages from the crank arm of the motor, so that the motor is completely separate. \n<br> Get two lengths of wire with crocodile clips on each end.\n<br> Get a 12 volt battery ( a 6 volt will also work).\n<br> Connect one wire from the positive on the battery to terminal 53b (slow speed) on the motor. \n<br> Connect the other wire from the earth on the battery and touch it onto the galvanised body of the motor to complete the circuit. The crank should start to rotate.\n<br> Repeat, but connect this time to terminal 53 (fast speed) and the crank should rotate faster.\n<br> Do not connect anything to terminals 31b (switched earth) or 53a (park).\n<br> By the way I have the correct NOS 2 speed 12 volt switches available.\n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1100644.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1100643.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue Sep 09, 2014 11:52 am"
+  }, {
+    "postId" : "801523",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "801523",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Thanks for all the input guys. Well the motor works on both speeds so all is good, \n<br> \n<br> So I'm guessing it's not going to fit in my 61 if the frame and motor shape are different ?\n<br> \n<br> Andy",
+    "lastEdited" : "Tue Sep 09, 2014 1:19 pm"
+  }, {
+    "postId" : "801525",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "801525",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15810",
+      "avatarPath" : null
+    },
+    "content" : "I believe there was no change unless ed says different. I would trial fit...I would reckon it should fit",
+    "lastEdited" : "Tue Sep 09, 2014 1:30 pm"
+  }, {
+    "postId" : "801548",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "801548",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "The below diagram shows the layout of the 12 volt unit you have at the moment, which is for an August '66 to end of July '67 Bus ( and also for an August '65 to end of July '66 Bus, the only difference being the motor is 6 volt).\n<br> The next diagram shows the layout for the pre August '64 units (lower left) and the one year only August '64 to end of July '65 units.\n<br> Given that you have a '61 Bus, my advice would be to locate the correct parts for this. (Blatant plug: I have NOS motors,#4 in diagram, a frame, #8 in diagram, the rest is easily obtainable). That way you have the \n<span style=\"text-decoration:underline\">correct</span> set up for the year of your Bus. The '61 motors were of course 6 volt , but new 12 volt armatures are readily available from the usual suspects (circa £42). It is an easy 3 minute job to change the armature. The motor is however single speed.\n<br> You might with some messing around get the '67 set up to fit, but on the other hand you could sell it to finance what I've outlined above.\n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1127962.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://images.thesamba.com/vw/gallery/pix/1091852.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Tue Sep 09, 2014 3:19 pm"
+  }, {
+    "postId" : "801551",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "801551",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15810",
+      "avatarPath" : null
+    },
+    "content" : "I take it you have the 67 wiper motor...and the 61 bus ...\n<br> Does it have a wiper motor fitted?\n<br> If you have the bus under restoration with the dash tray out..I would try it. Then you could buy the switch from vwed.\n<br> What state are the arm spindles in? \n<br> I had a 65 SWF frame and motor converted to 12v by wiperman in USA. The armature does not fit the 65 one year only SWF breadline motor. Pre 64 you can convert yourself.",
+    "lastEdited" : "Tue Sep 09, 2014 3:45 pm"
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "112367",
+  "title" : "Odd rattle",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112367",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847545",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "847545",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "860",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "So I've narrowed down this rattle that's been bugging me for a few days.\n<br>It starts when I take my foot off the accelerator and goes when I accelerate.\n<br>It doesn't always rattle, more so when it's been out for a run.\n<br>But I got back home and it was ticking away more than usual.\n<br>When I pull on the fan shroud it seems to stop.\n<br>If I push the alternator it seems to stop.\n<br>When I let go again it starts.\n<br>So my guess is that the fan is catching inside the shroud?\n<br>(Engine has been out recently)\n<br>Any suggestions or confirmations greatly appreciated \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.youtube.com/watch?v=raBqxKXmttw\">http://www.youtube.com/watch?v=raBqxKXmttw</a>\n<!-- m -->",
+    "lastEdited" : "Tue Sep 01, 2015 8:57 pm"
+  }, {
+    "postId" : "847550",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "847550",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1462",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Steve\n<br>\n<br>Looks like fan on the backing plate, you'll have to pull the alternator out and take a look at the fan, should be obvious what it is catching on.\n<br>\n<br>Keeping you busy at the moment isn't it!\n<br>\n<br>Richard",
+    "lastEdited" : "Tue Sep 01, 2015 9:13 pm"
+  }, {
+    "postId" : "847551",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "847551",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "860",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Just a bit. Been a busy year since breaking down at Busfest last year.\n<br>At least I got the shock welded back on today.\n<br>A rattley fan I can live with for a bit \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Tue Sep 01, 2015 9:14 pm"
+  }, {
+    "postId" : "847610",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "847610",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "794",
+      "avatarPath" : null
+    },
+    "content" : "Remove the fanbelt and slacken the screws holding the fan shroud at the sides and the alternator strap and move the fan shroud around a bit - when totally removing the fan shroud it can be a bit of a bugger to get it sitting right again and not catch anywhere. I found sometimes they sit too low, so lift one end up a touch and retighten the screws again. - Its best to spin the fan using the alternator pulley wheel until it doesn't catch.\n<br>\n<br>You'll get it perfect, retighten the alternator strap and it will catch again - LOL it can be a bit of a frustrating job!\n<br>\n<br>You've probably moved it manhandling the engine around/in/out.",
+    "lastEdited" : "Wed Sep 02, 2015 3:26 pm"
+  }, {
+    "postId" : "847611",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "847611",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "860",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Cheers Ted. It'll be my Busfest fix this year \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Wed Sep 02, 2015 3:28 pm"
+  } ]
+}

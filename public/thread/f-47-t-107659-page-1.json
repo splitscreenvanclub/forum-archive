@@ -1,0 +1,50 @@
+{
+  "forumId" : "47",
+  "threadId" : "107659",
+  "title" : "Westfalia Part Numbers",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=107659",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "815560",
+    "author" : {
+      "username" : "Force3G",
+      "userId" : "815560",
+      "joined" : "Wed Dec 24, 2014 2:16 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Does anyone have a source to find the Westfalia part numbers for specific Westy packages? For example, something to find out what the part number is for a cabinet handle for a SOxx Westfailia package.\n<br>\n<br>Thank you",
+    "lastEdited" : "Sun Jan 04, 2015 9:58 pm"
+  }, {
+    "postId" : "815577",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "815577",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10383",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "I may have an accessories download\n<br> I will look what it covers.",
+    "lastEdited" : "Mon Jan 05, 2015 2:59 am"
+  }, {
+    "postId" : "824804",
+    "author" : {
+      "username" : "srfndoc",
+      "userId" : "824804",
+      "joined" : "Wed Mar 04, 2015 10:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : "./download/file.php%3Favatar=40164_1425568769.png"
+    },
+    "content" : "Have you checked this:\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.thesamba.com/vw/archives/manuals/66campmobile_partslist.php\">http://www.thesamba.com/vw/archives/man ... tslist.php</a>\n<!-- m -->",
+    "lastEdited" : "Thu Mar 05, 2015 5:04 pm"
+  } ]
+}

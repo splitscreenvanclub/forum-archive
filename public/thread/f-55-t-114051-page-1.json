@@ -1,0 +1,37 @@
+{
+  "forumId" : "55",
+  "threadId" : "114051",
+  "title" : "Ambulance fans",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=114051",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "859860",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "859860",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "<!-- m -->\n<a class=\"postlink\" href=\"http://pages.ebay.com/link/?nav=item.view&amp;alt=web&amp;id=272051973376&amp;globalID=EBAY-GB\">http://pages.ebay.com/link/?nav=item.vi ... ID=EBAY-GB</a>\n<!-- m -->",
+    "lastEdited" : "Sat Jan 09, 2016 12:25 pm"
+  }, {
+    "postId" : "861540",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "861540",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "SOLD",
+    "lastEdited" : "Mon Jan 25, 2016 5:39 am"
+  } ]
+}

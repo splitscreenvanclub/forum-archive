@@ -1,0 +1,92 @@
+{
+  "forumId" : "2",
+  "threadId" : "123635",
+  "title" : "Camper Calling",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123635",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=3367541615d5b688efcece9b0a606641",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "923574",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "923574",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1454",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Any SSVC camping area at Camper Calling, the August Bank Holiday weekend?\n<br> Never been to this one but the music looks good.\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Thu Jul 11, 2019 9:08 pm"
+  }, {
+    "postId" : "923586",
+    "author" : {
+      "username" : "tman",
+      "userId" : "923586",
+      "joined" : "Tue Oct 26, 2010 9:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford, UK",
+      "postCount" : "141",
+      "avatarPath" : "./download/file.php%3Favatar=34789_1310068171.gif"
+    },
+    "content" : "We tried to get onto the SSVC camping area a few years ago but our camping rig was too big for the campervan-sized spaces, what were they thinking!! \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\"> We tend to opt for a nice secluded spot in the (vast) free-for-all camping fields.\n<br> \n<br> It's a lovely weekend. Nice selection of food and drink, good atmosphere, great location, lots of live music. Much less of a VW thing than, for instance, CamperJam.",
+    "lastEdited" : "Fri Jul 12, 2019 12:32 pm"
+  }, {
+    "postId" : "923587",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "923587",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1454",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "I think we booked an area already (which my wife did).\n<br> If I am correct it is the family area where it should be not so manic and is probably furthest away from the stages, etc. \n<br> \n<br> Looking forward to it. Let's see if it is as commercial as a lot of the bigger VW festivals. \n<br> \n<br> Might see you tomorrow at VF. \n<br> \n<br> Cheers, \n<br> Gertjan",
+    "lastEdited" : "Fri Jul 12, 2019 12:58 pm"
+  }, {
+    "postId" : "923596",
+    "author" : {
+      "username" : "David Eccles",
+      "userId" : "923596",
+      "joined" : "Wed Apr 30, 2003 6:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Leicester",
+      "postCount" : "1431",
+      "avatarPath" : null
+    },
+    "content" : "They don't do Club Camping as such at this event...I think small groups tend to save up spaces for friends arriving though...\n<br> It's a music festival rather than a VW show (though they welcome VW buses to join a special display by the lake on Sat) and has a similar family vibe to Camper Jam with a whole range of stuff going on ... and \"for-all-the-family-together-across-ages is at its heart\" plus some top bands to enjoy ..",
+    "lastEdited" : "Fri Jul 12, 2019 6:31 pm"
+  }, {
+    "postId" : "923649",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "923649",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1454",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Thanks for the replies. \n<br> Looking forward to it \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\"> \n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Mon Jul 15, 2019 11:14 am"
+  }, {
+    "postId" : "925140",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "925140",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1454",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "This was a great little festival. Not so much about the vehicles though more about the atmosphere.\n<br> Great for kids, not too busy, good bands and the weather was cracking.\n<br> We are looking forward to next year!\n<br> \n<br> Cheers,\n<br> Gertjan",
+    "lastEdited" : "Wed Sep 11, 2019 9:50 am"
+  } ]
+}

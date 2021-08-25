@@ -1,0 +1,206 @@
+{
+  "forumId" : "6",
+  "threadId" : "111951",
+  "title" : "Strange intermittent non starting problem.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111951",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 24,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "844799",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "844799",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "861",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "So I went for fish and chips while the family waited on the sea front in the bus. We've been driving around North Norfolk all week and all that day.\n<br>When I got back to the bus I noticed I'd left the lights on. But I hadn't been long.\n<br>I went to start the engine, but nothing happened. Red and green light on, turn, nowt, not even a cough.\n<br>Perhaps I'd forgotten to turn the immobiliser off (that has the same effect) but no, the immobiliser is off.\n<br>So then I turn the lights off and try again and she starts.\n<br>\n<br>Awesome. Think nothing more of it.\n<br>\n<br>The next morning we all pile in the bus again for a day trip.\n<br>And she wouldn't start.\n<br>Same as the night before.\n<br>I have the red and green lights on, I even have power to the main lights and interior lights.\n<br>\n<br>So I go to the back and check all the wires.\n<br>Everything seems fine. I wiggle everything on the dizzy and coil, one of the wires on the coil seems loose, I close the spade up a bit and it fits snugly back on the coil.\n<br>All battery connections seem fine.\n<br>\n<br>I go and try the ignition again and she starts.\n<br>\n<br>awesome. \n<br>Must be a loose wire. Think nothing more of it.\n<br>Drive all day stopping and starting fine.\n<br>Drive all next day all good.\n<br>Drive home today (150 miles) all good.\n<br>Parked for 3 or 4 hours and I go to move her and guess what? \n<br>Nothing.\n<br>Not a sausage.\n<br>Still have lights as before but she won't turn over.\n<br>I can hear the solenoid clicking as I turn the ignition.\n<br>I check all the wires.\n<br>And I go and get my jumper battery pack.\n<br>I hook that up and she starts first time!\n<br>\n<br>Awesome.\n<br>Now I'm not going to think nothing of it.\n<br>I want to know what's up.\n<br>I'm off to Dorset tomorrow morning.\n<br>I've left the battery charging. The dial on the charger was quite low when I connected it. \"Charging current 5amps\"\n<br>I don't have a multimeter (but I'll get one tomorrow).\n<br>\n<br>The only other thing that was odd while we were away was that the bus was parked next to creepy church while we were in Norfolk and as I came out to finish packing the bus this morning there was an injured pigeon flapping behind it, blood all over the road and the tailgate.\n<br>\n<br>So what could be up?\n<br>Is it that the alternator hasn't been charging the battery? \n<br>And not enough juice to start the engine? (It's a new Bosch silver battery)\n<br>But if so, why is it ok on some days and not on others?\n<br>If the battery was flat would the lights still work?\n<br>Why would it not charge the battery? What could I check?\n<br>The red light doesn't come on when I'm driving.\n<br>\n<br>Could it be a loose connection?\n<br>Where would I look? (The 2 wires on the alternator seem fine)\n<br>\n<br>Could it be supernatural? Or the Norfolk locals trying to drive us out?\n<br>\n<br>Sorry for the over elaborate post \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">\n<br>Any pointers appreciated!\n<br>Thanks\n<br>\n<br>Steve",
+    "lastEdited" : "Sat Aug 08, 2015 10:23 pm"
+  }, {
+    "postId" : "844803",
+    "author" : {
+      "username" : "etiennevert",
+      "userId" : "844803",
+      "joined" : "Sun Aug 06, 2006 11:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "254",
+      "avatarPath" : "http://i222.photobucket.com/albums/dd159/etiennevert/Mobile%20Uploads/DSC_0788.jpg"
+    },
+    "content" : "Don't know if I really have an answer but I had a similar issue (and never once parked near a spooky church or encountered blooded pigeons)\n<br>\n<br>I first changed starter motor - seemed to fix it but still refused to start occasionally. Next to go was the ignition switch (this was definitely faulty as manipulating it could get it going). All was then fine for months until stopping off at services and it refused to start - tried it a couple more times and it started. \n<br>\n<br>No problems since at all but have recently had engine and gearbox out and changed starter motor bush at same time....although this was not the main culprit for all the issues I suspect it was contributing to some of the random non start moments similar to what you describe.\n<br>\n<br>Just been camping in North Norfolk myself over past 10 days... locals seemed friendly enough \n<img class=\"smilies\" src=\"./images/smilies/biggrin.gif\" alt=\":-D\" title=\"Very Happy\">",
+    "lastEdited" : "Sat Aug 08, 2015 11:40 pm"
+  }, {
+    "postId" : "844805",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "844805",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "211",
+      "avatarPath" : null
+    },
+    "content" : "Might be worth fitting a hard start relay ,have used it many times to good effect on bugs with the same symptoms.",
+    "lastEdited" : "Sun Aug 09, 2015 1:45 am"
+  }, {
+    "postId" : "844811",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "844811",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "861",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Thanks guys I'll do some investigating",
+    "lastEdited" : "Sun Aug 09, 2015 8:07 am"
+  }, {
+    "postId" : "844813",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "844813",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5105",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "does the solenoid always click when its not starting…or is that random too ?\n<br>\n<br>my 1st thought would be clean and ensure the battery connections are spot on…then starter connections\n<br>\n<br>\n<br>but generally, its gonna be a trial and error, cos you can't test and confirm changes, as you never know when its gonna happen - at least it always gets going again \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" alt=\";-)\" title=\"Wink\">",
+    "lastEdited" : "Sun Aug 09, 2015 8:16 am"
+  }, {
+    "postId" : "844814",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "844814",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "861",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Battery connections are good.\n<br>In fact I'm now pretty sure the battery wasn't dead.\n<br>I'll check the starter connections now.\n<br>I have a fuel cut off solenoid which clicks with the ignition so it's probably that that in hearing.\n<br>If it's the ignition switch is it easy to change / fix?\n<br>I have one key for the whole bus, shame to change that. \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">\n<br>\n<br>Locals were lovely by the way Etien \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Sun Aug 09, 2015 8:21 am"
+  }, {
+    "postId" : "844819",
+    "author" : {
+      "username" : "nexus 7",
+      "userId" : "844819",
+      "joined" : "Fri Jul 29, 2011 11:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Off the shoulder of Orion, watching C-beams glitter in the dark near the Tannhauser Gate",
+      "postCount" : "243",
+      "avatarPath" : "http://i619.photobucket.com/albums/tt273/type21f/Manga/Archmage_Nexus7-1.gif"
+    },
+    "content" : "Check starter connections are clean and greased up with vaseline or similar. .\n<br>Then check earth strap to gearbox as well...easy to do and eliminate.\n<br>If it is the ignition switch...They can be re keyed but I would ask someone like Gabriel at vwgabkey on thesamba.com if he can do it and the cost....\n<br>Or find a good used or NOS ignition and re tumble all the keys to match the new ignition..",
+    "lastEdited" : "Sun Aug 09, 2015 8:38 am"
+  }, {
+    "postId" : "844822",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "844822",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "861",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Thanks Nexus and there was me thinking I'd have nothing to talk about at Tech Weekend next week \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Sun Aug 09, 2015 9:09 am"
+  }, {
+    "postId" : "844824",
+    "author" : {
+      "username" : "nexus 7",
+      "userId" : "844824",
+      "joined" : "Fri Jul 29, 2011 11:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "Off the shoulder of Orion, watching C-beams glitter in the dark near the Tannhauser Gate",
+      "postCount" : "243",
+      "avatarPath" : "http://i619.photobucket.com/albums/tt273/type21f/Manga/Archmage_Nexus7-1.gif"
+    },
+    "content" : "If you are meticulous and enjoy fiddling it can be a thing of joy to re tumble locks..\n<br>The hardest part is getting the little grub screw out of the rear hatch lock or the cargo door lock.\n<br>If you search on thesamba.com Gabriel did does offer the service.\n<br>I have taken lots of locks apart to get a one key set but always to re tumble to the ignition lock...\n<br>I have never yet been brave enough to attempt to take an ignition lock apart. .\n<br>My Devonette was fitted with a butchered lock which turns out to be a beetle lock.\n<br>I am fitting a waso steering column ignition lock to replace it....So I will avoid the issue..",
+    "lastEdited" : "Sun Aug 09, 2015 9:18 am"
+  }, {
+    "postId" : "844888",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "844888",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7448",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Gabriel Garcia...",
+    "lastEdited" : "Sun Aug 09, 2015 4:28 pm"
+  }, {
+    "postId" : "844922",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "844922",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "861",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Bus started first time this morning.\n<br>Awesome.\n<br>Stop at services after a couple of hours and joke about it not starting again.\n<br>\n<br>Have coffee.\n<br>\n<br>The joke about it not starting again is no longer funny.\n<br>\n<br>After various wire wiggling and the family telling me to call the RAC\n<br>I get the trolley jack and axle stands out (after removing the kids and half the camping gear) and go and investigate the starter motor.\n<br>\n<br>This is my new favourite tool: \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=8394&amp;mode=view\"><img src=\"./download/file.php?id=8394&amp;t=1\" class=\"postimage\" alt=\"ImageUploadedByTapatalk1439159994.983256.jpg\" title=\"ImageUploadedByTapatalk1439159994.983256.jpg (25.21 KiB) Viewed 192 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>(Mirror on a stick)\n<br>It's still there.\n<br>The wires are attached .\n<br>I take the ignition one off give it a clean put it back.\n<br>Clean the others a bit.\n<br>Then I stick a screw driver across the the two bolts to make a connection.\n<br>\n<br>I remember the Muir book saying something about the starter turning if I do this.\n<br>\n<br>I'm then showered in Sparks and bang my head (I didn't raise the bus very far \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\"> )\n<br>\n<br>There's a chorus of \"call the RAC\" from above the bus.\n<br>\n<br>I crawl out and go and try the ignition.\n<br>\n<br>And she starts!\n<br>\n<br>I'm not turning her off now. \n<br>\n<br>Not even in the hour long stationary traffic when they close the M5.\n<br>\n<br>We get to Lyme Regis after 7 1/2 hours and I'd like to say that it was glorious. But it was actually thick fog!\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=8393&amp;mode=view\"><img src=\"./download/file.php?id=8393&amp;t=1\" class=\"postimage\" alt=\"ImageUploadedByTapatalk1439153626.703692.jpg\" title=\"ImageUploadedByTapatalk1439153626.703692.jpg (41.33 KiB) Viewed 192 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>So.\n<br>Have I fixed anything?\n<br>\n<br>Only time will tell I guess?\n<br>\n<br>But it's nice to be called R. A. Steve by the kids.",
+    "lastEdited" : "Sun Aug 09, 2015 10:41 pm"
+  }, {
+    "postId" : "844928",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "844928",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7448",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "This is like your favourite soap. ..\n<br>What will happen in the next episode?\n<br>Will it be cured?\n<br>Will it do it again?\n<br>Will he bang his head again?\n<br>Till tomorrow. ..\n<br>Can't wait!",
+    "lastEdited" : "Mon Aug 10, 2015 4:42 am"
+  }, {
+    "postId" : "844944",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "844944",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5105",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "when mine used to do this….I found popping it in gear and rocking….sometimes….used to work\n<br>probably the same effect as bashing with hammer or shorting the starter\n<br>\n<br>\n<br>I changed the starter and it cured it….not saying that was the issue, as I probably did a load of other stuff, and even changing the starter, doesn't prove anything as it could have just been the wires (or the bush in the gearbox)\n<br>\n<br>\n<br>so…when you get time…totally remove all wires from the starter, clean them, scrub them refit them tight, do the same with gearbox earth strap\n<br>\n<br>\n<br>IF it then does it again….i'b be tempted to try another starter…\n<br>then\n<br>\n<br>IF it does it again…..get the bloody kids to push you while you bump it, whats the point of having a bus full of people if they won't push it \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" alt=\";-)\" title=\"Wink\">",
+    "lastEdited" : "Mon Aug 10, 2015 8:49 am"
+  }, {
+    "postId" : "844955",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "844955",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "861",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Cheers Steve \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">\n<br>Might have some time and a ramp at the tech weekend",
+    "lastEdited" : "Mon Aug 10, 2015 11:36 am"
+  }, {
+    "postId" : "845075",
+    "author" : {
+      "username" : "stu(pid)",
+      "userId" : "845075",
+      "joined" : "Mon Oct 13, 2003 8:37 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "260",
+      "avatarPath" : null
+    },
+    "content" : "I cleaned the starter solenoid as detailed here:\n<br>\n<a href=\"http://www.aircooledtech.com/solenoid_repair/\" class=\"postlink\">http://www.aircooledtech.com/solenoid_repair/</a>\n<br>The starter works first time, every time now.",
+    "lastEdited" : "Tue Aug 11, 2015 8:49 am"
+  } ]
+}

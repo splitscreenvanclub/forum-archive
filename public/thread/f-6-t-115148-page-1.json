@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "115148",
+  "title" : "late or early spindles",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115148",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868300",
+    "author" : {
+      "username" : "PIPKIN",
+      "userId" : "868300",
+      "joined" : "Thu Jul 03, 2008 6:58 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "281",
+      "avatarPath" : "http://img.photobucket.com/albums/v676/pdlakrit/POLZEATHBUSAVATAR.jpg"
+    },
+    "content" : "Hi all,\n<br>\n<br>Not sure which front spindles I have on my bus, how do you identify them?\n<br>\n<br>Cheers\n<br>\n<br>Paul",
+    "lastEdited" : "Mon Mar 21, 2016 12:54 pm"
+  }, {
+    "postId" : "868301",
+    "author" : {
+      "username" : "pokey",
+      "userId" : "868301",
+      "joined" : "Tue Jul 08, 2008 4:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "north wales",
+      "postCount" : "831",
+      "avatarPath" : null
+    },
+    "content" : "when you take the drum off earlies are straight with a step, lates have a large taper. linkpins are also a different diameter",
+    "lastEdited" : "Mon Mar 21, 2016 1:00 pm"
+  }, {
+    "postId" : "868461",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "868461",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1561",
+      "avatarPath" : null
+    },
+    "content" : "If not been changed in the past then earlies up to '62...crossover year 63 had bit of both..ie late spindle early links. And 63 on have late spindles. Still best to do as said and pull the drum and check. I ordered up a kit for my old 62 single cab some years back and ordered for earlies and it had been changed to late at some point before I got it. Lesson learnt \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\"> always bother to check first \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Tue Mar 22, 2016 8:46 pm"
+  }, {
+    "postId" : "868838",
+    "author" : {
+      "username" : "Jonesy",
+      "userId" : "868838",
+      "joined" : "Thu Oct 27, 2005 8:27 pm",
+      "profileRank" : "Registered user",
+      "location" : "www.boatyardbuses.com",
+      "postCount" : "1553",
+      "avatarPath" : "http://i34.photobucket.com/albums/d115/boatyardbuses/boatyard_avatar.gif"
+    },
+    "content" : "Just check the spindle nut size... 27mm = late or 63 only\n<br>if late, link pins will be 22mm, if 63 only, link pins will be 20mm",
+    "lastEdited" : "Fri Mar 25, 2016 9:59 pm"
+  } ]
+}

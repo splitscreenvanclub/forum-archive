@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "3868",
+  "title" : "What output 6V dynamo",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=3868",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "15633",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "15633",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "2097",
+      "avatarPath" : "./download/file.php%3Favatar=504_1541682815.png"
+    },
+    "content" : "Hi I have a 6v split and I noticed my indicators are incredibly slow to the point of just staying on unless I rev the engine, everything else seems to work fine.\n<br> \n<br> I have measured the output off the dynamo when at idle it is just over 3 volts and on giving it some gas just over 6-7 volts can anybody advise what it should be.\n<br> \n<br> Thanks in advance\n<br> \n<br> Daz\n<br> \n<br> \n<br> __________________\n<br> [o\\/o] \n<a href=\"http://www.typetwo.co.uk\" class=\"postlink\">http://www.typetwo.co.uk</a>",
+    "lastEdited" : "Sat Jun 12, 2004 11:27 am"
+  }, {
+    "postId" : "15677",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "15677",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Hi Daz, I suspect you have just 'discovered' the down side a dynamo - they charge little or nothing at a slow tick-over. 7 volts at the battery when reving would be about right. Not sure where you are measuring with 3 volts? D+ to earth maybe? Whats your set up; regulator piggyback on the dynamo or remote and year? \n<br> I suspect the slow semaphores are more to do with ageing cable connections, a low or tired battery, or tight semaphores. Try a small squirt of WD 40 on the semaphore pivots and needle top.\n<br> PG",
+    "lastEdited" : "Mon Jun 14, 2004 4:21 am"
+  }, {
+    "postId" : "15821",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "15821",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "2097",
+      "avatarPath" : "./download/file.php%3Favatar=504_1541682815.png"
+    },
+    "content" : "Peter,\n<br> \n<br> Thanks for reply I was measuring it off the two terminals on the dynamo (was this not a good idea) the regulator is remote, battery is quite new and its a 64. \n<br> \n<br> I noticed the belt was loose so tightened it up, but I think I might have a poorly dynamo as the red light now stays on and have tried to replace the brushes but it hasnt made any difference so it looks like I am going to need a new 6v dynamo any ideas best place to get hold of one and can I do it with engine in ?\n<br> \n<br> Many thanks\n<br> \n<br> Daz",
+    "lastEdited" : "Wed Jun 16, 2004 11:47 am"
+  }, {
+    "postId" : "15864",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "15864",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Hi Daz\n<br> As yet I am far from convinced it is your dynamo! I can supply the dynamo and parts, but hopefully not until I am sure you are sure it IS the dynamo! For the record, it can be removed in situ (i.e. without taking the engine out) but most who tried both, will say the easiest way is engine out! However, the dynamo set-up is not like a modern alternator!\n<br> Unfortunately, your voltage check needs to be made between the D+ dynamo terminal and earth with a fast idle, you should be getting 7 to 7.5 volt. Both terminals are marked on the body D+ and DF. You should, no must have a (brown) wire earth connection between the body of the dynamo to the foot of the regulator. Unless your 64 is a Samba model, the dynamo set up is not original. If you are not getting 7 to 7.5 volts D+ to Earth, there is a further check you can do determine if the regulator is faulty, and/or dynamo OK?\n<br> \n<br> cheers Peter",
+    "lastEdited" : "Thu Jun 17, 2004 4:42 am"
+  }, {
+    "postId" : "15878",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "15878",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "2097",
+      "avatarPath" : "./download/file.php%3Favatar=504_1541682815.png"
+    },
+    "content" : "Peter,\n<br> \n<br> It' 64 ex-fire truck, so may have had a few modifications in it's time I guess. The red light stays on solid now, but I will re-test doing the whole D+ and earth thing this time, I guess your thinking could possibly be the regulator .... thanks for all your help Peter it's really appreciated.\n<br> \n<br> Daz",
+    "lastEdited" : "Thu Jun 17, 2004 8:54 am"
+  }, {
+    "postId" : "15930",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "15930",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Daz,\n<br> Silly me! If I had spotted your web link first off I could saved some questions Sorry mate!\n<br> Interestingly, one of the companies I used to work for a few years ago now, made a 6 volt alternator for certain VW commercials, incl some fire trucks, during the 1960’s. Quite something in its day! As far as I can make out it was in addition to the dynamo and was mounted up somewhere towards the air-cleaner. This charged a second battery, much like campers do with a leisure battery today, but have no idea what bit of kit on the fire truck needed a hefty 6volt supply! As you have probably gathered I’ve never seen one, and I doubt if any have survived; but you never know. To get to the point, it just could explain why you have the dynamo you have?\n<br> On average most dynamo charging faults are 50% regulator, 35% wiring and 15% dynamo, and the 15% include faults that can be cured in the vehicle without removal! That’s why I say don’t rush to take the dynamo out!\n<br> I guess you have or can get hold of a digital volt or multimeter, you may well need it if you are OK to follow me through a few things!\n<br> P",
+    "lastEdited" : "Fri Jun 18, 2004 12:21 pm"
+  }, {
+    "postId" : "15938",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "15938",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "2097",
+      "avatarPath" : "./download/file.php%3Favatar=504_1541682815.png"
+    },
+    "content" : "Peter no worries, a 6v alternator if only .... that would be very handy.\n<br> \n<br> If it is the regulator I would be a lot happier as I wasn't looking forward to changing the dynamo over, the wiring I would be very surprised as the van is in very good condition. I haven't been able to carry out the test on the dynamo yet as work has got in the way, but with the weekend looming a digital multimeter at hand and your valuable assistance I am all ears. \n<br> \n<br> Daz",
+    "lastEdited" : "Fri Jun 18, 2004 3:38 pm"
+  }, {
+    "postId" : "15973",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "15973",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "2097",
+      "avatarPath" : "./download/file.php%3Favatar=504_1541682815.png"
+    },
+    "content" : "Peter,\n<br> \n<br> I managed to do the test today and the I am getting absolutely nothing out of the dynamo so am pretty sure it is the dynamo, I disconnected it from the regulator and it made no difference.\n<br> \n<br> I have a few though not great pictures of the regulator and dynamo set up there is a strane wire that comes out and goes back into it ? .. I did look at the one on the magirus pump but they look different.\n<br> \n<br> Pictures at \n<a href=\"http://pictures.typetwo.co.uk/\" class=\"postlink\">http://pictures.typetwo.co.uk/</a>",
+    "lastEdited" : "Sat Jun 19, 2004 4:32 pm"
+  }, {
+    "postId" : "16050",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "16050",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Hi Daz\n<br> Maybe, maybe not?\n<br> Connect the voltmeter between the dynamo D+ terminal and dynamo earth. (Red lead to D+ and black lead to earth) Disconnect the small wire from the dynamo DF terminal. Use a piece of spare wire and make a short between the dynamo DF terminal and dynamo earth. Ensure all other electrical items are switched off, (e.g. lights wipers radio etc) start the engine and run as briefly as possible to check the output voltage is positive and reading anything above +7 volts. Note the voltage will vary significantly depending on the engine speed, as by this test the dynamo is being switched full on. Anything under 6 volts and the dynamo is faulty, just over 6 volts, give the engine a little more speed and the voltage should increase well above 7volts. Also measure the resistance, engine at stop and that wire still disconnected, of that disconnected wire to earth. It should be zero ohms? \n<br> \n<br> Thanks for the pictures, but I still can't see the brown earth wire from the dynamo top body to the regulator? cheers Peter",
+    "lastEdited" : "Mon Jun 21, 2004 4:29 am"
+  }, {
+    "postId" : "16098",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "16098",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Having had the chance to have a better look at the pickys. \n<br> There should be 3 cables from the dynamo to the regulator in total, the large diameter red cable that carries the charge (D+) the smaller green (usually, but appears to black/green on yours) which control the dynamo (DF) and the brown earth (31) which runs from the dynamo body directly to the regulator foot. All VW dynamos with a separate regulator conform to this arrangement.\n<br> The connector for the DF is missing from the regulator - perhaps due to the removal for the picture taking? The DF is the black green wire which goes into the loom to the reg. Can’t see it emerging at the reg; but it could be hidden behind thick cable. Also and most certainly your brown earth is missing completely! IT WON’T WORK PROPERLY WITHOUT IT! Good to see your regulator is the correct one for the year! PG",
+    "lastEdited" : "Mon Jun 21, 2004 6:00 pm"
+  }, {
+    "postId" : "16279",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "16279",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "2097",
+      "avatarPath" : "./download/file.php%3Favatar=504_1541682815.png"
+    },
+    "content" : "Cheers Peter, yep i removed the black green cable when taking the picture the only wire that seems to be missing is the brown wire from the dynamo to the base of the regulator .... that would explain the extra point on top of the dynamo then!\n<br> \n<br> I take it when you mean foot of regulator it could be taken from where it screws to the chassis, I will add this at the weekend as well as carrying out the rest of the tests, dont get much time during the week. \n<br> \n<br> Regards,\n<br> \n<br> Daz",
+    "lastEdited" : "Wed Jun 23, 2004 9:41 pm"
+  }, {
+    "postId" : "16400",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "16400",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "2097",
+      "avatarPath" : "./download/file.php%3Favatar=504_1541682815.png"
+    },
+    "content" : "Brown wire is now on from top of dynamo to the base of regulator and I tried taken off DF (black/green) cable and shorted it out to dynamo earth still no reading ..... \n<br> \n<br> A friend of mine has a 6v dynamo with the regulator attached so I might give that a go.\n<br> \n<br> Thanks for all your help Peter.\n<br> \n<br> Daz \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Sun Jun 27, 2004 1:03 pm"
+  }, {
+    "postId" : "16493",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "16493",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Daz\n<br> \n<br> Do you really mean ‘no reading’ = zero volts out? If there was something voltage wise however small was it positive or negative? \n<br> \n<br> Can you measure, engine off, both wires disconnected at the dynamo, the resistance between the 2 dynamo terminals DF to D+ and D+ to earth?\n<br> DF to D+ should be about 1.2 ohm while the D+ to earth should be virtually zero ohm.\n<br> If D+ to E is high, turn the shaft/ pulley a little, check the brushes are not worn to excess and the brush springs are firmly in place on the top/ middle of the brush.\n<br> \n<br> Peter",
+    "lastEdited" : "Mon Jun 28, 2004 8:34 pm"
+  }, {
+    "postId" : "16496",
+    "author" : {
+      "username" : "Grizzly",
+      "userId" : "16496",
+      "joined" : "Sun Sep 07, 2003 2:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "2097",
+      "avatarPath" : "./download/file.php%3Favatar=504_1541682815.png"
+    },
+    "content" : "Hi Peter, \n<br> \n<br> I was getting about +.30 mv and this did go up a little when revved but minutely, I did check it by putting it on the battery to make sure the voltmeter was working .... I must admit forgot to do the resistance thing ... \n<br> \n<br> The brushes are new and the springs are OK I did push down on them a little but made no difference also tried running sand paper on the com**tor (whats a ma call it) but again still nothing. \n<br> \n<br> I will see if I can get to measure the resistance between terminals \n<br> \n<br> If it comes to it I now have a spare 6v dynamo which has come off a 6v beetle which was running fine (its been converted to 12v) but the regulator is on top can I fit this without too much hassle ?\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Mon Jun 28, 2004 9:08 pm"
+  }, {
+    "postId" : "16506",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "16506",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "I agree, time to change the dynamo !\n<br> \n<br> good luck! Peter",
+    "lastEdited" : "Tue Jun 29, 2004 4:00 am"
+  } ]
+}

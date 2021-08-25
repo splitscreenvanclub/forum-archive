@@ -1,0 +1,170 @@
+{
+  "forumId" : "2",
+  "threadId" : "123264",
+  "title" : "Flashing to fast!",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123264",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=95c0053a34a58113ac829f9e4b255c43",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 12,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "921399",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "921399",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "473",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys, just installed a 12v flasher unit to my 56 single cab . Trouble is it flashes far to quick compared to the 6 v unit ( before it packed up) any ideas if I can buy an adjustable one , or is there anything I can do with this one ? Kind regards neil",
+    "lastEdited" : "Sun Apr 14, 2019 5:27 pm"
+  }, {
+    "postId" : "921400",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "921400",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "Neil, why would you put a 12v flasher on a 6 v setup, not to sure if it's compatable, when it flashes fast are all the indicaters operating as they should......just faster ?",
+    "lastEdited" : "Sun Apr 14, 2019 6:22 pm"
+  }, {
+    "postId" : "921401",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "921401",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "Next step...check all your earths...",
+    "lastEdited" : "Sun Apr 14, 2019 6:23 pm"
+  }, {
+    "postId" : "921403",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "921403",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "473",
+      "avatarPath" : null
+    },
+    "content" : "Sorry ron , have converted truck to 12v when I ran 12v through 6 v flasher unit it was fine . I've blown the 6 v flasher now, hence I've now installed a 12 v unit. Kind regards neil",
+    "lastEdited" : "Sun Apr 14, 2019 6:41 pm"
+  }, {
+    "postId" : "921412",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "921412",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "473",
+      "avatarPath" : null
+    },
+    "content" : "Yes all flashers worked fine, as they do now just alot faster",
+    "lastEdited" : "Sun Apr 14, 2019 9:33 pm"
+  }, {
+    "postId" : "921413",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "921413",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20158",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Do you have 2x 21w indicator bulbs on each circuit? I guess not.",
+    "lastEdited" : "Sun Apr 14, 2019 9:35 pm"
+  }, {
+    "postId" : "921421",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "921421",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "473",
+      "avatarPath" : null
+    },
+    "content" : "Jim , I'll need to check that tomorrow",
+    "lastEdited" : "Sun Apr 14, 2019 10:20 pm"
+  }, {
+    "postId" : "921422",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "921422",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20158",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=921421&amp;sid=95c0053a34a58113ac829f9e4b255c43#p921421\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39481&amp;sid=95c0053a34a58113ac829f9e4b255c43\">frilly</a> wrote: <a href=\"./viewtopic.php?p=921421&amp;sid=95c0053a34a58113ac829f9e4b255c43#p921421\" data-post-id=\"921421\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Apr 14, 2019 10:20 pm</span></cite> Jim , I'll need to check that tomorrow \n </div>\n</blockquote> What's flashing at the front and back?",
+    "lastEdited" : "Sun Apr 14, 2019 10:26 pm"
+  }, {
+    "postId" : "921425",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "921425",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1070",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I've had that with a dodgy connection or cable up front. N'ot sure which, but probably earth. If I moved the relay it would rapidly tick. The ticking was much faster than the blown-bulb symptom and would occasionally do it so fast it sounded like it was buzzing. If all the bulbs are working and the correct wattage try gently manipulating the cables at the relay and bulb holders and see if there's a point where it flashes normally.",
+    "lastEdited" : "Mon Apr 15, 2019 6:13 am"
+  }, {
+    "postId" : "921453",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "921453",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "473",
+      "avatarPath" : null
+    },
+    "content" : "The strange thing is , it worked fine on the 6 v relay with 12 v through it . It blew when I connected the regulator producing more volts I guess! Is there anything I can put inline to reduce the volts to slow it down?",
+    "lastEdited" : "Mon Apr 15, 2019 10:11 pm"
+  }, {
+    "postId" : "921454",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "921454",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20158",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yes, the correct indicator bulbs.",
+    "lastEdited" : "Mon Apr 15, 2019 10:27 pm"
+  }, {
+    "postId" : "921457",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "921457",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15708",
+      "avatarPath" : null
+    },
+    "content" : "Are they filament bulbs all round?\n<br> What does the flasher box say on it?\n<br> ? X 21w?",
+    "lastEdited" : "Tue Apr 16, 2019 6:51 am"
+  } ]
+}

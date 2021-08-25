@@ -1,0 +1,76 @@
+{
+  "forumId" : "10",
+  "threadId" : "113805",
+  "title" : "DUB AID",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=113805",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "858064",
+    "author" : {
+      "username" : "pugwash",
+      "userId" : "858064",
+      "joined" : "Tue May 20, 2003 10:49 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "138",
+      "avatarPath" : null
+    },
+    "content" : "18-20 MARCH 2016, TOWCESTER RACE COURSE........................\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.dubaid.co.uk/\">http://www.dubaid.co.uk/</a>\n<!-- m -->",
+    "lastEdited" : "Thu Dec 17, 2015 5:41 pm"
+  }, {
+    "postId" : "863364",
+    "author" : {
+      "username" : "pugwash",
+      "userId" : "863364",
+      "joined" : "Tue May 20, 2003 10:49 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "138",
+      "avatarPath" : null
+    },
+    "content" : "Booking deadline is February 29th.",
+    "lastEdited" : "Tue Feb 09, 2016 7:44 am"
+  }, {
+    "postId" : "867172",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "867172",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "183",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "Can you buy day tickets at the gate?",
+    "lastEdited" : "Thu Mar 10, 2016 9:55 am"
+  }, {
+    "postId" : "867178",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "867178",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "231",
+      "avatarPath" : "http://i747.photobucket.com/albums/xx118/scottyn/1452450_10152697000706646_6359088876282670593_n%20200x200_zpsv78bm0m6.jpg"
+    },
+    "content" : "According to their Facebook page, yes. £7 pp on the day, at the gate.",
+    "lastEdited" : "Thu Mar 10, 2016 11:09 am"
+  }, {
+    "postId" : "867229",
+    "author" : {
+      "username" : "Gunnsie",
+      "userId" : "867229",
+      "joined" : "Mon Feb 09, 2015 1:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Rainham, Kent",
+      "postCount" : "183",
+      "avatarPath" : "./download/file.php%3Favatar=40101_1458638393.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ScottyN wrote:</cite>According to their Facebook page, yes. £7 pp on the day, at the gate.\n </div>\n</blockquote>\n<br>\n<br>Cheers Scotty",
+    "lastEdited" : "Thu Mar 10, 2016 8:12 pm"
+  } ]
+}

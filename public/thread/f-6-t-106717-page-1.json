@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "106717",
+  "title" : "Cargo door lock mechanism - replacement",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=106717",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "809238",
+    "author" : {
+      "username" : "58and60",
+      "userId" : "809238",
+      "joined" : "Thu Jun 06, 2013 11:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Towcester",
+      "postCount" : "144",
+      "avatarPath" : "./download/file.php%3Favatar=38012_1371138261.jpg"
+    },
+    "content" : "I have an early 63 bus and the cargo door lock mechanism is giving up the ghost rapidly. All I can find to replace it is the brazillian used lock mechanism with the locking button inside and therefore not a key lock as per current handle.\n<br> \n<br> The part says years 55 to 67 so I guess it will fit, the only thing I can see that varies is the arms extending out of the locking mechanism that attach to the top and bottom bars do not have a thread so will need a nut and bolt. Has anyone swapped one, are they any good and would the existing inner and outer handle (albeit with a key hole which wont be needed) fit?\n<br> \n<br> Before I dip in to the wallet it would be good to know if this will sort the problem or just be a real pain and poor quality.\n<br> \n<br> Any experience and thoughts welcome.",
+    "lastEdited" : "Wed Nov 05, 2014 12:53 pm"
+  }, {
+    "postId" : "809416",
+    "author" : {
+      "username" : "OP",
+      "userId" : "809416",
+      "joined" : "Thu Apr 17, 2003 7:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham/Cornwall",
+      "postCount" : "2186",
+      "avatarPath" : "./download/file.php%3Favatar=20_1491993156.jpg"
+    },
+    "content" : "I bought one of these as my original handle dropped too much. To be honest it does the job, that's all I can say :/ The quality is bad and you need to use a nut and bolt to attach the bars. However I can now lock the bus from the inside. I was looking for a good OG one but not found one or been willing to take a gamble on one. Something I look for at shows so I can try it before buying.\n<br> \n<br> \n<a href=\"http://www.customandcommercial.com/vw-split_screen/cab_door_side_door_tailgate_engine_lid--and--pick_up_parts/side_loading_door--and--handle_parts/cargo_door_large_lock_mec_with_locking_button_55-67_10604/\" class=\"postlink\">http://www.customandcommercial.com/vw-s ... -67_10604/</a>",
+    "lastEdited" : "Thu Nov 06, 2014 7:31 pm"
+  }, {
+    "postId" : "809419",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "809419",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "If yours is on the way out, have you thought about opening it up and seeing which part is worn, that's what I did with mine, picked up a second hand one which, luckily ( a bit hit and miss I know ) had a good part for the bit on mine that was worn. There is a excelent cargo door lock rebuild thread on the Samba.\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=373467\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewtopic.php?t=373467</a>\n<br> \n<br> \n<br> Andy",
+    "lastEdited" : "Thu Nov 06, 2014 7:58 pm"
+  }, {
+    "postId" : "809422",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "809422",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15796",
+      "avatarPath" : null
+    },
+    "content" : "First thing I would do is look for a part number on the looking mechanism.... Maybe then check on thevintagebus.com vw site and look in the pages for cargo door locks... so you are sure you are looking for the correct one..\n<br> If you are mechanical...then take it apart.. A challenge in itself and find the way it works and see if you can repair it..\n<br> Maybe wanted thread on here or search on thesamba.com for one...\n<br> They do come up..\n<br> I wanted a handle and bought the lot, handle, mechanism and rods..\n<br> I have a 62 that I am yet to investigate..\n<br> There are several types with differing rods etc..\n<br> So I would make sure you know what you want. .\n<br> Maybe try Rick Howarth at Schofield or Graham Clarke at fbi or Wayne at volksheaven",
+    "lastEdited" : "Thu Nov 06, 2014 8:17 pm"
+  }, {
+    "postId" : "809482",
+    "author" : {
+      "username" : "58and60",
+      "userId" : "809482",
+      "joined" : "Thu Jun 06, 2013 11:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Towcester",
+      "postCount" : "144",
+      "avatarPath" : "./download/file.php%3Favatar=38012_1371138261.jpg"
+    },
+    "content" : "Thanks to all those suggestions and great links. Oddly mine was a bit shot and I took it apart. I think its had someone have a bash before as the backing plate was not attached to the main body, it simply bolted to the main body of the lock by use of the 4 bolts going in to the door (so undo the 4 screws, the main lock comes away but the backing plate doesnt and falls off!!). It looked rather complex but I managed to figure it out to a degree put it back as best as I good, cleaned out and re greased. I might make this one of those winter jobs as when I did it the door bars were still fixed on to the internal mechanism sliders (so I was trying to put the lock back together whilst holding the bars etc). It doesnt lift up the bottom bar far enough and catches, but maybe a rebuild with it off the vehicle is the next stage to go at.\n<br> \n<br> I will have bash get the number of the lock and see if I can refer back to your useful posts as to possible replacments.\n<br> \n<br> THanks for the help on this.",
+    "lastEdited" : "Fri Nov 07, 2014 11:45 am"
+  }, {
+    "postId" : "809530",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "809530",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15796",
+      "avatarPath" : null
+    },
+    "content" : "Working the other way ... the part numbers are listed against VIN numbers. ..",
+    "lastEdited" : "Fri Nov 07, 2014 7:02 pm"
+  }, {
+    "postId" : "809647",
+    "author" : {
+      "username" : "susta",
+      "userId" : "809647",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "Hi, whilst the numbers might vary they all seem to fit, just a question of authenticity, Mine, when taken apart the monkey metal cam had worn away, so producing exactly what yours does.\n<br> Picked one up on ebay for £40, polished it, had it chromed, perfect,\n<br> Blackdog on The Samba has one for 65$ good luck\n<br> \n<br> Steve",
+    "lastEdited" : "Sat Nov 08, 2014 6:04 pm"
+  }, {
+    "postId" : "809650",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "809650",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15796",
+      "avatarPath" : null
+    },
+    "content" : "Sadly I would check because the rod attachment methods vary",
+    "lastEdited" : "Sat Nov 08, 2014 6:23 pm"
+  } ]
+}

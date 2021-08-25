@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "125170",
+  "title" : "VW BEDFORDSHIRE AREA SERVING",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=125170",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=f834e3235d1eb796929e86db28611ffa",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "932384",
+    "author" : {
+      "username" : "whizz",
+      "userId" : "932384",
+      "joined" : "Wed Apr 23, 2003 6:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Harrow, Middlesex",
+      "postCount" : "198",
+      "avatarPath" : null
+    },
+    "content" : "Anyone know of a good place to get early VW's serviced\n<br> Thanks Dave",
+    "lastEdited" : "Thu Sep 24, 2020 2:11 pm"
+  }, {
+    "postId" : "932391",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "932391",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "173",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Following \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Thu Sep 24, 2020 4:43 pm"
+  } ]
+}

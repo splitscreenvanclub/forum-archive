@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "117429",
+  "title" : "Jumpy Tacho",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=117429",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=eb9583da4928384476a8e5bc058b8879",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 20,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "884081",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "884081",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "I've installed a Sumex Race Sport tacho in my bus (paid a bit for it rather than a cheap one from ebay).\n<br> \n<br> The tacho needle however jumps all over the place. Sometimes it records about the right revs, sometimes zero, sometimes no where near the right reading.\n<br> \n<br> I have a Lucas coil, Accuspark electronic ignition, new plugs and leads, new dizzy cap and a SVDA dizzy.\n<br> \n<br> I've read that resistance on tachos can be an issue but thought I'd plug into the wisdom of the forum first.\n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Wed Sep 21, 2016 11:05 am"
+  }, {
+    "postId" : "884294",
+    "author" : {
+      "username" : "OP",
+      "userId" : "884294",
+      "joined" : "Thu Apr 17, 2003 7:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham/Cornwall",
+      "postCount" : "2186",
+      "avatarPath" : "./download/file.php%3Favatar=20_1491993156.jpg"
+    },
+    "content" : "Have you connected it to a shared earth? If so connect it to it's own earth. I had the same problem with a Mooneyes one years ago and this solved the problem.",
+    "lastEdited" : "Sat Sep 24, 2016 1:56 pm"
+  }, {
+    "postId" : "884299",
+    "author" : {
+      "username" : "Aspro",
+      "userId" : "884299",
+      "joined" : "Tue Oct 23, 2012 7:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "554",
+      "avatarPath" : null
+    },
+    "content" : "You need a diode in line with the coil feed. Cost a few pence from your local electronics store or you can buy them off ebay.",
+    "lastEdited" : "Sat Sep 24, 2016 3:33 pm"
+  }, {
+    "postId" : "884313",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "884313",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Thanks chaps - think I'm on a common earth so will get it changed tomorrow and see if that makes a difference.",
+    "lastEdited" : "Sat Sep 24, 2016 7:03 pm"
+  }, {
+    "postId" : "884324",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "884324",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "More likely to need a diode as mentioned by Aspro. \n<br> \n<a href=\"http://thelatebay.com/index.php?threads/tacho-flicking-about-erratically.63642/\" class=\"postlink\">http://thelatebay.com/index.php?threads ... lly.63642/</a>",
+    "lastEdited" : "Sat Sep 24, 2016 7:55 pm"
+  }, {
+    "postId" : "884329",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "884329",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Thanks all - 10 diodes ordered for 99p delivered !",
+    "lastEdited" : "Sat Sep 24, 2016 8:30 pm"
+  }, {
+    "postId" : "884347",
+    "author" : {
+      "username" : "Aspro",
+      "userId" : "884347",
+      "joined" : "Tue Oct 23, 2012 7:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "554",
+      "avatarPath" : null
+    },
+    "content" : "Hope it works mate. Let us know",
+    "lastEdited" : "Sat Sep 24, 2016 11:07 pm"
+  }, {
+    "postId" : "884393",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "884393",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>JonnyCJ wrote:</cite>Thanks all - 10 diodes ordered for 99p delivered !\n </div>\n</blockquote> Which ones did you get......got the same problem.\n<br> Cheers",
+    "lastEdited" : "Sun Sep 25, 2016 2:20 pm"
+  }, {
+    "postId" : "884406",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "884406",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Went for the 1N4005\n<br> \n<br> Will report back on how it goes in a week or two. Just dropped the bus off to have some trimming snagging finished off, so will be without it for a few days.\n<br> \n<br> If it works I'll pop the others in the post to you. Can't see me needing any more !",
+    "lastEdited" : "Sun Sep 25, 2016 4:37 pm"
+  }, {
+    "postId" : "884413",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "884413",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "Cheers. Fingers crossed it solves the problem \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sun Sep 25, 2016 5:50 pm"
+  }, {
+    "postId" : "884478",
+    "author" : {
+      "username" : "OP",
+      "userId" : "884478",
+      "joined" : "Thu Apr 17, 2003 7:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham/Cornwall",
+      "postCount" : "2186",
+      "avatarPath" : "./download/file.php%3Favatar=20_1491993156.jpg"
+    },
+    "content" : "Fitted numerous tachos and never needed a diode \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Mon Sep 26, 2016 2:51 pm"
+  }, {
+    "postId" : "884678",
+    "author" : {
+      "username" : "Hongkongphooey",
+      "userId" : "884678",
+      "joined" : "Wed Dec 15, 2010 11:39 am",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "565",
+      "avatarPath" : null
+    },
+    "content" : "Change to its own earth as close as possible to the Tacho. I have an Autometer Tacho was fine on its own earth but I 'Tidied' the wiring up and changed it to a common earth and the needle would twitch as you described, changed back to its own earth and it is fine now...",
+    "lastEdited" : "Thu Sep 29, 2016 12:26 pm"
+  }, {
+    "postId" : "884686",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "884686",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Hongkongphooey wrote:</cite>Change to its own earth as close as possible to the Tacho. I have an Autometer Tacho was fine on its own earth but I 'Tidied' the wiring up and changed it to a common earth and the needle would twitch as you described, changed back to its own earth and it is fine now...\n </div>\n</blockquote> Cool. Mines an Autometer too so I'll check to see if it's got a common earth.....I think it may have...\n<br> Cheers",
+    "lastEdited" : "Thu Sep 29, 2016 4:06 pm"
+  }, {
+    "postId" : "884693",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "884693",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Thanks HKP - useful knowledge. Flatbeat- do report back !",
+    "lastEdited" : "Thu Sep 29, 2016 5:07 pm"
+  }, {
+    "postId" : "884698",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "884698",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>JonnyCJ wrote:</cite>Thanks HKP - useful knowledge. Flatbeat- do report back !\n </div>\n</blockquote> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Thu Sep 29, 2016 6:00 pm"
+  } ]
+}

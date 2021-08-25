@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "83713",
+  "title" : "that old chestnut,door gaps",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=83713",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "646225",
+    "author" : {
+      "username" : "lammyrider",
+      "userId" : "646225",
+      "joined" : "Mon Mar 07, 2005 2:57 am",
+      "profileRank" : "SSVC Member",
+      "location" : "northampton-home of the mighty cobblers",
+      "postCount" : "3322",
+      "avatarPath" : null
+    },
+    "content" : "i'll let the pics do the talking\n<br> \n<br> \n<img src=\"http://img.photobucket.com/albums/v726/lammyrider/IMAG0133.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://img.photobucket.com/albums/v726/lammyrider/IMAG0132.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> as far as i can make out the gap between the hinges here is bigger than the other side\n<br> \n<br> \n<img src=\"http://img.photobucket.com/albums/v726/lammyrider/IMAG0131.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> whats the best way of getting this sorted? not worried about perfection but a bit nearer would be nice \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> cheers \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sun Mar 25, 2012 2:25 pm"
+  }, {
+    "postId" : "646234",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "646234",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "It looks as though the dog leg section has been welded on the wrong before checking the fit of the door. Looks like it needs repositioning from what i can make out",
+    "lastEdited" : "Sun Mar 25, 2012 4:26 pm"
+  }, {
+    "postId" : "646235",
+    "author" : {
+      "username" : "lammyrider",
+      "userId" : "646235",
+      "joined" : "Mon Mar 07, 2005 2:57 am",
+      "profileRank" : "SSVC Member",
+      "location" : "northampton-home of the mighty cobblers",
+      "postCount" : "3322",
+      "avatarPath" : null
+    },
+    "content" : "was like it before the new dog leg",
+    "lastEdited" : "Sun Mar 25, 2012 4:30 pm"
+  }, {
+    "postId" : "646239",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "646239",
+      "joined" : "Thu Apr 01, 2004 9:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "hull the new venice",
+      "postCount" : "717",
+      "avatarPath" : null
+    },
+    "content" : "does it spring when opened? if yes\n<br> \n<br> then you need to bend the hindge, if the other door is ok then you have a starting point\n<br> \n<br> if not then can you put a pic up of the door open at its widest showing the line of the door\n<br> \n<br> mark",
+    "lastEdited" : "Sun Mar 25, 2012 4:49 pm"
+  } ]
+}

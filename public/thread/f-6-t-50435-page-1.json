@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "50435",
+  "title" : "Engine warning light coming on. need help",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=50435",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6acdb6365167a1c460000f3f6932c5bf",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "386859",
+    "author" : {
+      "username" : "stcos85",
+      "userId" : "386859",
+      "joined" : "Wed Aug 24, 2005 9:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melbourne",
+      "postCount" : "395",
+      "avatarPath" : null
+    },
+    "content" : "Just started to to use my newly home built 2054cc engine.\n<br> \n<br> It runs well but the other day the oil pressure gauge went down to zero but the oil warning light did not come on so I carried on going and a few seconds later the gauge started reading again.\n<br> \n<br> Oil pressure went back to about 25 so I carried on.\n<br> \n<br> Today I went out for a longer drive and after about 10 minutes the gauge went to zero and this time the oil warning light came on. I pulled over straight away and had a look in the back. No signs of any oil leaks.\n<br> \n<br> I started it back up straight away and the oil warning light went out and the gauge went back to 25 so I carried on my way home which took about another 10 minutes. The light never came back on.\n<br> \n<br> I have an external filter and its fitted with a 32mm oil pump. No other mods in relation to the oil system. \n<br> Anyone got any ideas as I just don't want to drive it. It may be something simple but I have no idea",
+    "lastEdited" : "Sat Jan 31, 2009 4:25 pm"
+  }, {
+    "postId" : "386936",
+    "author" : {
+      "username" : "chaser",
+      "userId" : "386936",
+      "joined" : "Mon Dec 03, 2007 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "isle of wight",
+      "postCount" : "1545",
+      "avatarPath" : null
+    },
+    "content" : "I am guessing but, pressure relief valve sticky?",
+    "lastEdited" : "Sat Jan 31, 2009 9:19 pm"
+  }, {
+    "postId" : "386941",
+    "author" : {
+      "username" : "ronnie12342003",
+      "userId" : "386941",
+      "joined" : "Fri Oct 13, 2006 3:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "london docklands",
+      "postCount" : "1467",
+      "avatarPath" : null
+    },
+    "content" : "thought you where selling the lump!!! \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Sat Jan 31, 2009 9:40 pm"
+  }, {
+    "postId" : "386946",
+    "author" : {
+      "username" : "stcos85",
+      "userId" : "386946",
+      "joined" : "Wed Aug 24, 2005 9:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melbourne",
+      "postCount" : "395",
+      "avatarPath" : null
+    },
+    "content" : "I may sell if someone offers the right money but I hate to be beaten by something which could be a simple thing. The valve did stick before so I may have another look tomorrow but I don't want to be working on it all the time as I bought the single cab to transport my sons kart around.\n<br> \n<br> I was told that sometimes the larger oil pumps, this one is a 32mm, can jump out of the slot in the cam. Is this possible?",
+    "lastEdited" : "Sat Jan 31, 2009 9:56 pm"
+  }, {
+    "postId" : "387054",
+    "author" : {
+      "username" : "ronnie12342003",
+      "userId" : "387054",
+      "joined" : "Fri Oct 13, 2006 3:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "london docklands",
+      "postCount" : "1467",
+      "avatarPath" : null
+    },
+    "content" : "i an't erd that b4 sticking valve more like mind you wipp the pump of and check also why do need such a large pump \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\">",
+    "lastEdited" : "Sun Feb 01, 2009 12:15 pm"
+  }, {
+    "postId" : "387066",
+    "author" : {
+      "username" : "dubbus56",
+      "userId" : "387066",
+      "joined" : "Wed Feb 18, 2004 7:19 pm",
+      "profileRank" : "Registered user",
+      "location" : "Skinta Towers",
+      "postCount" : "2492",
+      "avatarPath" : null
+    },
+    "content" : "Do you have a breather system fitted? If so where is it connected in?\n<br> Do you have a deep sump?\n<br> Does the drop in oil pressure come after a little period where the engine is revving a bit higher, say over 2750 to 3000 revs?\n<br> \n<br> Also that oil pump is hooooj! 32mm is massive 30 would be more than adequate and a blueprinted 26 would actually do the job fine.\n<br> \n<br> Ben",
+    "lastEdited" : "Sun Feb 01, 2009 12:39 pm"
+  }, {
+    "postId" : "387088",
+    "author" : {
+      "username" : "stcos85",
+      "userId" : "387088",
+      "joined" : "Wed Aug 24, 2005 9:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melbourne",
+      "postCount" : "395",
+      "avatarPath" : null
+    },
+    "content" : "at the early stages of collecting the bits I was advised that a 32mm pump would be the best bet. However now I know more I would never have spent the money on this. Whats the downdide to this size pump?\n<br> Just checked the pump and all seems fine. Tried getting it out but it is in there tight.\n<br> \n<br> I don't have a breather system fitted. Should I?\n<br> \n<br> The engine pressure does drop after its been run down the road for say 5 minutes. While its ticking over in the grarage its fine and will sit at bewteen 25 and 50 psi( thats the readings on the gauge) as long as I leave it running",
+    "lastEdited" : "Sun Feb 01, 2009 1:37 pm"
+  }, {
+    "postId" : "387121",
+    "author" : {
+      "username" : "dubbus56",
+      "userId" : "387121",
+      "joined" : "Wed Feb 18, 2004 7:19 pm",
+      "profileRank" : "Registered user",
+      "location" : "Skinta Towers",
+      "postCount" : "2492",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>stcos85 wrote:</cite>at the early stages of collecting the bits I was advised that a 32mm pump would be the best bet. However now I know more I would never have spent the money on this. Whats the downdide to this size pump?\n  <br> Just checked the pump and all seems fine. Tried getting it out but it is in there tight.\n  <br> \n  <br> I don't have a breather system fitted. Should I?\n  <br> \n  <br> The engine pressure does drop after its been run down the road for say 5 minutes. While its ticking over in the grarage its fine and will sit at bewteen 25 and 50 psi( thats the readings on the gauge) as long as I leave it running\n </div>\n</blockquote> Big pumps sometimes pump large volumes of oil rather than keeping pressure well. This has the effect of emptying the sump quite quickly of oil. Because you will have windage effect from a bigger crank too, that can cause the 3 and 4 rocker cover to fill up with oil, and leaves nothing for the pump to suck on. We've done a bit of experimenting with deep sumps and open rockers and buckets and the amount of oil flying round and not where it should be is phenomenal.\n<br> Basically the light comes on and the pressure gauge drops because the pump is sucking air when the sump empties, and you get a big fat bubble travelling through the oiling system.\n<br> When the revs drop off the pressure returns to normal as the oil is feeding the pick up tube again and the bubble passes out.\n<br> If this is what the problem is a big deep sump will help you out, as would a smaller oil pump.\n<br> You can buy an oil pump puller that will get it out if you do want to change it.\n<br> \n<br> A breather system may help, or may make it worse by allowing more oil out into the rocker cover and up the breather hose into a catch tank. We sometimes just breath the case and the 1 and 2 rocker cover, with a drain back into the case too.\n<br> There are a few other factors to weigh in though, and I would start with a deep sump if you don't already have one.\n<br> \n<br> This is my best stab in the dark guess at the problem you are having, without seeing the engine, but it is something I have come across before and a possibility you can look into.\n<br> \n<br> Hope that helps a bit\n<br> Ben",
+    "lastEdited" : "Sun Feb 01, 2009 4:30 pm"
+  }, {
+    "postId" : "387129",
+    "author" : {
+      "username" : "stcos85",
+      "userId" : "387129",
+      "joined" : "Wed Aug 24, 2005 9:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melbourne",
+      "postCount" : "395",
+      "avatarPath" : null
+    },
+    "content" : "Ben,\n<br> That gives me something to work with. I was thinking similar with regards to the pump and the amount of oil it pushes around. I have a smaller Shadek pump, its bigger than standard but I can give it a try and let you know the results.",
+    "lastEdited" : "Sun Feb 01, 2009 4:47 pm"
+  }, {
+    "postId" : "390617",
+    "author" : {
+      "username" : "ronnie12342003",
+      "userId" : "390617",
+      "joined" : "Fri Oct 13, 2006 3:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "london docklands",
+      "postCount" : "1467",
+      "avatarPath" : null
+    },
+    "content" : "did you solve the prolem",
+    "lastEdited" : "Thu Feb 12, 2009 7:06 pm"
+  }, {
+    "postId" : "390722",
+    "author" : {
+      "username" : "stcos85",
+      "userId" : "390722",
+      "joined" : "Wed Aug 24, 2005 9:28 pm",
+      "profileRank" : "Registered user",
+      "location" : "Melbourne",
+      "postCount" : "395",
+      "avatarPath" : null
+    },
+    "content" : "As suggested by dubbus56 I got myself a deeper sump, fitted it at the weekend and have taken it for a run a couple of times for about 15 minutes. The problem seems to have been solved but need to go for a longer run hopefully at the weekend assuming the snow goes.\n<br> \n<br> The spare oil pump I had was for a 4 bolt cam so couldn't try it. oil pressure is just over 25psi at tickover when warm and goes up to about 40psi when accelerating.\n<br> \n<br> Thanks for your advice",
+    "lastEdited" : "Thu Feb 12, 2009 11:58 pm"
+  } ]
+}

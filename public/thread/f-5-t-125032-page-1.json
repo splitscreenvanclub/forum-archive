@@ -1,0 +1,105 @@
+{
+  "forumId" : "5",
+  "threadId" : "125032",
+  "title" : "Early Gear stick",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=125032",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=495295de782a5f12e8822a4ccb0a688a",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931662",
+    "author" : {
+      "username" : "Vinda76",
+      "userId" : "931662",
+      "joined" : "Tue Apr 30, 2019 1:30 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "3",
+      "avatarPath" : null
+    },
+    "content" : "Does anyone have a pre 59 straight gear stick they would like to sell? I'm after the stick, spring, spring housing and reverse lock out.\n<br> \n<br> Any help would be greatly appreciated.\n<br> \n<br> Cheers Gav",
+    "lastEdited" : "Thu Aug 13, 2020 1:51 am"
+  }, {
+    "postId" : "931695",
+    "author" : {
+      "username" : "dougall up",
+      "userId" : "931695",
+      "joined" : "Sun Nov 21, 2010 10:55 am",
+      "profileRank" : "SSVC Member",
+      "location" : "tewkesbury",
+      "postCount" : "99",
+      "avatarPath" : null
+    },
+    "content" : "What is the difference through the years ? I,ve got one I bought and it does not fit a 1966. is this an early one ?\n<br> its to short where the spring and housing fits . \n<br> Doug",
+    "lastEdited" : "Sat Aug 15, 2020 9:50 am"
+  }, {
+    "postId" : "931702",
+    "author" : {
+      "username" : "Vinda76",
+      "userId" : "931702",
+      "joined" : "Tue Apr 30, 2019 1:30 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "3",
+      "avatarPath" : null
+    },
+    "content" : "Hi Doug,\n<br> \n<br> I'm no expert, however, early gearstick was located closer to the seat, so had a straight stick. The ball is smaller than later ones (16mm? compared with 21mm?) with no locating bar (the part that stops later sticks from rotating).\n<br> \n<br> Gav",
+    "lastEdited" : "Sun Aug 16, 2020 11:49 pm"
+  }, {
+    "postId" : "931713",
+    "author" : {
+      "username" : "galiform",
+      "userId" : "931713",
+      "joined" : "Tue Aug 28, 2007 8:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "95",
+      "avatarPath" : null
+    },
+    "content" : "Sent pm bud\n<img alt=\"👍\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f44d.svg\">",
+    "lastEdited" : "Mon Aug 17, 2020 4:28 pm"
+  }, {
+    "postId" : "931720",
+    "author" : {
+      "username" : "Vinda76",
+      "userId" : "931720",
+      "joined" : "Tue Apr 30, 2019 1:30 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "3",
+      "avatarPath" : null
+    },
+    "content" : "Thanks, but haven't received a PM mate",
+    "lastEdited" : "Mon Aug 17, 2020 11:40 pm"
+  }, {
+    "postId" : "931760",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "931760",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3539",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Pretty sure I have a couple of these. pm me for details.",
+    "lastEdited" : "Fri Aug 21, 2020 10:08 am"
+  }, {
+    "postId" : "931798",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "931798",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3539",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Look like you need a straight stick, 16mm ball, no locating pin. Mine are 22mm balls with locating pins so won't fit.",
+    "lastEdited" : "Sat Aug 22, 2020 3:26 pm"
+  } ]
+}

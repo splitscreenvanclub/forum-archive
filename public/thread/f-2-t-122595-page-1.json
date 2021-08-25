@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "122595",
+  "title" : "Bus valuation",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=122595",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=21c2c9c2930f84ba3687adae8a42d26b",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "916339",
+    "author" : {
+      "username" : "geocamper1",
+      "userId" : "916339",
+      "joined" : "Wed Apr 10, 2013 10:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "209",
+      "avatarPath" : null
+    },
+    "content" : "Looking for a bit of information regarding bus prices in the last 3 years.\n<br> 3 years ago is the last time I had my bus valued for insurance purposes.\n<br> The question I have is, In general have our buses stagnated, Devalued\n<br> Or increased in value in the past 3 years? Just looking for a general consensus.",
+    "lastEdited" : "Wed Oct 10, 2018 10:44 am"
+  }, {
+    "postId" : "916341",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "916341",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1448",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "Increased. Well mine has anyway.\n<br> I would get it valued again.",
+    "lastEdited" : "Wed Oct 10, 2018 12:51 pm"
+  } ]
+}

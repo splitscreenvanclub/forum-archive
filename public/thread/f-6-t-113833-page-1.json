@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "113833",
+  "title" : "How to add pictures to a forum post",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=113833",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=088b8853de3b7c7127199ac077478ac2",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 25,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "858204",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "858204",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4246",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "This is how you add a picture to a forum post.\n<br> \n<br> Two ways to do this:\n<br> \n<br> \n<br> \n<span class=\"glow\" style=\"display:inline;padding:0 6px;color:#fff;text-shadow:0 0 1em red,0 0 1em red,0 0 1.2em red\">1.</span>Click on the attachments option (\n<span class=\"shadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-2px 2px 2px #999\">underneath Save Draft, Preview, and Submit</span>) options:\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"file\"> \n  <dt class=\"attach-image\">\n   <img src=\"./download/file.php?id=11129&amp;sid=088b8853de3b7c7127199ac077478ac2\" class=\"postimage\" alt=\"Screen Shot 2015-12-19 at 23.38.43.png\" onclick=\"viewableArea(this);\">\n  </dt> \n  <dd>\n   Screen Shot 2015-12-19 at 23.38.43.png (12.56 KiB) Viewed 34803 times\n  </dd> \n </dl> \n</div> Click the \n<span class=\"shadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-2px 2px 2px #999\">Add Files</span> button.\n<br> \n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"file\"> \n  <dt class=\"attach-image\">\n   <img src=\"./download/file.php?id=11130&amp;sid=088b8853de3b7c7127199ac077478ac2\" class=\"postimage\" alt=\"Screen Shot 2015-12-19 at 23.40.11.png\" onclick=\"viewableArea(this);\">\n  </dt> \n  <dd>\n   Screen Shot 2015-12-19 at 23.40.11.png (11.89 KiB) Viewed 34803 times\n  </dd> \n </dl> \n</div> \n<br> \n<br> Select one or more images (you want to add to a message). Hold down the \n<span class=\"shadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-2px 2px 2px #999\">shift key</span>(to select more than one image).\n<br> \n<br> Click the \n<span class=\"shadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-2px 2px 2px #999\">Open</span> button.\n<br> \n<br> The images will be uploaded.\n<br> \n<br> Once uploaded, (you will see them), position (your cursor) where you want to add the images, and click the \n<span class=\"shadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-2px 2px 2px #999\">Place inline</span> button.\n<br> \n<br> You will see an \"\" appears in your forum post (message).\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"file\"> \n  <dt class=\"attach-image\">\n   <img src=\"./download/file.php?id=11131&amp;sid=088b8853de3b7c7127199ac077478ac2\" class=\"postimage\" alt=\"Screen Shot 2015-12-19 at 23.43.33.png\" onclick=\"viewableArea(this);\">\n  </dt> \n  <dd>\n   Screen Shot 2015-12-19 at 23.43.33.png (29.59 KiB) Viewed 34803 times\n  </dd> \n </dl> \n</div> Click the \n<span class=\"dropshadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-1px 1px 0 #999\">Submit button</span>, to (finish) your forum post, or \n<span class=\"dropshadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-1px 1px 0 #999\">Preview</span>to see what it will look like.\n<br> \n<br> \n<br> \n<br> \n<br> \n<span class=\"shadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-2px 2px 2px #999\">2.</span> If you are using a third-party image hosting service like flikr, \n<br> \n<br> You need to link your image (in flikr) to your Post.\n<br> \n<br> Click the\n<span class=\"shadow\" style=\"display:inline;padding:0 6px;color:blue;text-shadow:-2px 2px 2px #999\">Insert Image</span>button, OR just copy these tags into your message:\n<br> \n<br> \"[img].....[/img]\"\n<br> \n<br> Put the website address of your image in between the tags.\n<br> \n<br> For example \n<a href=\"http://chocksaway.com/blog/wp-content/uploads/2015/10/chocksaway_shield1.png\" class=\"postlink\">http://chocksaway.com/blog/wp-content/u ... hield1.png</a> would go in between the [img].....[/img]\n<br> \n<br> Click the \n<span class=\"glow\" style=\"display:inline;padding:0 6px;color:#fff;text-shadow:0 0 1em red,0 0 1em red,0 0 1.2em red\">Submit</span> or \n<span class=\"glow\" style=\"display:inline;padding:0 6px;color:#fff;text-shadow:0 0 1em red,0 0 1em red,0 0 1.2em red\">Preview</span>button.",
+    "lastEdited" : "Sat Dec 19, 2015 11:49 pm"
+  }, {
+    "postId" : "861298",
+    "author" : {
+      "username" : "Shabba",
+      "userId" : "861298",
+      "joined" : "Fri Jun 09, 2006 8:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Uttoxeter, Staffordshire.",
+      "postCount" : "269",
+      "avatarPath" : null
+    },
+    "content" : "Hi Miles\n<br> Can you do one of these showing how to put up your own avatar, plus resizing photos to use as an avatar because this can be a nightmare to do!\n<br> Cheers John.",
+    "lastEdited" : "Fri Jan 22, 2016 10:59 pm"
+  }, {
+    "postId" : "889379",
+    "author" : {
+      "username" : "Streamliner",
+      "userId" : "889379",
+      "joined" : "Tue Mar 26, 2013 5:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "73",
+      "avatarPath" : null
+    },
+    "content" : "Hi Miles, would you have any idea why i get the is message when I try to load any images?\n<br> \n<br> ERROR\n<br> Sorry, the board attachment quota has been reached\n<br> \n<br> I get a small yellow warning symbol by the download and when I click on it I get the message above, Ive reduced the image sizes incase that was the problem. Cheers Kevin",
+    "lastEdited" : "Thu Dec 29, 2016 11:08 am"
+  }, {
+    "postId" : "889384",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "889384",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4246",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "Not sure. I will check later, currently in the middle of London.........",
+    "lastEdited" : "Thu Dec 29, 2016 12:54 pm"
+  }, {
+    "postId" : "889396",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "889396",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6234",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Should be OK now, I have increased the quota",
+    "lastEdited" : "Thu Dec 29, 2016 6:45 pm"
+  }, {
+    "postId" : "889397",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "889397",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4246",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>paul_f wrote:</cite>Should be OK now, I have increased the quota\n </div>\n</blockquote> Thank you \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Thu Dec 29, 2016 6:48 pm"
+  }, {
+    "postId" : "889664",
+    "author" : {
+      "username" : "66Pepper",
+      "userId" : "889664",
+      "joined" : "Sun Jan 10, 2016 1:31 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "17",
+      "avatarPath" : null
+    },
+    "content" : "Hi Miles\n<br> \n<br> I get the same message about exceeding the quota, I cannot get the images any smaller! Thanks.",
+    "lastEdited" : "Wed Jan 04, 2017 3:41 pm"
+  }, {
+    "postId" : "889700",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "889700",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4246",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=18766&amp;sid=088b8853de3b7c7127199ac077478ac2&amp;mode=view\"><img src=\"./download/file.php?id=18766&amp;t=1&amp;sid=088b8853de3b7c7127199ac077478ac2\" class=\"postimage\" alt=\"DSC_0026.JPG\" title=\"DSC_0026.JPG (602.4 KiB) Viewed 27588 times\"></a>\n  </dt> \n </dl> \n</div> Can you try again please. I've just uploaded a 3.1 meg image Ok.\n<br> \n<br> Thanks\n<br> \n<br> Miles.",
+    "lastEdited" : "Thu Jan 05, 2017 7:57 am"
+  }, {
+    "postId" : "889708",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "889708",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2659",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "The site had gone over it's limit again, Paul extended it again last night, so should be okay for a while now.",
+    "lastEdited" : "Thu Jan 05, 2017 11:18 am"
+  }, {
+    "postId" : "896593",
+    "author" : {
+      "username" : "horsepower",
+      "userId" : "896593",
+      "joined" : "Tue Apr 18, 2017 9:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "17",
+      "avatarPath" : null
+    },
+    "content" : "But what is the maximum size of image it can process",
+    "lastEdited" : "Tue May 02, 2017 10:56 am"
+  }, {
+    "postId" : "896600",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "896600",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4246",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "These will be specified within PHPBB (the forum itself).",
+    "lastEdited" : "Tue May 02, 2017 11:39 am"
+  }, {
+    "postId" : "905055",
+    "author" : {
+      "username" : "roadster1",
+      "userId" : "905055",
+      "joined" : "Mon May 11, 2015 11:09 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "9",
+      "avatarPath" : null
+    },
+    "content" : "cant seem to get my pictures to load - keeps saying they are too large when checked they are way inside the size and pixel count any ideas?",
+    "lastEdited" : "Wed Oct 25, 2017 7:47 pm"
+  }, {
+    "postId" : "905073",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "905073",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4246",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "roadster1 you have a private message.",
+    "lastEdited" : "Thu Oct 26, 2017 8:25 am"
+  }, {
+    "postId" : "910543",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "910543",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3157",
+      "avatarPath" : null
+    },
+    "content" : "I started adding my photos directly because of the Photobucket issues, but for some reason they are duplicating and the attachments are also showing. Look t the last post on my thread to see what I mean....\n<br> \n<br> Any idea why this is?\n<br> \n<br> Steve",
+    "lastEdited" : "Sat Mar 24, 2018 10:55 pm"
+  }, {
+    "postId" : "910544",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "910544",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4246",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=27335&amp;sid=088b8853de3b7c7127199ac077478ac2&amp;mode=view\"><img src=\"./download/file.php?id=27335&amp;t=1&amp;sid=088b8853de3b7c7127199ac077478ac2\" class=\"postimage\" alt=\"001.jpg\" title=\"001.jpg (122.48 KiB) Viewed 19197 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=27336&amp;sid=088b8853de3b7c7127199ac077478ac2&amp;mode=view\"><img src=\"./download/file.php?id=27336&amp;t=1&amp;sid=088b8853de3b7c7127199ac077478ac2\" class=\"postimage\" alt=\"002.jpg\" title=\"002.jpg (124.46 KiB) Viewed 19197 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=27337&amp;sid=088b8853de3b7c7127199ac077478ac2&amp;mode=view\"><img src=\"./download/file.php?id=27337&amp;t=1&amp;sid=088b8853de3b7c7127199ac077478ac2\" class=\"postimage\" alt=\"003.jpg\" title=\"003.jpg (96.73 KiB) Viewed 19197 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Sun Mar 25, 2018 12:11 am"
+  } ]
+}

@@ -1,0 +1,24 @@
+{
+  "forumId" : "10",
+  "threadId" : "106607",
+  "title" : "Slough Swapmeet",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=106607",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "808611",
+    "author" : {
+      "username" : "neili",
+      "userId" : "808611",
+      "joined" : "Mon Aug 25, 2014 5:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "36",
+      "avatarPath" : null
+    },
+    "content" : "Anyone driving up to the Slough Swapmeet from Brighton?",
+    "lastEdited" : "Thu Oct 30, 2014 8:06 pm"
+  } ]
+}

@@ -1,0 +1,89 @@
+{
+  "forumId" : "6",
+  "threadId" : "112294",
+  "title" : "Headlight Flasher on indicator stalk (1967)",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112294",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847107",
+    "author" : {
+      "username" : "Karmann",
+      "userId" : "847107",
+      "joined" : "Wed May 02, 2012 12:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "Maidstone, Kent",
+      "postCount" : "92",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br>\n<br>Can someone confirm the operation of the stalk mounted headlight flasher on my 1967 splittie. Basically it only works when my lights are on and just switches between low and high beam. Nothing happens when I operate the flasher with the lights are off. Is this correct or should I be able to flash the headlamps even when the lights are off like a modern car?\n<br>\n<br>Many thanks",
+    "lastEdited" : "Fri Aug 28, 2015 9:17 pm"
+  }, {
+    "postId" : "847119",
+    "author" : {
+      "username" : "amd",
+      "userId" : "847119",
+      "joined" : "Tue Oct 02, 2012 6:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kent",
+      "postCount" : "131",
+      "avatarPath" : "./download/file.php%3Favatar=37087_1428522717.jpg"
+    },
+    "content" : "Flasher is only pull it to turn on &amp; quickly pull it again to turn off on mine, like yours only works if lights on.",
+    "lastEdited" : "Fri Aug 28, 2015 10:02 pm"
+  }, {
+    "postId" : "847136",
+    "author" : {
+      "username" : "Karmann",
+      "userId" : "847136",
+      "joined" : "Wed May 02, 2012 12:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "Maidstone, Kent",
+      "postCount" : "92",
+      "avatarPath" : null
+    },
+    "content" : "Thanks amd, that is what I suspected. Just fitted a new loom and first time I've had any electrics working so wanted to check it is operating as it should.",
+    "lastEdited" : "Sat Aug 29, 2015 8:18 am"
+  }, {
+    "postId" : "847138",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "847138",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7399",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "<span style=\"background-color: yellow;\"></span>I think we all forget. ..\n<br>The function was only designed to dip and raise the headlights...\n<br>The use of the headlights to flash is something we take as a modern \"signal\".but IIRC the highway code says do not do it!\n<br>\n<br>\n<span style=\"background-color: yellow;\">110<br><br>Flashing headlights.&nbsp;Only flash your headlights to let other road users know that you are there. Do not flash your headlights to convey any other message or intimidate other road users.<br><br>111<br><br>Never assume that flashing headlights is a signal inviting you to proceed. Use your own judgement and proceed carefully</span>.\n<br>\n<br>I am used to putting my foot on the brake pedal ignition off to light the brake lights to check them but my split needs the ignition on..\n<br>I think this was also how they were designed. .",
+    "lastEdited" : "Sat Aug 29, 2015 8:29 am"
+  }, {
+    "postId" : "847211",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "847211",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3072",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "The flasher function only works if there is a permanent live feed to the relay. US buses, including bays, were not fitted with this feed so the flasher didn't work when the lights were off. Some Euro buses were also wired like this. It's easy to fit a live feed to the relay providing you have the right 5 prong relay installed. I've just done this to couple of bays and a split. Look at the relay wiring in this list to identify the terminals. \n<br>\n<a href=\"http://www.jbugs.com/VW-Tech-Article-Headlight-Switches.html\" class=\"postlink\">http://www.jbugs.com/VW-Tech-Article-Headlight-Switches.html</a>\n<br>Look at Euro wiring diagrams on the Samba for the additional live feed info.",
+    "lastEdited" : "Sat Aug 29, 2015 9:32 pm"
+  }, {
+    "postId" : "847424",
+    "author" : {
+      "username" : "Karmann",
+      "userId" : "847424",
+      "joined" : "Wed May 02, 2012 12:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "Maidstone, Kent",
+      "postCount" : "92",
+      "avatarPath" : null
+    },
+    "content" : "Thanks BJ1... I'll have a look into that, sounds like a fairly simple and useful mod. \n<br>Also agree with what you are saying type21f but being able to flash the lights would be handy in the modern driving world.\n<br>Thank you both for your replies",
+    "lastEdited" : "Mon Aug 31, 2015 9:24 pm"
+  } ]
+}

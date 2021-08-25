@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "125008",
+  "title" : "So42 vinyl flooring",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125008",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=31f7a9bf29145f3e2b40c7e821dba50b",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931512",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "931512",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "451",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys , could anyone tell me a replacement vinyl that could be used on a so42 bus , pics would be appreciated . Kind regards neil",
+    "lastEdited" : "Mon Aug 03, 2020 2:42 pm"
+  }, {
+    "postId" : "931763",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "931763",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3539",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "NLAVW have a good vinyl that is almost identical to the original.",
+    "lastEdited" : "Fri Aug 21, 2020 10:18 am"
+  } ]
+}

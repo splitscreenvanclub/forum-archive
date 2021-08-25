@@ -1,0 +1,37 @@
+{
+  "forumId" : "42",
+  "threadId" : "113588",
+  "title" : "Where's wilma?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=42&t=113588",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "856392",
+    "author" : {
+      "username" : "58semaphore",
+      "userId" : "856392",
+      "joined" : "Sun Nov 22, 2015 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "<span style=\"font-family: Verdana;\"><span style=\"font-size: 150%; line-height: 116%;\">G'day everyone! An ozzie guy here with a 58 semaphore in my garage about to restore it. Doing a Vehicle restoration course at TAFE (technical college) but I still pine for my '67 split camper walkthrough that I sold to get my ticket back to Australia. She had the rego WMA334E i think, or maybe WMA344E. How is she going? Love to see a pic?</span></span>",
+    "lastEdited" : "Mon Nov 23, 2015 9:38 am"
+  }, {
+    "postId" : "856401",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "856401",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "406",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "After searching our DVLA (Driver and Vehicle Licensing Agency) records:\n<br>\n<br>Looks like its been off the road for 8 years \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<br>\n<br>\n<span style=\"font-weight: bold\">WMA344E</span>\n<br>\n<br>✗ Untaxed\n<br>Tax due: 01 August 2007\n<br>✗ No MOT\n<br>Expired: 20 July 2007\n<br>\n<br>\n<br>Vehicle make VOLKSWAGEN\n<br>Date of first registration 15 May 1967\n<br>Year of manufacture 1967\n<br>Cylinder capacity (cc) 1493cc\n<br>CO₂Emissions Not available\n<br>Fuel type PETROL\n<br>Vehicle status Not taxed\n<br>Vehicle colour GREEN\n<br>Vehicle type approval Not available \n<br>Wheelplan 2 AXLE RIGID BODY\n<br>Revenue weight Not available\n<br>\n<br>Anybody have her stashed away somewhere?",
+    "lastEdited" : "Mon Nov 23, 2015 12:50 pm"
+  } ]
+}

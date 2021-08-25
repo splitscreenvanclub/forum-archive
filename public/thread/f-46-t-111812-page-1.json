@@ -1,0 +1,63 @@
+{
+  "forumId" : "46",
+  "threadId" : "111812",
+  "title" : "Devon Cooker, any idea what year?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=111812",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "844046",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "844046",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1463",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=8137&amp;mode=view\"><img src=\"./download/file.php?id=8137&amp;t=1\" class=\"postimage\" alt=\"image.jpg\" title=\"image.jpg (66.19 KiB) Viewed 198 times\"></a>\n  </dt> \n  <dd>\n    Devon?\n  </dd> \n </dl> \n</div>\n<br>\n<br>Anyone got any idea what year this Devon cooker is from?",
+    "lastEdited" : "Sat Aug 01, 2015 11:00 pm"
+  }, {
+    "postId" : "844047",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "844047",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "931",
+      "avatarPath" : "http://i1068.photobucket.com/albums/u451/clymoj/Bus/Bus005_zps44edd617.jpg"
+    },
+    "content" : "This looks like a 67 Spaceway cooker and shroud but with a Caravette base box and some sort of bay legs. \n<br>\n<br>But does that mean it's from something else I don't know about?\n<br>\n<br>The same cooker was used in 66 Spaceways too but with integrated feet. My knowledge doesn't yet stretch to 65-7 Caravette cookers I'm afraid.",
+    "lastEdited" : "Sat Aug 01, 2015 11:06 pm"
+  }, {
+    "postId" : "844360",
+    "author" : {
+      "username" : "D.S",
+      "userId" : "844360",
+      "joined" : "Sat Aug 30, 2003 6:49 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "nr BATH",
+      "postCount" : "333",
+      "avatarPath" : null
+    },
+    "content" : "Same as my 66,Calor make I think.",
+    "lastEdited" : "Tue Aug 04, 2015 6:35 pm"
+  }, {
+    "postId" : "845146",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "845146",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3072",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Made by Argyll not Calor. Fitted to 66 and 67 Spaceways.",
+    "lastEdited" : "Tue Aug 11, 2015 8:32 pm"
+  } ]
+}

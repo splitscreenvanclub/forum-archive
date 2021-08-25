@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "61325",
+  "title" : "Straight axle advice please",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=61325",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "473895",
+    "author" : {
+      "username" : "SASQUATCH",
+      "userId" : "473895",
+      "joined" : "Sun Jun 14, 2009 3:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "280",
+      "avatarPath" : "./download/file.php%3Favatar=33224_1275436396.jpg"
+    },
+    "content" : "I am about to straight axle my bus using the gearbox that is on there now, can I do the conversion without removing the engine and box. I know I need to reverse the ring gear, can this be done in the bus.\n<br>\n<br>Thanks.",
+    "lastEdited" : "Tue Dec 01, 2009 10:46 am"
+  }, {
+    "postId" : "473968",
+    "author" : {
+      "username" : "13bussing",
+      "userId" : "473968",
+      "joined" : "Fri Jul 18, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "St Ives, Cornwall",
+      "postCount" : "822",
+      "avatarPath" : "http://i28.photobucket.com/albums/c225/13bussing/DSCF1068-1.jpg"
+    },
+    "content" : "You'll need to reverse the ring gear, and I'v try'd to replace a axle with the gearbox still in the van not goood.\n<br>\n<br>sam",
+    "lastEdited" : "Tue Dec 01, 2009 5:22 pm"
+  }, {
+    "postId" : "474597",
+    "author" : {
+      "username" : "Scotty",
+      "userId" : "474597",
+      "joined" : "Sat Jul 26, 2003 10:08 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Northampton",
+      "postCount" : "1608",
+      "avatarPath" : "http://img.photobucket.com/albums/v213/Scotty58/Random%20stuff/Dashpod195.jpg"
+    },
+    "content" : "It's really not worth trying to do all that work with everything in place. It doesn't take long to take an engine and gearbox out",
+    "lastEdited" : "Fri Dec 04, 2009 1:34 pm"
+  }, {
+    "postId" : "475171",
+    "author" : {
+      "username" : "59 pick up",
+      "userId" : "475171",
+      "joined" : "Thu Jul 31, 2003 6:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "single cab for sale ¬£5k",
+      "postCount" : "1549",
+      "avatarPath" : "http://img.photobucket.com/albums/v222/pantswagen/kkk.jpg"
+    },
+    "content" : "it is impossible to get at the lower side plate bolts\n<br>so no you can't",
+    "lastEdited" : "Mon Dec 07, 2009 5:03 am"
+  } ]
+}

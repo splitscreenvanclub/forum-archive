@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "84881",
+  "title" : "Dual Circuit Master Cylinder Plumbing",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=84881",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "654741",
+    "author" : {
+      "username" : "MrPotatoHead",
+      "userId" : "654741",
+      "joined" : "Wed Dec 30, 2009 2:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cotswolds",
+      "postCount" : "178",
+      "avatarPath" : "./download/file.php%3Favatar=33828_1372139014.jpg"
+    },
+    "content" : "I'm upgrading to dual circuit master cylinder and have a question. There are four outlets three horizontal and one angled down. Clearly one will go to the rears, one is for the switch, and there's one for each front wheel. \n<br> \n<br> The question is, does it matter which one goes where? And if so, what are the differences between them?\n<br> \n<br> I was under the impression it didn't matter and have plumbed the rears to the rear horizontal one, the switch is on the one angled down, and the fronts off the two horizontal front ones. I should have asked earlier but I want to get it right before I roll!\n<br> \n<br> Edit! I should add that it's still drums all round!",
+    "lastEdited" : "Fri May 04, 2012 12:25 pm"
+  }, {
+    "postId" : "654753",
+    "author" : {
+      "username" : "stu(pid)",
+      "userId" : "654753",
+      "joined" : "Mon Oct 13, 2003 8:37 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "298",
+      "avatarPath" : null
+    },
+    "content" : "Try the fitting instructions on this page:\n<br> \n<a href=\"http://www.csp-shop.com/products/Products/Brakes%2CMaster_Cylinder/14381c/det/\" class=\"postlink\">http://www.csp-shop.com/products/Produc ... 4381c/det/</a>",
+    "lastEdited" : "Fri May 04, 2012 1:44 pm"
+  }, {
+    "postId" : "654808",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "654808",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "What youve done sounds right",
+    "lastEdited" : "Fri May 04, 2012 7:40 pm"
+  }, {
+    "postId" : "654819",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "654819",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>58splitty wrote:</cite>What youve done sounds right\n </div>\n</blockquote> Not according to the CSP fitting instructions 58splitty.\n<br> \n<br> \"It is important that the two metal lines that\n<br> go to the front wheel are threaded in the\n<br> end of the master cylinder farthest away\n<br> from the plunger. The rear line and the\n<br> switch should go into the holes closest to\n<br> the master cylinder push rod.\"\n<br> \n<br> Front lines to rear of master cylinder - furthest away from the plunger, and not like MrPotatoHead has done.\n<br> \n<br> Rear line to front - nearest the plunger.\n<br> \n<br> Should be round the other way I'm afraid MrPotatoHead!!",
+    "lastEdited" : "Fri May 04, 2012 8:42 pm"
+  }, {
+    "postId" : "654821",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "654821",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>stu(pid) wrote:</cite>Try the fitting instructions on this page:\n  <br> \n  <a href=\"http://www.csp-shop.com/products/Products/Brakes%2CMaster_Cylinder/14381c/det/\" class=\"postlink\">http://www.csp-shop.com/products/Produc ... 4381c/det/</a>\n </div>\n</blockquote> Thanks for that stu(pid)\n<br> \n<br> I'll be doing mine soon.",
+    "lastEdited" : "Fri May 04, 2012 8:44 pm"
+  }, {
+    "postId" : "654881",
+    "author" : {
+      "username" : "MrPotatoHead",
+      "userId" : "654881",
+      "joined" : "Wed Dec 30, 2009 2:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cotswolds",
+      "postCount" : "178",
+      "avatarPath" : "./download/file.php%3Favatar=33828_1372139014.jpg"
+    },
+    "content" : "Ah well. Looks like my weekend will be spent replacing/fettleing the brake pipes, \n<strong class=\"text-strong\">again</strong> \n<img class=\"smilies\" src=\"./images/smilies/icon_cry.gif\" width=\"15\" height=\"15\" alt=\":cry:\" title=\"Cry\"> \n<br> \n<br> Thanks for the replays tho guys, and the CSP instructions. Just wish I'd seen them before!\n<br> \n<br> Still don't know what the difference between the front and back outlets are though. The difference isn't to do with discs is it? \n<br> \n<br> Thanks\n<br> \n<br> Will",
+    "lastEdited" : "Sat May 05, 2012 8:23 am"
+  }, {
+    "postId" : "654892",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "654892",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "Hi Will.\n<br> \n<br> The principle of dual circuit master cylinder operation....\n<br> \n<br> From this link: \n<a href=\"http://www.autozone.com/autozone/repairguides/Volkswagen-Air-Cooled-1949-1969-Repair-Guide/Brake-System/Basic-Operating-Principles/_/P-0900c152802677d7\" class=\"postlink\">http://www.autozone.com/autozone/repair ... 52802677d7</a>\n<br> \n<br> Dual circuit master cylinders employ two pistons, located one behind the other, in the same cylinder. The primary piston is actuated directly by mechanical linkage from the brake pedal through the power booster. The secondary piston is actuated by fluid trapped between the two pistons. If a leak develops in front of the secondary piston, it moves forward until it bottoms against the front of the master cylinder, and the fluid trapped between the pistons will operate the rear brakes. If the rear brakes develop a leak, the primary piston will move forward until direct contact with the secondary piston takes place, and it will force the secondary piston to actuate the front brakes. In either case, the brake pedal moves farther when the brakes are applied, and less braking power is available.\n<br> \n<br> When you read it like that it makes quite a lot of sense (to me included)..\n<br> \n<br> Trev",
+    "lastEdited" : "Sat May 05, 2012 10:11 am"
+  }, {
+    "postId" : "655156",
+    "author" : {
+      "username" : "leeco10",
+      "userId" : "655156",
+      "joined" : "Mon Dec 17, 2007 8:02 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire",
+      "postCount" : "564",
+      "avatarPath" : null
+    },
+    "content" : "I fitted a dual circuit system from Machine7 and I've got the it the same way as mr potatohead,\n<br> I cant find the instuctions now \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> but it is a different master cylinder from the csp one.\n<br> In the manual I've got it shows the rear circuit coming from the rear, and the front brakes coming from the front ports????\n<br> Brian.",
+    "lastEdited" : "Mon May 07, 2012 8:48 am"
+  }, {
+    "postId" : "655511",
+    "author" : {
+      "username" : "MrPotatoHead",
+      "userId" : "655511",
+      "joined" : "Wed Dec 30, 2009 2:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cotswolds",
+      "postCount" : "178",
+      "avatarPath" : "./download/file.php%3Favatar=33828_1372139014.jpg"
+    },
+    "content" : "And so the uncertainty continues!\n<br> \n<br> Just for the record, it isn't a CSP Dual Circuit MC that I'm fitting, although I would assume that all available ones would march to the same beat. Mine was from Heritage if my memory serves me correct, or possibly C&amp;C \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br> \n<br> Another thought though, spoke to a friend over the weekend about this whole \"front or back outlets\" issue, and he's running as I've done/described above, he's got discs up front, his braking is spot on, and has been for a number of years!\n<br> \n<br> I'm going to bleed the system through tonight, adjust up the shoes/handbrake (as this is the first spin of my new straight axles too!) and give them a whirl. Wish me luck!\n<br> \n<br> Cheers\n<br> \n<br> Will",
+    "lastEdited" : "Tue May 08, 2012 11:36 am"
+  }, {
+    "postId" : "655765",
+    "author" : {
+      "username" : "MrPotatoHead",
+      "userId" : "655765",
+      "joined" : "Wed Dec 30, 2009 2:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cotswolds",
+      "postCount" : "178",
+      "avatarPath" : "./download/file.php%3Favatar=33828_1372139014.jpg"
+    },
+    "content" : "OK, tried to bleed the system last night and problems!\n<br> \n<br> Rears bled first (remember these are on the rear outlets of the MC) and all went OK, then tried the front. After a pressure pump (three pumps, hold and release nipple) the pedal dropped, as you would expect, then hit a hard stop half way down. Got under the bus and pulling the pedal down showed that the plunger was going half way into the cylinder then felt like it was hitting something solid thus preventing it from moving further. Wasn't expecting that!\n<br> \n<br> Rear nipple then released and it bled fluid thu OK, but when tightened the pedal/MC stops half way down/in again. Took MC off and plunger pushes in OK.\n<br> \n<br> Note. This locking is not pressure of fluid, it is definitely knocking on something solid in the MC.\n<br> \n<br> Is the MC duff or is this to do with the whole \"front or rear outlet\" question that started this post. Does the front cylinder (front brakes as I've plumbed them) need to be bled first? \n<br> \n<br> Thanks\n<br> \n<br> Will",
+    "lastEdited" : "Wed May 09, 2012 6:41 am"
+  }, {
+    "postId" : "655814",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "655814",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Samba63 wrote:</cite>Hi Will.\n  <br> \n  <br> The principle of dual circuit master cylinder operation....\n  <br> \n  <br> From this link: \n  <a href=\"http://www.autozone.com/autozone/repairguides/Volkswagen-Air-Cooled-1949-1969-Repair-Guide/Brake-System/Basic-Operating-Principles/_/P-0900c152802677d7\" class=\"postlink\">http://www.autozone.com/autozone/repair ... 52802677d7</a>\n  <br> \n  <br> Dual circuit master cylinders employ two pistons, located one behind the other, in the same cylinder. The primary piston is actuated directly by mechanical linkage from the brake pedal through the power booster. The secondary piston is actuated by fluid trapped between the two pistons. If a leak develops in front of the secondary piston, it moves forward until it bottoms against the front of the master cylinder, and the fluid trapped between the pistons will operate the rear brakes. If the rear brakes develop a leak, the primary piston will move forward until direct contact with the secondary piston takes place, and it will force the secondary piston to actuate the front brakes. In either case, the brake pedal moves farther when the brakes are applied, and less braking power is available.\n  <br> \n  <br> When you read it like that it makes quite a lot of sense (to me included)..\n  <br> \n  <br> Trev\n </div>\n</blockquote> And on this site the rears are at the end nearest the plunger saying the rears operate first: \n<a href=\"http://www.vw-resource.com/master_cylinder.html#circuits\" class=\"postlink\">http://www.vw-resource.com/master_cylin ... l#circuits</a>\n<br> \n<br> Normally the rear brakes come on first (the piston inside the master cylinder closest to the pedal) and when the rears come on the continuing pressure from your foot pushes the rear cylinder a little further and applies fluid pressure to move the front piston down. If the leak is in the rear, the rear piston moves forward until a \"nose\" on it contacts the front piston and applies the front brakes. If the leak is in the front, the rear piston keeps moving down until the front piston bottoms out and the rear half then gets pressure from your foot.",
+    "lastEdited" : "Wed May 09, 2012 11:40 am"
+  }, {
+    "postId" : "655844",
+    "author" : {
+      "username" : "stu(pid)",
+      "userId" : "655844",
+      "joined" : "Mon Oct 13, 2003 8:37 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "298",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>MrPotatoHead wrote:</cite>Rears bled first (remember these are on the rear outlets of the MC) and all went OK, then tried the front. After a pressure pump (three pumps, hold and release nipple) the pedal dropped, as you would expect, then hit a hard stop half way down. Got under the bus and pulling the pedal down showed that the plunger was going half way into the cylinder then felt like it was hitting something solid thus preventing it from moving further. Wasn't expecting that! \n </div>\n</blockquote> Have you checked the action of the peddle without the master cylinder in place?",
+    "lastEdited" : "Wed May 09, 2012 1:47 pm"
+  }, {
+    "postId" : "655885",
+    "author" : {
+      "username" : "MrPotatoHead",
+      "userId" : "655885",
+      "joined" : "Wed Dec 30, 2009 2:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cotswolds",
+      "postCount" : "178",
+      "avatarPath" : "./download/file.php%3Favatar=33828_1372139014.jpg"
+    },
+    "content" : "Yep. It was absolutely fine. In fact the rears bled a treat with full movement of the pedal. It was when the nipples were nipped up, sealing the rear circuit, that the solid resistance occurred. \n<br> \n<br> It's a mystery!",
+    "lastEdited" : "Wed May 09, 2012 5:34 pm"
+  }, {
+    "postId" : "655980",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "655980",
+      "joined" : "Fri Apr 29, 2011 1:00 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Staffordshire, near Wolverhampton",
+      "postCount" : "445",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "Have you made sure that the pushrod is adjusted correctly?\n<br> \n<br> It might be that with insufficient play in the pushrod that the pistons in the master cylinder aren't returning to their 'at rest' position.",
+    "lastEdited" : "Wed May 09, 2012 9:27 pm"
+  }, {
+    "postId" : "656014",
+    "author" : {
+      "username" : "MrPotatoHead",
+      "userId" : "656014",
+      "joined" : "Wed Dec 30, 2009 2:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cotswolds",
+      "postCount" : "178",
+      "avatarPath" : "./download/file.php%3Favatar=33828_1372139014.jpg"
+    },
+    "content" : "Good call. Recollection is that it's pretty snug. 1mm play needed? I've had the m/c off to take a look at it but it will be going back in tonight for another whirl before I give up and get a replacement!\n<br> \n<br> While I'm at it I'm going to see if I have enough play in the hard lines to swap them over front to back. \n<br> \n<br> Cheers \n<br> \n<br> Will",
+    "lastEdited" : "Thu May 10, 2012 6:58 am"
+  } ]
+}

@@ -1,0 +1,30 @@
+{
+  "forumId" : "27",
+  "threadId" : "75056",
+  "title" : "camping reservation for bad camberg",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=75056",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=c886cd6d733ac8478bdd8512e2f4dbfb",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=c886cd6d733ac8478bdd8512e2f4dbfb",
+    "label" : "Bad Camberg"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "579967",
+    "author" : {
+      "username" : "toomanydubs",
+      "userId" : "579967",
+      "joined" : "Mon Sep 21, 2009 8:16 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "3",
+      "avatarPath" : null
+    },
+    "content" : "where is everyone camoing when at bad camberg? is it Limberg? can i reserve a space or spaces, can i book and pay in advance, i don't wanna get there and not be able to get in anywhere .... help !",
+    "lastEdited" : "Tue Apr 19, 2011 9:24 pm"
+  } ]
+}

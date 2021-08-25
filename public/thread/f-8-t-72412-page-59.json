@@ -1,0 +1,53 @@
+{
+  "forumId" : "8",
+  "threadId" : "72412",
+  "title" : "Revenge of the monkeybus - Muddling through.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=72412&start=870",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=86b09cbddb210ef8495da073ca9228a2",
+    "label" : "Rides and Projects"
+  } ],
+  "totalPosts" : 873,
+  "pageNumber" : 59,
+  "totalPages" : 59,
+  "posts" : [ {
+    "postId" : "893415",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "893415",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>type21f wrote:</cite>Never seen that Technology... Pray tell more via PM - sourcing parts etc. from... Local scrappie?\n  <br> I am impressed and intrigued that I did not know this.. Every day is a school day!\n  <br> I always say I know a great deal about very little..\n  <br> Why have you mounted this in the rear and not directly next to the remote servo? \n  <br> That would seem a local location?\n  <br> An issue with the use of engine take off with twin Webers is that the vacuum take off operates on only one throttle body and you CAN feel the vacuum pulse on braking..\n  <br> VWJIM advised not to use a balancing ipe and use both sides BUT..\n  <br> A continuous Vacuum pump WOULD improve the braking! Maybe only a perceived improvement. Off to read more..\n  <br> G\n </div>\n</blockquote> It could have gone up near the servo at the front of the van, but it would have been pretty exposed and it would be a bit of a disaster to lose it. Also, wasn't originally planning to fit it and only made that decision recently, so the easiest place to mount it was at the engine end.",
+    "lastEdited" : "Tue Mar 07, 2017 2:01 pm"
+  }, {
+    "postId" : "899281",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "899281",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15458",
+      "avatarPath" : null
+    },
+    "content" : ".....pictures...\n<br> Progress?\n<br> Report on braking?\n<br> \n<br> Decision time for me..\n<br> G",
+    "lastEdited" : "Tue Jun 27, 2017 8:42 am"
+  }, {
+    "postId" : "930573",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "930573",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15458",
+      "avatarPath" : null
+    },
+    "content" : "Anyone there?",
+    "lastEdited" : "Mon Jun 15, 2020 6:50 am"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "71967",
+  "title" : "Glass for a 11 window",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=71967",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=3499eef124ff2a91239882ead8c734d4",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "554987",
+    "author" : {
+      "username" : "jerrythegerman",
+      "userId" : "554987",
+      "joined" : "Sun Feb 08, 2009 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "327",
+      "avatarPath" : "./download/file.php%3Favatar=31695_1261564571.jpg"
+    },
+    "content" : "Hello,\n<br> \n<br> Can anyone tell me if glass is year specific? Apart from obvious big/little rear windows.\n<br> \n<br> I.e. is there a manufacturing number/date on them?",
+    "lastEdited" : "Fri Jan 07, 2011 12:43 pm"
+  }, {
+    "postId" : "555031",
+    "author" : {
+      "username" : "jerrythegerman",
+      "userId" : "555031",
+      "joined" : "Sun Feb 08, 2009 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "327",
+      "avatarPath" : "./download/file.php%3Favatar=31695_1261564571.jpg"
+    },
+    "content" : "I spoke to KK and a couple of other specialist's, they say that there is no number index on the glass apparently on the non BD splits.",
+    "lastEdited" : "Fri Jan 07, 2011 5:32 pm"
+  } ]
+}

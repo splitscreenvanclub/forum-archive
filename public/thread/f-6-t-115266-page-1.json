@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "115266",
+  "title" : "Heat exchanger control",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115266",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 19,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "869180",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "869180",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> \n<br> Can anyone help me with a photo of how the gubbins on the heat exchangers all goes together? \n<br> \n<br> I've had a look in Bentley but can't find it \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\"> \n<br> \n<br> Most of it I think I have worked out but I can't find a use for the spring and what looks like a small sump plug (photo below)\n<br> \n<br> Also there is a linkage on the top of my exchangers. What is this for?\n<br> \n<br> \n<a href=\"http://s790.photobucket.com/user/stevejones3163/media/Rusty2/IMAG3043_zpsfxdc5hy6.jpg.html\" class=\"postlink\"><img src=\"http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty2/IMAG3043_zpsfxdc5hy6.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> \n<a href=\"http://s790.photobucket.com/user/stevejones3163/media/Rusty2/IMAG3037_zps6higkfkf.jpg.html\" class=\"postlink\"><img src=\"http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty2/IMAG3037_zps6higkfkf.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> There was a spring welded to one exchanger but the other was missing so I suspect the springs may be a replacement, but there is a spring in the flap so not sure if the extra one is required. You can see it on left side in this photo.\n<br> \n<br> \n<a href=\"http://s790.photobucket.com/user/stevejones3163/media/Rusty2/IMAG3040_zpsshzwccn1.jpg.html\" class=\"postlink\"><img src=\"http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty2/IMAG3040_zpsshzwccn1.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<br> \n<br> Thanks\n<br> \n<br> Steve",
+    "lastEdited" : "Tue Mar 29, 2016 8:11 am"
+  }, {
+    "postId" : "869181",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "869181",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15816",
+      "avatarPath" : null
+    },
+    "content" : "There was another thread recently asking exactly the same question with a link to a picture on a suppliers site...\n<br> The poster wanted a service kit..\n<br> C&amp;C or VWH?\n<br> Had a kit n supplied spring etc..\n<br> I will hunt!\n<br> G",
+    "lastEdited" : "Tue Mar 29, 2016 8:20 am"
+  }, {
+    "postId" : "869182",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "869182",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15816",
+      "avatarPath" : null
+    },
+    "content" : "Maybe not..\n<br> But\n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=5&amp;t=114667&amp;p=864964&amp;hilit=exchanger#p864964\" class=\"postlink\">viewtopic.php?f=5&amp;t=114667&amp;p=864964&amp;hil ... er#p864964</a>\n<br> \n<br> Looks like you bought the kit from C&amp;C...\n<br> \n<br> Does the picture on Just Kampers help?\n<br> \n<br> \n<a href=\"http://www.justkampers.com/vw-t2-split-screen-parts/t2-split-exhaust-parts/1200-1300-1500-1600cc-exhausts-heat-exchangers/043-298-104-heat-exchanger-fit-kit-offside-right-vw-beetle-1963-on-vw-t2-split-1962-1967.html\" class=\"postlink\">http://www.justkampers.com/vw-t2-split- ... -1967.html</a>\n<br> \n<br> G",
+    "lastEdited" : "Tue Mar 29, 2016 8:23 am"
+  }, {
+    "postId" : "869187",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "869187",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "No! Just a pile of bits, not how they are assembled. I'll keep fingers crossed for a photo \"in situ\"\n<br> \n<br> Ta!",
+    "lastEdited" : "Tue Mar 29, 2016 9:48 am"
+  }, {
+    "postId" : "869188",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "869188",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15816",
+      "avatarPath" : null
+    },
+    "content" : "Scroll across there is another picture....\n<br> That lays the spring out to end of the cable mounting bracket appearing to fit to the end of the arm and looks to be designed to aid closing the flap...\n<br> \n<br> The cap looks to be over the fittings on the end of the mounting lug?",
+    "lastEdited" : "Tue Mar 29, 2016 9:49 am"
+  }, {
+    "postId" : "869190",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "869190",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "never seen the cap or spring….so not able to help, apart from, i have never fitted either the spring or the cap, like you say, the flap is already sprung, so ??\n<br> \n<br> the cap….the exchangers has a riser pipe , used for pre-heating the air cleaner route (visible on your LH exchanger up near the head bolts)\n<br> - i would say the cap is to block off this riser pipe if not being used \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";-)\" title=\"Wink\"> (yours is probably already blocked off)",
+    "lastEdited" : "Tue Mar 29, 2016 9:59 am"
+  }, {
+    "postId" : "869236",
+    "author" : {
+      "username" : "Max Last",
+      "userId" : "869236",
+      "joined" : "Fri Dec 26, 2008 7:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Spalding, R b!",
+      "postCount" : "1690",
+      "avatarPath" : null
+    },
+    "content" : "Not sure if it's any help but... Mine have been in the shed for years, finally fitted them over winter, they are repro could be Gsf or heritage, anyhoo, in the fitting kit was a sprung washer thing but trimmed to almost 3 points, the cap should go over that. Mine didn't ,it's sat on a shelf after being sworn at, I drilled the spindle/pivot and put a pin through it to stop it coming off. The small Spring is also on the shelf as it didn't fit anywhere. I can only assume it's a universal fitting kit resulting in spares as my heat goes on and off ok. \n<img src=\"//uploads.tapatalk-cdn.com/20160329/be664cf06de5b06db272208d21b23903.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my sofa.",
+    "lastEdited" : "Tue Mar 29, 2016 4:37 pm"
+  }, {
+    "postId" : "869239",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "869239",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15816",
+      "avatarPath" : null
+    },
+    "content" : "Maybe designed to hammer on and make the clip bite on the peg...not seen one before but see your drill idea working..\n<br> Think the spring is if you have lost the OG?\n<br> That was the picture I was trying to get Steve to scroll..to\n<br> \n<br> G",
+    "lastEdited" : "Tue Mar 29, 2016 4:43 pm"
+  }, {
+    "postId" : "869249",
+    "author" : {
+      "username" : "Max Last",
+      "userId" : "869249",
+      "joined" : "Fri Dec 26, 2008 7:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Spalding, R b!",
+      "postCount" : "1690",
+      "avatarPath" : null
+    },
+    "content" : "Quite possibly regarding the hammer, trying to do so under the bus, in a sub zero temps meant it wasn't happening! An extra hand may have helped but I was taking up all the space.",
+    "lastEdited" : "Tue Mar 29, 2016 5:18 pm"
+  }, {
+    "postId" : "869299",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "869299",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Thanks fellas ^^^\n<br> \n<br> That's useful. I have the three point star lock washers. Unfortunately the diameter of one of the pegs on the exchanger is smaller than the hole in the star lock so I'll fit a different sort.\n<br> \n<br> Any idea what connects to the bracket on the top of the exchanger though? You can see it stick up at the top of the JK picture above \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_question.gif\" width=\"15\" height=\"15\" alt=\":?:\" title=\"Question\">",
+    "lastEdited" : "Tue Mar 29, 2016 9:22 pm"
+  }, {
+    "postId" : "869308",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "869308",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15816",
+      "avatarPath" : null
+    },
+    "content" : "Nothing AFAIK....\n<br> Anyone?",
+    "lastEdited" : "Tue Mar 29, 2016 9:47 pm"
+  }, {
+    "postId" : "869315",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "869315",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "Were these exchangers used on any other models? Seems pointless putting a bracket there if not used......",
+    "lastEdited" : "Tue Mar 29, 2016 10:02 pm"
+  }, {
+    "postId" : "869454",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "869454",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I need to re-connect my heater box cables after re-installing the engine. Just had a look on VW Resource to check if there was anything unusual and found this page...\n<br> \n<br> \n<a href=\"http://www.vw-resource.com/htrcbl.html\" class=\"postlink\">http://www.vw-resource.com/htrcbl.html</a>\n<br> \n<br> I wonder if the spring you've referred to is the one referred to in step 11? Presumably some boxes don't have return springs inside to keep the flap shut and that's when that spring is needed. VW resource is mostly about beetles, so that might only apply to some beetle types?",
+    "lastEdited" : "Thu Mar 31, 2016 10:02 am"
+  }, {
+    "postId" : "869456",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "869456",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "3159",
+      "avatarPath" : null
+    },
+    "content" : "I think that's the answer. \n<br> \n<br> I still don't know what the bracket on the top does but suspect it was for connecting to another model using the same exchangers.",
+    "lastEdited" : "Thu Mar 31, 2016 10:15 am"
+  }, {
+    "postId" : "869458",
+    "author" : {
+      "username" : "stu(pid)",
+      "userId" : "869458",
+      "joined" : "Mon Oct 13, 2003 8:37 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "298",
+      "avatarPath" : null
+    },
+    "content" : "I connect mine as in the images in this link:\n<br> \n<a href=\"http://forum.earlybay.com/viewtopic.php?f=27&amp;t=67638\" class=\"postlink\">http://forum.earlybay.com/viewtopic.php?f=27&amp;t=67638</a>\n<br> I know they show T25 heat exchangers, but it shows the connection on the top lever without most of the gubbins supplied in the fitting kit.\n<br> I always thought the upper lever was for busses, and the bottom lever (from the fitting kit) was for bugs which have the cable entering the engine area at a lower height than busses.",
+    "lastEdited" : "Thu Mar 31, 2016 10:32 am"
+  } ]
+}

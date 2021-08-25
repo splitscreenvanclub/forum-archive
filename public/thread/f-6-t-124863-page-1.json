@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "124863",
+  "title" : "Oil light not working",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124863",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=574dd97d0f769a9966e17c6bb71bd8f4",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930745",
+    "author" : {
+      "username" : "carlosfandango",
+      "userId" : "930745",
+      "joined" : "Fri May 01, 2015 12:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "London",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "Apologies as I realise this has been discussed on here before, but I have a couple of questions.\n<br> \n<br> Around December time both ignition lights were working fine, then over winter water got in and made lots of the electrics wet at which point neither of the ignition lights worked, but everything else did. Now it’s all dry again only the battery light comes on.\n<br> \n<br> I know the bulb works, there is power to the speedo as all the other lights/instruments are working. The wiring loom is only a couple of years old so pretty confident that is ok.\n<br> \n<br> I have tried removing the wire from the pressure switch and earthing, but still nothing happened. What do I need to try next please.",
+    "lastEdited" : "Wed Jun 24, 2020 6:29 pm"
+  }, {
+    "postId" : "930748",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930748",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20110",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Put a multimeter on the cable and see if there's 12v at the sender.\n<br> Clean the connections bulb to holder, holder to speedo, cable to holder.",
+    "lastEdited" : "Wed Jun 24, 2020 8:17 pm"
+  }, {
+    "postId" : "930754",
+    "author" : {
+      "username" : "carlosfandango",
+      "userId" : "930754",
+      "joined" : "Fri May 01, 2015 12:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "London",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "Jim to the rescue again! Legend!\n<br> \n<br> Doesn’t appear to be power at sender \n<img alt=\"☹️\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/2639.svg\">",
+    "lastEdited" : "Thu Jun 25, 2020 10:16 am"
+  }, {
+    "postId" : "930766",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930766",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2659",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=40290&amp;sid=574dd97d0f769a9966e17c6bb71bd8f4\">carlosfandango</a> wrote: <a href=\"./viewtopic.php?p=930754&amp;sid=574dd97d0f769a9966e17c6bb71bd8f4#p930754\" data-post-id=\"930754\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Thu Jun 25, 2020 10:16 am\n   </div></cite> Jim to the rescue again! Legend!\n  <br> \n  <br> Doesn’t appear to be power at sender \n  <img alt=\"☹️\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/2639.svg\"> \n </div>\n</blockquote> There isn’t any power at the sender end, that is the earth for the circuit, good thread here that explains:-\n<br> \n<br> \n<a href=\"https://www.ssvc.org.uk/phpbb/viewtopic.php?t=116180\" class=\"postlink\">https://www.ssvc.org.uk/phpbb/viewtopic.php?t=116180</a>",
+    "lastEdited" : "Thu Jun 25, 2020 9:15 pm"
+  }, {
+    "postId" : "930778",
+    "author" : {
+      "username" : "carlosfandango",
+      "userId" : "930778",
+      "joined" : "Fri May 01, 2015 12:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "London",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the replies... turns out it was the bulb holder not fitting snuggly enough in the speedo slot. Can get it to work, but the slightest bump in the road and it becomes useless... just need to wedge it over with some electrical tape or something.\n<br> \n<br> Very frustrating that it took the two hottest days of the year to figure that out!\n<br> \n<br> Cheers\n<br> Carl",
+    "lastEdited" : "Fri Jun 26, 2020 3:13 pm"
+  }, {
+    "postId" : "930781",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "930781",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20110",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Clean the holder then slightly squeeze it to make it just off round. Then it'll be tighter in the speedo hole.",
+    "lastEdited" : "Fri Jun 26, 2020 6:35 pm"
+  } ]
+}

@@ -1,0 +1,24 @@
+{
+  "forumId" : "32",
+  "threadId" : "107432",
+  "title" : "New Membership",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=107432",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "813938",
+    "author" : {
+      "username" : "Vwejit",
+      "userId" : "813938",
+      "joined" : "Sun Oct 05, 2014 7:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cheltenham",
+      "postCount" : "65",
+      "avatarPath" : "./download/file.php%3Favatar=39747_1430770785.jpg"
+    },
+    "content" : "How long does it normally take for a new membership application to get processed?\n<br>\n<br>I registered a few weeks ago, but don't think any payment has been taken from my account yet? Not sure if it has not gone through properly?",
+    "lastEdited" : "Sat Dec 20, 2014 7:14 am"
+  } ]
+}

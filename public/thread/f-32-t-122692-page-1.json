@@ -1,0 +1,27 @@
+{
+  "forumId" : "32",
+  "threadId" : "122692",
+  "title" : "!Your connection is not private\" - Chrome mobile",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=122692",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=15fbdb96d016431f6f31b856dcd942a2",
+    "label" : "Site Problems and Feature Requests"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "916993",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "916993",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1056",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "Hi\n<br> \n<br> I've been getting 'Your connection is not private' warnings for the last couple of days when I try accessing the forum via Chrome on my mobile (Android on EE).\n<br> \n<br> I don't think it likes your encryption certificate (picture of the warning below). Is the certificate up to date and valid for the mobile site?\n<br> \n<br> Andy\n<br> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=31670&amp;sid=15fbdb96d016431f6f31b856dcd942a2&amp;mode=view\"><img src=\"./download/file.php?id=31670&amp;t=1&amp;sid=15fbdb96d016431f6f31b856dcd942a2\" class=\"postimage\" alt=\"Screenshot_20181103-160700.png\" title=\"Screenshot_20181103-160700.png (102.84 KiB) Viewed 2765 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Sat Nov 03, 2018 4:09 pm"
+  } ]
+}

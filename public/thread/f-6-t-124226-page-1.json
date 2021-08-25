@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "124226",
+  "title" : "Height of a so42 pop top camper",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124226",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=9ef609b5d7e86fef99d0f713dfd1f16c",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927310",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "927310",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "428",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys , can anyone tell me the height of a stock height so 42 pop top camper please? Kind regards Neil",
+    "lastEdited" : "Tue Jan 07, 2020 10:33 pm"
+  }, {
+    "postId" : "927315",
+    "author" : {
+      "username" : "Jimbooo",
+      "userId" : "927315",
+      "joined" : "Wed Jun 05, 2013 7:27 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "20",
+      "avatarPath" : null
+    },
+    "content" : "With a Dormobile pop top our stock height '66 on original 14\" wheels and 195/74 tyres is 2040mm to the highest point (top of the roof vent mouldings).\n<br> Jim\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Tue Jan 07, 2020 10:48 pm"
+  } ]
+}

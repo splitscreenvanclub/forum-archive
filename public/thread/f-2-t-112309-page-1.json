@@ -1,0 +1,76 @@
+{
+  "forumId" : "2",
+  "threadId" : "112309",
+  "title" : "Looking for some advice",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112309",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847243",
+    "author" : {
+      "username" : "raffo157",
+      "userId" : "847243",
+      "joined" : "Fri Aug 28, 2015 6:19 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br>\n<br>I am new to this forum and was hoping that someone could point me in the right direction.\n<br>I am selling my Triumph TR3a on ebay and the other usual sites and would like a camper van.\n<br>I fully restored the Triumph from scratch but dont fancy doing another.....retirement beckons and me and the missus fancy something for the odd night away.\n<br>I have the TR3 up for 30k so will have about that to spend. I dont mind a bit of sorting out the internals but really just want something to look good and go.\n<br>I am based on the Wirral\n<br>\n<br>Thanks in anticipation\n<br>\n<br>Keith",
+    "lastEdited" : "Sun Aug 30, 2015 9:50 am"
+  }, {
+    "postId" : "847260",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "847260",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "626",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Like the Triumph. Looks a lot better than the TR7 that I had back in the states that I bought from an auction after it had been stolen.What a disaster that was.But driving a vert was very cool. Good luck finding something.",
+    "lastEdited" : "Sun Aug 30, 2015 1:11 pm"
+  }, {
+    "postId" : "847278",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "847278",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1190",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "Once the TR3 sells (very nice by the way) have a look on the buses for sale section here. Avoid eBay and the like if you can as there are so many dodgy deals out there. Folks on here will steer you in the right direction, and good quality buses are always popping up on here. \n<br>\n<br>Best of luck with the sale!",
+    "lastEdited" : "Sun Aug 30, 2015 4:57 pm"
+  }, {
+    "postId" : "847292",
+    "author" : {
+      "username" : "grant",
+      "userId" : "847292",
+      "joined" : "Sat Apr 19, 2003 1:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wirral",
+      "postCount" : "2299",
+      "avatarPath" : null
+    },
+    "content" : "Keith I'm on the Wirral and know them inside and out\n<br>30k is a good budget but it's a minefield on spec etc\n<br>Meet up if you fancy and go through exactly what your after\n<br>\n<br>Grant...HESWALL",
+    "lastEdited" : "Sun Aug 30, 2015 7:35 pm"
+  }, {
+    "postId" : "847293",
+    "author" : {
+      "username" : "grant",
+      "userId" : "847293",
+      "joined" : "Sat Apr 19, 2003 1:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wirral",
+      "postCount" : "2299",
+      "avatarPath" : null
+    },
+    "content" : "Love the lever causeway:))",
+    "lastEdited" : "Sun Aug 30, 2015 7:36 pm"
+  } ]
+}

@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "121468",
+  "title" : "firetec etc",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=121468",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=957b8531fe4f8514e88701e465b870af",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "910689",
+    "author" : {
+      "username" : "andyleeds",
+      "userId" : "910689",
+      "joined" : "Mon Feb 14, 2011 12:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "hi there, where would be the best place to get the necessary parts for fire issues in engine bay..... firetec suppression system and extinguisher \n<br> \n<br> cheers",
+    "lastEdited" : "Tue Mar 27, 2018 11:48 am"
+  }, {
+    "postId" : "910690",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "910690",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15631",
+      "avatarPath" : null
+    },
+    "content" : "Sent PM.\n<br> I fitted R9 ethanol fuel hose, a Durite Fuel cut off valve and a Firetec kit from vwjim... real pleased with how it fitted and looks. \n<br> Hope never to test it out thuugh!\n<br> There are other systems available but these were less well known by me when I bought mine.\n<br> G",
+    "lastEdited" : "Tue Mar 27, 2018 12:11 pm"
+  }, {
+    "postId" : "910692",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "910692",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "I don't think Jim does the Firetec system anymore\n<br> \n<br> I used Peter here \n<a href=\"http://www.vwaircooledworks.co.uk/\" class=\"postlink\">http://www.vwaircooledworks.co.uk/</a>",
+    "lastEdited" : "Tue Mar 27, 2018 2:52 pm"
+  }, {
+    "postId" : "910693",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "910693",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15631",
+      "avatarPath" : null
+    },
+    "content" : "Every day is a school day..\n<br> He still has the How to ...loaded..\n<br> \n<br>",
+    "lastEdited" : "Tue Mar 27, 2018 2:58 pm"
+  }, {
+    "postId" : "910695",
+    "author" : {
+      "username" : "susta",
+      "userId" : "910695",
+      "joined" : "Tue Dec 10, 2013 10:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sutton",
+      "postCount" : "363",
+      "avatarPath" : "./download/file.php%3Favatar=38749_1398105271.png"
+    },
+    "content" : "Thats the one, gets the Fire out without the Mess",
+    "lastEdited" : "Tue Mar 27, 2018 4:15 pm"
+  }, {
+    "postId" : "910698",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "910698",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=910695&amp;sid=957b8531fe4f8514e88701e465b870af#p910695\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=38749&amp;sid=957b8531fe4f8514e88701e465b870af\">susta</a> wrote: <a href=\"./viewtopic.php?p=910695&amp;sid=957b8531fe4f8514e88701e465b870af#p910695\" data-post-id=\"910695\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Tue Mar 27, 2018 4:15 pm</span></cite> Thats the one, gets the Fire out without the Mess \n </div>\n</blockquote> Yep - Peter will design a system to fit your specific requirements all as part of the supply service.",
+    "lastEdited" : "Tue Mar 27, 2018 6:53 pm"
+  }, {
+    "postId" : "910712",
+    "author" : {
+      "username" : "unclegee",
+      "userId" : "910712",
+      "joined" : "Sat Mar 02, 2013 10:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "WE WUNT BE DRUV!",
+      "postCount" : "827",
+      "avatarPath" : "./download/file.php%3Favatar=37518_1606474331.jpg"
+    },
+    "content" : "Yep, VW Air Cooled Works for me too, Peter sells a fantastic product and he's a real nice guy to boot! As well as supplying me with a fire suppression kit, I also had the ethanol resistant fuel hoses off him too.\n<br> \n<br> At BusFest a couple of years after fitting the kit, he gave me a replacement LED warning light and also lent me the tools so I could fit it before I travelled home.",
+    "lastEdited" : "Wed Mar 28, 2018 9:18 am"
+  } ]
+}

@@ -1,0 +1,24 @@
+{
+  "forumId" : "6",
+  "threadId" : "115193",
+  "title" : "gas gauge pegs when I turn speedo light dimmer",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115193",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868673",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "868673",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "906",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Hello,\n<br>\n<br>Like it says my gas gauge in the 65' works (as well as they do) when the headlights are off and also fine when they are on but if I turn the switch a tiny bit to illuminate the gauge/speedo lights, the gauge pegs to the full side completely. Never had this problem before. Ground issue perhaps? Anyone else had this before?\n<br>\n<br>Thanks.",
+    "lastEdited" : "Thu Mar 24, 2016 12:35 pm"
+  } ]
+}

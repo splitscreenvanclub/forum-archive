@@ -1,0 +1,66 @@
+{
+  "forumId" : "51",
+  "threadId" : "124123",
+  "title" : "Please Delete",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=124123",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=169bdeb835bfebd7c907fb96c344caaf",
+    "label" : "Buses For Sale"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "926804",
+    "author" : {
+      "username" : "Robgrav",
+      "userId" : "926804",
+      "joined" : "Sun Jul 19, 2015 5:24 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "456",
+      "avatarPath" : null
+    },
+    "content" : "Delete",
+    "lastEdited" : "Thu Nov 28, 2019 8:44 am"
+  }, {
+    "postId" : "926956",
+    "author" : {
+      "username" : "Robgrav",
+      "userId" : "926956",
+      "joined" : "Sun Jul 19, 2015 5:24 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "456",
+      "avatarPath" : null
+    },
+    "content" : "Sfs",
+    "lastEdited" : "Mon Dec 09, 2019 1:35 pm"
+  }, {
+    "postId" : "926957",
+    "author" : {
+      "username" : "Robgrav",
+      "userId" : "926957",
+      "joined" : "Sun Jul 19, 2015 5:24 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "456",
+      "avatarPath" : null
+    },
+    "content" : "£24500",
+    "lastEdited" : "Mon Dec 09, 2019 1:57 pm"
+  }, {
+    "postId" : "926968",
+    "author" : {
+      "username" : "Robgrav",
+      "userId" : "926968",
+      "joined" : "Sun Jul 19, 2015 5:24 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "456",
+      "avatarPath" : null
+    },
+    "content" : "£20k without motor",
+    "lastEdited" : "Tue Dec 10, 2019 11:17 am"
+  } ]
+}

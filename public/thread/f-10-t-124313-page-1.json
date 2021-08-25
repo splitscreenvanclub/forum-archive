@@ -1,0 +1,56 @@
+{
+  "forumId" : "10",
+  "threadId" : "124313",
+  "title" : "Fully Charged LIVE 2020 - May 1st, 2nd, 3rd - Farnborough",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=124313",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=dfdbb1c44b399c08af4b17fef4628381",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=dfdbb1c44b399c08af4b17fef4628381",
+    "label" : "Events"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927848",
+    "author" : {
+      "username" : "Kevin Sharpe",
+      "userId" : "927848",
+      "joined" : "Mon Sep 30, 2013 4:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "311",
+      "avatarPath" : "./download/file.php%3Favatar=38541_1503916432.jpg"
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=38058&amp;sid=dfdbb1c44b399c08af4b17fef4628381&amp;mode=view\"><img src=\"./download/file.php?id=38058&amp;t=1&amp;sid=dfdbb1c44b399c08af4b17fef4628381\" class=\"postimage\" alt=\"Fully-charged-live-uk-events-banner-2020.jpg\" title=\"Fully-charged-live-uk-events-banner-2020.jpg (132.33 KiB) Viewed 457 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Mon Feb 10, 2020 2:45 pm"
+  }, {
+    "postId" : "927851",
+    "author" : {
+      "username" : "Kevin Sharpe",
+      "userId" : "927851",
+      "joined" : "Mon Sep 30, 2013 4:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "311",
+      "avatarPath" : "./download/file.php%3Favatar=38541_1503916432.jpg"
+    },
+    "content" : "<a href=\"https://youtu.be/S5IkcDpHWfY\" class=\"bbvideo\" data-bbvideo=\"560,315\" target=\"_blank\" rel=\"noreferrer\">https://youtu.be/S5IkcDpHWfY</a>",
+    "lastEdited" : "Mon Feb 10, 2020 2:48 pm"
+  }, {
+    "postId" : "928329",
+    "author" : {
+      "username" : "Kevin Sharpe",
+      "userId" : "928329",
+      "joined" : "Mon Sep 30, 2013 4:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "311",
+      "avatarPath" : "./download/file.php%3Favatar=38541_1503916432.jpg"
+    },
+    "content" : "<strong class=\"text-strong\"><span style=\"text-decoration:underline\">Press Release: Fully Charged LIVE 2020</span></strong>\n<br> \n<br> In proactive response to the evolving threat posed by the global spread of COVID-19, Fully Charged confirms that it will move it’s highly anticipated Fully Charged LIVE show to the Autumn of 2020. Specifically, to October 30th, 31st &amp; 1st November.\n<br> \n<br> We have been closely monitoring and assessing the impact of the latest developments and health advisories, as well as various travel and entry restrictions, and awaiting clear guidance from the UK Government and Public Health England. \n<br> \n<br> We have made this decision as a result of the World Health Organisation’s declaration that COVID-19 is a pandemic, and on taking into account the specific particularities of the event, such as packed live sessions &amp; thousands of test drives.\n<br> \n<br> Robert Llewellyn, Founder of Fully Charged said: \n<br> \n<br> \"We’re very disappointed to have to move the LIVE show due to the unpredictable circumstances unfolding in the UK, and around the world. Clearly, we were really concerned about the close proximity of our audience members in test drives, and in our live theatres. On a positive note, we can say that with seven months until Fully Charged LIVE in the Autumn, there’ll be even more to see and do.”\n<br> \n<br> For those that already have tickets, Fully Charged can confirm that tickets will automatically transfer to the corresponding days in October/November 2020.\n<br> \n<br> \n<a href=\"https://youtu.be/i_C5_gaB_BE\" class=\"bbvideo\" data-bbvideo=\"560,315\" target=\"_blank\" rel=\"noreferrer\">https://youtu.be/i_C5_gaB_BE</a>",
+    "lastEdited" : "Fri Mar 13, 2020 5:32 pm"
+  } ]
+}

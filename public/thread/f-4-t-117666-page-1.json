@@ -1,0 +1,79 @@
+{
+  "forumId" : "4",
+  "threadId" : "117666",
+  "title" : "1600 engine",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=117666",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "885755",
+    "author" : {
+      "username" : "Huw",
+      "userId" : "885755",
+      "joined" : "Fri Apr 18, 2003 6:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgend",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "1600 complete engine for sale, runs, no end float, £550 South Wales",
+    "lastEdited" : "Fri Oct 14, 2016 7:42 pm"
+  }, {
+    "postId" : "885763",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "885763",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2674",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Picture please.",
+    "lastEdited" : "Sat Oct 15, 2016 12:11 am"
+  }, {
+    "postId" : "885786",
+    "author" : {
+      "username" : "Huw",
+      "userId" : "885786",
+      "joined" : "Fri Apr 18, 2003 6:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgend",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "Due to my technical incompetence, and my inability to post photos, could you please pm a phone number?\n<br> Thanks Huw",
+    "lastEdited" : "Sat Oct 15, 2016 5:42 pm"
+  }, {
+    "postId" : "885906",
+    "author" : {
+      "username" : "george21",
+      "userId" : "885906",
+      "joined" : "Tue Jul 06, 2010 9:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "389",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Huw wrote:</cite>1600 complete engine for sale, runs, no end float, £550 South Wales\n </div>\n</blockquote> Hi, interested in the engine you got for sale, can you send me some pics? My email. \n<a href=\"mailto:george-s2@hotmail.co.uk\">george-s2@hotmail.co.uk</a>\n<br> Phone 07411663386\n<br> Cheers. George",
+    "lastEdited" : "Mon Oct 17, 2016 8:24 pm"
+  }, {
+    "postId" : "886199",
+    "author" : {
+      "username" : "Huw",
+      "userId" : "886199",
+      "joined" : "Fri Apr 18, 2003 6:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgend",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "Sold",
+    "lastEdited" : "Tue Oct 25, 2016 6:42 pm"
+  } ]
+}

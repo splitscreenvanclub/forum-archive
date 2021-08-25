@@ -1,0 +1,37 @@
+{
+  "forumId" : "2",
+  "threadId" : "115048",
+  "title" : "Bay Westy interior in a Split",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115048",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867681",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "867681",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1193",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "How well do Bay window westy interiors fit a walkthrough Split if at all? anyone have experiance on this?",
+    "lastEdited" : "Tue Mar 15, 2016 10:35 am"
+  }, {
+    "postId" : "867817",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "867817",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5513",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "fit fine with a little trimming to the rear side wardrobe near the hatch area",
+    "lastEdited" : "Wed Mar 16, 2016 4:39 pm"
+  } ]
+}

@@ -1,0 +1,50 @@
+{
+  "forumId" : "32",
+  "threadId" : "107126",
+  "title" : "Forum enhancement suggestion - Introduce Yourself sub-forum?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=107126",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "811886",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "811886",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "228",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Apologies if it's been suggested before, but one thing I noticed when I first posted on here was that there was nowhere for me to introduce myself other than in one of the specific sub-forums.\n<br>\n<br>That meant that I had to plunge straight in with a question and introduce myself in the same post. I was conscious that I was new, an outsider, and effectively asking for something (advice) with nothing to give in return at that time. It would have been helpful to have somewhere to just say who I was and why I was joining here, before sticking my neck out and asking for something-for-nothing.\n<br>\n<br>An example - I collect watches, and the watch forum that I frequent has an 'introduce yourself' sub-forum that newbies are encouraged to use \n<a href=\"http://www.thewatchforum.co.uk/index.php?showforum=26\" class=\"postlink\">http://www.thewatchforum.co.uk/index.php?showforum=26</a>.\n<br>\n<br>It helps with the 'club feel' because old-hands tend to browse it to welcome newbies and guide them to where they might get their questions answered. It's got a sticky about forum guidelines etc, commonly asked questions etc that seasoned forum users don't use and wouldn't want cluttering up the rest of the forum.\n<br>\n<br>When I see posts from newbies on that watch forum, I check out their introduction post first, to get a measure of what they're about, what their interests are etc. I probably tend to be more proactive helping those with similar interests (similar types of watch etc), because I know that I know enough about what they're interested in to be helpful.\n<br>\n<br>I think this forum would benefit from something similar.",
+    "lastEdited" : "Fri Nov 28, 2014 1:07 pm"
+  }, {
+    "postId" : "811908",
+    "author" : {
+      "username" : "nige1171",
+      "userId" : "811908",
+      "joined" : "Thu Aug 12, 2010 2:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1032",
+      "avatarPath" : "http://i24.photobucket.com/albums/c32/Big-Nige/My%2015%20Window%20Split/StanfordHallDesktop2-1.jpg"
+    },
+    "content" : "I'm on other forums which offer this too. Good idea.\n<br>\n<br>\n<br>Nige",
+    "lastEdited" : "Fri Nov 28, 2014 2:45 pm"
+  }, {
+    "postId" : "811915",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "811915",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "624",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "I've noticed that the Dutch split forum has it as well. Seems like a good idea to me as well.",
+    "lastEdited" : "Fri Nov 28, 2014 3:22 pm"
+  } ]
+}

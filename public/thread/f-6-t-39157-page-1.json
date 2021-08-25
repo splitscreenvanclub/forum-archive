@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "39157",
+  "title" : "Cargo Door Handle ID?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=39157",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "292063",
+    "author" : {
+      "username" : "lucifar",
+      "userId" : "292063",
+      "joined" : "Sun Oct 07, 2007 7:29 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "N.E.U.K.",
+      "postCount" : "86",
+      "avatarPath" : null
+    },
+    "content" : "Does anyone know if this cargo door handle is correct and if not what is it off its the 1 on the left that baffles me, it came with the US 63 bus, I thought the correct shaped one would be the 1 on the right albeit a deluxe chrome instead of plastic, by the way the left one is stamped vw\n<br> \n<img src=\"http://i143.photobucket.com/albums/r140/lucifar666/carg1.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Feb 23, 2008 12:41 pm"
+  }, {
+    "postId" : "292074",
+    "author" : {
+      "username" : "nick",
+      "userId" : "292074",
+      "joined" : "Sat Apr 26, 2003 2:32 am",
+      "profileRank" : "SSVC Member",
+      "location" : "hairy ford",
+      "postCount" : "4803",
+      "avatarPath" : null
+    },
+    "content" : "they are both vw just that the one on the left is early i think?",
+    "lastEdited" : "Sat Feb 23, 2008 1:22 pm"
+  }, {
+    "postId" : "292288",
+    "author" : {
+      "username" : "lucifar",
+      "userId" : "292288",
+      "joined" : "Sun Oct 07, 2007 7:29 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "N.E.U.K.",
+      "postCount" : "86",
+      "avatarPath" : null
+    },
+    "content" : "That was my thoughts although I haven't seen any shaped like that before anyone got any pics.",
+    "lastEdited" : "Sun Feb 24, 2008 8:21 am"
+  } ]
+}

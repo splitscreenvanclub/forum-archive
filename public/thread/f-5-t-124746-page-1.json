@@ -1,0 +1,53 @@
+{
+  "forumId" : "5",
+  "threadId" : "124746",
+  "title" : "Wanted - Cab heater roof box",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124746",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=5370be0666b52d9ec4e718c8e882a18a",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930053",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "930053",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "454",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "Does anyone have or know where I can get a replacement heater box for the cab roof??\n<br> \n<br> Mine has been got by metal worm - \n<br> \n<br> \n<a href=\"https://flic.kr/p/2j4QHfa\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/49926567977_ce2459bfbc_4k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2j4QHfa\" class=\"postlink\">Cheese</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr\n<br> \n<br> \n<a href=\"https://flic.kr/p/2j4QHdS\" class=\"postlink\"><img src=\"https://live.staticflickr.com/65535/49926567902_39a5506330_4k.jpg\" class=\"postimage\" alt=\"Image\"></a>\n<a href=\"https://flic.kr/p/2j4QHdS\" class=\"postlink\">Cheese</a> by \n<a href=\"https://www.flickr.com/photos/78596025@N06/\" class=\"postlink\">Duke of Boots1966</a>, on Flickr",
+    "lastEdited" : "Sat May 23, 2020 1:56 pm"
+  }, {
+    "postId" : "930054",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "930054",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15624",
+      "avatarPath" : null
+    },
+    "content" : "Nomenclature Nomenclature \n<br> Fresh air box \n<img src=\"http://emoji.tapatalk-cdn.com/emoji2.png\">\n<img src=\"http://emoji.tapatalk-cdn.com/emoji2.png\">",
+    "lastEdited" : "Sat May 23, 2020 2:33 pm"
+  }, {
+    "postId" : "930055",
+    "author" : {
+      "username" : "john&hannah",
+      "userId" : "930055",
+      "joined" : "Tue Apr 14, 2009 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "454",
+      "avatarPath" : "./download/file.php%3Favatar=33000_1340541917.jpg"
+    },
+    "content" : "any forced air through this particular box is likely to end up as a heap of dust on my lap.",
+    "lastEdited" : "Sat May 23, 2020 2:39 pm"
+  } ]
+}

@@ -1,0 +1,128 @@
+{
+  "forumId" : "2",
+  "threadId" : "103781",
+  "title" : "Electrolux fridge",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=103781",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "789669",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "789669",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "237",
+      "avatarPath" : null
+    },
+    "content" : "We have just bought a 2 way fridge for our camper, its a electrolux small fridge with reversable door, has a control knob on the bottom along with spark ignition for the gas set up.\n<br>It was working a while back we were told, but when we connected it up to a good battery 12 volt it isn't getting cold inside, the flue is hot but nothing else looks to be working, I can't find a on/off switch or anything to turn it on.\n<br>On the back the product no is 9264220, with no luck on the internet we have decided to see if anyone has one a similar one, and what we should look for.",
+    "lastEdited" : "Tue Jun 17, 2014 9:08 pm"
+  }, {
+    "postId" : "789760",
+    "author" : {
+      "username" : "tman",
+      "userId" : "789760",
+      "joined" : "Tue Oct 26, 2010 9:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford, UK",
+      "postCount" : "91",
+      "avatarPath" : "./download/file.php%3Favatar=34789_1310068171.gif"
+    },
+    "content" : "Given that the element is working I think your next step is to 'burp' it. This is where you simply turn it upside down and back again a couple of times. On older fridges this re-combines the ammonia and the other liquid whose name I can't remember. Perhaps more likely is the refrigerant could be condensed and sitting in the condenser chamber and again, burping it should encourage it to settle back down in the evaporator.\n<br>\n<br>If that doesn't work then check the pipework for signs yellowy/green powder. If you find some then the ammonia has more than likely leaked out and the thing is most likely a write-off.",
+    "lastEdited" : "Wed Jun 18, 2014 4:51 pm"
+  }, {
+    "postId" : "789770",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "789770",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7448",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "I have burped many a....................... fridge.\n<br>Was always the cause of non function...\n<br>\n<br>Sent from my SM-G900F using Tapatalk",
+    "lastEdited" : "Wed Jun 18, 2014 6:55 pm"
+  }, {
+    "postId" : "789977",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "789977",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "237",
+      "avatarPath" : null
+    },
+    "content" : "Thanks guys we will give it a go and see what happens, BURP.\n<br>\n<br>When we turned it upside down and back upright we could hear liquid running around the pipework,\n<br>Can't see any leakage from powder or liquid from anywhere, the front knob that we think controls the temp isn't in the best of shape and looks loose, also there looks to be no on/off switch or are we missing something.",
+    "lastEdited" : "Thu Jun 19, 2014 9:18 pm"
+  }, {
+    "postId" : "790175",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "790175",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "237",
+      "avatarPath" : null
+    },
+    "content" : "Well we burped it a couple of times, tried it again on a couple of batteries with no luck, will be trying it with gas on Monday to see if it works with that.\n<br>If we still have no luck we'll try and return it to the ebay seller in Hull we bought it from, he had a few wedgie type campers and mini's at has place, selling bits and pieces from his garage, unless anyone had any more ideas as to how to make it work.\n<br>Would be good if there was a manual for it to check what faults ETC.",
+    "lastEdited" : "Sat Jun 21, 2014 7:59 pm"
+  }, {
+    "postId" : "790190",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "790190",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "7448",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "Just a thought...\n<br>Leave it on the battery for a while maybe a couple of hours....see if that gets it going..\n<br>Is a 12v 240 v gas one?\n<br>\n<br>I left mine on 240v overnight and it worked fine...when the 12v did not start it..\n<br>\n<br>there is a handbook site for electrolux somewhere on line...\n<br>I'll hunt....\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.electrolux.co.uk/Support/Manuals/\">http://www.electrolux.co.uk/Support/Manuals/</a>\n<!-- m -->",
+    "lastEdited" : "Sat Jun 21, 2014 9:23 pm"
+  }, {
+    "postId" : "790196",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "790196",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "237",
+      "avatarPath" : null
+    },
+    "content" : "It's a 12 volt/gas fridge, tried a couple of batteries overnight, even the burp didn't work, it gets warm in the exhaust chamber.\n<br>\n<br>Looked at the electrolux website for a listing but cant find it as it's so old.",
+    "lastEdited" : "Sat Jun 21, 2014 9:44 pm"
+  }, {
+    "postId" : "790198",
+    "author" : {
+      "username" : "66 SO42",
+      "userId" : "790198",
+      "joined" : "Mon Mar 12, 2007 12:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Barnsley",
+      "postCount" : "639",
+      "avatarPath" : "./download/file.php%3Favatar=4623_1289167554.jpg"
+    },
+    "content" : "Try it on gas, those fridges are only designed to run on 12v when engine is running, the battery will soon be too low to run it if just hooked up direct to a battery\n<br>\n<br>Cheers\n<br>\n<br>Neil",
+    "lastEdited" : "Sat Jun 21, 2014 9:51 pm"
+  }, {
+    "postId" : "790516",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "790516",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "237",
+      "avatarPath" : null
+    },
+    "content" : "Had a stroke of luck today getting the fridge to cool, swapped to another bigger battery (more amps) and it now seems to work, \n<br>\n<br>The rear pipework gets hot as it should but it still has a problem with the thermostat, it keeps falling to bits when we try to use it, does anyone now where we can get spares for it, don't want to try it on gas until this gets sorted.",
+    "lastEdited" : "Mon Jun 23, 2014 9:59 pm"
+  } ]
+}

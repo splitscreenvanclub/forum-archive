@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "119040",
+  "title" : "67 only lock set on 1 nos key",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=119040",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=0faecfb55418fae4621da22a37fd9456",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "895778",
+    "author" : {
+      "username" : "herbievw",
+      "userId" : "895778",
+      "joined" : "Mon Mar 16, 2015 2:09 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "100",
+      "avatarPath" : null
+    },
+    "content" : "67 lock set on 1 key\n<br> Nos L code ignition &amp; key\n<br> 2 cab door handles\n<br> 1 side cargo door handle\n<br> 1 tailgate lock\n<br> 1 engine lid lock\n<br> all rechromed mint ! \n<br> show van standard.\n<br> has spare nos L code key\n<br> CALL 07914201724",
+    "lastEdited" : "Tue Apr 18, 2017 7:44 pm"
+  }, {
+    "postId" : "895785",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "895785",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "How much?",
+    "lastEdited" : "Tue Apr 18, 2017 8:16 pm"
+  }, {
+    "postId" : "895792",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "895792",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2655",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=4&amp;t=61151\" class=\"postlink\">viewtopic.php?f=4&amp;t=61151</a>",
+    "lastEdited" : "Tue Apr 18, 2017 9:14 pm"
+  } ]
+}

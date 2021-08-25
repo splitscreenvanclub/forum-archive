@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "124473",
+  "title" : "What is that?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124473",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=73676df3faaa26f7b9012188c95694a9",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928699",
+    "author" : {
+      "username" : "John82",
+      "userId" : "928699",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "170",
+      "avatarPath" : null
+    },
+    "content" : "Can you help me what is that hole please?",
+    "lastEdited" : "Fri Apr 03, 2020 6:48 pm"
+  }, {
+    "postId" : "928700",
+    "author" : {
+      "username" : "Robbievanguy",
+      "userId" : "928700",
+      "joined" : "Sun Feb 08, 2015 8:05 am",
+      "profileRank" : "Registered user",
+      "location" : "Middleofnowhere",
+      "postCount" : "234",
+      "avatarPath" : null
+    },
+    "content" : "Outlet for an Eberspacher had one in my bay.",
+    "lastEdited" : "Fri Apr 03, 2020 7:13 pm"
+  }, {
+    "postId" : "928701",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "928701",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "Yes.. There was a thread about fitting one..",
+    "lastEdited" : "Fri Apr 03, 2020 7:51 pm"
+  }, {
+    "postId" : "928702",
+    "author" : {
+      "username" : "John82",
+      "userId" : "928702",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "170",
+      "avatarPath" : null
+    },
+    "content" : "It was made by the previous owner or not? What is the eberspacher?",
+    "lastEdited" : "Fri Apr 03, 2020 8:08 pm"
+  }, {
+    "postId" : "928703",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "928703",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15711",
+      "avatarPath" : null
+    },
+    "content" : "Petrol powered heater mounted on Bottle tray side of Bus . LHS OPPOSITE SIDE TO BATTERY",
+    "lastEdited" : "Fri Apr 03, 2020 8:12 pm"
+  }, {
+    "postId" : "928704",
+    "author" : {
+      "username" : "John82",
+      "userId" : "928704",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "170",
+      "avatarPath" : null
+    },
+    "content" : "Yes it’s a kombi 11 windows",
+    "lastEdited" : "Fri Apr 03, 2020 8:13 pm"
+  }, {
+    "postId" : "928742",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "928742",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3540",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "This is probably a factory fitment.",
+    "lastEdited" : "Mon Apr 06, 2020 8:24 am"
+  } ]
+}

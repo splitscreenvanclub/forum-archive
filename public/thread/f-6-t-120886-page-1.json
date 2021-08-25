@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "120886",
+  "title" : "rewiring a 65 split HELP",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=120886",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=301744722f3d6607f7b0e3a414e94587",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 15,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "907281",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "907281",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "469",
+      "avatarPath" : null
+    },
+    "content" : "hy all merry crimbo to all,i have run new wiring loom from back to front ok but i have a mass of wires i know they go to all sorts of connections, but think i have bitten off more than i can chew, is there an easy peasy guide to do t \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\"> his job, or any auto elecs around blackpool area, please no immediate rush tho,",
+    "lastEdited" : "Sun Dec 24, 2017 1:22 pm"
+  }, {
+    "postId" : "907283",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "907283",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1056",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "Did the kit come with a colour-coded wiring diagram?\n<br> \n<br> If not, look here... \n<a href=\"https://www.thesamba.com/vw/archives/info/wiringt2.php\" class=\"postlink\">https://www.thesamba.com/vw/archives/info/wiringt2.php</a>\n<br> \n<br> Once you have a diagram, get a couple of rolls of masking tape and a pen. Label each of the connections with tabs of masking tape. Group connections together based on where they go (wires to go to the speedo pod, wires to go to the fuse box, wires to go to the left lights, right lights etc.).\n<br> \n<br> Then start plugging them in, one group at a time.\n<br> \n<br> Eat the elephant one bite at a time.",
+    "lastEdited" : "Sun Dec 24, 2017 2:54 pm"
+  }, {
+    "postId" : "907286",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "907286",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15457",
+      "avatarPath" : null
+    },
+    "content" : "Who did you buy the loom from?\n<br> I have bought from Peter Good and he makes looms with correct colour coding and excellent diagrams.\n<br> Need to say who supplied and year and hand maybe someone has one and has the diagram.\n<br> One major puzzle is to trial fit the fuse box to the bracket to see that it comes in from the back? and then wire it up...\n<br> G\n<br> \n<br> \n<br> \n<br> \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20171224/2f799fddcc3f68924786e50d908e9f2b.jpg\" class=\"postimage\" alt=\"Image\">\n<br>",
+    "lastEdited" : "Sun Dec 24, 2017 4:38 pm"
+  }, {
+    "postId" : "907288",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "907288",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "469",
+      "avatarPath" : null
+    },
+    "content" : "cheers who me , i started doing that and got confused dot com, i wont give up yet lol and type 21 f i bought it off peter he sent diagrams sort of , just cant get my head around some of them,,, ill keep plugging away tho ,i think ,i have got a few bits in , but with switches and wirs all over ,stressing me out lol",
+    "lastEdited" : "Sun Dec 24, 2017 6:03 pm"
+  }, {
+    "postId" : "907289",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "907289",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15457",
+      "avatarPath" : null
+    },
+    "content" : "Peter's Excel diagram is very good....\n<br> On multiple sheets..\n<br> First mistake often made is that It is on several sheets!\n<br> Sheet by sheet!\n<br> If you also print out the vw diagram as well and do it in stages.. you will get the hang of it!\n<br> \n<br> Sent from my SM-G930F using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Sun Dec 24, 2017 6:09 pm"
+  }, {
+    "postId" : "907305",
+    "author" : {
+      "username" : "henk",
+      "userId" : "907305",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "271",
+      "avatarPath" : null
+    },
+    "content" : "I just did it on my ‘65 as well.\n<br> As said label eveything first,it is alot easier to connect then when the loom is in the bus.\n<br> When it is not labeld it is harder to see what is what when the loom is in the bus.\n<br> I found the hardest thing to get al the wires a little bit descent.\n<br> Have not connect the battery yet so can not tell yet how many fuses got blown with my first attemp.\n<img alt=\"😜\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f61c.svgz\">\n<br> \n<br> Henk!!!",
+    "lastEdited" : "Mon Dec 25, 2017 1:35 pm"
+  }, {
+    "postId" : "907306",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "907306",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "469",
+      "avatarPath" : null
+    },
+    "content" : "cheers henk your right ,but think ive bitten off more than i could chew. i am really struggling, got the flu as well ,that dont make it easier, i have switches and wires all over the place, ill try and keep messing away tho cheers",
+    "lastEdited" : "Mon Dec 25, 2017 1:39 pm"
+  }, {
+    "postId" : "907307",
+    "author" : {
+      "username" : "henk",
+      "userId" : "907307",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "271",
+      "avatarPath" : null
+    },
+    "content" : "I first layed everything open on a big piece off cardboard and try to imitate the bus.\n<br> So the you have a good view where everthing has to go and you can label it.\n<br> \n<br> Henk!!!",
+    "lastEdited" : "Mon Dec 25, 2017 3:40 pm"
+  }, {
+    "postId" : "907308",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "907308",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "469",
+      "avatarPath" : null
+    },
+    "content" : "i did see a pic of a layout on some plywood on samba site ,where all bits went but couldnt wind it in to see prop, got a good idea tho,, like who me said ,,,Eat the elephant one bite at a time. lol cheers for your input henk",
+    "lastEdited" : "Mon Dec 25, 2017 5:58 pm"
+  }, {
+    "postId" : "907315",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "907315",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15457",
+      "avatarPath" : null
+    },
+    "content" : "If you think of it as a road map of roads to exciting places..\n<br> and explore each new area in turn till you have got the hang of who lives in which house...\n<br> \n<br> lol\n<br> \n<br> Gerald\n<br> Was it you I bought the cargo door handle from?\n<br> If so thanks..\n<br> G\n<br> \n<br> \n<br> \n<br>",
+    "lastEdited" : "Mon Dec 25, 2017 11:02 pm"
+  }, {
+    "postId" : "907320",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "907320",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "469",
+      "avatarPath" : null
+    },
+    "content" : "cheers g ,i did cut everything out and tbh thats what has thrown me , double connections piggy back things etc,,its like spaghetti junction , going to it in a bit have another lookie , cheers for input",
+    "lastEdited" : "Tue Dec 26, 2017 10:56 am"
+  }, {
+    "postId" : "907332",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "907332",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "My personal tips from when I did mine, maybe useful maybe not...\n<br> \n<br> Make sure you have your fuse box the right way up and that you’ve understood how that relates to the diagram - the VW diagram is opposite way up to how you think it’s going to be when you’re looking at it. You can tell if you’ve got it right because one of the corner connections has a multiple piggy back on it - so that’s the one with all the wires going to it on the diagram. \n<br> \n<br> Start with the fuse box as it’s big, it’s in the middle and it’s obvious. Then do the ignition as that’s the rest of your big thick red ones sorted. \n<br> \n<br> Then sort the headlights as they’re easy to identify bundles and once you’ve got one side the other is obvious. That’s most of your yellow and white done. \n<br> \n<br> Then attack the other bits one by one - fuel gauge, wipers etc, making sure each one is well earthed to the dashboard either by its clamp or by a separate wire. \n<br> \n<br> Indicator switch and relay are confusing so do them second to last. \n<br> \n<br> Dash pod lights are the most confusing as everything’s black and it daisy chains around all over the place so do that last. \n<br> \n<br> Good luck, take your time and go and do another job or have a cup of tea if it gets confusing - often something clicks in your head when you come back to it later. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Tue Dec 26, 2017 9:43 pm"
+  }, {
+    "postId" : "907333",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "907333",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "My personal tips from when I did mine, maybe useful maybe not...\n<br> \n<br> Make sure you have your fuse box the right way up and that you’ve understood how that relates to the diagram - the VW diagram is opposite way up to how you think it’s going to be when you’re looking at it. You can tell if you’ve got it right because one of the corner connections has a multiple piggy back on it - so that’s the one with all the wires going to it on the diagram. \n<br> \n<br> Start with the fuse box as it’s big, it’s in the middle and it’s obvious. Then do the ignition as that’s the rest of your big thick red ones sorted. \n<br> \n<br> Then sort the headlights as they’re easy to identify bundles and once you’ve got one side the other is obvious. That’s most of your yellow and white done. \n<br> \n<br> Then attack the other bits one by one - fuel gauge, wipers etc, making sure each one is well earthed to the dashboard either by its clamp or by a separate wire. \n<br> \n<br> Indicator switch and relay are confusing so do them second to last. \n<br> \n<br> Dash pod lights are the most confusing as everything’s black and it daisy chains around all over the place so do that last. \n<br> \n<br> Good luck, take your time and go and do another job or have a cup of tea if it gets confusing - often something clicks in your head when you come back to it later. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Tue Dec 26, 2017 9:45 pm"
+  }, {
+    "postId" : "907336",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "907336",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15457",
+      "avatarPath" : null
+    },
+    "content" : "Oh dear.. too much single malt..\n<br> seeing double..\n<br> G\n<br> \n<br> \n<br> \n<br> \n<br>",
+    "lastEdited" : "Tue Dec 26, 2017 10:38 pm"
+  }, {
+    "postId" : "907341",
+    "author" : {
+      "username" : "gerald2613",
+      "userId" : "907341",
+      "joined" : "Tue Apr 28, 2009 7:01 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "469",
+      "avatarPath" : null
+    },
+    "content" : "thanks clymoj think your spot on mate ,i have started like that, fuse box first (right way up ) then front lights (already done rears first ) they was the easy bit, kept having a break and coming back to it , little bits fell into place, long way to go but ill get there hopefully in 2018 lol cheers",
+    "lastEdited" : "Wed Dec 27, 2017 12:06 am"
+  } ]
+}

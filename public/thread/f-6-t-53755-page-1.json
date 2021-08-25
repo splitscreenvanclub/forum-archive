@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "53755",
+  "title" : "reusing engine case",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=53755",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "410123",
+    "author" : {
+      "username" : "johnfraser",
+      "userId" : "410123",
+      "joined" : "Sun Feb 01, 2009 4:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "Isle of Wight",
+      "postCount" : "31",
+      "avatarPath" : null
+    },
+    "content" : "Hi. looking to build a 1.6 twin port from the 1.3 single i have at the moment. it hasnt been started in 5 years but does turn. how do i go about and what should i use to clean the case so it is ready to build the new engine? also, can anyone recommend any places to get it machined for full flow? am on the isle of wight so might be a bit tricky?! any help is appreciated. cheers.",
+    "lastEdited" : "Wed Apr 15, 2009 6:44 am"
+  }, {
+    "postId" : "410573",
+    "author" : {
+      "username" : "radish",
+      "userId" : "410573",
+      "joined" : "Sun Sep 28, 2003 7:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "Mighty Mighty Brighton",
+      "postCount" : "1009",
+      "avatarPath" : null
+    },
+    "content" : "There is the bustation in portsmouth or green hearts that may be able to help you out.",
+    "lastEdited" : "Thu Apr 16, 2009 12:03 pm"
+  }, {
+    "postId" : "410856",
+    "author" : {
+      "username" : "johnfraser",
+      "userId" : "410856",
+      "joined" : "Sun Feb 01, 2009 4:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "Isle of Wight",
+      "postCount" : "31",
+      "avatarPath" : null
+    },
+    "content" : "ok mate thanks. will give them a whirl.",
+    "lastEdited" : "Fri Apr 17, 2009 9:19 am"
+  }, {
+    "postId" : "410944",
+    "author" : {
+      "username" : "13bussing",
+      "userId" : "410944",
+      "joined" : "Fri Jul 18, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "St Ives, Cornwall",
+      "postCount" : "822",
+      "avatarPath" : "http://i28.photobucket.com/albums/c225/13bussing/DSCF1068-1.jpg"
+    },
+    "content" : "If you going tack the engine apart you could do the full flow you self have a look on hear\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.thesamba.com/vw/forum/viewtopic.php?p=1346846#1346846\">http://www.thesamba.com/vw/forum/viewto ... 46#1346846</a>\n<!-- m -->\n<br>\n<br>But youd be better to get a dule-relife case.\n<br>\n<br>sam",
+    "lastEdited" : "Fri Apr 17, 2009 1:06 pm"
+  } ]
+}

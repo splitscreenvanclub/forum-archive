@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "115103",
+  "title" : "Headlight issues 1967 splitscreen microbus",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115103",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868017",
+    "author" : {
+      "username" : "1deaky1969",
+      "userId" : "868017",
+      "joined" : "Tue Aug 04, 2015 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br>\n<br>Could I please take advice on an issue following an MOT failure?\n<br>\n<br>I have an intermittent issue with the headlights on my bus. I have a two position dash mounted dimmable headlight switch. My van is 12v ( I believe from standard ). If I pull the dashboard switch fully into the second position, I am sometimes unable to get dipped beam. When this occurs, only the sidelights are illuminated. At this point I also cannot get full beam to stay on ( full beam works if I keep the steering column stalk pulled as if I am flashing the lights ). If I continue to pull the stalk until such time that main beam stays on, I am then able to get dipped beam successfully from this position again by pulling the steering column lever normally\n<br>\n<br>I am wondering if it is likely to be a sticking relay rather than a faulty switch?\n<br>\n<br>I would appreciate any thoughts as I am a novice at anything electrical!\n<br>\n<br>Kind Regards \n<br>Paul",
+    "lastEdited" : "Fri Mar 18, 2016 12:47 pm"
+  }, {
+    "postId" : "868020",
+    "author" : {
+      "username" : "mclarni",
+      "userId" : "868020",
+      "joined" : "Wed Oct 15, 2008 12:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Angmering West Sussex",
+      "postCount" : "1778",
+      "avatarPath" : "http://i455.photobucket.com/albums/qq276/mclarni/147-1.jpg"
+    },
+    "content" : "Hi Paul,\n<br>\n<br> More than likely a dirty switch.\n<br>\n<br> They are very basic inside and easily repairable with some emery cloth and contact cleaner.\n<br>\n<br> Just drill out the two rivets holding the cover over the switch.\n<br>\n<br> Far better to use an original than a repro.\n<br>\n<br> Nick\n<br>\n<br>\n<img src=\"http://uploads.tapatalk-cdn.com/20160318/3db8ee204ee39e3b922b2f89092a8da3.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>\n<img src=\"http://uploads.tapatalk-cdn.com/20160318/5e2537e403de075d72ed2acc0302f24f.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>\n<img src=\"http://uploads.tapatalk-cdn.com/20160318/6812789a2f9ec902ad29be6373e21149.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>\n<br>Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Fri Mar 18, 2016 1:41 pm"
+  }, {
+    "postId" : "868026",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "868026",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1011",
+      "avatarPath" : null
+    },
+    "content" : "Hi Deaky,\n<br>\n<br>The relays are very easy to take apart too - see my previous repair thread here:\n<br>\n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=107594&amp;p=815048&amp;hilit=relay#p815048\" class=\"postlink\">http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=107594&amp;p=815048&amp;hilit=relay#p815048</a>\n<br>\n<br>I had a relay issue with main beams - and fixed up the relay.\n<br>\n<br>Cheers TED",
+    "lastEdited" : "Fri Mar 18, 2016 2:26 pm"
+  }, {
+    "postId" : "868084",
+    "author" : {
+      "username" : "1deaky1969",
+      "userId" : "868084",
+      "joined" : "Tue Aug 04, 2015 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "Nick / Ted Thank you both for replying to this thread \n<br>\n<br>I have ordered a replacement relay, however I had not even considered reconditioning what I already have. \n<br>\n<br>I will certainly follow both sets of advice \n<br>\n<br>Regards \n<br>Deaky",
+    "lastEdited" : "Fri Mar 18, 2016 9:43 pm"
+  }, {
+    "postId" : "868087",
+    "author" : {
+      "username" : "1deaky1969",
+      "userId" : "868087",
+      "joined" : "Tue Aug 04, 2015 6:13 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "Nick\n<br>\n<br>Just to elaborate on my original post \n<br>In order to temporarily \"sort\" my issue, I do not touch the switch once I have pulled it out tonics full extent.\n<br>I manage to toggle the column lever only to sort.\n<br>\n<br>Is it still possible that a dirty switch could be the source of my issue\n<br>\n<br>Thanks again\n<br>Deaks",
+    "lastEdited" : "Fri Mar 18, 2016 9:55 pm"
+  } ]
+}

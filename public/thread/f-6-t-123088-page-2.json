@@ -1,0 +1,27 @@
+{
+  "forumId" : "6",
+  "threadId" : "123088",
+  "title" : "Two port fan housing",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123088&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=73cf6547c35d8ccfb9ceab284a9d3cc3",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "920449",
+    "author" : {
+      "username" : "Breconbus",
+      "userId" : "920449",
+      "joined" : "Sun Feb 17, 2019 3:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "21",
+      "avatarPath" : null
+    },
+    "content" : "thanks for this Johhny, loads to read now, I,ll be an expert by the time I,m done.\n<br> I ll pass on the trekka tin thanks all the same I,m on a tight budget for this one.\n<br> there's a place near me in Swansea with lots of used spares worth a Saturday morning rummage.With a it of luck I,ll get all this together and finish my build.\n<br> \n<br> thanks again to all",
+    "lastEdited" : "Wed Mar 06, 2019 8:22 pm"
+  } ]
+}

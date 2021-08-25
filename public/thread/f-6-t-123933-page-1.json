@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "123933",
+  "title" : "side light holders on the back of a sealed beam",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123933",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=40c27e2a2215cbd270ef971a542be801",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925674",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "925674",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "Probably a strange question, but can you buy the sidelight bulb holders that seem to glue to the back of a sealed beam as the bus ive brought seems have have a holder missing. Ive looked everywhere and dont really want to have to but a new sealed beam.\n<br> \n<br> Cheers",
+    "lastEdited" : "Fri Sep 27, 2019 7:22 pm"
+  }, {
+    "postId" : "925676",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "925676",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "472",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "old mini's had the same fitting. think I have one somewhere. will have a look tomorrow and get back to you.",
+    "lastEdited" : "Fri Sep 27, 2019 9:14 pm"
+  }, {
+    "postId" : "925677",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925677",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15634",
+      "avatarPath" : null
+    },
+    "content" : "Exactly my thoughts! I had 100w/ 70w on my old mini!",
+    "lastEdited" : "Fri Sep 27, 2019 9:23 pm"
+  }, {
+    "postId" : "925684",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "925684",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "cheers guys",
+    "lastEdited" : "Sat Sep 28, 2019 1:24 pm"
+  }, {
+    "postId" : "925687",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "925687",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "472",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "found one if its any good to you can have it.",
+    "lastEdited" : "Sat Sep 28, 2019 2:40 pm"
+  } ]
+}

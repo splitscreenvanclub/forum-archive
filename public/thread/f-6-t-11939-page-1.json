@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "11939",
+  "title" : "fan belt",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=11939",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "74200",
+    "author" : {
+      "username" : "marmite_on_toast",
+      "userId" : "74200",
+      "joined" : "Sun Oct 10, 2004 11:36 pm",
+      "profileRank" : "Registered user",
+      "location" : "shrewsbury (well Wem to be fair)",
+      "postCount" : "2892",
+      "avatarPath" : null
+    },
+    "content" : "hi, i know this is silly but i have had my bus for 18 months now and never changed the fan belt on it \n<img class=\"smilies\" src=\"./images/smilies/BangHead.gif\" width=\"25\" height=\"20\" alt=\":banghead:\" title=\"bandhead\"> \n<br> \n<br> what i want to know, is how often i should change it and where can i get one from?\n<br> \n<br> i have a 1500cc single port (1965)\n<br> \n<br> cheers Marm",
+    "lastEdited" : "Sun Sep 11, 2005 6:36 pm"
+  }, {
+    "postId" : "74215",
+    "author" : {
+      "username" : "Carps",
+      "userId" : "74215",
+      "joined" : "Thu Apr 07, 2005 7:49 pm",
+      "profileRank" : "Registered user",
+      "location" : "Caterham, Surrey",
+      "postCount" : "591",
+      "avatarPath" : null
+    },
+    "content" : "Just check the belt to ensure there are no 'nicks' and no perishing of the rubber or cracks. If it looks OK, it should be oik to stick with it, but you should *always* carry a spare. All you need is a spark plug wrench and a big screwdriver to change it - the former to undo the nut on the gennie, the latter to lock the pulley whilst you do the former. \n<br> If you take a spare, then if it does go, it's a simple 2 minute job to replace it.\n<br> Get a spare at any VW shop - T3D, C&amp;C, Heritage, KK (probably twice the price), Volkspares, etc...\n<br> \n<br> Andy",
+    "lastEdited" : "Sun Sep 11, 2005 7:48 pm"
+  }, {
+    "postId" : "74347",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "74347",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1158",
+      "avatarPath" : null
+    },
+    "content" : "Just out of interest my van has an alternator fitted and I got a replacement belt ready and thought I would fit it but there is no way I can stretch it enough to fit correctly, do you need one longer than the norm for those with an alternator upgrade?\n<br> \n<br> Cheers\n<br> \n<br> RD \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Sep 12, 2005 12:58 pm"
+  }, {
+    "postId" : "74350",
+    "author" : {
+      "username" : "friedgreedo",
+      "userId" : "74350",
+      "joined" : "Thu Jan 27, 2005 1:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Looking Out To Sea",
+      "postCount" : "1269",
+      "avatarPath" : "./download/file.php%3Favatar=1182_1568966513.jpg"
+    },
+    "content" : "Yep, there are different length belts to suit either one",
+    "lastEdited" : "Mon Sep 12, 2005 1:01 pm"
+  }, {
+    "postId" : "74352",
+    "author" : {
+      "username" : "Carps",
+      "userId" : "74352",
+      "joined" : "Thu Apr 07, 2005 7:49 pm",
+      "profileRank" : "Registered user",
+      "location" : "Caterham, Surrey",
+      "postCount" : "591",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Red Devil wrote:</cite>Just out of interest my van has an alternator fitted and I got a replacement belt ready and thought I would fit it but there is no way I can stretch it enough to fit correctly, do you need one longer than the norm for those with an alternator upgrade?\n  <br> \n  <br> Cheers\n  <br> \n  <br> RD \n  <img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">\n </div>\n</blockquote> The alternator belt is the same size as the gennie belt. When you say \"stretch it to fit\", I assuem you are not trying to put it on without removing the nut on the alternator pulley and removing half the pulley ?\n<br> If you aren't trying to do this, then do you know that the tension is adjusted by changing the number of shims used ? Adding more shims between the pulley halves will loosen the belo, and removing shims from there will tighten the belt. Usually spare shims are stored under the dished washer that is the first thing to come off when you remove the nut",
+    "lastEdited" : "Mon Sep 12, 2005 1:02 pm"
+  }, {
+    "postId" : "74354",
+    "author" : {
+      "username" : "Carps",
+      "userId" : "74354",
+      "joined" : "Thu Apr 07, 2005 7:49 pm",
+      "profileRank" : "Registered user",
+      "location" : "Caterham, Surrey",
+      "postCount" : "591",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>friedgreedo wrote:</cite>Yep, there are different length belts to suit either one\n </div>\n</blockquote> Are you sure ? Not in my experience - the pulleys are the same size, and the position of the pulleys is the same. Thus, the belt is the same... I'll gladly be corrected on this, though, if I am wrong",
+    "lastEdited" : "Mon Sep 12, 2005 1:03 pm"
+  }, {
+    "postId" : "74355",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "74355",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I thought there was more than one type also...?",
+    "lastEdited" : "Mon Sep 12, 2005 1:06 pm"
+  }, {
+    "postId" : "74541",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "74541",
+      "joined" : "Thu Apr 17, 2003 9:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "In front of the computer",
+      "postCount" : "1769",
+      "avatarPath" : null
+    },
+    "content" : "There are different sizes dynamo 9.5 x 905mm and alternator 11.3 x 912mm. But 7mm doesnt make that much difference. \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Tue Sep 13, 2005 8:06 am"
+  }, {
+    "postId" : "74556",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "74556",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1158",
+      "avatarPath" : null
+    },
+    "content" : "Actually 7mm may be all I need!!!!!!!\n<br> \n<br> I have taken the front part of the pulley off and loaded it up with all the shims to create as big a gap as possible but when I put it back together, well actually it doesn't really go back together and that's the problem. I have got one belt from JK and then went and got another from GSF which turned out to be exactly the same but I was never asked what size belt I needed just given what I assumed was a standard size!!!!!!\n<br> \n<br> How/Where can I get the larger sort as I'd like to feel that I have a spare which fits!!\n<br> \n<br> Cheers\n<br> \n<br> RD \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Sep 13, 2005 8:19 am"
+  }, {
+    "postId" : "74560",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "74560",
+      "joined" : "Thu Apr 17, 2003 9:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "In front of the computer",
+      "postCount" : "1769",
+      "avatarPath" : null
+    },
+    "content" : "cheapest will probably be gsf or eurocarparts. then heritage, schofields, KK etc. Try turning the engine over as you tighten the fan belt up as it will encorage the belt to fit in between the pulley properly. Mike Ps how many shims have you fitted I think you can go up to ten.",
+    "lastEdited" : "Tue Sep 13, 2005 8:25 am"
+  }, {
+    "postId" : "74573",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "74573",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1158",
+      "avatarPath" : null
+    },
+    "content" : "Don't think I have quite used 10 but I used all that were there!!!!!! Maybe I need to get some more just in case. I'm hoping to get over to Schofields on Friday so maybe I will try and sort it out then.\n<br> \n<br> Thanks for all your help\n<br> \n<br> RD \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Sep 13, 2005 9:17 am"
+  } ]
+}

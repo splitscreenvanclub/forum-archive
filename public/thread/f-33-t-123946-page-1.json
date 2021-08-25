@@ -1,0 +1,66 @@
+{
+  "forumId" : "33",
+  "threadId" : "123946",
+  "title" : "Threads deleted without explanation",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=123946",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=cea2ab72353bb812566f381685f5229f",
+    "label" : "Pointless Bitching"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925785",
+    "author" : {
+      "username" : "RockStock",
+      "userId" : "925785",
+      "joined" : "Tue May 10, 2005 10:43 pm",
+      "profileRank" : "Registered user",
+      "location" : "USA",
+      "postCount" : "1036",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Thu Oct 03, 2019 6:13 pm"
+  }, {
+    "postId" : "925786",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "925786",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15449",
+      "avatarPath" : null
+    },
+    "content" : "Threads or posts?",
+    "lastEdited" : "Thu Oct 03, 2019 6:14 pm"
+  }, {
+    "postId" : "925789",
+    "author" : {
+      "username" : "RockStock",
+      "userId" : "925789",
+      "joined" : "Tue May 10, 2005 10:43 pm",
+      "profileRank" : "Registered user",
+      "location" : "USA",
+      "postCount" : "1036",
+      "avatarPath" : null
+    },
+    "content" : "Thread\n<br> \n<a href=\"https://www.ssvc.org.uk/phpbb/viewtopic.php?f=2&amp;t=123843&amp;p=925723#p925723\" class=\"postlink\">https://www.ssvc.org.uk/phpbb/viewtopic ... 23#p925723</a>",
+    "lastEdited" : "Thu Oct 03, 2019 6:24 pm"
+  }, {
+    "postId" : "925790",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "925790",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "908",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "I am more than happy to explain the situation and I am in the process of speaking with all parties involved either in person or on the phone. \n<br> In a nutshell I was contacted today by a member who had already sought legal advice regarding a thread which he felt was slanderous to both him and his business. If any legal action is taken it involves not only the post writer but the club as we allowed it onto the website. \n<br> I don't need to explain that any legal action would be extremely detrimental to the club and may result in it folding. It really is that serious.\n<br> As club President I have asked the Moderators to remove the whole thread from public view. I have no qualms about this decision and would do it again in a heartbeat if I felt there was anything that jeopardised the club.\n<br> If anyone wishes to discuss this with me I am at the Breeze all weekend, my phone number is in the club magazine for members, you can pm me or even email \n<a href=\"mailto:president@ssvc.org.uk\">president@ssvc.org.uk</a> .\n<br> If anyone has a beef with anyone else then sort it out between yourselves, not on the forum. We are a family club, here to celebrate and enjoy split screen vans in all their various guises. Let's keep it that way.",
+    "lastEdited" : "Thu Oct 03, 2019 7:13 pm"
+  } ]
+}

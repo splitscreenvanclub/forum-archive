@@ -1,0 +1,206 @@
+{
+  "forumId" : "8",
+  "threadId" : "101687",
+  "title" : "Yippee...Finally Started 13 Window Restoration",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=101687&start=255",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 274,
+  "pageNumber" : 18,
+  "totalPages" : 19,
+  "posts" : [ {
+    "postId" : "858138",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "858138",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "456",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwdave wrote:</cite>Hi, when I say wet, I just mean a small amount of black fuel?\n  <br>\n  <br>Just checked the carb, screw was almost fully in? Have screwed it out by 2.5x\n  <br>\n  <br>Thanks, will try again later, I'm probably giving it to much juice when trying to fore it up.\n  <br>\n  <br>Thanks again.\n  <br>\n  <br>Jim\n </div>\n</blockquote>\n<br>\n<br>Fully in would be way too rich. \n<br>\n<br>Have a look at VW Resource's page on carb tuning.\n<br>\n<br>\n<a href=\"http://www.vw-resource.com/34pict3.html\" class=\"postlink\">34 Pict 3 tuning</a>\n<br>\n<br>The idle mixture screw adjusts the amount of air in the mixture on one of these carbs. Screwing it in reduces the amount of air, so the mixture becomes richer. Almost fully in would be way too much fuel.\n<br>\n<br>It does beg the question of why it was that far in though. If the engine has problem with air inleakage in to the manifold, then it might have been screwed in to deliberately overfuel to compensate for the uncontrolled air being sucked in after the carb.",
+    "lastEdited" : "Fri Dec 18, 2015 6:43 pm"
+  }, {
+    "postId" : "860300",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "860300",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "456",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Did you get anywhere with your starting and rough running problem?",
+    "lastEdited" : "Wed Jan 13, 2016 1:31 pm"
+  }, {
+    "postId" : "860305",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "860305",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "655",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Hi, No unfortunately not!!! Changed all the components, plugs, leads, dizzy, etc, Then timed it from 5ADTC to 7.5BTDC and everything in between.\n<br>It's coughing and spluttering as if it wants to go but We still no fire? \n<br>\n<br>I had a friend have a look at it, said it was set up perfectly? Only thing we can think is that its possibly a carb issue, so he's taken it to have a look back at his garage. (VW people are very kind) Will let you know how we get on. \n<br>\n<br>Thanks again\n<br>\n<br>Jim",
+    "lastEdited" : "Wed Jan 13, 2016 3:49 pm"
+  }, {
+    "postId" : "860343",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "860343",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "456",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "I had to ditch my carb and buy a reconditioned one because it had incurable air inleakage problems so I just couldn't tune it and the engine ran like a dog. The throttle spindle bushes were so badly worn that even new bushes wouldn't fix it. Also, someone had tightened the carb down so hard they'd bent both the carb flange and the and inlet manifold flange that it sits on. I had to file the manifold flange flat before mounting the new carb to get it to seal.\n<br>\n<br>The best trick I found to diagnose the problem was to get our 'dustbuster' hand-held vacuum that has a blow function and attach its flexi-hose to the inlet at the top of the carb with Duck Tape. I set the dustbuster to blow so it pressurised the carb and manifold, then I sprayed a mixture of fairy liquid and water anywhere that air might get sucked in when the engine is running (around the throttle spindle, the carb-to-manifold and manifold-to-head connections and the manifold rubber joints (dual port manifold)).\n<br>\n<br>The air leaks caused big bubbles in the soapy water, so I could see the leaks.\n<br>\n<br>If you can get hold of a vacuum cleaner with a blow setting, give it a try. If you don't have leaks, you can at least rule that out (although you might still have blocked jets in the carb). The good thing is that the engine doesn't need to run to be able to do that test.\n<br>\n<br>The usual trick is to aerosol spray carb cleaner or WD40 around the likely leakage spots which causes the engine to run rough wherever it sucks the aerosol in, but my engine ran so badly that test was inconclusive.",
+    "lastEdited" : "Wed Jan 13, 2016 8:15 pm"
+  }, {
+    "postId" : "860354",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "860354",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "655",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Thanks for that. I'm hoping that it's just blocked up, with all the dust flying about and the fact it's been sat for 18 months (it was well covered up though) anyhow, I'll keep you posted.\n<br>\n<br>Thanks\n<br>\n<br>Jim",
+    "lastEdited" : "Wed Jan 13, 2016 8:45 pm"
+  }, {
+    "postId" : "860591",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "860591",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "655",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Well you experts were right. Dizzy was 180 out. Changed plug leads round. Fired up first turn of the key. All timed up and running sweet as a nut.\n<br>\n<br>Thanks again, for all your help.\n<br>\n<br>Jim \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Sat Jan 16, 2016 12:02 pm"
+  }, {
+    "postId" : "860609",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "860609",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1810",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwdave wrote:</cite>Well you experts were right. Dizzy was 180 out. Changed plug leads round. Fired up first turn of the key. All timed up and running sweet as a nut.\n  <br>\n  <br>Thanks again, for all your help.\n  <br>\n  <br>Jim \n  <img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">\n </div>\n</blockquote>\n<br>\n<br>Excellent news, clock is ticking how long have you got left to finish it all off?",
+    "lastEdited" : "Sat Jan 16, 2016 3:04 pm"
+  }, {
+    "postId" : "860610",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "860610",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "655",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Daughters Wedding is 26th of March \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Sat Jan 16, 2016 3:08 pm"
+  }, {
+    "postId" : "860876",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "860876",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "1810",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwdave wrote:</cite>Daughters Wedding is 26th of March \n  <img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">\n </div>\n</blockquote>\n<br>\n<br>Plenty of time then. \n<br>\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Jan 18, 2016 7:46 pm"
+  }, {
+    "postId" : "862011",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "862011",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "655",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Just a quick update (sorry I've been slacking) Now over 1600 hours and the wedding creeping up fast !!!\n<br>\n<br>All doors painted and fitted (need adjusting)\n<br>Door handles and locks on. (Soundproofed with SilentCoat).\n<br>Extra wires run for the interior lights, heated rear window, etc.\n<br>Front cab area, insulated and soundproofed\n<br>Wiring all finished, (lights, horn, indicators, etc).\n<br>Wiper assembly all back together.\n<br>Wiper bottle and lines in and connected.\n<br>Parcel shelf painted a re-fitted.\n<br>Engine back in and running.\n<br>Cab door windows painted and reassembled \n<br>Headlining around windows fitted\n<br>Glass cleaned up and Side and Rear glass fitted\n<br>Cargo doors soundproofed.\n<br>\n<br>Will post pictures soon\n<br>\n<br>Jim \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Thu Jan 28, 2016 11:28 pm"
+  }, {
+    "postId" : "868381",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "868381",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "655",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "First of all... Apologies for the lack of posts. It's been non stop trying to get Dave finished for my daughter's wedding on Saturday.\n<br>\n<br>Anyhow, after two years to the day Dave is out of the garage and more importantly has passed his MOT. Never thought I'd see the day\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=13695&amp;sid=51bc137932f89383640862a7903f6f41&amp;mode=view\"><img src=\"./download/file.php?id=13695&amp;t=1&amp;sid=51bc137932f89383640862a7903f6f41\" class=\"postimage\" alt=\"Dave 1.JPG\" title=\"Dave 1.JPG (296.12 KiB) Viewed 236 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=13696&amp;sid=51bc137932f89383640862a7903f6f41&amp;mode=view\"><img src=\"./download/file.php?id=13696&amp;t=1&amp;sid=51bc137932f89383640862a7903f6f41\" class=\"postimage\" alt=\"Dave 2.JPG\" title=\"Dave 2.JPG (207.55 KiB) Viewed 236 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=13694&amp;sid=51bc137932f89383640862a7903f6f41&amp;mode=view\"><img src=\"./download/file.php?id=13694&amp;t=1&amp;sid=51bc137932f89383640862a7903f6f41\" class=\"postimage\" alt=\"Dave 3.JPG\" title=\"Dave 3.JPG (329.55 KiB) Viewed 236 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>Will update the post in full next week.\n<br>\n<br>Jim\n<br>(One very happy person) \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Tue Mar 22, 2016 10:34 am"
+  }, {
+    "postId" : "868385",
+    "author" : {
+      "username" : "ducatis",
+      "userId" : "868385",
+      "joined" : "Tue Mar 13, 2012 10:05 am",
+      "profileRank" : "SSVC Member",
+      "location" : "old volks home",
+      "postCount" : "264",
+      "avatarPath" : "./download/file.php%3Favatar=36391_1346502004.jpg"
+    },
+    "content" : "Yup, wow.\n<br>\n<br>She will be made up. Good luck on the big day!\n<br>\n<br>Sent from my E5823 using Tapatalk",
+    "lastEdited" : "Tue Mar 22, 2016 11:21 am"
+  }, {
+    "postId" : "868411",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "868411",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire. I am a member :o)",
+      "postCount" : "1011",
+      "avatarPath" : null
+    },
+    "content" : "Wow - looks great - talk about cutting it fine! 3 days to the wedding for a shakedown \n<img class=\"smilies\" src=\"./images/smilies/icon_surprised.gif\" alt=\":o\" title=\"Surprised\">)\n<br>I bet you've put some hours in, in the last few weeks!\n<br>\n<br>Hopefully grins all the way from now on!",
+    "lastEdited" : "Tue Mar 22, 2016 3:57 pm"
+  }, {
+    "postId" : "868424",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "868424",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "655",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Thanks, yeah very fine, it's been non stop \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\"> just finishing off the trim now and then a quick makeover on the inside. Just delighted to be up and running \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">\n<br>\n<br>Cheers",
+    "lastEdited" : "Tue Mar 22, 2016 5:28 pm"
+  }, {
+    "postId" : "868478",
+    "author" : {
+      "username" : "markp",
+      "userId" : "868478",
+      "joined" : "Wed Jul 20, 2011 9:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "northampton",
+      "postCount" : "4688",
+      "avatarPath" : "./download/file.php%3Favatar=35667_1311369872.jpg"
+    },
+    "content" : "well bloody done mate \n<br>\n<br>Dave LOOKs fab \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\"> \n<br>\n<br>\n<br>Time for a few Berrs \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" alt=\":drunken:\" title=\"drunken\"> \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" alt=\":drunken:\" title=\"drunken\"> \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" alt=\":drunken:\" title=\"drunken\"> \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" alt=\":drunken:\" title=\"drunken\"> \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" alt=\":drunken:\" title=\"drunken\"> \n<br>\n<br>\n<br>enjoy your time enjoying the bus and keep smling \n<br>\n<br>\n<br>Bet your face will hurt after the first hour drinking as you'll be NONE STOP SMILING Buddy\n<br>\n<br>Again well done and chuffed for you \n<br>\n<br>\n<br>Over and out \n<br>\n<br>\n<br>Mark",
+    "lastEdited" : "Tue Mar 22, 2016 10:23 pm"
+  } ]
+}

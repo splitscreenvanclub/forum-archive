@@ -1,0 +1,79 @@
+{
+  "forumId" : "51",
+  "threadId" : "92025",
+  "title" : "1956 LHD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=92025&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=5cd3d4b96b9de12145ad6683eeca16d6",
+    "label" : "Buses For Sale"
+  } ],
+  "totalPosts" : 20,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "711901",
+    "author" : {
+      "username" : "beny",
+      "userId" : "711901",
+      "joined" : "Sun Mar 06, 2011 11:26 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "Up",
+    "lastEdited" : "Sat Mar 23, 2013 8:38 am"
+  }, {
+    "postId" : "712365",
+    "author" : {
+      "username" : "beny",
+      "userId" : "712365",
+      "joined" : "Sun Mar 06, 2011 11:26 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "Sold.\n<br> \n<br> Thank SSVC and each peolple who help me.",
+    "lastEdited" : "Mon Mar 25, 2013 6:29 pm"
+  }, {
+    "postId" : "712367",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "712367",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "4045",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>beny wrote:</cite>Sold.\n  <br> \n  <br> Thank SSVC and each peolple who help me.\n </div>\n</blockquote> Well done, looked a nice bus.",
+    "lastEdited" : "Mon Mar 25, 2013 6:33 pm"
+  }, {
+    "postId" : "712436",
+    "author" : {
+      "username" : "beetleben",
+      "userId" : "712436",
+      "joined" : "Fri Aug 20, 2010 8:30 pm",
+      "profileRank" : "Registered user",
+      "location" : "Colwyn Bay",
+      "postCount" : "1009",
+      "avatarPath" : null
+    },
+    "content" : "Congrats \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Mon Mar 25, 2013 9:35 pm"
+  }, {
+    "postId" : "712438",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "712438",
+      "joined" : "Thu Aug 27, 2009 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Prenton",
+      "postCount" : "4045",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Tell you what Beny you should join the club, never know if something else pop up and it shows the members your appreciation for there help \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" width=\"15\" height=\"15\" alt=\":-)\" title=\"Smile\">and well done I think someone has a nice camper.",
+    "lastEdited" : "Mon Mar 25, 2013 9:38 pm"
+  } ]
+}

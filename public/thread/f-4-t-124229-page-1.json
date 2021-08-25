@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "124229",
+  "title" : "Various",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124229",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=062486897897bf0251c83dacde3c2c0a",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927329",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "927329",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "Various bits what do you need \n<br> \n<br> Have a few type 4 bits after engine build \n<br> Front bumper ( split ) ratty\n<br> Bay windscreen seal \n<br> RHD bay slidding door seal \n<br> \n<br> And much more",
+    "lastEdited" : "Wed Jan 08, 2020 1:46 pm"
+  }, {
+    "postId" : "927413",
+    "author" : {
+      "username" : "Gemmas",
+      "userId" : "927413",
+      "joined" : "Thu Mar 07, 2019 11:25 am",
+      "profileRank" : "Registered user",
+      "location" : "Bromsgrove",
+      "postCount" : "110",
+      "avatarPath" : null
+    },
+    "content" : "Type 4 bits gone",
+    "lastEdited" : "Tue Jan 14, 2020 11:57 am"
+  } ]
+}

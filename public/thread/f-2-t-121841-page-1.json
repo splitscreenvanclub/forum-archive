@@ -1,0 +1,53 @@
+{
+  "forumId" : "2",
+  "threadId" : "121841",
+  "title" : "Wheel nuts and centre caps?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=121841",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=476e7d3bf3fe6c4c9187646b7cf72cad",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "912383",
+    "author" : {
+      "username" : "65 panel",
+      "userId" : "912383",
+      "joined" : "Tue Dec 01, 2009 4:35 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "71",
+      "avatarPath" : null
+    },
+    "content" : "Hi , I've just purchased a set of BRM wide 5 wheels for my split panel, can anyone tell me what wheel bolts I need and I am after a set of centre caps too, any ideas where I can get them? Many thanks.",
+    "lastEdited" : "Sat May 12, 2018 6:43 pm"
+  }, {
+    "postId" : "912480",
+    "author" : {
+      "username" : "211vanman",
+      "userId" : "912480",
+      "joined" : "Wed Mar 03, 2004 10:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "MidlandSplitBusMeet",
+      "postCount" : "1440",
+      "avatarPath" : null
+    },
+    "content" : "Hi machine 7 will be able to help you out with the bolts and im sure MWS midland wheels can help with the caps",
+    "lastEdited" : "Tue May 15, 2018 3:57 pm"
+  }, {
+    "postId" : "912482",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "912482",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "561",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Also cool air do the centre caps. If you have drums at the front you can use the slim caps or if discs you need the 25mm ones. 25mm also fit the rear wheels",
+    "lastEdited" : "Tue May 15, 2018 4:21 pm"
+  } ]
+}

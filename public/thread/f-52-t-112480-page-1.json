@@ -1,0 +1,37 @@
+{
+  "forumId" : "52",
+  "threadId" : "112480",
+  "title" : "night heater SOLD",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=112480",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "848273",
+    "author" : {
+      "username" : "Stevelambretta",
+      "userId" : "848273",
+      "joined" : "Fri Jan 04, 2008 8:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "WAKEFIELD",
+      "postCount" : "155",
+      "avatarPath" : "./download/file.php%3Favatar=14598_1308336716.jpg"
+    },
+    "content" : "Webasto night heater 12v air top, fully tested, and all parts there for fitting inside or under the bus\n<br>pick up just of the M62 Normanton west Yorks £250",
+    "lastEdited" : "Wed Sep 09, 2015 8:57 am"
+  }, {
+    "postId" : "848307",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "848307",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17467",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Petrol or Diesel? \n<br>\n<br>If petrol, I'll take it.",
+    "lastEdited" : "Wed Sep 09, 2015 5:15 pm"
+  } ]
+}

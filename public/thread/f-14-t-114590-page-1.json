@@ -1,0 +1,115 @@
+{
+  "forumId" : "14",
+  "threadId" : "114590",
+  "title" : "Sending parts abroad",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=114590",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "864132",
+    "author" : {
+      "username" : "madness",
+      "userId" : "864132",
+      "joined" : "Wed Aug 08, 2007 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "essex",
+      "postCount" : "783",
+      "avatarPath" : "./download/file.php%3Favatar=7863_1303799111.jpg"
+    },
+    "content" : "Any advice to posting parts abroad ,guy in Belgium wants to buy a part off me advertised on vw samba.com.....he's asking for my name address bank account and sort code ,Iban and bic codes ......total understand he will need something to transfer money but want to be careful at same time .....any info would be a great help cheers Alan",
+    "lastEdited" : "Tue Feb 16, 2016 2:48 pm"
+  }, {
+    "postId" : "864134",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "864134",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "906",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Which part of you does he want to buy? An arm or a leg or something serious like a kidney? Sorry, I couldn't help myself. I live in Holland and those are pretty standard banking details. We don't need your address here, only name and IBAN, maybe BIC for International.",
+    "lastEdited" : "Tue Feb 16, 2016 3:37 pm"
+  }, {
+    "postId" : "864139",
+    "author" : {
+      "username" : "madness",
+      "userId" : "864139",
+      "joined" : "Wed Aug 08, 2007 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "essex",
+      "postCount" : "783",
+      "avatarPath" : "./download/file.php%3Favatar=7863_1303799111.jpg"
+    },
+    "content" : "Ha ha ,that's cool just concerned regards scammers",
+    "lastEdited" : "Tue Feb 16, 2016 3:58 pm"
+  }, {
+    "postId" : "864175",
+    "author" : {
+      "username" : "Pugit666",
+      "userId" : "864175",
+      "joined" : "Fri Feb 01, 2013 10:57 am",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "361",
+      "avatarPath" : null
+    },
+    "content" : "I had similar situation sending to somewhere in India. Used PayPal, he arranged for TNT to call me then collect items. All went well",
+    "lastEdited" : "Tue Feb 16, 2016 7:53 pm"
+  }, {
+    "postId" : "864190",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "864190",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1122",
+      "avatarPath" : "http://i1068.photobucket.com/albums/u451/clymoj/Bus/Bus005_zps44edd617.jpg"
+    },
+    "content" : "Yeah I've always used paypal to sell stuff abroad, just in case. \n<br>\n<br>If you're set on a bank transfer then the most anyone should need from you to pay is sort code and account number - I don't think they even need your real name anymore as it's just the numbers that get used for normal transactions. \n<br>\n<br>Might sound obvious but get their full name and address including country name exactly as they want it to appear on the label and then copy that exactly rather than trying to understand it - other countries have different ways of laying it out and spelling things. Sometimes it looks wierd or like there's parts missing but you want it the way that's easiest for their postman.",
+    "lastEdited" : "Tue Feb 16, 2016 8:44 pm"
+  }, {
+    "postId" : "864194",
+    "author" : {
+      "username" : "madness",
+      "userId" : "864194",
+      "joined" : "Wed Aug 08, 2007 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "essex",
+      "postCount" : "783",
+      "avatarPath" : "./download/file.php%3Favatar=7863_1303799111.jpg"
+    },
+    "content" : "Sorted I rang the bank ,just need your name IBAN number and BIC number these contain you bank details and that's it .....the guy has sent me a pic via email of the transaction with all details of his name address and bank details my numbers are on the pic with related bank in UK ...so fingers crossed",
+    "lastEdited" : "Tue Feb 16, 2016 8:55 pm"
+  }, {
+    "postId" : "864218",
+    "author" : {
+      "username" : "henk",
+      "userId" : "864218",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "165",
+      "avatarPath" : null
+    },
+    "content" : "Yes thats right.\n<br>I am from Belgium and if i want to do a international money transfer then i need IBAN,BIC code and full name.\n<br>So it is normal what he is asking.\n<br>\n<br>Henk!!!",
+    "lastEdited" : "Tue Feb 16, 2016 11:47 pm"
+  }, {
+    "postId" : "864228",
+    "author" : {
+      "username" : "madness",
+      "userId" : "864228",
+      "joined" : "Wed Aug 08, 2007 4:34 pm",
+      "profileRank" : "Registered user",
+      "location" : "essex",
+      "postCount" : "783",
+      "avatarPath" : "./download/file.php%3Favatar=7863_1303799111.jpg"
+    },
+    "content" : "Cheers Henk",
+    "lastEdited" : "Wed Feb 17, 2016 6:44 am"
+  } ]
+}

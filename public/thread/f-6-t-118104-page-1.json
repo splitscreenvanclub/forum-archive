@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "118104",
+  "title" : "Sump oil temperature sender",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=118104",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ef77d4ad84f164fc5992526c5e713f6f",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 24,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "888735",
+    "author" : {
+      "username" : "StevieJD",
+      "userId" : "888735",
+      "joined" : "Sat Jul 09, 2016 7:51 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "34",
+      "avatarPath" : null
+    },
+    "content" : "I've got a VDO oil temperature gauge and sump sender fitted to the van. The system has never worked since I bought the van. \n<img class=\"smilies\" src=\"./images/smilies/icon_cry.gif\" width=\"15\" height=\"15\" alt=\":cry:\" title=\"Cry\"> \n<br> It's eventually got to the top of the 'To Do' list. Last night I checked the + and - to the gauge and they are good. The wire from the gauge to the sender was also checked and it's OK. So it can only be the gauge or the sender. \n<br> Has anyone got a sump sender fitted to their engine? I'd like to know the resistance range of the thermistor inside the sender and whether its a positive temperature coefficient - resistance increases as engine oil temperature increases or a negative temperature coefficient - decreases with temperature. I've tried searching the net, but didn't find anything.\n<br> If you have one fitted and could measure the resistance when the engine is cold and at normal running temperature, it would be greatly appreciated.",
+    "lastEdited" : "Wed Dec 14, 2016 9:02 pm"
+  }, {
+    "postId" : "888765",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "888765",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2857",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "Is it the type thats fitted in the sumpllate or in the actula engin case? i had one that was in the sump plate and it never moved, howver dropping it into boiling water would get a reading on the gauge. give that a go.\n<br> ohms range find the part number on the sender and check there website \n<a href=\"https://www.vdo-instruments.com/sensors.html\" class=\"postlink\">https://www.vdo-instruments.com/sensors.html</a>",
+    "lastEdited" : "Thu Dec 15, 2016 11:10 am"
+  }, {
+    "postId" : "888790",
+    "author" : {
+      "username" : "StevieJD",
+      "userId" : "888790",
+      "joined" : "Sat Jul 09, 2016 7:51 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "34",
+      "avatarPath" : null
+    },
+    "content" : "It's on the sump plate. I found the OEM part number on the JK website and with that, managed to find some info on the VDO website. It's a NTC thermistor so resistance decreases as temperature increases. It should read around 36 ohms at 120 degrees. If anyone has got one on their sump plate and can measure the resistance when the engine is cold, it would be helpful.",
+    "lastEdited" : "Thu Dec 15, 2016 6:54 pm"
+  }, {
+    "postId" : "888792",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "888792",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5731",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "I had one on my sump plate,was useless,so got one to go into an adapter on oil pressure switch,works a treat.",
+    "lastEdited" : "Thu Dec 15, 2016 8:43 pm"
+  }, {
+    "postId" : "888809",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "888809",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15516",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>kevsplitty wrote:</cite>I had one on my sump plate,was useless,so got one to go into an adapter on oil pressure switch,works a treat.\n </div>\n</blockquote> Engine buider advised same location and type.\n<br> Works a treat..",
+    "lastEdited" : "Fri Dec 16, 2016 6:53 am"
+  }, {
+    "postId" : "888899",
+    "author" : {
+      "username" : "redstar5",
+      "userId" : "888899",
+      "joined" : "Fri May 13, 2011 12:19 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Spennymoor, Durham",
+      "postCount" : "100",
+      "avatarPath" : "./download/file.php%3Favatar=35394_1338013971.gif"
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=18655&amp;sid=ef77d4ad84f164fc5992526c5e713f6f&amp;mode=view\"><img src=\"./download/file.php?id=18655&amp;t=1&amp;sid=ef77d4ad84f164fc5992526c5e713f6f\" class=\"postimage\" alt=\"IMG_2771.JPG\" title=\"IMG_2771.JPG (726.89 KiB) Viewed 2900 times\"></a>\n  </dt> \n </dl> \n</div>I got some adaptors made for the blanking plate to the right rear of the casing. Sender screws into the middle hole. Been running it for a year now and it works well. Never had any luck with the sump ones.",
+    "lastEdited" : "Sat Dec 17, 2016 4:52 pm"
+  }, {
+    "postId" : "888905",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "888905",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20126",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I never put them in the sump, as the cable is too vulnerable plus the sump plate is a service item so better to have the sender somewhere you fit and forget it, like the T3 blanking plate.",
+    "lastEdited" : "Sat Dec 17, 2016 5:51 pm"
+  }, {
+    "postId" : "888922",
+    "author" : {
+      "username" : "StevieJD",
+      "userId" : "888922",
+      "joined" : "Sat Jul 09, 2016 7:51 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "34",
+      "avatarPath" : null
+    },
+    "content" : "Does anyone sell the adaptors?",
+    "lastEdited" : "Sat Dec 17, 2016 11:03 pm"
+  }, {
+    "postId" : "888923",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "888923",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20126",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Of yours has the blanking plate, just take it off and drill / thread it. If it doesn't have one, you can't use one anyway.",
+    "lastEdited" : "Sun Dec 18, 2016 8:36 am"
+  }, {
+    "postId" : "888951",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "888951",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://images.thesamba.com/vw/classifieds/pix/5236482.jpg\" class=\"postlink\">http://images.thesamba.com/vw/classifie ... 236482.jpg</a>\n<br> \n<br> Joe Bence does them in billet alloy. Get them through TheSamba.",
+    "lastEdited" : "Sun Dec 18, 2016 7:28 pm"
+  }, {
+    "postId" : "888953",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "888953",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5514",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "I bought a dump sender for my bug and noticed it pushed against the strainer plate and wouldn't tighten up properly. I called the (well known) place I bought it and their advice was to do it right up so it basically dented/pushed in the strainer plate \n<img class=\"smilies\" src=\"./images/smilies/surprised.gif\" width=\"15\" height=\"15\" alt=\":eek:\" title=\"Surprised\"> Hmm, that'll be pushing it up into the pick up tube - no thanks. I drilled a hole in the strainer for it to fit through but let's face it, that's not ideal. It did work properly. Until I ripped the wire off on a speed hump \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> What a waste of time \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> On a plus note, the gauge looked cool under the dash \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Sun Dec 18, 2016 7:52 pm"
+  }, {
+    "postId" : "888969",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "888969",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1061",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "Do you have a particular need to know exactly what the engine temperature is, or do you just want to make sure it's not overheating?\n<br> \n<br> If it's the latter; a Save My Bug dipstick does the job just as well. No need for a dial as it uses the existing oil pressure warning light to tell you when your oil is getting too hot (flashes) or has gone past a maximum temperature (solid light). It's adjustable so you can set the warning temperature and recalibrate it",
+    "lastEdited" : "Mon Dec 19, 2016 7:26 am"
+  }, {
+    "postId" : "888970",
+    "author" : {
+      "username" : "henk",
+      "userId" : "888970",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "271",
+      "avatarPath" : null
+    },
+    "content" : "I have on my bug also one in the sump and it never worked.\n<br> It seems like they don't get a good earth if you put it in the sump.\n<br> \n<br> Henk!!!",
+    "lastEdited" : "Mon Dec 19, 2016 8:32 am"
+  }, {
+    "postId" : "888971",
+    "author" : {
+      "username" : "redstar5",
+      "userId" : "888971",
+      "joined" : "Fri May 13, 2011 12:19 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Spennymoor, Durham",
+      "postCount" : "100",
+      "avatarPath" : "./download/file.php%3Favatar=35394_1338013971.gif"
+    },
+    "content" : "I did get a few spare blanking plates cut when I did mine, they are from 5mm stainless with an 8.5mm hole in the middle, I could tap them M10 if required. \n<br> PM me if you want one, I'll just need to cover the postage and packing cost\n<br> Cheers \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=18682&amp;sid=ef77d4ad84f164fc5992526c5e713f6f&amp;mode=view\"><img src=\"./download/file.php?id=18682&amp;t=1&amp;sid=ef77d4ad84f164fc5992526c5e713f6f\" class=\"postimage\" alt=\"IMG_2787.JPG\" title=\"IMG_2787.JPG (783.61 KiB) Viewed 2835 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Mon Dec 19, 2016 8:52 am"
+  }, {
+    "postId" : "888973",
+    "author" : {
+      "username" : "slippy8v",
+      "userId" : "888973",
+      "joined" : "Wed Aug 10, 2016 9:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "382",
+      "avatarPath" : null
+    },
+    "content" : "Can some one put a photo up of the blanking plate in situ with the sender please.",
+    "lastEdited" : "Mon Dec 19, 2016 12:58 pm"
+  } ]
+}

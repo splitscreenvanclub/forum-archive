@@ -1,0 +1,53 @@
+{
+  "forumId" : "51",
+  "threadId" : "124868",
+  "title" : "Deleted",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=124868",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=3d7b7c98ee7ae175ccc51ac2cc88e9b9",
+    "label" : "Buses For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "930762",
+    "author" : {
+      "username" : "sparkyjohn",
+      "userId" : "930762",
+      "joined" : "Mon Feb 16, 2009 9:23 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "168",
+      "avatarPath" : null
+    },
+    "content" : "Sale withdrawn\n<br> Many thanks John",
+    "lastEdited" : "Thu Jun 25, 2020 7:45 pm"
+  }, {
+    "postId" : "930770",
+    "author" : {
+      "username" : "Paul56",
+      "userId" : "930770",
+      "joined" : "Tue May 08, 2018 7:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "3",
+      "avatarPath" : null
+    },
+    "content" : "send you a pm \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";)\" title=\"Wink\">",
+    "lastEdited" : "Fri Jun 26, 2020 6:30 am"
+  }, {
+    "postId" : "930776",
+    "author" : {
+      "username" : "sparkyjohn",
+      "userId" : "930776",
+      "joined" : "Mon Feb 16, 2009 9:23 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "168",
+      "avatarPath" : null
+    },
+    "content" : "A",
+    "lastEdited" : "Fri Jun 26, 2020 2:32 pm"
+  } ]
+}

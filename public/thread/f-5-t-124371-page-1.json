@@ -1,0 +1,66 @@
+{
+  "forumId" : "5",
+  "threadId" : "124371",
+  "title" : "So42 parts",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124371",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=b573a66a7f00ec65cc79c24b76e92c2d",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928161",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "928161",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "473",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys , looking for so42 interior parts, ice box top , water tap , water tank , rear cushion for walk through engine bay , interior wall lights , ply panel for rear hatch , ice box draw . Please let me know what you may have . Kind regards Neil",
+    "lastEdited" : "Fri Feb 28, 2020 9:19 pm"
+  }, {
+    "postId" : "928937",
+    "author" : {
+      "username" : "frilly",
+      "userId" : "928937",
+      "joined" : "Wed Jul 30, 2014 8:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "473",
+      "avatarPath" : null
+    },
+    "content" : "Still looking!",
+    "lastEdited" : "Tue Apr 14, 2020 9:36 pm"
+  }, {
+    "postId" : "928990",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "928990",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3540",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "Adam at NLAVW has reproduced many of these parts and the quality is very good.",
+    "lastEdited" : "Fri Apr 17, 2020 10:06 am"
+  }, {
+    "postId" : "929001",
+    "author" : {
+      "username" : "garytype2",
+      "userId" : "929001",
+      "joined" : "Sun Jan 29, 2006 6:18 pm",
+      "profileRank" : "Registered user",
+      "location" : "Sunny Bournemouth",
+      "postCount" : "229",
+      "avatarPath" : null
+    },
+    "content" : "Hi Neil\n<br> I think I have the tap and wall light lenses\n<br> I may have other small items for SO42\n<br> Regards Gary Collcampers 07979 726763",
+    "lastEdited" : "Fri Apr 17, 2020 8:42 pm"
+  } ]
+}

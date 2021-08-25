@@ -1,0 +1,27 @@
+{
+  "forumId" : "4",
+  "threadId" : "123849",
+  "title" : "1955 Hazet tool kit VW Tourist",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123849",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=f4e8b81587b2d2dd3660101d1ce14744",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925114",
+    "author" : {
+      "username" : "pt7550",
+      "userId" : "925114",
+      "joined" : "Thu Jan 04, 2018 11:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "7",
+      "avatarPath" : null
+    },
+    "content" : "Hazet Tool kit\n<br> \n<br> Mid fifties super rare toolkit with nearly all original tools\n<br> Great condition\n<br> These fetch 1500 complete\n<br> selling for 599 postage extra as it weighs 3.5kg",
+    "lastEdited" : "Tue Sep 10, 2019 7:27 pm"
+  } ]
+}

@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "125075",
+  "title" : "Engine cuts out",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=125075",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b7fe5b02ae470cee2fc7f0dde21feb90",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "931876",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931876",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Twin carb, electric fuel pump on a 2110. Engine runs fine etc until......\n<br> \n<br> Going down a very steep hill and braking at the bottom, the revs die off and the engine stalls. Starts first time. Happens regardless of the amount of fuel in the tank. \n<br> \n<br> Any ideas? Cheers",
+    "lastEdited" : "Wed Aug 26, 2020 9:04 am"
+  }, {
+    "postId" : "931885",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "931885",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "That's a new one on me...",
+    "lastEdited" : "Thu Aug 27, 2020 6:50 am"
+  }, {
+    "postId" : "931887",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931887",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Ha ha, that wasn't what I was hoping for when I saw that you had replied\n<img alt=\"😀\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f600.svg\">",
+    "lastEdited" : "Thu Aug 27, 2020 8:58 am"
+  }, {
+    "postId" : "931892",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "931892",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "472",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "all i can think of is that when the van is pushing the engine down hill it is still taking in fuel and not burning it all off, and sort of flooding. but then technically it would not start straight away. Bit of a puzzler. is it a steep hill , maybe the van does not like the hill. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> \n<br> \n<br> .",
+    "lastEdited" : "Thu Aug 27, 2020 10:22 am"
+  }, {
+    "postId" : "931896",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931896",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Ok, cheers. I do get a bit of popping now and again when I come off the accelerator, the plugs are sooty. It currently idles 1100. Maybe I need to get the carb settings checked? \n<br> \n<br> The engine was done on a tooling road when built by John Mahar in 2018, but due to a serious oil problem has been rebuilt, would that mean the carbs need 're balancing etc?",
+    "lastEdited" : "Thu Aug 27, 2020 10:52 am"
+  }, {
+    "postId" : "931904",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "931904",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "Has it got a Servo? Sudden vac leak on the servo pipe? Relatively common on Bays. Cuts out when braking.",
+    "lastEdited" : "Thu Aug 27, 2020 8:44 pm"
+  }, {
+    "postId" : "931912",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "931912",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=931904&amp;sid=b7fe5b02ae470cee2fc7f0dde21feb90#p931904\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37891&amp;sid=b7fe5b02ae470cee2fc7f0dde21feb90\">ted698</a> wrote: <a href=\"./viewtopic.php?p=931904&amp;sid=b7fe5b02ae470cee2fc7f0dde21feb90#p931904\" data-post-id=\"931904\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Aug 27, 2020 8:44 pm</span></cite> Has it got a Servo? Sudden vac leak on the servo pipe? Relatively common on Bays. Cuts out when braking. \n </div>\n</blockquote> I would of expected that to happen all the time, rather than just on steep hills / poor starting etc too",
+    "lastEdited" : "Fri Aug 28, 2020 10:42 am"
+  }, {
+    "postId" : "931913",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "931913",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=931896&amp;sid=b7fe5b02ae470cee2fc7f0dde21feb90#p931896\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=868&amp;sid=b7fe5b02ae470cee2fc7f0dde21feb90\">chrystal</a> wrote: <a href=\"./viewtopic.php?p=931896&amp;sid=b7fe5b02ae470cee2fc7f0dde21feb90#p931896\" data-post-id=\"931896\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Aug 27, 2020 10:52 am</span></cite> Ok, cheers. I do get a bit of popping now and again when I come off the accelerator, the plugs are sooty. It currently idles 1100. Maybe I need to get the carb settings checked? \n  <br> \n  <br> The engine was done on a tooling road when built by John Mahar in 2018, but due to a serious oil problem has been rebuilt, would that mean the carbs need 're balancing etc? \n </div>\n</blockquote> Sounds like you have several things going on. The 1100 idle could be masking various things. Set the tappets. Get the carb linkage balanced and screws adjusted evenly if its twin carbs. Set idle down to 900'ish and the timing. Then go from there. Might have a gasket sucked in on the inlet which is causing the idle issue if its not simply poor adjustments.",
+    "lastEdited" : "Fri Aug 28, 2020 10:46 am"
+  }, {
+    "postId" : "931934",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931934",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Thanks For that. No servo, yes twin carbs. Timing and tappets just done. If i leave it, will damage be done to anything? We are in Greece and rolling roads/ experts arnt that plentiful\n<img alt=\"😀\" class=\"emoji smilies\" draggable=\"false\" src=\"//twemoji.maxcdn.com/2/svg/1f600.svg\"> There was a rolling road 3 miles away from me in Essex!",
+    "lastEdited" : "Sat Aug 29, 2020 4:44 pm"
+  }, {
+    "postId" : "931936",
+    "author" : {
+      "username" : "philsparks",
+      "userId" : "931936",
+      "joined" : "Wed May 21, 2014 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new forset",
+      "postCount" : "335",
+      "avatarPath" : null
+    },
+    "content" : "What carbs do you have?\n<br> What pressure is the fuel pump set at?\n<br> \n<br> Are you running a 009?\n<br> \n<br> \n<br> \n<br> Sent from my HRY-LX1 using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Sat Aug 29, 2020 7:33 pm"
+  }, {
+    "postId" : "931965",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "931965",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Twin Webber 40s, yes 009. Fuel pressure, don't know",
+    "lastEdited" : "Mon Aug 31, 2020 10:59 am"
+  }, {
+    "postId" : "931999",
+    "author" : {
+      "username" : "philsparks",
+      "userId" : "931999",
+      "joined" : "Wed May 21, 2014 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new forset",
+      "postCount" : "335",
+      "avatarPath" : null
+    },
+    "content" : "When you go down hill are you using engine braking?\n<br> Does it do it if not in gear?\n<br> \n<br> \n<br> \n<br> Sent from my HRY-LX1 using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Tue Sep 01, 2020 8:29 pm"
+  }, {
+    "postId" : "932000",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "932000",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Engine breaking is fine, cuts out if not in gear or clutch depressed",
+    "lastEdited" : "Tue Sep 01, 2020 8:41 pm"
+  }, {
+    "postId" : "932001",
+    "author" : {
+      "username" : "philsparks",
+      "userId" : "932001",
+      "joined" : "Wed May 21, 2014 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new forset",
+      "postCount" : "335",
+      "avatarPath" : null
+    },
+    "content" : "What happens if you leave it idling sat still on a steep hill for a few minutes?\n<br> \n<br> How long is the steep hill.?\n<br> If you coast down out of gear does it still do it?\n<br> \n<br> \n<br> \n<br> \n<br> \n<br> Sent from my HRY-LX1 using Tapatalk\n<br> \n<br>",
+    "lastEdited" : "Tue Sep 01, 2020 8:55 pm"
+  }, {
+    "postId" : "933086",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "933086",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "565",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Update...\n<br> \n<br> Taken to a a rolling road in Theassaloniki. Re jetted and adjustments made. Wow....what a difference! thanks all.",
+    "lastEdited" : "Tue Nov 10, 2020 12:31 pm"
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "114984",
+  "title" : "Lower trailing arm threaded pin",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=114984",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867247",
+    "author" : {
+      "username" : "telleir",
+      "userId" : "867247",
+      "joined" : "Sat Feb 21, 2015 1:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "Hi guys,\n<br>While removing the nut that locks the shock from \n<br>the lower trailing arm, the threaded part snapped.\n<br>Does anyone make these parts? (As seen in pic)\n<br>I see a lot of people use new pins when using a narrowed beam!\n<br>\n<br>Thanks for your answer!",
+    "lastEdited" : "Thu Mar 10, 2016 10:27 pm"
+  }, {
+    "postId" : "867249",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "867249",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5129",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "You can weld a new threaded part on then just clean it up with a file so you can get the shock back on. \n<br>Cut the head off a bolt and use that. \n<br>\n<br>Cheers, Lee.",
+    "lastEdited" : "Thu Mar 10, 2016 10:47 pm"
+  }, {
+    "postId" : "867256",
+    "author" : {
+      "username" : "split999",
+      "userId" : "867256",
+      "joined" : "Thu Apr 20, 2006 11:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "S.E. Kent.",
+      "postCount" : "2287",
+      "avatarPath" : "http://i1232.photobucket.com/albums/ff378/split999/080.jpg"
+    },
+    "content" : ".....or drill out the 3mm pin holding the stud in the trailing arm. Then set up your trailing arm in the pillar drill and find centre of the stud and drill it out. You can then machine up a new stud, drill thru for a new roll pin and you've done the job properly.\n<br>\n<br>I've just done both mine after narrowing the trailing arms\n<br>\n<br>Hth",
+    "lastEdited" : "Fri Mar 11, 2016 2:13 am"
+  }, {
+    "postId" : "867266",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "867266",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "If you can't do it yourself / don't have a local machinist to do it for you, you could trade it in for a stock arm with someone that narrows then?",
+    "lastEdited" : "Fri Mar 11, 2016 8:32 am"
+  }, {
+    "postId" : "868207",
+    "author" : {
+      "username" : "telleir",
+      "userId" : "868207",
+      "joined" : "Sat Feb 21, 2015 1:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "Thank you for the help!\n<br>\n<br>I ended up drilling out the 3mm pin and pulled out the threaded pin with some extra heat...\n<br>\n<br>\n<a href=\"http://postimg.org/image/q3njf2rcj/\" class=\"postlink\"><img src=\"http://s21.postimg.org/q3njf2rcj/IMG_4105.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Sun Mar 20, 2016 3:34 pm"
+  } ]
+}

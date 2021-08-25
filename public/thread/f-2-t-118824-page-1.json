@@ -1,0 +1,92 @@
+{
+  "forumId" : "2",
+  "threadId" : "118824",
+  "title" : "REGISTER VEHICLE IN THE UK WITHOUT MOT",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=118824",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=9f41fc88e81544815aab452c8a2e5824",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "894380",
+    "author" : {
+      "username" : "dck208b",
+      "userId" : "894380",
+      "joined" : "Thu Oct 09, 2014 1:09 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "Does anyone know if it is possible to get a vehicle registered in the UK without first obtaining an MOT? I have a splittie from Sweden that came over some years ago and will be subject to restoration. Can I get it registered with a registration number before the resto starts and it gets roadworthy?",
+    "lastEdited" : "Thu Mar 23, 2017 5:48 pm"
+  }, {
+    "postId" : "894387",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "894387",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "921",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "I don't think so. One of the documents I had to produce was a valid mot, this is done on the chassis number and a new certificate issued once they have allocated a new registration number. That was before they computerised the mot system, but I can't imagine it's changed. It needs to be insured as well in the same way.",
+    "lastEdited" : "Thu Mar 23, 2017 7:35 pm"
+  }, {
+    "postId" : "894388",
+    "author" : {
+      "username" : "Bar",
+      "userId" : "894388",
+      "joined" : "Sat Jan 23, 2010 9:34 am",
+      "profileRank" : "Registered user",
+      "location" : "S Wales",
+      "postCount" : "633",
+      "avatarPath" : null
+    },
+    "content" : "What year is it?, Pre 60 reqs no mot cert.\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Thu Mar 23, 2017 7:51 pm"
+  }, {
+    "postId" : "894492",
+    "author" : {
+      "username" : "Biglozzer",
+      "userId" : "894492",
+      "joined" : "Sat Jan 03, 2004 8:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Twickenham",
+      "postCount" : "1787",
+      "avatarPath" : "./download/file.php%3Favatar=644_1461920439.jpg"
+    },
+    "content" : "If it's pre 1960 fill out the DVLA MOT exemption form and submit with your registration application as normal. They may still require an examination inspection though. \n<br> \n<br> \n<a href=\"https://www.gov.uk/government/publications/declaration-of-exemption-from-mot\" class=\"postlink\">https://www.gov.uk/government/publicati ... n-from-mot</a>",
+    "lastEdited" : "Sun Mar 26, 2017 9:56 am"
+  }, {
+    "postId" : "894682",
+    "author" : {
+      "username" : "dck208b",
+      "userId" : "894682",
+      "joined" : "Thu Oct 09, 2014 1:09 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "I am sure I have seen some restorations for sale that have originated in the USA but state that they have been UK registered. Obviously pre resto an MOT would not be possible so how do they register them?\n<br> \n<br> Maybe I was dreaming....",
+    "lastEdited" : "Wed Mar 29, 2017 5:23 pm"
+  }, {
+    "postId" : "894709",
+    "author" : {
+      "username" : "james309",
+      "userId" : "894709",
+      "joined" : "Sun Nov 10, 2013 10:10 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucestershire",
+      "postCount" : "610",
+      "avatarPath" : "./download/file.php%3Favatar=38673_1541889555.jpg"
+    },
+    "content" : "As above only pre 60 can be 1st registered without an MOT\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Wed Mar 29, 2017 8:11 pm"
+  } ]
+}

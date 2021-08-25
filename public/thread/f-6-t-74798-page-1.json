@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "74798",
+  "title" : "shift rod bushes",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=74798",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=06a531bd9f8a9ae9be441eaa252c8ad9",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "578128",
+    "author" : {
+      "username" : "panel van lee",
+      "userId" : "578128",
+      "joined" : "Tue Mar 03, 2009 9:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "101",
+      "avatarPath" : null
+    },
+    "content" : "Which cross members do the 2 shift rod bushes fit into?\n<br> My van is a 58.\n<br> Also does the selector plate on the gearstick end fit under the floor or on top?",
+    "lastEdited" : "Mon Apr 11, 2011 12:46 pm"
+  }, {
+    "postId" : "578319",
+    "author" : {
+      "username" : "cyclosport",
+      "userId" : "578319",
+      "joined" : "Sat May 02, 2009 9:59 am",
+      "profileRank" : "Registered user",
+      "location" : "Thames Valley",
+      "postCount" : "38",
+      "avatarPath" : "./download/file.php%3Favatar=33070_1300092275.jpg"
+    },
+    "content" : "The shift rod bushes, I would imagine slot onto the rear shift rod. \n<br> \n<br> My 66 rear rod has some small holes, which the bushes slot onto ...",
+    "lastEdited" : "Mon Apr 11, 2011 10:19 pm"
+  }, {
+    "postId" : "578323",
+    "author" : {
+      "username" : "panel van lee",
+      "userId" : "578323",
+      "joined" : "Tue Mar 03, 2009 9:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "101",
+      "avatarPath" : null
+    },
+    "content" : "Hi cyclosport thanks for the reply.\n<br> \n<br> My problem is that i've bought a new shift rod and the holes that the bushes slot into don't line up with any crossmember for the bushes to run in.I have tryed the rear shift rod both ways round.I was going to drill fresh holes for the bushes but are unsure which crossmembers/tophats the bushes need to locate in?\n<br> Thanks Lee.",
+    "lastEdited" : "Mon Apr 11, 2011 10:41 pm"
+  }, {
+    "postId" : "578324",
+    "author" : {
+      "username" : "cyclosport",
+      "userId" : "578324",
+      "joined" : "Sat May 02, 2009 9:59 am",
+      "profileRank" : "Registered user",
+      "location" : "Thames Valley",
+      "postCount" : "38",
+      "avatarPath" : "./download/file.php%3Favatar=33070_1300092275.jpg"
+    },
+    "content" : "Hi Lee,\n<br> \n<br> My rear shift rod fits in a housing (pipe) that runs from the front to the rear of chassis, the bushes stop the rear rod from knocking against the housing and support the movement of the rod when changing gear. I just located the bushes onto the rod and put the rod back in it's housing ...\n<br> \n<br> Maybe a 58 is different ...?\n<br> \n<br> Mark",
+    "lastEdited" : "Mon Apr 11, 2011 11:05 pm"
+  } ]
+}

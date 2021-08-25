@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "117860",
+  "title" : "Require Coloured Wire key for Wolfsburg West Indicator Switch with dim/dip 8/65-67",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=117860",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=e8f812b541a3735e0a15d31708e3b541",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "886978",
+    "author" : {
+      "username" : "R32GUY",
+      "userId" : "886978",
+      "joined" : "Mon Jul 04, 2016 12:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : "./download/file.php%3Favatar=41494_1476111301.png"
+    },
+    "content" : "HI fellow SSVC members..\n<br> \n<br> I recently had a bit of an electrical issue - and witnessed a bit of a loom fire (thankfully I witnessed it) - The issue was it appears my stalk mounted dim/dip switch and indicator circuit was shorting out on something or together. - I tried to repair the burnt wires - but couldn't get my stalk mounted dim dip to work.\n<br> \n<br> Our bus is a 1966 Australian import microbus.. \n<br> \n<br> Anyway I decided to purchase one of these Wolfsburg West replacements from Alan Schofields at Slough Swap Meet, trouble trouble is no-one appears to have published a wiring diagram that match the number of cables I have. - The chaps on the stall suggested I look on the Samba or follow existing diagrams \n<br> \n<br> \n<span style=\"background-color:yellow\">Complete Indicator switch 8/65-67 with built in dipswitch. 8 wires as per US specification, but also works fine on european buses (please call for wiring details in this case)</span> \n<br> \n<a href=\"http://www.alanhschofield.com/ourparts/prod_2448259-Indicator-Switch-6667-211953513F.html\" class=\"postlink\">http://www.alanhschofield.com/ourparts/ ... 3513F.html</a>\n<br> \n<br> The chap I bought it from on Sunday suggested I check out the Samba and \n<a href=\"http://www.type2.com\" class=\"postlink\">http://www.type2.com</a> -but I'm struggling to make a correlation to what I have one my stalk, I tried to call Schofields today and there was no answer.. \n<br> \n<br> So wondered if any of you guys had any suggestions or help to offer?",
+    "lastEdited" : "Mon Nov 07, 2016 8:55 pm"
+  }, {
+    "postId" : "886979",
+    "author" : {
+      "username" : "R32GUY",
+      "userId" : "886979",
+      "joined" : "Mon Jul 04, 2016 12:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : "./download/file.php%3Favatar=41494_1476111301.png"
+    },
+    "content" : "Here are some pictures of the stalk / loom\n<br> \n<br> What is really confusing is it has 9 connectors on it not 8\n<br> \n<br> Two thinner 0.5mm wires towards the top of the loom\n<br> \n<br> Blue\n<br> Brown \n<br> \n<br> Then the following coloured wires:\n<br> \n<br> Black/red \n<br> Black/green/white\n<br> Black/yellow\n<br> Brown\n<br> Black/Purple\n<br> BLack/White\n<br> BLack/Green\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20161107/cf450846c2642e1642db1d8db1044312.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20161107/9f995fa7df70aa2bd0fa21570ca45db8.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"//uploads.tapatalk-cdn.com/20161107/8b45ff67f7e80904cc6a811d464212eb.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> The details from this similar thread : \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=72841\" class=\"postlink\">viewtopic.php?t=72841</a>\n<br> States the following - \n<br> 1. Black with a white trace (controls front left indicator function)\n<br> 2. Black with a yellow trace (controls left rear taillight)\n<br> 3. Black with a green trace (controls front right indicator function)\n<br> 4. Black with a red trace (controls right rear taillight function)\n<br> 5. Black with a purple trace (input from brake light switch, the wire coming from your brake light switch is typically black/red)\n<br> 6. Long black (input to turn signal flasher relay.To terminal 87b if using 4-way emergency flash system. If not equipped with 4-way emergency flash system, connect to Terminal 54 of original turn signal flasher or 49a if using a replacement turn signal flasher.) \n<br> \n<br> Are these similar - and what do the thin blue and brown wires and thick brown wire do? - Presume the Black/Green/White wire must have something to do with the dim/dip circuit as well?\n<br> \n<br> Thanks in advance for any assistance... I've sent an email to Wolfsburg West to see if they can help.... Coupled with this job I'm also considering wiring in a hazard switch that our bus didn't have when we bought it.",
+    "lastEdited" : "Mon Nov 07, 2016 8:57 pm"
+  }, {
+    "postId" : "893611",
+    "author" : {
+      "username" : "whathaveigoneanddone",
+      "userId" : "893611",
+      "joined" : "Sun Jul 13, 2014 11:22 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "66",
+      "avatarPath" : null
+    },
+    "content" : "I have exactly the same question, what are all these wires for? Especially the blue and the brown....I'm looking at this utterly perplexed and can't understand why it didn't come with any form of guide! Help appreciated",
+    "lastEdited" : "Sat Mar 11, 2017 6:39 am"
+  }, {
+    "postId" : "893623",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "893623",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "503",
+      "avatarPath" : null
+    },
+    "content" : "Is your bus fitted with separate indicators and tail lights at the rear?",
+    "lastEdited" : "Sat Mar 11, 2017 9:44 am"
+  }, {
+    "postId" : "893646",
+    "author" : {
+      "username" : "whathaveigoneanddone",
+      "userId" : "893646",
+      "joined" : "Sun Jul 13, 2014 11:22 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "66",
+      "avatarPath" : null
+    },
+    "content" : "No, they are an integrated unit.",
+    "lastEdited" : "Sat Mar 11, 2017 5:58 pm"
+  }, {
+    "postId" : "893675",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "893675",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "503",
+      "avatarPath" : null
+    },
+    "content" : "Sorry what i meant was,do you have orange indicators or us spec lights at the rear?",
+    "lastEdited" : "Sun Mar 12, 2017 10:05 am"
+  }, {
+    "postId" : "893676",
+    "author" : {
+      "username" : "whathaveigoneanddone",
+      "userId" : "893676",
+      "joined" : "Sun Jul 13, 2014 11:22 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "66",
+      "avatarPath" : null
+    },
+    "content" : "Ah ok, sorry - no it's orange indicators",
+    "lastEdited" : "Sun Mar 12, 2017 10:07 am"
+  }, {
+    "postId" : "893677",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "893677",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "503",
+      "avatarPath" : null
+    },
+    "content" : "Cool, then you are only going to use 3 of the wires for the indicators.\n<br> Black/white-front left ind.\n<br> Black/green-front right ind.\n<br> Black/green/white-common wire for ind(this will go to a relay/flasher unit along with a switched live and an earth)\n<br> Thinner blue wire -to ind telltale on the speedo\n<br> Thinner brown wire should be an earth wire\n<br> You can disregard the blk/red, blk/purp,blk yell as these are only used with us spec indicators and combined tail lights.",
+    "lastEdited" : "Sun Mar 12, 2017 10:21 am"
+  }, {
+    "postId" : "893678",
+    "author" : {
+      "username" : "whathaveigoneanddone",
+      "userId" : "893678",
+      "joined" : "Sun Jul 13, 2014 11:22 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "66",
+      "avatarPath" : null
+    },
+    "content" : "Thank you so much, I literally had no idea (like most things!) - thanks again",
+    "lastEdited" : "Sun Mar 12, 2017 10:25 am"
+  }, {
+    "postId" : "893679",
+    "author" : {
+      "username" : "rodntod",
+      "userId" : "893679",
+      "joined" : "Tue Jan 27, 2015 9:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Ayrshire,Scotland",
+      "postCount" : "503",
+      "avatarPath" : null
+    },
+    "content" : "No worries, I was there once myself.\n<br> \n<br> Ed",
+    "lastEdited" : "Sun Mar 12, 2017 10:52 am"
+  }, {
+    "postId" : "927886",
+    "author" : {
+      "username" : "skipps",
+      "userId" : "927886",
+      "joined" : "Mon Oct 02, 2006 9:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new barn kent",
+      "postCount" : "422",
+      "avatarPath" : null
+    },
+    "content" : "All sorted no help required \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\"> \n<br> Hi just found this thread as I'm just about to change my 67 ind stalk found your wiring instructions very handy but not quite understanding the switched live and earth bit are they already there, as there is only the thick brown wire that i'm not sure where this would go !! look forward to any help as this post is nearly 3yrs old \n<br> Skipps",
+    "lastEdited" : "Thu Feb 13, 2020 5:10 pm"
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "forumId" : "6",
+  "threadId" : "87075",
+  "title" : "Clutch Issue",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=87075",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "670958",
+    "author" : {
+      "username" : "Matthias",
+      "userId" : "670958",
+      "joined" : "Sat Nov 17, 2007 1:18 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "510",
+      "avatarPath" : "./download/file.php%3Favatar=12552_1302708382.jpg"
+    },
+    "content" : "My clutch pedal only needs lifting a small amount for the clutch to bite, all the gears drop in fine but after a bit of normal driving and i guess a bit of stretch in the cable, with the pedal fully down i cannot select 1st without the gears crunching \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> anyone had similar problems or can shed any light on it or running a kep stage 1 clutch act\n<br>\n<br>Thanks Matthew",
+    "lastEdited" : "Mon Jul 23, 2012 3:49 pm"
+  }, {
+    "postId" : "670961",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "670961",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6106",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Adjust the cable so you have 1\" of free play at the pedal (free play before the release bearing hits the clutch, rather than free play in the cable before the arm on the gearbox moves)",
+    "lastEdited" : "Mon Jul 23, 2012 4:01 pm"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "124222",
+  "title" : "Wolfsburg trip",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=124222",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=c397a11a104df4d88cde6bae687a1251",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927304",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "927304",
+      "joined" : "Wed Sep 08, 2004 6:44 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny East coast !",
+      "postCount" : "5732",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "Had an awesome time again over in WOB in August, 3rd time i've taken the bus there now,love the place &amp; have made some great friends there. A few pics from our trip,we had a week in Amsterdam then two in WOB before heading back home,bus ran perfect. Saw so many different things this time, where Ferdinand Porsche lived in the woods of wolfsburg in a wooden shack, how the cars are transported along a conveyor under the ground to the car towers before being delivered to reception for clients to collect, a tour of wolfsburg ,going to an old peoples block of flats just to go on the top floor &amp; out onto the balcony to view the city from above. You can see how vast the factory is ,floor area the size of Gibraltar !! Tour of Hannover too. Amazing time can't wait to go back again.",
+    "lastEdited" : "Tue Jan 07, 2020 7:58 pm"
+  }, {
+    "postId" : "927311",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "927311",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4271",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "Lovely pictures :0)",
+    "lastEdited" : "Tue Jan 07, 2020 10:41 pm"
+  } ]
+}

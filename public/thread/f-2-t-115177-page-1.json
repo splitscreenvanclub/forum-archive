@@ -1,0 +1,37 @@
+{
+  "forumId" : "2",
+  "threadId" : "115177",
+  "title" : "Waxin job",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115177",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868548",
+    "author" : {
+      "username" : "morbidpoi",
+      "userId" : "868548",
+      "joined" : "Sat Oct 10, 2015 9:53 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "8",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br>Could you advise on waxing, im not talking about detailing here or polishing, baby steps first for me, i want to wash my bus then give him a wax. So i have the wax but is this best done by hand or should i get a cheap electric polisher n put a soft mop on it which i asume will save arm ache n time ? Also where he has some rust bubbles should i just spray them with a liquid wax (such as ?) as putting any pressure on the bubbles will flake them off. If there is already a thread with info a link would be great. Thanks",
+    "lastEdited" : "Wed Mar 23, 2016 1:05 pm"
+  }, {
+    "postId" : "868889",
+    "author" : {
+      "username" : "Archie3781",
+      "userId" : "868889",
+      "joined" : "Tue Jun 17, 2014 6:59 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "143",
+      "avatarPath" : "./download/file.php%3Favatar=39333_1419289867.jpg"
+    },
+    "content" : "Try this Collinite 845 insulator wax, buy a handful of those little yellow hand sponges, give it a good shake, a decent blob per panel, wipe on in small circles, leave to dry to a haze, buff off when dry, with a soft clean microfibre cloth.\n<br>Excellent results easily.",
+    "lastEdited" : "Sat Mar 26, 2016 2:14 pm"
+  } ]
+}

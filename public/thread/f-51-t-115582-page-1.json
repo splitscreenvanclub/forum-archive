@@ -1,0 +1,50 @@
+{
+  "forumId" : "51",
+  "threadId" : "115582",
+  "title" : "Sold",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=115582",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "871667",
+    "author" : {
+      "username" : "craig_rose",
+      "userId" : "871667",
+      "joined" : "Sat Feb 01, 2014 6:51 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sunny slough",
+      "postCount" : "399",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Tue Apr 19, 2016 10:36 am"
+  }, {
+    "postId" : "872024",
+    "author" : {
+      "username" : "1956pgsg",
+      "userId" : "872024",
+      "joined" : "Thu Apr 21, 2016 11:31 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hi morning\n<br>I would like to know if you would sell the engine separately, if so for how much. \n<br>Many thanks",
+    "lastEdited" : "Fri Apr 22, 2016 8:28 am"
+  }, {
+    "postId" : "872062",
+    "author" : {
+      "username" : "craig_rose",
+      "userId" : "872062",
+      "joined" : "Sat Feb 01, 2014 6:51 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "sunny slough",
+      "postCount" : "399",
+      "avatarPath" : null
+    },
+    "content" : "No sorry new owner wants to keep it",
+    "lastEdited" : "Fri Apr 22, 2016 3:24 pm"
+  } ]
+}

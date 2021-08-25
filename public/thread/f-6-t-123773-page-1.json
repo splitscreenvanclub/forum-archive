@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "123773",
+  "title" : "Ribbed bumper overriders ?????",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123773",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=a96bc4ed1befb4ea9660c21c503a6922",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "924512",
+    "author" : {
+      "username" : "busbug",
+      "userId" : "924512",
+      "joined" : "Fri Feb 13, 2009 2:31 pm",
+      "profileRank" : "Registered user",
+      "location" : "Londinium",
+      "postCount" : "449",
+      "avatarPath" : "./download/file.php%3Favatar=31773_1236292772.jpeg"
+    },
+    "content" : "Ribbed bumper overriders ? Do they exist ? Were they ever an original part or aftermarket part ?\n<br> \n<br> Can't find any reference hence asking\n<br> \n<br> Sorry for the double post as not sure which section to put it in \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">\n<br> \n<br> Cheers",
+    "lastEdited" : "Thu Aug 22, 2019 11:25 am"
+  }, {
+    "postId" : "924514",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "924514",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1456",
+      "avatarPath" : null
+    },
+    "content" : "I don't believe they were standard on the pre59 ribbed bumper busses, hence the aftermarket Hurst nudge bars etc. Then the later bumpers with overriders on US busses for their legislation requirements \n<br> \n<br> But they seem to be on the busses out of Brazil so maybe VW Brazil standard.",
+    "lastEdited" : "Thu Aug 22, 2019 1:08 pm"
+  }, {
+    "postId" : "924516",
+    "author" : {
+      "username" : "busbug",
+      "userId" : "924516",
+      "joined" : "Fri Feb 13, 2009 2:31 pm",
+      "profileRank" : "Registered user",
+      "location" : "Londinium",
+      "postCount" : "449",
+      "avatarPath" : "./download/file.php%3Favatar=31773_1236292772.jpeg"
+    },
+    "content" : "Thanks for the reply \n<br> \n<br> That's kind of what I thought as I've been through loads of documents and nothing shows pre 59 busses with overriders and no aftermarket items for sale from what I've seen, I just wasn't sure if I was missing some special item on an early deluxe that I had missed.\n<br> The Brazil ones look really well made though.\n<br> Cheers",
+    "lastEdited" : "Thu Aug 22, 2019 1:25 pm"
+  } ]
+}

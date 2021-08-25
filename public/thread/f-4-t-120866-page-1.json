@@ -1,0 +1,92 @@
+{
+  "forumId" : "4",
+  "threadId" : "120866",
+  "title" : "Corner repair panel",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=120866",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=9779154e1d624eef483306daa961af40",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "907095",
+    "author" : {
+      "username" : "Wowza",
+      "userId" : "907095",
+      "joined" : "Sun Jul 12, 2015 9:44 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : null
+    },
+    "content" : "Rear split corner repair panel, surplus to requirements brand new from schofields £25.00 plus postage",
+    "lastEdited" : "Sun Dec 17, 2017 12:55 pm"
+  }, {
+    "postId" : "907106",
+    "author" : {
+      "username" : "Scousey12",
+      "userId" : "907106",
+      "joined" : "Wed Aug 24, 2016 8:44 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "80",
+      "avatarPath" : null
+    },
+    "content" : "Hi.\n<br> \n<br> For pick up or bus.\n<br> \n<br> Regards\n<br> Daz",
+    "lastEdited" : "Sun Dec 17, 2017 8:00 pm"
+  }, {
+    "postId" : "907109",
+    "author" : {
+      "username" : "Wowza",
+      "userId" : "907109",
+      "joined" : "Sun Jul 12, 2015 9:44 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : null
+    },
+    "content" : "For t2 split up to 67 or pick up and double cab.\n<br> \n<br> Cheers",
+    "lastEdited" : "Sun Dec 17, 2017 8:43 pm"
+  }, {
+    "postId" : "907110",
+    "author" : {
+      "username" : "Wowza",
+      "userId" : "907110",
+      "joined" : "Sun Jul 12, 2015 9:44 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : null
+    },
+    "content" : "Label",
+    "lastEdited" : "Sun Dec 17, 2017 8:45 pm"
+  }, {
+    "postId" : "907119",
+    "author" : {
+      "username" : "Jon Petts",
+      "userId" : "907119",
+      "joined" : "Mon Jul 07, 2014 4:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "160",
+      "avatarPath" : "./download/file.php%3Favatar=39409_1452814920.jpg"
+    },
+    "content" : "Which side does this fit?",
+    "lastEdited" : "Mon Dec 18, 2017 6:51 am"
+  }, {
+    "postId" : "907120",
+    "author" : {
+      "username" : "Wowza",
+      "userId" : "907120",
+      "joined" : "Sun Jul 12, 2015 9:44 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "29",
+      "avatarPath" : null
+    },
+    "content" : "Fits either side",
+    "lastEdited" : "Mon Dec 18, 2017 7:00 am"
+  } ]
+}

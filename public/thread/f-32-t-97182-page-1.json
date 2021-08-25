@@ -1,0 +1,76 @@
+{
+  "forumId" : "32",
+  "threadId" : "97182",
+  "title" : "Linking your membership to your forum account",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=97182",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "743846",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "743846",
+      "joined" : "Tue Sep 02, 2003 1:14 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Matlock",
+      "postCount" : "181",
+      "avatarPath" : null
+    },
+    "content" : "The automatic link to be able to access the members area is currently not working.\n<br>If forum users who are paid up members would like their membership linking then please PM me or e mail with your full name, membership number and forum user name and I will link them for you manually.",
+    "lastEdited" : "Mon Sep 02, 2013 7:45 am"
+  }, {
+    "postId" : "802312",
+    "author" : {
+      "username" : "Dave.",
+      "userId" : "802312",
+      "joined" : "Sat Jun 07, 2014 11:14 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Taunton",
+      "postCount" : "48",
+      "avatarPath" : "./download/file.php%3Favatar=39293_1404638103.jpg"
+    },
+    "content" : "Nige - I have sent you a PM",
+    "lastEdited" : "Sun Sep 14, 2014 11:48 am"
+  }, {
+    "postId" : "836753",
+    "author" : {
+      "username" : "Paulroberts",
+      "userId" : "836753",
+      "joined" : "Mon May 25, 2015 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "7",
+      "avatarPath" : null
+    },
+    "content" : "Pm'd you a few days ago but you haven't read it Nige",
+    "lastEdited" : "Sun May 31, 2015 7:06 pm"
+  }, {
+    "postId" : "861567",
+    "author" : {
+      "username" : "jamusbass",
+      "userId" : "861567",
+      "joined" : "Wed May 30, 2012 7:26 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "172",
+      "avatarPath" : null
+    },
+    "content" : "Pm'd",
+    "lastEdited" : "Mon Jan 25, 2016 12:10 pm"
+  }, {
+    "postId" : "876009",
+    "author" : {
+      "username" : "Jay&kerry",
+      "userId" : "876009",
+      "joined" : "Thu Jul 09, 2015 9:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Messaged you a few times to link forum no reply",
+    "lastEdited" : "Fri Jun 03, 2016 6:35 pm"
+  } ]
+}

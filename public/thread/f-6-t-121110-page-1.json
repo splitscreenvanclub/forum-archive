@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "121110",
+  "title" : "Sliding door search",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=121110",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=12f8c76c182243a2da38174799462c74",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "908771",
+    "author" : {
+      "username" : "Solomanga",
+      "userId" : "908771",
+      "joined" : "Thu Feb 01, 2018 5:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> \n<br> New member, new owner . . . \n<br> \n<br> I've just got my hands on a LHD 67 Kombi with a sliding cargo door.\n<br> \n<br> I'm looking for repair panels etc but can't find anything for the door.\n<br> \n<br> The M code (169) refers to a sliding door but nowhere caters for parts.\n<br> \n<br> Was the sliding door borrowed from the forthcoming Bay?\n<br> \n<br> Cheers!\n<br> \n<br> Sol.",
+    "lastEdited" : "Fri Feb 02, 2018 11:12 am"
+  }, {
+    "postId" : "908992",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "908992",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "519",
+      "avatarPath" : null
+    },
+    "content" : "It was available as an option for a number of years prior to the introduction of the Bay window.\n<br> I have a NOS central lock mechanism available (different from the Bay mechanisms) should you require one.",
+    "lastEdited" : "Wed Feb 07, 2018 1:31 pm"
+  }, {
+    "postId" : "909175",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "909175",
+      "joined" : "Tue Oct 04, 2005 7:37 pm",
+      "profileRank" : "Registered user",
+      "location" : "Taunton, cider capital",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "You will be lucky to find any spares at all for sliding door split screens, they are rarer than sambas. \n<br> There was someone on eBay selling a nos door hinge but it was £500 just for the hinge!",
+    "lastEdited" : "Sun Feb 11, 2018 9:35 pm"
+  }, {
+    "postId" : "909222",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "909222",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "1453",
+      "avatarPath" : "./download/file.php%3Favatar=2243_1530277201.jpg"
+    },
+    "content" : "There is a sliding door with windows cut out (panel van) for sale in Holland.\n<br> I think the bottom is a bit rusty but still looks in ok condition.",
+    "lastEdited" : "Tue Feb 13, 2018 4:20 pm"
+  }, {
+    "postId" : "909227",
+    "author" : {
+      "username" : "BlastingDiePast",
+      "userId" : "909227",
+      "joined" : "Sat Feb 02, 2013 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bristol",
+      "postCount" : "1802",
+      "avatarPath" : null
+    },
+    "content" : "You can get panels for the sliding door (skin and sill sections) from Ahschofields, I had a 66 slider.\n<br> \n<br> As said the mechanism is a split only part",
+    "lastEdited" : "Tue Feb 13, 2018 6:37 pm"
+  } ]
+}

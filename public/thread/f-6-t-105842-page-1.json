@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "105842",
+  "title" : "Checking reduction box levels",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=105842",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "803387",
+    "author" : {
+      "username" : "58and60",
+      "userId" : "803387",
+      "joined" : "Thu Jun 06, 2013 11:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Towcester",
+      "postCount" : "144",
+      "avatarPath" : "./download/file.php%3Favatar=38012_1371138261.jpg"
+    },
+    "content" : "I want to check and top up the reduction box level following a minor leak. Is there a way of checking levels without draining, filling with set amount then topping up gear box. Just some way of checking and topping up the boxes would be ideal. ...or lazy if you prefer!! \n<br> \n<br> Any tips would be welcome as the alternative seems a long way round for a simple top up.",
+    "lastEdited" : "Sun Sep 21, 2014 12:57 pm"
+  }, {
+    "postId" : "803391",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "803391",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "I don't think so, I had this dilemma with mine, not knowing how much oil they actually had in them, I ended up draining it out and refilling with fresh, it was the only way to be sure.... Seem to remember they take about 1/2 pint each....",
+    "lastEdited" : "Sun Sep 21, 2014 1:56 pm"
+  }, {
+    "postId" : "803392",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "803392",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "473",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "i think the gear box and reduction boxes are connected, so checking the gear box level and topping up should see it right, but considering the small amount that is in the reduction boxes, (0.25 litres or 0.44 imp) pint you may as well drain what is left and put fresh oil in. \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Sun Sep 21, 2014 2:03 pm"
+  }, {
+    "postId" : "803425",
+    "author" : {
+      "username" : "58and60",
+      "userId" : "803425",
+      "joined" : "Thu Jun 06, 2013 11:21 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Towcester",
+      "postCount" : "144",
+      "avatarPath" : "./download/file.php%3Favatar=38012_1371138261.jpg"
+    },
+    "content" : "I thought this might be the answer...! I suppose given that the gearbox and reduction boxes are linked then it would make sense to jack each side up before draining the reduction boxes. This way there is a chance of reducing the wastage that comes down the axles. Oh well, unless there is a super new idea that comes along, that has confirmed the way forward. Any last wonderful ideas....?",
+    "lastEdited" : "Sun Sep 21, 2014 5:57 pm"
+  }, {
+    "postId" : "804241",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "804241",
+      "joined" : "Wed Dec 21, 2011 6:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northampton",
+      "postCount" : "1263",
+      "avatarPath" : null
+    },
+    "content" : "Just fill the reduction boxes with 0.4 pints each, then the main box up to the filler hole (should be 4.4pints to refill it) and it will equalise with the reduction boxes as they all share the same oil.\n<br> \n<br> If you jack one side up and fill it, it'll just keep taking oil until the main box is completely full of oil (I.e. Too much)\n<br> \n<br> I must admit that when I did mine, after draining all of the oil, I measured the correct amount into each reduction box and the main box for piece of mind.\n<br> \n<br> I found that attaching a length of garden hose to the cap of a 1 litre gearbox oil container.\n<br> , the type with the spout on, then putting the hose end into the filler hole on the main box, which isn't the most accessible place granted, squeeze the bottle to inject it into the trans case, then refill with a measured amount each time and repeat until it's all in.\n<br> \n<br> Warming the oil helps it flow too as the vacuum in the bottle doesn't help matters.\n<br> \n<br> Hope this helps.\n<br> \n<br> Nik. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Fri Sep 26, 2014 12:40 pm"
+  }, {
+    "postId" : "804311",
+    "author" : {
+      "username" : "TISSY",
+      "userId" : "804311",
+      "joined" : "Thu Nov 24, 2011 8:27 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Bewdley",
+      "postCount" : "22",
+      "avatarPath" : null
+    },
+    "content" : "Ive just had a nightmare with mine and ended up overfilling the box \n<br> you must have the bus level the box must be full to it comes out of the side level hole\n<br> Ive learn' t from this forum about a breather pipe at the front of the box by the nose cone and if you overfill,oil will leak out until the level is correct but you may cause damage with the extra pressure \n<br> tissy",
+    "lastEdited" : "Fri Sep 26, 2014 9:16 pm"
+  }, {
+    "postId" : "804329",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "804329",
+      "joined" : "Wed Dec 21, 2011 6:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northampton",
+      "postCount" : "1263",
+      "avatarPath" : null
+    },
+    "content" : "Found the capacities in the Brooklands manual and added into my post above.\n<br> \n<br> Transmission capacity:\n<br> \n<br> 5.3 Imperial pints initially\n<br> 4.4 Imperial pints on refilling\n<br> \n<br> Reduction gear case:\n<br> \n<br> 0.4 Imperial pints\n<br> \n<br> Hope this helps.\n<br> \n<br> Nik \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sat Sep 27, 2014 6:27 am"
+  } ]
+}

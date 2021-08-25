@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "9938",
+  "title" : "split charge relay near disaster",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=9938",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 19,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "58292",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58292",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11923",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "Notice the other day my leisure battery had gone flat so decided to fault find. Well the fuse(25 amp) that runs from the alternator to terminal 30 on the relay had been burned to half it's size with the fuse wire intact so assume it only broke circuit due to not making contact. \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> \n<br> \n<br> I tried to see if the relay was working but there seemed to be no or little charge coming out of the relay. I am led to believe if a battery gets very flat that this could cause over 200volts to go back down the cable to the said fuse(weekest point/ alternator.\n<br> \n<br> This is something i found on the subject and was repeated again on other websites \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\"> \n<br> \n<blockquote class=\"uncited\">\n <div>\n  Well, in the relays coil something similar happens, only not on such a grand scale, when the coils magnetic field collapses, it too creates a high voltage, but as there's only one coil, it creates in the coil you were powering from the alternator, this causes an inductive kickback (also known as Back EMF) basically anything upto 200 volts can be sent back down the wire that was powering the relays coil.. and this is connected to the alternator, where it could be possible to cause some damage.\n  <br> \n  <br> There is a way to prevent this inductive kickback from getting any further than the coil, and that's to use a diode across the coil like below.\n </div>\n</blockquote>Any easy and safe ways to resolve this the wire is about 27 amp feeding the relay and the relay is 40 amp not into fitting diodes so what have you guys done or is it only my badluck. It was a close call in the engine bay \n<img class=\"smilies\" src=\"./images/smilies/icon_cry.gif\" width=\"15\" height=\"15\" alt=\":cry:\" title=\"Cry\">",
+    "lastEdited" : "Tue Jun 28, 2005 3:57 pm"
+  }, {
+    "postId" : "58295",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58295",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "It might be 200Volts, but it has virtually no current so wouldn't of caused that damage.\n<br> \n<br> The real problem is likely to be it getting hot, or making a poor contact. Fuse holders carrying a lot of current should be attached to the body, they should not be allowed to move about.\n<br> \n<br> Paul",
+    "lastEdited" : "Tue Jun 28, 2005 4:07 pm"
+  }, {
+    "postId" : "58296",
+    "author" : {
+      "username" : "Steve S",
+      "userId" : "58296",
+      "joined" : "Thu Apr 17, 2003 12:21 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "The Cabbage Patch",
+      "postCount" : "282",
+      "avatarPath" : null
+    },
+    "content" : "Used to have a similar problem with a split charge setup a few years ago - was always popping 25 amp fuses. Secret is not to let the aux battery get discharged - I used to leave the fridge running on 12 volt for long periods. Solution was to correctly wire the fridge so that the 12 volt drops out on the relay when the engine is not running. Aux battery is only really good for lights / music at best. Otherwise you need to parallel wire 2 batteries in heavy cable to take full alternator / dynamo output.\n<br> \n<br> Steve S.",
+    "lastEdited" : "Tue Jun 28, 2005 4:35 pm"
+  }, {
+    "postId" : "58309",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58309",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11923",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "<blockquote class=\"uncited\">\n <div>\n  The real problem is likely to be it getting hot, or making a poor contact. Fuse holders carrying a lot of current should be attached to the body, they should not be allowed to move about. \n  <br> \n  <br> Paul\n </div>\n</blockquote> hi paul it is fitted correctly but as i thought letting the battery run low doesn't help and gives a massive inbalance in the charging circuits. \n<br> \n<br> \n<blockquote class=\"uncited\">\n <div>\n  Used to have a similar problem with a split charge setup a few years ago - was always popping 25 amp fuses. Secret is not to let the aux battery get discharged - I used to leave the fridge running on 12 volt for long periods. Solution was to correctly wire the fridge so that the 12 volt drops out on the relay when the engine is not running. Aux battery is only really good for lights / music at best. Otherwise you need to parallel wire 2 batteries in heavy cable to take full alternator / dynamo output. \n </div>\n</blockquote> yeah i believe this is the case Steve, i was running my 12 volt cool box plus stereo the other weekend and as you said trying to recharge a flat leisure battery take a lot out of my system. I'm gonna have to rethink this if i'm going for full on I.C.E with base bins etc.",
+    "lastEdited" : "Tue Jun 28, 2005 5:37 pm"
+  }, {
+    "postId" : "58333",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58333",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "At the end of the day you should never be directly connecting two totally different batteries together (both in terms of charge level and type) and expect it to work correctly.\n<br> \n<br> Everyone does it - that does not make it right. It is also why lots of tests have been done which show that leisure batteries do not work very well. \n<br> \n<br> The two batteries should not be connected together - they should have separate charging systems - either twin alternators or a smart charging system. A smart charging system would charge the main battery first before charging the auxilary battery. An ambulance for example would have something like this.\n<br> \n<br> Websites regarding houseboats tend to have quite a lot of information regarding this\n<br> \n<br> Paul",
+    "lastEdited" : "Tue Jun 28, 2005 7:29 pm"
+  }, {
+    "postId" : "58341",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58341",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11923",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "As i thought myself paul, I to was of the believe that different batteries don't mix even in the basic of instalations. So I'm gonna replace the relay put a smaller fuse online then start again but without flatting the battery \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> Not ideal but will have to do for now. \n<br> \n<br> I have been doing a search or two, there is some go info out there so i suppose it's just a matter of sorting out good from the bad. \n<br> \n<br> I think the van use to have something similar fitted when it was in the states it has for want of a better word jump lead size cable all under the bus. Also a large block which looks like some sort of change over?? \n<br> \n<br> will try to dig it out and see what it was all about \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Tue Jun 28, 2005 7:44 pm"
+  }, {
+    "postId" : "58350",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58350",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11923",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "how about the top one paul\n<br> \n<br> \n<a href=\"http://www.indexmarine.co.uk/pages/battman.htm#isolator\" class=\"postlink\">http://www.indexmarine.co.uk/pages/battman.htm#isolator</a>\n<br> \n<br> -2470 70 amp 2 1 115x80x62 £40.98",
+    "lastEdited" : "Tue Jun 28, 2005 7:56 pm"
+  }, {
+    "postId" : "58351",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58351",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "If you put a smaller fuse in it will just blow.\n<br> \n<br> If your fuse holder is loose, it could of been a poor connection, which would make it heat up - therefore melting the plastic of the fuse.\n<br> \n<br> Paul",
+    "lastEdited" : "Tue Jun 28, 2005 7:57 pm"
+  }, {
+    "postId" : "58438",
+    "author" : {
+      "username" : "thebouncingbunny",
+      "userId" : "58438",
+      "joined" : "Sun Oct 12, 2003 8:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "sunnyweymouth",
+      "postCount" : "3052",
+      "avatarPath" : null
+    },
+    "content" : "i was looking into split charging a while back.i have most of the bits but havent got round to sorting it.i foung goatboy's websit usefull.i think his site reccomends 30 amp fuses for the batterys",
+    "lastEdited" : "Wed Jun 29, 2005 8:04 am"
+  }, {
+    "postId" : "58445",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58445",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>vwbuzzers wrote:</cite>how about the top one paul\n  <br> \n  <br> \n  <a href=\"http://www.indexmarine.co.uk/pages/battman.htm#isolator\" class=\"postlink\">http://www.indexmarine.co.uk/pages/battman.htm#isolator</a>\n  <br> \n  <br> -2470 70 amp 2 1 115x80x62 £40.98\n </div>\n</blockquote> I don't think that will work just on its own, - you have to have the right type of alternator.\n<br> \n<br> I'll try and give the place a ring later for some advice.\n<br> \n<br> Paul",
+    "lastEdited" : "Wed Jun 29, 2005 8:21 am"
+  }, {
+    "postId" : "58488",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "58488",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11923",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "<blockquote class=\"uncited\">\n <div>\n  I'll try and give the place a ring later for some advice. \n  <br> \n  <br> Paul\n </div>\n</blockquote> that would be great it isn't big bucks await your reply\n<br> \n<br> Also the fuse was a ceramic/ bullet type one in a ceramic holder and i can only asume it had got hot in the engine bay so gonna fit blade type and a new hela relay for now. \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Wed Jun 29, 2005 12:24 pm"
+  }, {
+    "postId" : "59208",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "59208",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "655",
+      "avatarPath" : null
+    },
+    "content" : "Just a few of my thoughts prompted by this thread.\n<br> When installing a fridge or cool box, do not use the leisure battery circuit, connect via a separate relay directly to the generator.\n<br> Do not drive more than one relay from the D+ circuit of an alternator. (Not applicable to dynamos!) If two or more relays (e.g. fridge and leisure battery) are required, use another relay switched by the D+ circuit alone and use it to drive all the others.\n<br> If you have any form of electronics on board the vehicle, always ensure a capacitor (= condenser = suppressor) value 2.2uF is across the alternator or dynamo regulator B+ terminal to earth, as a minimum. Relays are not the only vehicle component that that produces fast high voltage spikes! (fortunately with low energy)\n<br> If you have really expensive electronic equipment on board, then a wise investment is in relays with integral diode, or alternatively fit a diode externally.\n<br> For battery isolators, a ‘machined sensed’ version is applicable for the air-cooled range.\n<br> Should any battery ever become fully (or nearly) discharged, re-charge with a battery charger – except in an emergency of course!\n<br> Peter Good",
+    "lastEdited" : "Mon Jul 04, 2005 6:44 pm"
+  }, {
+    "postId" : "59223",
+    "author" : {
+      "username" : "snowman",
+      "userId" : "59223",
+      "joined" : "Sun Nov 30, 2003 7:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1958",
+      "avatarPath" : null
+    },
+    "content" : "is there a gadget /box of tricks that meets the above technical requirements ?Ie one thats compatable with a standard 1600 alternator/engine etc.\n<br> If not why not?\n<br> Boats have dual charging systems , mobile Hiltons have them too &amp; probably caravans!\n<br> surely we dont need to reinvent the wheel.\n<br> \n<br> Its obvious from all the different posts and theories on different web sites that theres got to be a big demand for a \" plug in unit? \n<img class=\"smilies\" src=\"./images/smilies/icon_confused.gif\" width=\"15\" height=\"15\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Mon Jul 04, 2005 7:39 pm"
+  }, {
+    "postId" : "59240",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "59240",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "most caravan shops sell a unit with all the correct size wires, and an inline fuse for about £12.",
+    "lastEdited" : "Mon Jul 04, 2005 8:14 pm"
+  }, {
+    "postId" : "59245",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "59245",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6235",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>wilgartw wrote:</cite>most caravan shops sell a unit with all the correct size wires, and an inline fuse for about £12.\n </div>\n</blockquote> These still aren't the right things, unless you have 2 batteries that are exactly the same and they have the same charge level.\n<br> \n<br> I will phone that company tomorrow - totally forgot last week\n<br> \n<br> Paul",
+    "lastEdited" : "Mon Jul 04, 2005 8:28 pm"
+  } ]
+}

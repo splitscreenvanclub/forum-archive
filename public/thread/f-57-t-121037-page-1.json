@@ -1,0 +1,92 @@
+{
+  "forumId" : "57",
+  "threadId" : "121037",
+  "title" : "busfest tickets",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=121037",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57",
+    "label" : "Magazine"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "908385",
+    "author" : {
+      "username" : "DRDOOLITTLE",
+      "userId" : "908385",
+      "joined" : "Mon Apr 09, 2012 7:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "13",
+      "avatarPath" : null
+    },
+    "content" : "I am trying to book early busfest tickets but it wants the code for SSVC members. It is normally in the club magazine but I cannot seem to find it. Could you let me know the code or the month the code is in.\n<br> Carole",
+    "lastEdited" : "Mon Jan 22, 2018 8:28 am"
+  }, {
+    "postId" : "908391",
+    "author" : {
+      "username" : "Sally",
+      "userId" : "908391",
+      "joined" : "Fri May 19, 2017 1:58 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "Hi Carole,\n<br> I'm not sure if the code is available yet.\n<br> I will see what I can find out.\n<br> What's your SSVC membership number?\n<br> Sally",
+    "lastEdited" : "Mon Jan 22, 2018 3:57 pm"
+  }, {
+    "postId" : "908393",
+    "author" : {
+      "username" : "tman",
+      "userId" : "908393",
+      "joined" : "Tue Oct 26, 2010 9:22 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford, UK",
+      "postCount" : "141",
+      "avatarPath" : "./download/file.php%3Favatar=34789_1310068171.gif"
+    },
+    "content" : "The Busfest/SSVC booking code is in the Members Area.\n<br> \n<br> To gain access, you need to get your SSVC membership linked to your forum account and this isn't automatic - see the following post for instructions on getting them linked: \n<a href=\"https://www.ssvc.org.uk/phpbb/viewtopic.php?f=2&amp;t=108144\" class=\"postlink\">https://www.ssvc.org.uk/phpbb/viewtopic ... 2&amp;t=108144</a>",
+    "lastEdited" : "Mon Jan 22, 2018 5:43 pm"
+  }, {
+    "postId" : "908395",
+    "author" : {
+      "username" : "DRDOOLITTLE",
+      "userId" : "908395",
+      "joined" : "Mon Apr 09, 2012 7:33 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "13",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=908391#p908391\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=42152\">Sally</a> wrote: <a href=\"./viewtopic.php?p=908391#p908391\" data-post-id=\"908391\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Mon Jan 22, 2018 3:57 pm</span></cite> Hi Carole,\n  <br> I'm not sure if the code is available yet.\n  <br> I will see what I can find out.\n  <br> What's your SSVC membership number?\n  <br> Sally\n  <br> Our membership number is 1189\n </div>\n</blockquote>",
+    "lastEdited" : "Mon Jan 22, 2018 7:05 pm"
+  }, {
+    "postId" : "908405",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "908405",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "937",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Carole, pm is on it's way to you.",
+    "lastEdited" : "Mon Jan 22, 2018 8:25 pm"
+  }, {
+    "postId" : "908428",
+    "author" : {
+      "username" : "Sally",
+      "userId" : "908428",
+      "joined" : "Fri May 19, 2017 1:58 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Dougie,\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Jan 23, 2018 3:56 pm"
+  } ]
+}

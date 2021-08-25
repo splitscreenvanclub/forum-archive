@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "124219",
+  "title" : "Westfalia style roof rack for sale",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124219",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=08f0ce9af2c33826c550cd1ad0c00d91",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927292",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "927292",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "It's not mine, being offered for a mate who's got better things to do.\n<br> I think it's a two bow, chrome, fits a Splitty.\n<br> I'll add more information as I get it and the price.\n<br> So if anyone is thinking about getting a rack....be patient..so price is £275 Ono\n<br> \n<br> It's a stainless creative rack with little use.....over £400 to buy today.\n<br> \n<br> Ron",
+    "lastEdited" : "Tue Jan 07, 2020 10:51 am"
+  }, {
+    "postId" : "927293",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "927293",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15456",
+      "avatarPath" : null
+    },
+    "content" : "<img src=\"http://emoji.tapatalk-cdn.com/emoji16.png\">",
+    "lastEdited" : "Tue Jan 07, 2020 11:58 am"
+  }, {
+    "postId" : "927294",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "927294",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "805",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Pm sent Ron \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Tue Jan 07, 2020 12:06 pm"
+  } ]
+}

@@ -1,0 +1,63 @@
+{
+  "forumId" : "2",
+  "threadId" : "112290",
+  "title" : "French Connection",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112290",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847095",
+    "author" : {
+      "username" : "malum",
+      "userId" : "847095",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "198",
+      "avatarPath" : null
+    },
+    "content" : "Just back from France where we covered some 1,173 miles in the old bus\n<br>Dieppe, Loire, Dordoigne and Il De Re then back to Dieppe.\n<br>\n<br>One minor hitch with a loose electrical connection (only the split charge for the leisure battery and fixed with a bit of electrical tape) and one, potentially catastrophic, loose grub screw holding on the wiper arm on the drivers side. I had identified it as a problem early in the week during a shower but despite trying 2 hardware stores I could not find a set of Imperial allen keys and no amount of jamming a screwdriver into it was going to budge it. I ignored it as I was still getting some movement of the wiper across the screen.\n<br>However, on the trip back up through France yesterday (by far the longest leg) it rained torrentially for the entire 6 hours and on the motorway the wiper gave up. I had to drive 20km to the next exit with no wiper in absolutely horrible rain.\n<br>We found a garage where the bloke spoke no English but a bit of sign language did the job. He also had no Imperial allen keys (the French really have gone metric) and in the end rammed a torx head key into it to tighten it. I gave him 10 Euros and he gave me the key as well in case it came loose later. It didn't. After which the wipers actually did a really good job of clearing the screen. The rain was of the type that makes you consider building an ark.\n<br>\n<br>Newly installed Creative Engineering steering rack was marvellous, I could actually drive down the road with only one hand on the wheel and no constant corrections when going in a straight line. My steering box was worn (but MOT passable) and I got used to it but the difference was amazing. Had one day of driving (3.5 hours) in 50mph cross winds which would have been suicidal with the old steering box. It was still like wrestling a bear but didn't feel dangerous (well it didn't to me but the wife was terrified) \n<br>\n<br>Didn't see a single other split screen anywhere in France\n<br>\n<br>Anyway she did us proud the old girl, photo is us about to leave for France in Newhaven",
+    "lastEdited" : "Fri Aug 28, 2015 8:12 pm"
+  }, {
+    "postId" : "847096",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "847096",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1201",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "Nice one! We hope to be doing the same in ours soon. Nice to see them getting used for the intended purpose. Smiles all round!",
+    "lastEdited" : "Fri Aug 28, 2015 8:16 pm"
+  }, {
+    "postId" : "848157",
+    "author" : {
+      "username" : "split bus kev",
+      "userId" : "848157",
+      "joined" : "Thu May 19, 2005 3:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Notts",
+      "postCount" : "1448",
+      "avatarPath" : "./download/file.php%3Favatar=1406_1231534967.gif"
+    },
+    "content" : "Nice one!\n<br>\n<br>Have a photo.....\n<br>\n<br>\n<img src=\"http://images.tapatalk-cdn.com/15/09/08/1a1dd440330c1a05890ab995afde25bf.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>My parents snapped you in the Dordogne while they were there on their hols too \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Sep 08, 2015 9:51 am"
+  }, {
+    "postId" : "848160",
+    "author" : {
+      "username" : "malum",
+      "userId" : "848160",
+      "joined" : "Fri Jul 22, 2011 7:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "198",
+      "avatarPath" : null
+    },
+    "content" : "Cool\n<br>\n<br>Thank you very much \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Tue Sep 08, 2015 10:12 am"
+  } ]
+}

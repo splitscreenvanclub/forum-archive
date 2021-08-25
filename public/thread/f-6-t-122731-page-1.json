@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "122731",
+  "title" : "Red light only at idle",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122731",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=3f2c1966d68758b1153549de704f4490",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "917319",
+    "author" : {
+      "username" : "busface",
+      "userId" : "917319",
+      "joined" : "Tue Mar 20, 2012 12:29 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Marche, Italy",
+      "postCount" : "134",
+      "avatarPath" : null
+    },
+    "content" : "Engine 1500 sp running sweet.\n<br> \n<br> Idles 850~950rpm\n<br> \n<br> Rebuilt non Bosch dynamo... German rebuild though \n<br> \n<br> Once engine has warmed up and settled down red light comes on. Once I tickle the throttle it goes and same when driving but once revs are down on again. \n<br> \n<br> Only other thing is during my mot the tester made me rev the engine to get the headlights through the brightness test.. \n<br> \n<br> My question is is it the battery regulator or the tesco value dynamo that's at fault? \n<br> \n<br> Thanks Philip",
+    "lastEdited" : "Sun Nov 11, 2018 11:36 am"
+  }, {
+    "postId" : "917320",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "917320",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "470",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "I would put a tester across the battery and see what is going in at idle and when reved, 12.7 and up to maybe 14v . if that's ok maybe suspect faulty battery. my red light will come on sometimes when at idle. very slow tickover which I like.",
+    "lastEdited" : "Sun Nov 11, 2018 1:29 pm"
+  }, {
+    "postId" : "917338",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "917338",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20061",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "First off, double check its not the oil pressure light incorrectly wired up.",
+    "lastEdited" : "Sun Nov 11, 2018 8:02 pm"
+  }, {
+    "postId" : "917360",
+    "author" : {
+      "username" : "PeterJ",
+      "userId" : "917360",
+      "joined" : "Wed Feb 16, 2011 9:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "I had exactly the same problem several years ago when I replaced a Bosch dynamo with one of the cheaper repro ones. It was basically OK but from the very start, at idle the red light came on. Like yours, once the throttle was on a little bit it went out. Also tried a different regulator – no difference. The replacement dynamo only lasted a couple of years but I replaced it with a (more expensive) recon Bosch unit. This not only looked better quality (subjective, I know) but as for the original unit, the red light at idle was banished. No problems at all since then.",
+    "lastEdited" : "Mon Nov 12, 2018 12:03 pm"
+  }, {
+    "postId" : "917364",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "917364",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "333",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "It is normal for the red light to come on at idle revs that is why alternators were invented!!\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Nov 12, 2018 12:42 pm"
+  }, {
+    "postId" : "917378",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "917378",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20061",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=39116&amp;sid=3f2c1966d68758b1153549de704f4490\">Stevep</a> wrote: <a href=\"./viewtopic.php?p=917364&amp;sid=3f2c1966d68758b1153549de704f4490#p917364\" data-post-id=\"917364\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Mon Nov 12, 2018 12:42 pm\n   </div></cite> It is normal for the red light to come on at idle revs that is why alternators were invented!!\n  <br> \n  <br> \n  <br> Sent from my iPhone using Tapatalk \n </div>\n</blockquote> Only when there's something wrong.",
+    "lastEdited" : "Mon Nov 12, 2018 10:15 pm"
+  }, {
+    "postId" : "917379",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "917379",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "333",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "When I say the light comes on a flicker is more accurate. \n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Mon Nov 12, 2018 10:28 pm"
+  }, {
+    "postId" : "917397",
+    "author" : {
+      "username" : "busface",
+      "userId" : "917397",
+      "joined" : "Tue Mar 20, 2012 12:29 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Marche, Italy",
+      "postCount" : "134",
+      "avatarPath" : null
+    },
+    "content" : "Thank you for all the advice.\n<br> \n<br> I have just bought a new battery as it appears the old one is in bad shape...I should have checked it straight off but it was relatively new. I guess months standing idle plus all my other adventures ( burning out my last dynamo \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\"> ) have taken thier toll.\n<br> \n<br> As for the wiring everything is in order there as i have been going through it sorting problems with starter motor, oil pressure sensor, temp gauge etc\n<br> \n<br> Thank for the help, again! \n<br> Philip",
+    "lastEdited" : "Tue Nov 13, 2018 11:21 am"
+  } ]
+}

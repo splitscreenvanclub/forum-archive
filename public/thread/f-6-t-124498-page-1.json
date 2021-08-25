@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "124498",
+  "title" : "Headliner",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=124498",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "928800",
+    "author" : {
+      "username" : "John82",
+      "userId" : "928800",
+      "joined" : "Sat Dec 01, 2018 5:18 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "174",
+      "avatarPath" : null
+    },
+    "content" : "Hello everyone.\n<br> I want to buy a hardliner off white for my 67 kombi.\n<br> What else will I need so as to fit the headliner?\n<br> Will I need bow end caps or grip rails and how many of them? Or something else?",
+    "lastEdited" : "Wed Apr 08, 2020 7:31 pm"
+  }, {
+    "postId" : "928804",
+    "author" : {
+      "username" : "jackricha",
+      "userId" : "928804",
+      "joined" : "Thu Feb 18, 2010 10:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "East Sussex",
+      "postCount" : "307",
+      "avatarPath" : null
+    },
+    "content" : "Speak to wonderland classics \n<br> \n<a href=\"http://www.wonderlandclassics.com/\" class=\"postlink\">http://www.wonderlandclassics.com/</a>\n<br> \n<br> They have the Headliners, bows, etc. Also they do a guide to how to fit. \n<br> \n<br> You should have some grippers in the cab area \n<br> \n<a href=\"https://ssvc.org.uk/phpbb/viewtopic.php?t=84143\" class=\"postlink\">https://ssvc.org.uk/phpbb/viewtopic.php?t=84143</a>\n<br> \n<br> Also see this thread page where Mark fits the headlining\n<br> \n<a href=\"https://www.ssvc.org.uk/phpbb/viewtopic.php?f=8&amp;t=77632&amp;start=2955\" class=\"postlink\">https://www.ssvc.org.uk/phpbb/viewtopic ... start=2955</a>",
+    "lastEdited" : "Thu Apr 09, 2020 4:54 am"
+  } ]
+}

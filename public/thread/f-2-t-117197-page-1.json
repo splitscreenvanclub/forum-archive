@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "117197",
+  "title" : "upholstery excellent work",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=117197",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=076baa80ba5b961a74a6b7f1c607a8c5",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "882554",
+    "author" : {
+      "username" : "mikey52",
+      "userId" : "882554",
+      "joined" : "Mon Sep 09, 2013 8:03 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "45",
+      "avatarPath" : null
+    },
+    "content" : "hi \n<br> \n<br> just had my bus trimmed out by dave at spirit interiors having seen his work at Stanford hall we decided to go with him \n<br> \n<br> nothing was too much trouble and has done an excellent job on all the upholstery work and he put in a new headlining wow as factory fitted \n<br> \n<br> and as a real bonus he did exactly as we asked with panel detail and piping etc and we delivered it as agreed and was finished on time \n<br> over three weeks and at a very good price \n<br> \n<br> his contact details are 01675 479775 or their website spirit interiors based in a small one vehicle workshop north east Birmingham \n<br> \n<br> fully recommend \n<br> \n<br> mike",
+    "lastEdited" : "Fri Sep 02, 2016 6:43 am"
+  }, {
+    "postId" : "882579",
+    "author" : {
+      "username" : "Hongkongphooey",
+      "userId" : "882579",
+      "joined" : "Wed Dec 15, 2010 11:39 am",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "565",
+      "avatarPath" : null
+    },
+    "content" : "I have heard good things about them, any photos by chance to show off the new interior?",
+    "lastEdited" : "Fri Sep 02, 2016 12:02 pm"
+  } ]
+}

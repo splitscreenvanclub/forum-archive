@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "114584",
+  "title" : "Speedo transplant",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=114584",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=c9e69a2d46ebf004b7d99abbd8a48eba",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "864065",
+    "author" : {
+      "username" : "PIPKIN",
+      "userId" : "864065",
+      "joined" : "Thu Jul 03, 2008 6:58 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "314",
+      "avatarPath" : null
+    },
+    "content" : "Hi Folks,\n<br> \n<br> Just wondering if a 12 volt beetle speedo can be put into a bus binnacle. \n<br> \n<br> My current fuel gauge is doomed and the speedo registers mileage but not speed.\n<br> \n<br> So, if it fits, a 12 voly beetle speedo could be a good solution.\n<br> \n<br> Just wondering if anyone knows if this transplant is possible.\n<br> \n<br> Cheers\n<br> \n<br> Paul",
+    "lastEdited" : "Mon Feb 15, 2016 8:01 pm"
+  }, {
+    "postId" : "864095",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "864095",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "The speedo route is wrong, so it makes the cable stressed unless you cut a new hole in the dash and re-route it.",
+    "lastEdited" : "Tue Feb 16, 2016 8:25 am"
+  }, {
+    "postId" : "864102",
+    "author" : {
+      "username" : "PIPKIN",
+      "userId" : "864102",
+      "joined" : "Thu Jul 03, 2008 6:58 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nottingham",
+      "postCount" : "314",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the pointer VWJim, can I assume that all other aspects of the transplant should work in principle?\n<br> \n<br> Cheers\n<br> \n<br> Paul",
+    "lastEdited" : "Tue Feb 16, 2016 9:42 am"
+  }, {
+    "postId" : "864119",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "864119",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "Yeah, my 15 came with a Beetle speedo and the under dash tray had been drilled, as Jim said, to re route the cable.",
+    "lastEdited" : "Tue Feb 16, 2016 11:37 am"
+  }, {
+    "postId" : "864287",
+    "author" : {
+      "username" : "Archie3781",
+      "userId" : "864287",
+      "joined" : "Tue Jun 17, 2014 6:59 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "143",
+      "avatarPath" : "./download/file.php%3Favatar=39333_1419289867.jpg"
+    },
+    "content" : "Pipkin, \n<br> It's exactly what I intended doing until I got mine sorted, I have a 59 bug speedo, fully refurbed by Thorsten at Krautclassicparts in Germany for sale if your interested.",
+    "lastEdited" : "Wed Feb 17, 2016 6:18 pm"
+  }, {
+    "postId" : "864432",
+    "author" : {
+      "username" : "scottish splitty",
+      "userId" : "864432",
+      "joined" : "Sun Oct 08, 2006 4:39 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "stirling scotland",
+      "postCount" : "461",
+      "avatarPath" : null
+    },
+    "content" : "Hi\n<br> You can fit a beetle speedo,all the parts are interchangeable.i used some of the parts from my original speedo and made one out a bettle speedo.\n<br> as Jim said the speedo drive part does come out the side but a little hole in the shelf and its okay.\n<br> I had planned on using the fuel gauge on mine but never got round to it.",
+    "lastEdited" : "Thu Feb 18, 2016 9:25 pm"
+  } ]
+}

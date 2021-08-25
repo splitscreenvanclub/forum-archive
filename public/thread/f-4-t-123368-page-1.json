@@ -1,0 +1,79 @@
+{
+  "forumId" : "4",
+  "threadId" : "123368",
+  "title" : "Fresh air vent trim (Sold)",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=123368",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=2de661fee534653da00c58c6c402ea6a",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "922039",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "922039",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "Selling a vent rear trim in very good condition, just needs spraying to match your bus. Looking for £25 including UK postage.",
+    "lastEdited" : "Tue May 07, 2019 1:53 pm"
+  }, {
+    "postId" : "922072",
+    "author" : {
+      "username" : "terrygreen",
+      "userId" : "922072",
+      "joined" : "Sun Apr 15, 2018 12:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hertfordshire",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "Hi \n<br> I’ll take the vent trim please. Pm me details for payment. Thx Terry",
+    "lastEdited" : "Wed May 08, 2019 11:54 am"
+  }, {
+    "postId" : "922088",
+    "author" : {
+      "username" : "Slippers",
+      "userId" : "922088",
+      "joined" : "Wed Jul 25, 2007 9:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Cornwall",
+      "postCount" : "548",
+      "avatarPath" : null
+    },
+    "content" : "You’ve got a P.M.",
+    "lastEdited" : "Wed May 08, 2019 9:13 pm"
+  }, {
+    "postId" : "922091",
+    "author" : {
+      "username" : "terrygreen",
+      "userId" : "922091",
+      "joined" : "Sun Apr 15, 2018 12:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hertfordshire",
+      "postCount" : "19",
+      "avatarPath" : null
+    },
+    "content" : "Pm’d You",
+    "lastEdited" : "Wed May 08, 2019 11:40 pm"
+  }, {
+    "postId" : "922097",
+    "author" : {
+      "username" : "Rocket Ron",
+      "userId" : "922097",
+      "joined" : "Fri Jun 06, 2003 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "wiltshire",
+      "postCount" : "1574",
+      "avatarPath" : null
+    },
+    "content" : "I have three of these if anyone wants one or needs one...\n<br> \n<a href=\"mailto:ron@vwendangeredspecies.co.uk\">ron@vwendangeredspecies.co.uk</a>\n<br> \n<br> Ron",
+    "lastEdited" : "Thu May 09, 2019 8:40 am"
+  } ]
+}

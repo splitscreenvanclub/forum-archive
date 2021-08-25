@@ -1,0 +1,131 @@
+{
+  "forumId" : "6",
+  "threadId" : "121981",
+  "title" : "cargo door wont open even when unlocked",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=121981",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=82d45ca5ff8fdd9c67eb4aa334a7f9fc",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "913165",
+    "author" : {
+      "username" : "piran",
+      "userId" : "913165",
+      "joined" : "Thu Jul 24, 2014 5:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "hi,\n<br> all was fine with my cargo door lock etc until today.\n<br> i can lock and unlock with the key in the door handle no problem but when i use the handle to try and open the door it only goes part of the way down which is not always enough the get the bar at the top and the bottom of the cargo door to clear so i can open it.\n<br> another issue is that i have to manually push the striker part of the door back towards the body of the lock inside the bus so i can get it open.\n<br> not sure if something has come loose inside and thought for me its more sensible to ask those that know rather than mess it up.\n<br> help would be much appreciated.\n<br> rob",
+    "lastEdited" : "Sat Jun 02, 2018 4:48 pm"
+  }, {
+    "postId" : "913172",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "913172",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "922",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Something is clearly fouling somewhere, it could be really easy to find. With both doors open check the square holes in the body where the rods locate top and bottom. Are they clear ? Again with both doors open check you have full movement in each handle. You will be able to see the rods pop out of the door and back again. Movement of the handle should be smooth without any tight spots or fouling. If all is well the next thing to check would be the rods are lining up nicely with the holes in the body when the door is shut. Shut one door at a time checking you get full movement of the handle as the rods locate. Hopefully by now you will have a better idea where things are going wrong. The lock itself is pretty basic stuff, even a few squirts of WD40 might sort any sticking inside before you start pulling things apart.",
+    "lastEdited" : "Sun Jun 03, 2018 2:51 am"
+  }, {
+    "postId" : "913174",
+    "author" : {
+      "username" : "piran",
+      "userId" : "913174",
+      "joined" : "Thu Jul 24, 2014 5:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "thank you for the reply...will give it a try today.\n<br> all the best\n<br> \n<br> rob",
+    "lastEdited" : "Sun Jun 03, 2018 7:54 am"
+  }, {
+    "postId" : "913176",
+    "author" : {
+      "username" : "andy",
+      "userId" : "913176",
+      "joined" : "Thu May 01, 2003 6:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Norfhamptonville",
+      "postCount" : "475",
+      "avatarPath" : null
+    },
+    "content" : "i had problem like this isn't there a guide welded inside the bottom of the door ,I think mine had rusted out or come loose, and the handle would jam up .",
+    "lastEdited" : "Sun Jun 03, 2018 8:53 am"
+  }, {
+    "postId" : "913188",
+    "author" : {
+      "username" : "piran",
+      "userId" : "913188",
+      "joined" : "Thu Jul 24, 2014 5:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "not sure if there is a guide....can anyone advise if there is one please",
+    "lastEdited" : "Sun Jun 03, 2018 6:33 pm"
+  }, {
+    "postId" : "913192",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "913192",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "922",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "How have you got on today? Any issues found yet?",
+    "lastEdited" : "Sun Jun 03, 2018 7:44 pm"
+  }, {
+    "postId" : "913211",
+    "author" : {
+      "username" : "piran",
+      "userId" : "913211",
+      "joined" : "Thu Jul 24, 2014 5:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "hiya\n<br> gonna give it a try tomorrow after work...got a few things to loom at thanks to you guys.\n<br> can you please tell me how the rods connect to the lock mech in case i need to remove it\n<br> all the best\n<br> rob",
+    "lastEdited" : "Mon Jun 04, 2018 11:38 am"
+  }, {
+    "postId" : "913222",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "913222",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15631",
+      "avatarPath" : null
+    },
+    "content" : "Depends on the year...best to carefully take trim panel off and then you will see..",
+    "lastEdited" : "Mon Jun 04, 2018 6:38 pm"
+  }, {
+    "postId" : "913426",
+    "author" : {
+      "username" : "piran",
+      "userId" : "913426",
+      "joined" : "Thu Jul 24, 2014 5:20 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "394",
+      "avatarPath" : null
+    },
+    "content" : "hi guys,\n<br> thanks to you all for your advice.\n<br> here is what i did,\n<br> after\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=29778&amp;sid=82d45ca5ff8fdd9c67eb4aa334a7f9fc&amp;mode=view\"><img src=\"./download/file.php?id=29778&amp;t=1&amp;sid=82d45ca5ff8fdd9c67eb4aa334a7f9fc\" class=\"postimage\" alt=\"IMG_20180610_122658130_BURST000_COVER.jpeg\" title=\"IMG_20180610_122658130_BURST000_COVER.jpeg (89.61 KiB) Viewed 1443 times\"></a>\n  </dt> \n </dl> \n</div> checking out the movement of the rods that connect to the lock mech and due to the fact they were moving freely i decided to get a new lock mechanism.\n<br> i took off the door card and removed the old mech and fitted the new mech and aaaaaahhhhh had the same problem....i then inspected the lock on the outer cargo door handle and noticed some swarf so i cleaned it out and a little piece of metal fell out.....fitted it back in to my original VW lock mech and hey presto it works....the door wont lock with the key but i will get a replacement handle sorted but at least it all works freely which is a relief i can tell you.\n<br> so this is a new spin on why your cargo door mech may not work properly and is an easy thing to check out first.....never expected it to be that.\n<br> thanks again for all advice.\n<br> rob",
+    "lastEdited" : "Sun Jun 10, 2018 12:11 pm"
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "forumId" : "4",
+  "threadId" : "124103",
+  "title" : "Water tank from '64 Devon",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=124103",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=df68f829a3bbaa25f8f586f592941911",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "926727",
+    "author" : {
+      "username" : "Harries",
+      "userId" : "926727",
+      "joined" : "Thu Dec 31, 2009 11:44 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Cardiff",
+      "postCount" : "16",
+      "avatarPath" : "./download/file.php%3Favatar=33830_1275659308.jpg"
+    },
+    "content" : "Water tank from '64 Devon\n<br> Intended to install this but never got around to it. Was free to me so will pass on for free.&lt;br/&gt;\n<br> Need to collect from South Wales.&lt;br/&gt;\n<br> txt if interested 07906060552&lt;/t&gt;",
+    "lastEdited" : "Sat Nov 23, 2019 8:51 pm"
+  }, {
+    "postId" : "926730",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "926730",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "809",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Pm sent thanks",
+    "lastEdited" : "Sat Nov 23, 2019 9:13 pm"
+  }, {
+    "postId" : "926785",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "926785",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5538",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "thats not a 64 devon water tank...\n<br> \n<br> ...its just a water tank",
+    "lastEdited" : "Tue Nov 26, 2019 2:55 pm"
+  }, {
+    "postId" : "926789",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "926789",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15708",
+      "avatarPath" : null
+    },
+    "content" : "It may have been in a 64 Devon but it was not fitted by Devon.",
+    "lastEdited" : "Wed Nov 27, 2019 6:23 am"
+  }, {
+    "postId" : "926790",
+    "author" : {
+      "username" : "vwdave",
+      "userId" : "926790",
+      "joined" : "Mon Sep 02, 2013 10:53 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Carnforth, Lancs",
+      "postCount" : "809",
+      "avatarPath" : "./download/file.php%3Favatar=38399_1381184844.jpg"
+    },
+    "content" : "Thanks both",
+    "lastEdited" : "Wed Nov 27, 2019 10:13 am"
+  } ]
+}

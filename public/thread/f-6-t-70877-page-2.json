@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "70877",
+  "title" : "IRS Camber problem, low buses",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=70877&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=754e530ced4984779e47fa26b455bf28",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 40,
+  "pageNumber" : 2,
+  "totalPages" : 3,
+  "posts" : [ {
+    "postId" : "874499",
+    "author" : {
+      "username" : "OP",
+      "userId" : "874499",
+      "joined" : "Thu Apr 17, 2003 7:33 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham/Cornwall",
+      "postCount" : "2186",
+      "avatarPath" : "./download/file.php%3Favatar=20_1491993156.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>66 SO42 wrote:</cite>Hi All\n  <br> \n  <br> I'm toying with the idea of getting some wedges made to solve the issue of camber on the back wheels. We've made a test set up that have been fitted to a bus (I'll try and get Sean to post some before and after pics shortly), but they will be laser cut to follow the profile ot the A arms, and fit between the spring plate and A arm, and are machined down to suit the bus/ride height.\n  <br> \n  <br> Not got final costs yet, but would imagine they will be somewhere in the region of £50 per pair\n  <br> \n  <br> Just wanting to judge if there is any interest?\n  <br> \n  <br> Cheers\n  <br> \n  <br> Neil\n </div>\n</blockquote> Be interested mate, just about to replace the rear tyres as worn too much on the inner edge due to camber.",
+    "lastEdited" : "Sun May 15, 2016 8:27 am"
+  }, {
+    "postId" : "874584",
+    "author" : {
+      "username" : "Jejochem",
+      "userId" : "874584",
+      "joined" : "Tue May 22, 2012 7:41 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Pembrokeshire",
+      "postCount" : "372",
+      "avatarPath" : null
+    },
+    "content" : "A bit more info.\n<br> \n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=115827\" class=\"postlink\">viewtopic.php?f=6&amp;t=115827</a>\n<br> \n<br> \n<br> Haven't got round to adjusting mine yet, but will post up results when done.",
+    "lastEdited" : "Mon May 16, 2016 7:22 am"
+  }, {
+    "postId" : "882487",
+    "author" : {
+      "username" : "lowdown dirty rat",
+      "userId" : "882487",
+      "joined" : "Sat Feb 23, 2008 6:14 am",
+      "profileRank" : "Registered user",
+      "location" : "UK",
+      "postCount" : "919",
+      "avatarPath" : null
+    },
+    "content" : "Is this just a problem with CE arms or any bay IRS that's been lowered?\n<br> Does anyone know if T1 IRS kits are any better for camber?",
+    "lastEdited" : "Thu Sep 01, 2016 4:34 pm"
+  }, {
+    "postId" : "882490",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "882490",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Its mainly CE IRS, purely down to their system having zero adjustability. \n<br> \n<br> Boxwagen Bay IRS design has camber compensation built it. \n<br> \n<br> Most T1 IRS is adjustable too.",
+    "lastEdited" : "Thu Sep 01, 2016 5:15 pm"
+  }, {
+    "postId" : "882526",
+    "author" : {
+      "username" : "lowdown dirty rat",
+      "userId" : "882526",
+      "joined" : "Sat Feb 23, 2008 6:14 am",
+      "profileRank" : "Registered user",
+      "location" : "UK",
+      "postCount" : "919",
+      "avatarPath" : null
+    },
+    "content" : "Thanks. \n<br> Let's say you got it spot on for your drive height but had air suspension. Does any one know if T1 or T2 IRS is subject to less camber change through their travel?\n<br> Would really love to know as I have both bolt on options ready to go and don't know which to choose.",
+    "lastEdited" : "Thu Sep 01, 2016 9:19 pm"
+  }, {
+    "postId" : "882537",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "882537",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Barely any difference I'd expect as marginal differences in the pivot points. \n<br> \n<br> Possibly T1 being better. T1 has more brake options, so I'd always go for that.",
+    "lastEdited" : "Thu Sep 01, 2016 11:04 pm"
+  }, {
+    "postId" : "882595",
+    "author" : {
+      "username" : "wizard 1066",
+      "userId" : "882595",
+      "joined" : "Fri Jan 03, 2014 7:47 pm",
+      "profileRank" : "Registered user",
+      "location" : "Barnsley south yorkshire",
+      "postCount" : "419",
+      "avatarPath" : null
+    },
+    "content" : "We have a similar problem with our splitty, as both rear wheels have camber in at the top, it has a Beetle irs fitted but not too low as its in regular use and still wanted some suspension that we could live with, both sides look different angles but only slightly out, we didnt fit any horseshoe plates or alter the rear before fitting it all up.\n<br> Still getting inner tire wear as expected but would like to correct the problem if possible.",
+    "lastEdited" : "Fri Sep 02, 2016 3:20 pm"
+  }, {
+    "postId" : "882670",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "882670",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "This has been gone over so many times.....if the cambers to excessive with a CE IRS set up then it's not been fitted/welded in the correct position.\n<br> This is the best pic I have at the mo but it shows the small amount of neg camber on the 15w with a Creative Engineering IRS.\n<br> Any IRS is meant to have a small amount of neg camber as the camber is affected more by body roll than ride height change. As the body rolls during cornering it increases tyre contact with road surface. If you start with zero camber you will lose contact with body roll.\n<br> No IRS setup is meant to have zero camber. Even stock bays have a bit of neg camber unlike a stock split.\n<br> \n<br> Remember they're SPRING plates....they're meant to twist and flex.",
+    "lastEdited" : "Sat Sep 03, 2016 3:56 pm"
+  }, {
+    "postId" : "882671",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "882671",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>wizard 1066 wrote:</cite>We have a similar problem with our splitty, as both rear wheels have camber in at the top, it has a Beetle irs fitted but not too low as its in regular use and still wanted some suspension that we could live with, both sides look different angles but only slightly out, we didnt fit any horseshoe plates or alter the rear before fitting it all up.\n  <br> Still getting inner tire wear as expected but would like to correct the problem if possible.\n </div>\n</blockquote> If you have the bolt on shackles for the Beetle A arms then you can affect the camber buy rotating the shackles on the torsion tube.",
+    "lastEdited" : "Sat Sep 03, 2016 4:00 pm"
+  }, {
+    "postId" : "882710",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "882710",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "As Flatbeat said, its an installation cockup. But based on the ones I see, it's very common and often different per side.",
+    "lastEdited" : "Sun Sep 04, 2016 6:53 am"
+  }, {
+    "postId" : "908749",
+    "author" : {
+      "username" : "henk",
+      "userId" : "908749",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "272",
+      "avatarPath" : null
+    },
+    "content" : "I also have some bolt on clamps for my IRS set up.\n<br> And i have some negative camber as well.\n<br> Does sombody have picture of how high these clamps should be bolted on the housing?\n<br> I adjust them all ready but still have negative camber.\n<br> \n<br> Henk!!!\n<br> \n<br> \n<img src=\"http://i63.tinypic.com/1zbb7g7.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://i65.tinypic.com/xf2mhz.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Thu Feb 01, 2018 7:42 pm"
+  }, {
+    "postId" : "908751",
+    "author" : {
+      "username" : "panel van lee",
+      "userId" : "908751",
+      "joined" : "Tue Mar 03, 2009 9:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "101",
+      "avatarPath" : null
+    },
+    "content" : "Hi Henk.\n<br> You need to rotate the bolt on clamps upwards to dial out some camber .\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Thu Feb 01, 2018 8:52 pm"
+  }, {
+    "postId" : "908754",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "908754",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20146",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Henk, \n<br> \n<br> Shame the heater tube has been hacked off, will be harder to install heating if ever needed. \n<br> \n<br> I'd also move the brake hose fitting, as when you adjust the camber you'll be stressing the hard brake lines.",
+    "lastEdited" : "Thu Feb 01, 2018 9:42 pm"
+  }, {
+    "postId" : "908755",
+    "author" : {
+      "username" : "henk",
+      "userId" : "908755",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "272",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=908751&amp;sid=754e530ced4984779e47fa26b455bf28#p908751\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=32059&amp;sid=754e530ced4984779e47fa26b455bf28\">panel van lee</a> wrote: <a href=\"./viewtopic.php?p=908751&amp;sid=754e530ced4984779e47fa26b455bf28#p908751\" data-post-id=\"908751\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Feb 01, 2018 8:52 pm</span></cite> Hi Henk.\n  <br> You need to rotate the bolt on clamps upwards to dial out some camber .\n  <br> \n  <br> \n  <br> Sent from my iPhone using Tapatalk \n </div>\n</blockquote> Ok thanks.\n<br> So still higher then they are now?\n<br> \n<br> Henk!!!",
+    "lastEdited" : "Thu Feb 01, 2018 10:04 pm"
+  }, {
+    "postId" : "908756",
+    "author" : {
+      "username" : "henk",
+      "userId" : "908756",
+      "joined" : "Mon Jul 07, 2014 4:03 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "272",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=908754&amp;sid=754e530ced4984779e47fa26b455bf28#p908754\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=124&amp;sid=754e530ced4984779e47fa26b455bf28\">vwJim</a> wrote: <a href=\"./viewtopic.php?p=908754&amp;sid=754e530ced4984779e47fa26b455bf28#p908754\" data-post-id=\"908754\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Thu Feb 01, 2018 9:42 pm</span></cite> Shame the heater tube has been hacked off, will be harder to install heating if ever needed. \n  <br> \n  <br> I'd also move the brake hose fitting, as when you adjust the camber you'll be stressing the hard brake lines. \n </div>\n</blockquote> They where cut short all ready on one side.\n<br> Had to cut the other side as well or i could not turn the clamps up.gonna have to cut out some more now if i have to turn them even higher.\n<br> But not gonna use them has a webasto from a boat to place in my bus.\n<br> Where would you thinknis a beter place to place the fitting.whitout change the brakelines?\n<br> \n<br> Henk!!!",
+    "lastEdited" : "Thu Feb 01, 2018 10:09 pm"
+  } ]
+}

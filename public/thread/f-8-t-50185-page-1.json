@@ -1,0 +1,66 @@
+{
+  "forumId" : "8",
+  "threadId" : "50185",
+  "title" : "roll over frames",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=50185",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "384557",
+    "author" : {
+      "username" : "bigmick1",
+      "userId" : "384557",
+      "joined" : "Thu Jun 19, 2003 8:14 pm",
+      "profileRank" : "Registered user",
+      "location" : "west yorkshire",
+      "postCount" : "433",
+      "avatarPath" : "./download/file.php%3Favatar=345_1267384158.jpg"
+    },
+    "content" : "anyone got any plans on making a roll over frame eg.. what diamater metal to use and mesurments ect \n<br> cheers mick n dawn \n<img class=\"smilies\" src=\"./images/smilies/icon_flower.gif\" width=\"31\" height=\"31\" alt=\":flower:\" title=\"flower\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_flower.gif\" width=\"31\" height=\"31\" alt=\":flower:\" title=\"flower\">",
+    "lastEdited" : "Fri Jan 23, 2009 8:34 pm"
+  }, {
+    "postId" : "384608",
+    "author" : {
+      "username" : "Rusty Lee",
+      "userId" : "384608",
+      "joined" : "Sat Apr 14, 2007 9:38 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hereford",
+      "postCount" : "2033",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=175412\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewtopic.php?t=175412</a>",
+    "lastEdited" : "Fri Jan 23, 2009 10:29 pm"
+  }, {
+    "postId" : "384688",
+    "author" : {
+      "username" : "SplitBusVanatic",
+      "userId" : "384688",
+      "joined" : "Wed Oct 12, 2005 12:19 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "309",
+      "avatarPath" : null
+    },
+    "content" : "<strong class=\"text-strong\">We Made this Rotisserie from scrap steel we had lying around..<br> .. Should come in Handy..<br> Here's a few pics</strong>\n<br> \n<br> \n<img src=\"http://i65.photobucket.com/albums/h214/splitbusvanatic/sandblastingvw002.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://i65.photobucket.com/albums/h214/splitbusvanatic/sandblastingvw001.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://i65.photobucket.com/albums/h214/splitbusvanatic/Image0.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://i65.photobucket.com/albums/h214/splitbusvanatic/Imag2.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> \n<br> \n<img src=\"http://i65.photobucket.com/albums/h214/splitbusvanatic/Ima.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> short little phone video clip..\n<br> (Fast forward the first 25 seconds or so...)\n<br> \n<a href=\"http://s65.photobucket.com/albums/h214/splitbusvanatic/?action=view&amp;current=Video001.flv&amp;refPage=&amp;imgAnch=imgAnch6\" class=\"postlink\">http://s65.photobucket.com/albums/h214/ ... h=imgAnch6</a>",
+    "lastEdited" : "Sat Jan 24, 2009 10:34 am"
+  }, {
+    "postId" : "384708",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "384708",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "I did this one, it only uses a small roll over area...\n<br> \n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=8&amp;t=44556\" class=\"postlink\">viewtopic.php?f=8&amp;t=44556</a>",
+    "lastEdited" : "Sat Jan 24, 2009 11:46 am"
+  } ]
+}

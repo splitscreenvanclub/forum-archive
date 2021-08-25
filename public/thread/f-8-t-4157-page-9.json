@@ -1,0 +1,206 @@
+{
+  "forumId" : "8",
+  "threadId" : "4157",
+  "title" : "'67 Pickup",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=4157&start=120",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 151,
+  "pageNumber" : 9,
+  "totalPages" : 11,
+  "posts" : [ {
+    "postId" : "868049",
+    "author" : {
+      "username" : "the bus driver",
+      "userId" : "868049",
+      "joined" : "Fri Jul 18, 2008 11:29 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1139",
+      "avatarPath" : "./download/file.php%3Favatar=26865_1289130348.jpg"
+    },
+    "content" : "ok, thanks",
+    "lastEdited" : "Fri Mar 18, 2016 6:22 pm"
+  }, {
+    "postId" : "870915",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "870915",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Not much progress recently, as others have taken priority.\n<br>\n<br>One thing that has progressed are the belly pans I've decided to fit. Rick at Schofield's made me a few sets without the cut outs for jacking points, as we don't use them. These are bolt on install, rather than weld on, so I can get above them for yearly maintenance etc.\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14490&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=14490&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0136.JPG\" title=\"DSC_0136.JPG (56.78 KiB) Viewed 355 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>Modified and epoxy primered\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14491&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=14491&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"1460387576387.jpg\" title=\"1460387576387.jpg (49.92 KiB) Viewed 355 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>Then stone chipped.\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14492&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=14492&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0170.JPG\" title=\"DSC_0170.JPG (101.79 KiB) Viewed 355 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>They'll be 2k painted later too.",
+    "lastEdited" : "Wed Apr 13, 2016 6:56 pm"
+  }, {
+    "postId" : "870919",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "870919",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1459",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "Any progress is good mate. Looking great as usual. How you planning on fixing the sill side? Rivnuts?",
+    "lastEdited" : "Wed Apr 13, 2016 7:00 pm"
+  }, {
+    "postId" : "870922",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "870922",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yes, rivnuts all round. With an additional flange to support the long sides of the inner belly pan. That's off being plated at the moment, maybe a bit OTT, but the plating will give a good level of corrosion protection.",
+    "lastEdited" : "Wed Apr 13, 2016 7:05 pm"
+  }, {
+    "postId" : "870924",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "870924",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1459",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "Will u double rivnut then on the long inner section, ie on the flange and the chassis rail to prevent it twisting?",
+    "lastEdited" : "Wed Apr 13, 2016 7:06 pm"
+  }, {
+    "postId" : "870929",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "870929",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "The flange has two rows of captive (welded on) nuts, rather than rivnuts.\n<br>\n<br>The outer row of nuts are for the outer belly pan, so bolts go up through the outer belly pan, through the main chassis rail than into the flange. So when tight, the belly pan / chassis rail / flange are all held together.\n<br>\n<br>Then the inner row of nuts are for the inner belly pan, so the bolts this time just go though the inner belly pan and the flange.\n<br>\n<br>It should keep the main chassis components pretty clean and dry, plus by some amount it might help make the heating a touch more effective by reducing heat loss along the main heating duct.",
+    "lastEdited" : "Wed Apr 13, 2016 7:13 pm"
+  }, {
+    "postId" : "870930",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "870930",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1459",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "Nice, I like it. Im not happy with my solution and had a similar idea to your in mind. I will probably end up doing it over a winter at some point in the future. \n<br>\n<br>Anything that will help with keeping the heat where it should be is a definite must. Will u be taking this one over to the Alps at all??",
+    "lastEdited" : "Wed Apr 13, 2016 7:16 pm"
+  }, {
+    "postId" : "870936",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "870936",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Not this one I shouldn't think. But we've actually been doing two buses side by side as Jen's bus is getting the same, and that one will be going over the mountains again this year, although in the Autumn this time so no snow I'd expect.",
+    "lastEdited" : "Wed Apr 13, 2016 7:21 pm"
+  }, {
+    "postId" : "871021",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "871021",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Flanges back from plating.\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14503&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=14503&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0172.JPG\" title=\"DSC_0172.JPG (60.67 KiB) Viewed 318 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Thu Apr 14, 2016 1:55 pm"
+  }, {
+    "postId" : "871022",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "871022",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1459",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "I really need to find a local plating company with reasonable prices!! They look lovely.",
+    "lastEdited" : "Thu Apr 14, 2016 2:15 pm"
+  }, {
+    "postId" : "871068",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "871068",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Think I have a bit of an obsession....\n<br>\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14510&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=14510&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0173.JPG\" title=\"DSC_0173.JPG (84.48 KiB) Viewed 285 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14511&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=14511&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0145.JPG\" title=\"DSC_0145.JPG (72.91 KiB) Viewed 285 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14512&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=14512&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0135.JPG\" title=\"DSC_0135.JPG (59.02 KiB) Viewed 285 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=14513&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=14513&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0114.JPG\" title=\"DSC_0114.JPG (55.82 KiB) Viewed 285 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Thu Apr 14, 2016 8:34 pm"
+  }, {
+    "postId" : "871081",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "871081",
+      "joined" : "Sun Jun 05, 2005 8:40 am",
+      "profileRank" : "Registered user",
+      "location" : "Worcester",
+      "postCount" : "1459",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "You do, but there are worse obsessions than plating... \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" alt=\";)\" title=\"Wink\">",
+    "lastEdited" : "Thu Apr 14, 2016 10:20 pm"
+  }, {
+    "postId" : "875718",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "875718",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Final cab priming was done yesterday.\n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=15299&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=15299&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0303.JPG\" title=\"DSC_0303.JPG (64.01 KiB) Viewed 193 times\"></a>\n  </dt> \n </dl> \n</div>\n<br>\n<br>Then a splash of colour today... \n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=15301&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=15301&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0308.JPG\" title=\"DSC_0308.JPG (71.81 KiB) Viewed 193 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Mon May 30, 2016 6:29 pm"
+  }, {
+    "postId" : "875719",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "875719",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=15302&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=15302&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0306.JPG\" title=\"DSC_0306.JPG (81.82 KiB) Viewed 192 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Mon May 30, 2016 6:31 pm"
+  }, {
+    "postId" : "876337",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "876337",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "Founder BWA Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "17989",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Locker area is getting a rubber mat, so it lays flat first its getting some hardboard, which is yacht varnished and 2mm foam to reduce rubbing the paint through. \n<br>\n<br>\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=15445&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c&amp;mode=view\"><img src=\"./download/file.php?id=15445&amp;t=1&amp;sid=1e85fd748ec2e455dc48acc1a0c7362c\" class=\"postimage\" alt=\"DSC_0263.JPG\" title=\"DSC_0263.JPG (67.06 KiB) Viewed 102 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Wed Jun 08, 2016 1:23 pm"
+  } ]
+}

@@ -1,0 +1,56 @@
+{
+  "forumId" : "10",
+  "threadId" : "124220",
+  "title" : "Dubs in the Middle",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=124220",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=149ac4f12f21aa45e0ea75ce35076ff0",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=149ac4f12f21aa45e0ea75ce35076ff0",
+    "label" : "Events"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927296",
+    "author" : {
+      "username" : "DubsintheMiddle",
+      "userId" : "927296",
+      "joined" : "Thu Apr 27, 2017 11:50 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "Hi Guys\n<br> Happy New Year\n<br> Thought I would share this here as have done so on the Facebook page too \n<img alt=\"💜\" class=\"emoji smilies\" draggable=\"false\" src=\"https://cdn.jsdelivr.net/gh/s9e/emoji-assets-twemoji@11.2/dist/svgz/1f49c.svgz\">\n<br> \n<br> Dubs in the Middle 7\n<br> \n<br> Tickets are selling out - will be sold out by end of February. \n<br> \n<br> 5 Days, 4 Nights, 3 Zones, 2 Stages, 1 Awesome Vibe!\n<br> \n<br> 26+ Bands, Burlesque &amp; Drag show, Skate Ramp, Hypnotist Show, Karaoke, Silent Disco, Prom Night and so much more...\n<br> \n<br> We have £500 up for grabs in the show n shine &amp; rust n rat!\n<br> \n<br> To book - \n<a href=\"http://www.dubsinthemiddle.co.uk\" class=\"postlink\">www.dubsinthemiddle.co.uk</a>\n<br> \n<br> Last years show footage : \n<a href=\"https://youtu.be/jhDEACtPN9s\" class=\"postlink\">https://youtu.be/jhDEACtPN9s</a>",
+    "lastEdited" : "Tue Jan 07, 2020 3:49 pm"
+  }, {
+    "postId" : "927394",
+    "author" : {
+      "username" : "Nocky",
+      "userId" : "927394",
+      "joined" : "Sat Oct 19, 2019 9:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Quarry Bonk, West Mids",
+      "postCount" : "106",
+      "avatarPath" : "./download/file.php%3Favatar=43395_1571902448.jpg"
+    },
+    "content" : "Anyone going to this event ? We have our tickets booked in ssvc club camping.",
+    "lastEdited" : "Mon Jan 13, 2020 6:47 am"
+  }, {
+    "postId" : "927530",
+    "author" : {
+      "username" : "DubsintheMiddle",
+      "userId" : "927530",
+      "joined" : "Thu Apr 27, 2017 11:50 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "6",
+      "avatarPath" : null
+    },
+    "content" : "A few have booked,\n<br> \n<br> We can transfer anyone who’s booked previously too. Just let me know \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Wed Jan 22, 2020 7:59 pm"
+  } ]
+}

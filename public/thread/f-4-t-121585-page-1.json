@@ -1,0 +1,53 @@
+{
+  "forumId" : "4",
+  "threadId" : "121585",
+  "title" : "Various parts",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=121585",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=7637e3c621e0d3868caf33d3ce7b6b56",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "911183",
+    "author" : {
+      "username" : "russbmx",
+      "userId" : "911183",
+      "joined" : "Thu Sep 17, 2015 9:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "A few parts removed from my engine. We’re all fine and working when I brought the engine last year.\n<br> \n<br> Thermostat, bracket, rod and flaps removed from a 1500 sp. sold\n<br> \n<br> 12v Bosch Dynamo £45\n<br> \n<br> Genuine fuel pump £30\n<br> \n<br> Empi backing plate kit £15\n<br> \n<br> Left side quarter lite catch Wolfsburg west sold\n<br> \n<br> All parts located in eastbourne but postage possible.",
+    "lastEdited" : "Sun Apr 08, 2018 10:40 pm"
+  }, {
+    "postId" : "911184",
+    "author" : {
+      "username" : "russbmx",
+      "userId" : "911184",
+      "joined" : "Thu Sep 17, 2015 9:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "Also,\n<br> \n<br> Rear bench seat clamps £15\n<br> \n<br> New pre 70 clutch release bearing bought by mistake. £15",
+    "lastEdited" : "Sun Apr 08, 2018 10:44 pm"
+  }, {
+    "postId" : "911362",
+    "author" : {
+      "username" : "russbmx",
+      "userId" : "911362",
+      "joined" : "Thu Sep 17, 2015 9:45 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "104",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=911183&amp;sid=7637e3c621e0d3868caf33d3ce7b6b56#p911183\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=40809&amp;sid=7637e3c621e0d3868caf33d3ce7b6b56\">russbmx</a> wrote: <a href=\"./viewtopic.php?p=911183&amp;sid=7637e3c621e0d3868caf33d3ce7b6b56#p911183\" data-post-id=\"911183\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Apr 08, 2018 10:40 pm</span></cite> A few parts removed from my engine. We’re all fine and working when I brought the engine last year.\n  <br> \n  <br> Thermostat, bracket, rod and flaps removed from a 1500 sp. sold \n  <br> \n  <br> 12v Bosch Dynamo £45\n  <br> \n  <br> Genuine fuel pump £30\n  <br> \n  <br> Empi backing plate kit £15\n  <br> \n  <br> Left side quarter lite catch Wolfsburg west sold \n  <br> \n  <br> All parts located in eastbourne but postage possible. \n </div>\n</blockquote>",
+    "lastEdited" : "Sat Apr 14, 2018 6:22 pm"
+  } ]
+}

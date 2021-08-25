@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "123844",
+  "title" : "Cargo door hinge alignment",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123844",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=bbf6bcf2767c2a7ffbf9813c52b24bf5",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "925099",
+    "author" : {
+      "username" : "58splitty",
+      "userId" : "925099",
+      "joined" : "Wed May 18, 2011 7:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "Brandon, Suffolk",
+      "postCount" : "775",
+      "avatarPath" : null
+    },
+    "content" : "Can someone help me please. How are the cargo door hinges fixed to the cargo door? Ive aligned my cab doors nicely and have moved onto my cargo door. My vertical gaps are good, pins are good but the right door is about 4-5mm lower than the left? Im at a loss",
+    "lastEdited" : "Tue Sep 10, 2019 1:16 pm"
+  }, {
+    "postId" : "925112",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "925112",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1484",
+      "avatarPath" : null
+    },
+    "content" : "Yes hinges secured to door. Loosen the screws to body door should slide up, floating nuts.\n<br> \n<br> DO NOT REMOVE BOTH SCREWS OR YOU WILL CRY\n<br> \n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Sep 10, 2019 7:08 pm"
+  } ]
+}

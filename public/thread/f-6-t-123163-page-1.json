@@ -1,0 +1,118 @@
+{
+  "forumId" : "6",
+  "threadId" : "123163",
+  "title" : "Stripped spring plate thread",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123163",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=7e1fad9a6bf0a1975ddc4eb665667204",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920848",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "920848",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "So I’m just replacing my gearbox with a secondhand box I purchased years ago (small nut). It has taken me ages to get to this point and now the last spring plate bolt won’t tighten so I presume the threads need sorting hence I have a few questions. \n<br> \n<br> Is a heli coil ok or do I have to use timesert? Can I do both myself and can I also ask if it can be done on the bus or have I now got to undo all the work I have done? The box is not known to me so I have only the sellers word from years ago that it was ok. Hence, could I leave one bolt out whilst I at least check it is ok and go through the heli coil/timesert job if all is fine? Alternatively can I use a smaller helicoil in the existing hole and a smaller bolt to make things easier or assuming I have to drill out the hole (as it is the ne bolt most toward in the van) can I just drill through the hole in the spring plate also or would leave me with other issues if it ends up a fraction bigger?\n<br> \n<br> Finally I do have another box that has come out would it be easier to replace the axle on that one side or is that not recommended anyway and I wonder if it can be done on the bus?\n<br> \n<br> Any advice or tips greatfully received. Just as I thought I was making progress this really has ruined my chances of getting moving again soon. \n<br> \n<br> Steve",
+    "lastEdited" : "Sat Mar 23, 2019 5:52 pm"
+  }, {
+    "postId" : "920852",
+    "author" : {
+      "username" : "Wigsplitta",
+      "userId" : "920852",
+      "joined" : "Tue Aug 29, 2017 7:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "Are you sure the thread is striped in the reduction box? Have you tried without the springplate? When I have removed springplates before I've noticed that they tend to be twisted and dont sit flush against the back of the redction box. Try clamping the plate and reduction box together and line up the hole and give it another go.\n<br> If the thread is striped there would be no harm in heli-coiling but id get the spring plate out of the way first. I would also take the front of the reduction box off and clean up any swarf that gets pushed inside from drilling/tapping.",
+    "lastEdited" : "Sat Mar 23, 2019 7:50 pm"
+  }, {
+    "postId" : "920853",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "920853",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "It’s definitely stripped. The rear 3 bolts are in perfectly nd therefore the plate is flat. I also used a big clamp to pull it all together. \n<br> \n<br> I didn’t think the holes went into the actual reduction box itself. If it does then could it be drilled from the brake drum side to put a helicoil in?\n<br> \n<br> Thanks",
+    "lastEdited" : "Sat Mar 23, 2019 8:07 pm"
+  }, {
+    "postId" : "920854",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920854",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20158",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Timeserts are stronger IMHO. \n<br> \n<br> Yes you can fit them yourself",
+    "lastEdited" : "Sun Mar 24, 2019 8:30 am"
+  }, {
+    "postId" : "920856",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "920856",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Jim. Thanks for that. Can I ask one more question. Having been out this morning I notice the hole is about 40mm deep but the bolt is only about 25mm. The threads hold a little at present but not enough. However could I use a longer bolt so that it reaches the better threads also further into the housing or does this cause me additional/other issues. Just looking at all options. \n<br> \n<br> Cheers",
+    "lastEdited" : "Sun Mar 24, 2019 9:16 am"
+  }, {
+    "postId" : "920884",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "920884",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20158",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Hard to say without seeing it. 25mm bolts were the stock length.",
+    "lastEdited" : "Sun Mar 24, 2019 9:28 pm"
+  }, {
+    "postId" : "920933",
+    "author" : {
+      "username" : "j0hn",
+      "userId" : "920933",
+      "joined" : "Fri Apr 17, 2009 1:47 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wallsend",
+      "postCount" : "270",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=920856&amp;sid=7e1fad9a6bf0a1975ddc4eb665667204#p920856\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=1057&amp;sid=7e1fad9a6bf0a1975ddc4eb665667204\">Red Devil</a> wrote: <a href=\"./viewtopic.php?p=920856&amp;sid=7e1fad9a6bf0a1975ddc4eb665667204#p920856\" data-post-id=\"920856\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Sun Mar 24, 2019 9:16 am</span></cite> Jim. Thanks for that. Can I ask one more question. Having been out this morning I notice the hole is about 40mm deep but the bolt is only about 25mm. The threads hold a little at present but not enough. However could I use a longer bolt so that it reaches the better threads also further into the housing or does this cause me additional/other issues. Just looking at all options. \n  <br> \n  <br> Cheers \n </div>\n</blockquote> A 40mm bolt into the hole will only get you a max of 15mm thread - in reality it'll be less as you want to make sure the threads don't bottom out. So you'll only be about 50% of the original thread length. If the remaining thread is undamaged and you can get to full depth, then you'd probably get away with it as you'll have the full clamping force of the others - just be wary when tightening it up.\n<br> \n<br> It is possible to helicoil them in situ - I did it years ago on mine. It's a bit of a faff on to get the RB rotated round enough to see the offending hole as I didn't want to enlarge the hole in the spring plate. You'll have to drill the hole out for the correct helicoil tap, but they're cast iron so reasonably easy to do with a decent battery drill, and keeping an eye on how straight you're going. Not so easy when you're lying on your back under the van!\n<br> \n<br> I did two on one side of mine, and it lasted a good few thousand miles round Scotland and Europe before I swapped it out for a straight axle conversion.",
+    "lastEdited" : "Tue Mar 26, 2019 5:06 pm"
+  }, {
+    "postId" : "920934",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "920934",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1070",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I've got one that was helicoiled when the gearbox was overhauled. I don't have the confidence in it to fully tighten it. It doesn't feel 'right' while I'm torquing it. It's like it's gripping in to stiff chewing gum, rather than solid metal.\n<br> \n<br> I'd previously tried to timesert it and the timesert insert definitely looked harder/stonger than the helicoil one. The original hole was wallowed out at an angle though because the bolt had been loose for so long beating at it. The tap in the timesert kit bound up and shattered.",
+    "lastEdited" : "Tue Mar 26, 2019 6:22 pm"
+  } ]
+}

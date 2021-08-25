@@ -1,0 +1,209 @@
+{
+  "forumId" : "8",
+  "threadId" : "48032",
+  "title" : "Mikes 30HP rebuild thread",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=48032",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=2da966b2d08c70cda81285b16efaa97e",
+    "label" : "Rides and Projects"
+  } ],
+  "totalPosts" : 88,
+  "pageNumber" : 1,
+  "totalPages" : 6,
+  "posts" : [ {
+    "postId" : "366347",
+    "author" : {
+      "username" : "Mike1973",
+      "userId" : "366347",
+      "joined" : "Wed Nov 03, 2004 1:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Stock Police Station",
+      "postCount" : "4468",
+      "avatarPath" : null
+    },
+    "content" : "Right, thought this was the best place to stick this thread. From the start let me say I am an engine building novice! So ALL advice, no matter how obvious you think it may be, is appreciated. My experience to date has been a 1500 build way back in '95. I've since forgotten nearly everything I learned back then so I'm starting from scratch here.\n<br> I'm hoping to find out what things I can do myself, what things need to be done by experts, good reference material, right tools for the job, how to tell if parts are worn out, best place for parts.... \n<br> \n<br> Right, first step, try and work out what went wrong with the motor!\n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=2&amp;t=47509&amp;hilit=heart\" class=\"postlink\">viewtopic.php?f=2&amp;t=47509&amp;hilit=heart</a>\" onclick=\"window.open(this.href);return false;\n<br> \n<br> \n<br> Engine was running OK, but had endfloat and used oil. It did 30mpg on good days, and was statically timed to 7.5tdc using a test light off the coil. Regularly did long motorway runs at 50mph, sometimes more. (shouldn't really go over 48mph)\n<br> Lost power suddenly on the way back from the Brighton Breeze, pulled over a couple of miles later and conked out on hard shoulder.\n<br> \n<br> Quick compression test while stripping down showed no compression in No1 cylinder...\n<br> \n<br> \n<img src=\"http://img.photobucket.com/albums/v683/silly-password/Brighton%2008/PA190005.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://img.photobucket.com/albums/v683/silly-password/Brighton%2008/PA190004.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://img.photobucket.com/albums/v683/silly-password/Brighton%2008/PA190010.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://img.photobucket.com/albums/v683/silly-password/Brighton%2008/PA190009.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Engine is now on the workbench while I strip it down, and when I get a chance I'm going to post sources and prices for all the bits I thnk I'll need. And a decent torque wrench is on my Christmas list....",
+    "lastEdited" : "Thu Nov 06, 2008 12:54 pm"
+  }, {
+    "postId" : "366356",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "366356",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Good luck with this Mike, I'll be watching with interest as I have an engine I want to strip and rebuild.\n<br> \n<br> Lots of pics and details please \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Thu Nov 06, 2008 1:32 pm"
+  }, {
+    "postId" : "366360",
+    "author" : {
+      "username" : "bigbulli",
+      "userId" : "366360",
+      "joined" : "Thu Apr 17, 2003 8:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Barnstaple, NORTH DEVON",
+      "postCount" : "2850",
+      "avatarPath" : "./download/file.php%3Favatar=22_1364739473.jpg"
+    },
+    "content" : "Hey Mike, great to meet you at FF08, looking forward to following your progress!\n<br> \n<br> All the best\n<br> \n<br> Rich",
+    "lastEdited" : "Thu Nov 06, 2008 1:40 pm"
+  }, {
+    "postId" : "366600",
+    "author" : {
+      "username" : "Mike1973",
+      "userId" : "366600",
+      "joined" : "Wed Nov 03, 2004 1:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Stock Police Station",
+      "postCount" : "4468",
+      "avatarPath" : null
+    },
+    "content" : "Think we may have found the problem....\n<br> \n<br> \n<a href=\"http://www.thesamba.com/vw/forum/viewtopic.php?t=327523\" class=\"postlink\">http://www.thesamba.com/vw/forum/viewtopic.php?t=327523</a>\" onclick=\"window.open(this.href);return false;\n<br> \n<br> Found a crack in my inlet manifold going into the head of 1+2, causing a vacuum leak, and making No1 run really lean.",
+    "lastEdited" : "Fri Nov 07, 2008 10:38 am"
+  }, {
+    "postId" : "366606",
+    "author" : {
+      "username" : "Byron Bamboo",
+      "userId" : "366606",
+      "joined" : "Thu Apr 17, 2003 12:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "6873",
+      "avatarPath" : "./download/file.php%3Favatar=38_1338322337.jpg"
+    },
+    "content" : "Mike.. the leak in the manifold would've made it a pig to drive.. don't remember you saying there was a problem.. \n<br> \n<br> I have a spare manifold if you need one \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Fri Nov 07, 2008 11:09 am"
+  }, {
+    "postId" : "366607",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "366607",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "Just reading the thread you have on the Samba. I have a bently manual for your year, if you need any info from it give me a shout.\n<br> \n<br> Andy",
+    "lastEdited" : "Fri Nov 07, 2008 11:14 am"
+  }, {
+    "postId" : "366610",
+    "author" : {
+      "username" : "52panelvan",
+      "userId" : "366610",
+      "joined" : "Mon Dec 26, 2005 10:38 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1235",
+      "avatarPath" : null
+    },
+    "content" : "Nice one Mike,\n<br> \n<br> I would suspect the damage may be just localised to that piston a cylinder then.\n<br> I would still go for a complete tear down though, the first 30 hp in my 52 ran fine but had low oil pressure till the big end bearing picked up and span.\n<br> \n<br> Im sure you have it but here is a link for lots of 30 (36)hp main and rod bearings , valves , oil pump etc.\n<br> \n<a href=\"http://www2.cip1.com/SearchResults.asp?Search=36hp\" class=\"postlink\">http://www2.cip1.com/SearchResults.asp?Search=36hp</a>\" onclick=\"window.open(this.href);return false;\n<br> \n<br> I have not looked to see if they do a slight oversize flywheel bearing for 36hp , the one you need to machine out for end float correction. I had found that the slight endfloat on the old 52 engine had caused the rear std bearing to rock in the case, hopefully you will be lucky.\n<br> \n<br> If it does need machining or you align bore it too do post up where you get it done and costs etc as i have unknown engine for the kempes that i may just rebuild anyway.\n<br> \n<br> The crack if tiny would probably only effect the engine when it was flat out and not be noticable or effect it much when just running about. I have a spare inlet if you need it.\n<br> \n<br> Good luck , keep us posted. Lots of pictures.\n<br> \n<br> Cheers\n<br> Mark",
+    "lastEdited" : "Fri Nov 07, 2008 11:18 am"
+  }, {
+    "postId" : "366616",
+    "author" : {
+      "username" : "Rusting Hulk",
+      "userId" : "366616",
+      "joined" : "Sun Nov 21, 2004 9:05 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1357",
+      "avatarPath" : "./download/file.php%3Favatar=1092_1252078445.jpg"
+    },
+    "content" : "KK are a good source for parts in the UK they have most things on the shelf. I think thier stuff is from BBT and WW.\n<br> \n<br> There is also a guy in Istanbul who usually advertises on THE SAMBA i have bought genuine main bearings from him, excellent service. Also if you do a search for \n<strong class=\"text-strong\">36</strong>hp on TS you will get a few pages of parts which maybe useful to you\n<br> \n<br> email for the guy in Turkey: \n<a href=\"mailto:senceruneri@hotmail.com\">senceruneri@hotmail.com</a>\n<br> \n<br> Good luck with the build.",
+    "lastEdited" : "Fri Nov 07, 2008 11:33 am"
+  }, {
+    "postId" : "366627",
+    "author" : {
+      "username" : "Mike1973",
+      "userId" : "366627",
+      "joined" : "Wed Nov 03, 2004 1:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Stock Police Station",
+      "postCount" : "4468",
+      "avatarPath" : null
+    },
+    "content" : "Cheers fellas. This is a very steep learning curve for me, so bare with me... \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> \n<br> \n<br> Manifold crack is small, and right near the end where the boss goes to attach to the head. Could it be repaired?? Pre heats are nice and clear on it, be a shame to chuck... \n<br> Deano, Kombi was going fine, the loss of power was sudden and a surprise, wasn't expecting it at all. Mark, I had been going flat out for about an hour when it happened. Not quiet foot to the floor, but a steady 50/55.\n<br> \n<br> Thanks everyone for the heads up on suppliers. I'm going to try and sit down over the weekend and compare all the prices. Not easy when you have to guess shipping on top for overseas. As always with the Zombi Kombi, I don't have deep pockets to fix it. Fitting new barrels and pistons will be the killer on this project, so other options appreciated. I was hoping to just replace rings, but don't know if you can just replace on piston/barrel??\n<br> \n<br> Andy, cheers for the manual loan. Riva has kindly lent me a Bentley, but for 30hp Ghias. I think it should be close enough for me to use, but I'll give you a shout if I get stuck.\n<br> \n<br> Hopefully find time to split the case over the weekend, then prepare yourselves for the barrage of questions like \"WTF do I do now!!! \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_eek.gif\" width=\"15\" height=\"15\" alt=\"8O\" title=\"eek\"> \"....... \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Fri Nov 07, 2008 12:07 pm"
+  }, {
+    "postId" : "366633",
+    "author" : {
+      "username" : "Byron Bamboo",
+      "userId" : "366633",
+      "joined" : "Thu Apr 17, 2003 12:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "6873",
+      "avatarPath" : "./download/file.php%3Favatar=38_1338322337.jpg"
+    },
+    "content" : "If its just one barrel and piston requiring replacement I have the doubledoors old pistons and barrels when removed..\n<br> \n<br> Something else you can have. there may one thats useable out of all 4\n<br> \n<br> Splitting the case is the easy bit... its remembering where it all goes when it goes back together \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> take LOADS of reference photos \n<img class=\"smilies\" src=\"./images/smilies/icon_idea.gif\" width=\"15\" height=\"15\" alt=\":idea:\" title=\"Idea\">",
+    "lastEdited" : "Fri Nov 07, 2008 12:30 pm"
+  }, {
+    "postId" : "366648",
+    "author" : {
+      "username" : "52panelvan",
+      "userId" : "366648",
+      "joined" : "Mon Dec 26, 2005 10:38 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1235",
+      "avatarPath" : null
+    },
+    "content" : "Mike,\n<br> \n<br> Im sure when i looked at doing a \"quick\" rebuild on the old 52 engine , with the crank grind and parts it was still a few hundred pounds.\n<br> I did what alot of people do and picked up a another engine which by chance runs absolutely great, it could have done 10k miles or it may have done 100k i just dont know but it was alot cheaper than fixing it. new set of seals all over and a dam good service and like you im 4000 miles and still all is well and it purs along.\n<br> \n<br> Is the engine on your van original? If it is then the cost of rebuilding may well be a good long term investment both for van value and for reliability.\n<br> \n<br> If its not is it worth chancing and just changing the piston and barrel.\n<br> When the engine stopped was it making any loud banging or knocking noises?\n<br> \n<br> The problem is when you open it up it all depends on budget, you could spend a fortune and rebuild everything or you could just change major parts and have a regrind to have the engine destroyed by something that you didnt change - like a faulty inlet manifold that you would never ever consider could be a problem.\n<br> If you get into machining, align bore's and fixing end float problems then it may be alot more money than you think especially with 30hp.\n<br> \n<br> Im in the same boat as you soon, i never know what to do for the best as the costs can spiral and second hand engines are allways available. \n<br> But like i say if it is the original one then it may well be worth the money.\n<br> Keep us posted with your thoughts and the plan.\n<br> \n<br> Cheers\n<br> \n<br> mark",
+    "lastEdited" : "Fri Nov 07, 2008 12:50 pm"
+  }, {
+    "postId" : "366663",
+    "author" : {
+      "username" : "Mike1973",
+      "userId" : "366663",
+      "joined" : "Wed Nov 03, 2004 1:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Stock Police Station",
+      "postCount" : "4468",
+      "avatarPath" : null
+    },
+    "content" : "Good questions Mark! I've got maybe £250 in my head for a rebuild, which as I dig further doesn't look like it'll go far at all.... Maybe for a stock 12v 1600, but not for a 30hp.\n<br> \n<br> I doubt the engine is original to the Kombi. For a start it's different to the Birth Certificate! Although how VW in Germany knows what engines went into CKD's I'm not sure? But anyway, it's a dustbowl Aussie Kombi, and they are notorious for going though engines due to the conditions. My attachment to the motor is just because it's been pretty good to me for the last 11,000 miles, plus I'm curious about doing an engine rebuild. Of course my wallet, and lack of budget, is also a big deciding factor on this... \n<img class=\"smilies\" src=\"./images/smilies/icon_twisted.gif\" width=\"15\" height=\"15\" alt=\":twisted:\" title=\"Twisted Evil\"> \n<br> \n<br> Deano, as always you are a star, this will be an expensive Jägermeister bill... \n<img class=\"smilies\" src=\"./images/smilies/drunken_smilie.gif\" width=\"15\" height=\"27\" alt=\":drunken:\" title=\"drunken\">",
+    "lastEdited" : "Fri Nov 07, 2008 1:21 pm"
+  }, {
+    "postId" : "366699",
+    "author" : {
+      "username" : "nick",
+      "userId" : "366699",
+      "joined" : "Sat Apr 26, 2003 2:32 am",
+      "profileRank" : "SSVC Member",
+      "location" : "hairy ford",
+      "postCount" : "4803",
+      "avatarPath" : null
+    },
+    "content" : "i hope this all goes well for you mike... i had to bite the bullet and get a rebuild done as i was never sure of my engine... i had no evidence of it running since the early 80's.. but once its done you will have less stress in your mind... keep up the good work fella...... \n<img class=\"smilies\" src=\"./images/smilies/icon_cheers.gif\" width=\"24\" height=\"24\" alt=\":cheers:\" title=\"cheers\"> \n<br> \n<br> \n<br> are you going to slough this weekend?? be great to see you again if you do.... \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Fri Nov 07, 2008 4:43 pm"
+  }, {
+    "postId" : "366780",
+    "author" : {
+      "username" : "nev",
+      "userId" : "366780",
+      "joined" : "Tue May 06, 2003 1:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Fleet, Hants",
+      "postCount" : "187",
+      "avatarPath" : null
+    },
+    "content" : "Nearly finished rebuilding the 25Hp engine for my split bug, the parts the 25Hp shares with the 30Hp are not too hard to find, KK does all gaskets and oversize bearings etc. The 25Hp only parts (pistons and cylinders, heads and intake valves etc) are very hard to find.\n<br> \n<br> I daren't add up what I've spent in total making my engine correct 40's barrells etc. But as a guide my engineering shop bill was approx £500 all in, crank grind, bearing fit, balancing inc flywheel, valve seats, head studs, cleaning tank, etc etc\n<br> \n<br> My engine is og to the car so in my view had to be done and done right. But if your 30Hp isn't the original and given your budget I would look for a good used 30 Hp with good endfloat and maybe just do a valve job on it replacing the exhaust valves.\n<br> \n<br> Good luck with it\n<br> \n<br> Kev",
+    "lastEdited" : "Fri Nov 07, 2008 11:19 pm"
+  }, {
+    "postId" : "366833",
+    "author" : {
+      "username" : "Mike1973",
+      "userId" : "366833",
+      "joined" : "Wed Nov 03, 2004 1:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Stock Police Station",
+      "postCount" : "4468",
+      "avatarPath" : null
+    },
+    "content" : "Cheers for that Kev, interesting to have some figures about machining costs. I think if my case needs machining to sort out the endfloat it'll knock the rebuild on the head... It could be the 2nd or even 3rd engine in the Kombi for all I know. Hows the bug coming along by the way? It's a '47 isn't it?\n<br> \n<br> Nick, I'm cadging a lift off Riva for Slough, see you there hopefully!\n<br> \n<br> (So no roof rack shennannigans for me this year... \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\"> )\n<br> \n<br> \n<img src=\"http://img.photobucket.com/albums/v683/silly-password/Slough%2007/DSCF0035.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Nov 08, 2008 11:49 am"
+  } ]
+}

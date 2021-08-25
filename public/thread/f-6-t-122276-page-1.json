@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "122276",
+  "title" : "Gearbox/Reduction Box Rebuild recommendations",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122276",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=3566ddb18182ad11013b6806c6fb2597",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "914749",
+    "author" : {
+      "username" : "Rob E",
+      "userId" : "914749",
+      "joined" : "Sun Dec 25, 2016 5:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "91",
+      "avatarPath" : null
+    },
+    "content" : "Mine has leaking reduction boxes, and the gearbox doesnt sound right to me. who would you recommend to rebuild it?",
+    "lastEdited" : "Fri Jul 20, 2018 12:11 pm"
+  }, {
+    "postId" : "914753",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "914753",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15452",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://www.bearsmotorsport.co.uk/volkswagen-transmission-rebuild\" class=\"postlink\">http://www.bearsmotorsport.co.uk/volksw ... on-rebuild</a>\n<br> have a good name if I was refurbishing a gearbox I would use them.\n<br> Reduction gears require strip n rebuild to replace seals..\n<br> G\n<br> \n<br>",
+    "lastEdited" : "Fri Jul 20, 2018 1:57 pm"
+  }, {
+    "postId" : "915897",
+    "author" : {
+      "username" : "tyler",
+      "userId" : "915897",
+      "joined" : "Sat Nov 29, 2003 7:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "just right here",
+      "postCount" : "1120",
+      "avatarPath" : null
+    },
+    "content" : "In case anyone is interested, \n<br> Also try\n<br> John walklett @ classic vw transmissions",
+    "lastEdited" : "Sun Sep 02, 2018 7:28 am"
+  }, {
+    "postId" : "915898",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "915898",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1056",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I had Pete at Cogbox do mine. Turned it round in a week as I needed it back on the road for a local show.",
+    "lastEdited" : "Sun Sep 02, 2018 8:44 am"
+  }, {
+    "postId" : "916179",
+    "author" : {
+      "username" : "Robbievanguy",
+      "userId" : "916179",
+      "joined" : "Sun Feb 08, 2015 8:05 am",
+      "profileRank" : "Registered user",
+      "location" : "Middleofnowhere",
+      "postCount" : "225",
+      "avatarPath" : null
+    },
+    "content" : "If it's the original gearbox and you want to keep it fair enough but cheaper and easy to pic up another ,it so happens lol.",
+    "lastEdited" : "Wed Sep 12, 2018 5:59 pm"
+  } ]
+}

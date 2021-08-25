@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "119505",
+  "title" : "Fan belt",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119505",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b7c50b72923ae04203bd1475a586c4a5",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "898857",
+    "author" : {
+      "username" : "philsparks",
+      "userId" : "898857",
+      "joined" : "Wed May 21, 2014 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new forset",
+      "postCount" : "332",
+      "avatarPath" : null
+    },
+    "content" : "Hi what's is the correct size belt for my 1641 twin port with dynamo? Is it 10mm x 900mm and should it be toothed? Thanks phil \n<br> \n<br> Sent from my SM-J320FN using Tapatalk",
+    "lastEdited" : "Fri Jun 16, 2017 9:23 am"
+  }, {
+    "postId" : "898864",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "898864",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2856",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "the best belt you can buy\n<br> \n<br> \n<a href=\"http://www.machine7.com/product.php?xProd=2980\" class=\"postlink\">http://www.machine7.com/product.php?xProd=2980</a>",
+    "lastEdited" : "Fri Jun 16, 2017 11:08 am"
+  }, {
+    "postId" : "898865",
+    "author" : {
+      "username" : "philsparks",
+      "userId" : "898865",
+      "joined" : "Wed May 21, 2014 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new forset",
+      "postCount" : "332",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for your help that looks like the business is will order a couple. Thanks Phil \n<br> \n<br> Sent from my SM-J320FN using Tapatalk",
+    "lastEdited" : "Fri Jun 16, 2017 11:10 am"
+  }, {
+    "postId" : "898867",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "898867",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>readyboy61 wrote:</cite>the best belt you can buy\n  <br> \n  <br> \n  <a href=\"http://www.machine7.com/product.php?xProd=2980\" class=\"postlink\">http://www.machine7.com/product.php?xProd=2980</a>\n </div>\n</blockquote> WHS!\n<br> Optibelt all the way. \n<br> Be careful though as different pulley wheel sizes and alternator/dynamo sizes can affect things quite a bit.\n<br> On my bay an 888mm belt is best and on my split a 900 or 905 fits better (can't remember which) and they are both the same on paper lol\n<br> Either way, Optibelt do a variety of sizes so should be fine and the quality is very good as it's a V belt.\n<br> Good luck!\n<br> DD\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Fri Jun 16, 2017 11:30 am"
+  }, {
+    "postId" : "898871",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "898871",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1449",
+      "avatarPath" : null
+    },
+    "content" : "Stock factory belt for Dynamo was 9.5 x 905 (pt no: 111 903 137D) - interesting that the Optibelt sold by M7 above is 11.5mm thickness instead of 9.5 x 912 - so must ride much higher in the pulleys - may have to try one of those as I'm running no shims currently to keep my belt tight enough and that's with a C&amp;C 906 belt.....",
+    "lastEdited" : "Fri Jun 16, 2017 12:38 pm"
+  } ]
+}

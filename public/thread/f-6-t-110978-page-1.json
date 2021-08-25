@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "110978",
+  "title" : "wiper arms for safari windows",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=110978",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "838362",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "838362",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1169",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br> \n<br> Just fitted some new wiper blades on my bus which is fitted with safari's.\n<br> \n<br> The right hand wiper (the one of the left when looking at the front of the bus) has a kink in the end, so is sitting off the safari's at a funny angle, as per the photo below..\n<br> \n<br> Is this usual as it would appear that a straight one would sit better, as it does on the other side??\n<br> \n<br> \n<a href=\"http://s903.photobucket.com/user/adeking1/media/048_zpsgvsy5nds.jpg.html\" class=\"postlink\"><img src=\"http://i903.photobucket.com/albums/ac233/adeking1/048_zpsgvsy5nds.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Sun Jun 14, 2015 4:33 pm"
+  }, {
+    "postId" : "838365",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "838365",
+      "joined" : "Wed Sep 02, 2009 6:20 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "1169",
+      "avatarPath" : null
+    },
+    "content" : "also, how tight should you do up the little bolt which holds the wiper arms to the spindles?\n<br> \n<br> If you do it up reasonably tight the wiper arms do not move onto the windows as the spindles do not appear to rotate - by doing it not so tight the wipers move onto the screen, but the bolt gouges at the metal of the spindle - this seems like a poor design, unless i'm missing something?\n<br> \n<br> thanks\n<br> ps - couldn't seem to edit my original post, hence the reason for the 'reply'",
+    "lastEdited" : "Sun Jun 14, 2015 4:37 pm"
+  } ]
+}

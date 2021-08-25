@@ -1,0 +1,40 @@
+{
+  "forumId" : "4",
+  "threadId" : "118015",
+  "title" : "For Sale: Web Cam Camshaft brand new",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=118015",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=b90c2d21ae135db6ffe8da9b3dee94cd",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "888065",
+    "author" : {
+      "username" : "Rusty891403",
+      "userId" : "888065",
+      "joined" : "Mon Jul 11, 2016 2:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "88",
+      "avatarPath" : null
+    },
+    "content" : "For sale - web cam camshaft type 1 VW 8v\n<br> \n<br> Bought and no longer required.\n<br> £95 or best offer.\n<br> \n<br> Collect from Swindon or can post for the going Royal Mail rate.\n<br> Thanks for looking!\n<br> Text or call 07843 256748 Rus",
+    "lastEdited" : "Tue Nov 29, 2016 8:39 pm"
+  }, {
+    "postId" : "888084",
+    "author" : {
+      "username" : "MarkFer",
+      "userId" : "888084",
+      "joined" : "Wed May 14, 2008 12:53 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hampshire",
+      "postCount" : "769",
+      "avatarPath" : null
+    },
+    "content" : "I read that as webcam camshaft, and couldn't work out why or how anyone would attach a webcam to a camshaft...\n<br> \n<br> Although thinking about it that would make an interesting video...",
+    "lastEdited" : "Wed Nov 30, 2016 10:50 am"
+  } ]
+}

@@ -1,0 +1,206 @@
+{
+  "forumId" : "32",
+  "threadId" : "37035",
+  "title" : "Topic Reply and New Message Notification Email Problems",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=37035",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 22,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "273388",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "273388",
+      "joined" : "Wed Sep 17, 2003 3:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Wiltshire, UK",
+      "postCount" : "1918",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Hi All, \n<br>We've got an ongoing investigation with our hosting company into problems with people not getting mail notifications (and also problems with our SSVC email). \n<br> \n<br>If you have had problems in the last week, or from now, please could you post here the last part of your email address (after the @) \n<br>e.g. \n<br>btinternet.com \n<br>gmail.com \n<br>yahoo.com \n<br> \n<br>If you could also email me (website at ssvc dot org dot uk) with your full address with the Subject \"SSVC Mail Problem\" that would be great. \n<br> \n<br>Thanks for your help. \n<br> \n<br>John",
+    "lastEdited" : "Fri Dec 07, 2007 6:05 pm"
+  }, {
+    "postId" : "717680",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "717680",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "513",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "I have never had an email re replies to threads - hotmail.com\n<br>\n<br>Cheers",
+    "lastEdited" : "Sun Apr 21, 2013 12:19 pm"
+  }, {
+    "postId" : "749316",
+    "author" : {
+      "username" : "aircoolsteve",
+      "userId" : "749316",
+      "joined" : "Mon Nov 10, 2003 11:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "kent",
+      "postCount" : "431",
+      "avatarPath" : null
+    },
+    "content" : "Had this prob of no notifications for about a week now. @gmail.com\n<br>cheers",
+    "lastEdited" : "Sat Sep 28, 2013 9:45 pm"
+  }, {
+    "postId" : "749319",
+    "author" : {
+      "username" : "Aspro",
+      "userId" : "749319",
+      "joined" : "Tue Oct 23, 2012 7:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "396",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>chrystal wrote:</cite>I have never had an email re replies to threads - hotmail.com\n  <br>\n  <br>Cheers\n </div>\n</blockquote>\n<br>\n<br>You probably haven't ticked the option in your UCP.",
+    "lastEdited" : "Sat Sep 28, 2013 10:05 pm"
+  }, {
+    "postId" : "749325",
+    "author" : {
+      "username" : "aircoolsteve",
+      "userId" : "749325",
+      "joined" : "Mon Nov 10, 2003 11:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "kent",
+      "postCount" : "431",
+      "avatarPath" : null
+    },
+    "content" : "first thing i did was check everything out on the control panel and it was all in order.\n<br>still no notifications on thread replies or PMs. so I did what John said on this thread and I got a reply mail on what you have just posted, so result! many thanks John.",
+    "lastEdited" : "Sat Sep 28, 2013 10:25 pm"
+  }, {
+    "postId" : "803700",
+    "author" : {
+      "username" : "bug-er",
+      "userId" : "803700",
+      "joined" : "Sun Feb 10, 2013 10:04 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "16",
+      "avatarPath" : null
+    },
+    "content" : "im not getting any notifications on my @hotmail address, all options selected in user control panel",
+    "lastEdited" : "Tue Sep 23, 2014 9:14 am"
+  }, {
+    "postId" : "808433",
+    "author" : {
+      "username" : "vw_speedsterke",
+      "userId" : "808433",
+      "joined" : "Tue Sep 30, 2014 3:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "Overpelt (Belgium)",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "here the same problems @hotmail.com",
+    "lastEdited" : "Wed Oct 29, 2014 3:01 pm"
+  }, {
+    "postId" : "808740",
+    "author" : {
+      "username" : "vw_speedsterke",
+      "userId" : "808740",
+      "joined" : "Tue Sep 30, 2014 3:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "Overpelt (Belgium)",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "now if have changed from @hotmail.com to my other email account @telenet.be without any problems",
+    "lastEdited" : "Fri Oct 31, 2014 7:30 pm"
+  }, {
+    "postId" : "809048",
+    "author" : {
+      "username" : "vwed",
+      "userId" : "809048",
+      "joined" : "Fri Mar 05, 2010 8:25 pm",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "417",
+      "avatarPath" : null
+    },
+    "content" : "Have had problems for a couple of months now - my control panel options are ticked.\n<br>@live.co.uk\n<br>Will e-mail John with my full address.",
+    "lastEdited" : "Mon Nov 03, 2014 3:38 pm"
+  }, {
+    "postId" : "809427",
+    "author" : {
+      "username" : "vw_speedsterke",
+      "userId" : "809427",
+      "joined" : "Tue Sep 30, 2014 3:55 pm",
+      "profileRank" : "Registered user",
+      "location" : "Overpelt (Belgium)",
+      "postCount" : "27",
+      "avatarPath" : null
+    },
+    "content" : "problem back, problem was solved with my telenet.be ,after a few days, no email notifications \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Thu Nov 06, 2014 8:52 pm"
+  }, {
+    "postId" : "809458",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "809458",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "624",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Having problems with @hotmail.com. Not getting my notifications to my posts.",
+    "lastEdited" : "Fri Nov 07, 2014 6:57 am"
+  }, {
+    "postId" : "809499",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "809499",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1085",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "I've stopped getting email notification on pm's and its cost me some parts now. @me.com email",
+    "lastEdited" : "Fri Nov 07, 2014 2:16 pm"
+  }, {
+    "postId" : "809505",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "809505",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6009",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "I think it is something to do with hotmail not liking it? It seems to work on my hotmail fine.",
+    "lastEdited" : "Fri Nov 07, 2014 4:21 pm"
+  }, {
+    "postId" : "809525",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "809525",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1085",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "I'm not on hotmail and I now get no notifications to threads or PM's now\n<br>\n<br>Off to the Facebook page I go!",
+    "lastEdited" : "Fri Nov 07, 2014 6:27 pm"
+  }, {
+    "postId" : "809569",
+    "author" : {
+      "username" : "Aspro",
+      "userId" : "809569",
+      "joined" : "Tue Oct 23, 2012 7:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "396",
+      "avatarPath" : null
+    },
+    "content" : "No email to notify of new PM. @yahoo.com.au",
+    "lastEdited" : "Fri Nov 07, 2014 9:35 pm"
+  } ]
+}

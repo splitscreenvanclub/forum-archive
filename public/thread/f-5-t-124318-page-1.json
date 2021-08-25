@@ -1,0 +1,79 @@
+{
+  "forumId" : "5",
+  "threadId" : "124318",
+  "title" : "Where to buy front VW Badge??",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=124318",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=1ddbe25af6be2c952b75700e6cf55a86",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "927873",
+    "author" : {
+      "username" : "NateBug",
+      "userId" : "927873",
+      "joined" : "Fri Nov 01, 2019 1:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "Hi All\n<br> \n<br> anyone know where I can get a new badge from???\n<br> \n<br> cheers",
+    "lastEdited" : "Wed Feb 12, 2020 2:37 pm"
+  }, {
+    "postId" : "927907",
+    "author" : {
+      "username" : "Glenn Yale",
+      "userId" : "927907",
+      "joined" : "Tue Sep 09, 2014 9:14 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Tamworth.",
+      "postCount" : "81",
+      "avatarPath" : null
+    },
+    "content" : "Schofields sell them at shows although they are not on their website, give them a call.",
+    "lastEdited" : "Fri Feb 14, 2020 11:25 pm"
+  }, {
+    "postId" : "927930",
+    "author" : {
+      "username" : "peter the plumber",
+      "userId" : "927930",
+      "joined" : "Wed May 12, 2004 6:23 pm",
+      "profileRank" : "Registered user",
+      "location" : "Sutton Coldfield/Birmingham",
+      "postCount" : "705",
+      "avatarPath" : null
+    },
+    "content" : "I have one for sale and I am in Sutton Coldfield sent you a pm",
+    "lastEdited" : "Sun Feb 16, 2020 10:31 am"
+  }, {
+    "postId" : "927931",
+    "author" : {
+      "username" : "bowie",
+      "userId" : "927931",
+      "joined" : "Sat Jul 15, 2017 3:57 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "463",
+      "avatarPath" : null
+    },
+    "content" : "Try Autocraft eng, they do not advertise them so you will need to phone them.",
+    "lastEdited" : "Sun Feb 16, 2020 12:02 pm"
+  }, {
+    "postId" : "927944",
+    "author" : {
+      "username" : "NateBug",
+      "userId" : "927944",
+      "joined" : "Fri Nov 01, 2019 1:56 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "14",
+      "avatarPath" : null
+    },
+    "content" : "thanks for your help - will try these outlets",
+    "lastEdited" : "Mon Feb 17, 2020 12:47 pm"
+  } ]
+}

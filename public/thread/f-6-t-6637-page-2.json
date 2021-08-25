@@ -1,0 +1,92 @@
+{
+  "forumId" : "6",
+  "threadId" : "6637",
+  "title" : "sand blasting how much?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=6637&start=15",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=79d60eb5efe563f3d987d71909e33d78",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 21,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "33518",
+    "author" : {
+      "username" : "Jimi Woolley",
+      "userId" : "33518",
+      "joined" : "Wed Jul 09, 2003 9:46 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Derby",
+      "postCount" : "216",
+      "avatarPath" : null
+    },
+    "content" : "The term SAND BLASTING still gives me nightmares!",
+    "lastEdited" : "Thu Jan 27, 2005 11:00 pm"
+  }, {
+    "postId" : "33548",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "33548",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "i am doing mine by hand.\n<br> \n<br> see pics on\n<br> \n<br> \n<a href=\"http://vw59.fotopic.net/\" class=\"postlink\">http://vw59.fotopic.net/</a>\n<br> \n<br> it has taken a couple of months of about 100 hours in total. and about £150 in nitromors. The sand blasting looks like a good option, but there is something strangely satisfying about doing it by hand.",
+    "lastEdited" : "Fri Jan 28, 2005 8:52 am"
+  }, {
+    "postId" : "33554",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "33554",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "wilgartw that's well impressive. I am trying to decide if should follow your example or save a whole heap of time sandblasting. I guess if you do it yourself by hand you know exactly what has been done and there is no chance of the disaster mentioned in the above posts.\n<br> \n<br> Did you use nitromors as I notice you can get this stuff from Frost now:\n<br> \n<br> \n<a href=\"http://www.frost.co.uk/item_Detail.asp?productID=8631\" class=\"postlink\">http://www.frost.co.uk/item_Detail.asp?productID=8631</a>\n<br> \n<br> Also I'd be interested to know how you intend to stop it from rusting now it is stripped?\n<br> \n<br> I was quoted £600 to have my van blasted and zinc primered if that sounds too much let me know as the £300 I presume is just blasted and I've no idea if another £300 is how much it should cost for a primer to stop it rusting!!",
+    "lastEdited" : "Fri Jan 28, 2005 9:41 am"
+  }, {
+    "postId" : "36084",
+    "author" : {
+      "username" : "Gnarly",
+      "userId" : "36084",
+      "joined" : "Thu Dec 02, 2004 4:32 pm",
+      "profileRank" : "Registered user",
+      "location" : "Mid England Ish",
+      "postCount" : "4266",
+      "avatarPath" : null
+    },
+    "content" : "So, how do you stop it from rusting once you've stripped it back??",
+    "lastEdited" : "Wed Feb 16, 2005 5:28 pm"
+  }, {
+    "postId" : "36095",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "36095",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "smother it with oil for the large areas, and wd40 for the delicate bits",
+    "lastEdited" : "Wed Feb 16, 2005 6:39 pm"
+  }, {
+    "postId" : "36096",
+    "author" : {
+      "username" : "wilgartw",
+      "userId" : "36096",
+      "joined" : "Thu Aug 05, 2004 11:38 pm",
+      "profileRank" : "Registered user",
+      "location" : "MANCHESTER",
+      "postCount" : "3488",
+      "avatarPath" : null
+    },
+    "content" : "oh yes, and the following week you need to go round with a bit of wire wool and some more oil/wd40 to check for any bits you missed.",
+    "lastEdited" : "Wed Feb 16, 2005 6:40 pm"
+  } ]
+}

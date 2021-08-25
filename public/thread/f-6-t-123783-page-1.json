@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "123783",
+  "title" : "123ignition tune+",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123783",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=7ebcb27080387b075c00f0cfac181750",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 62,
+  "pageNumber" : 1,
+  "totalPages" : 5,
+  "posts" : [ {
+    "postId" : "924622",
+    "author" : {
+      "username" : "andystoker",
+      "userId" : "924622",
+      "joined" : "Mon Mar 25, 2019 7:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "I have recently installed a 123ignition tune+ and I would love to know what maps others are using for a 1600 dual port with the vacuum connected to a PICT 34. Here’s what I’m using, and here’s an image of the dashboard when cruising. I’m finding tick-over super smooth and I feel much more able to adjust the carb, but while it’s much better overall than the £50 009 I ditched, I’m still down on power compared to how the engine has been at its best. Compression test ok, Valve clearances checked, carb serviced, new coil, leads and plugs on the way to trying to improve performance.\n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=36364&amp;sid=7ebcb27080387b075c00f0cfac181750&amp;mode=view\"><img src=\"./download/file.php?id=36364&amp;t=1&amp;sid=7ebcb27080387b075c00f0cfac181750\" class=\"postimage\" alt=\"226CFC75-A17C-47D9-B755-50BDD363666D.png\" title=\"226CFC75-A17C-47D9-B755-50BDD363666D.png (258.41 KiB) Viewed 2699 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=36363&amp;sid=7ebcb27080387b075c00f0cfac181750&amp;mode=view\"><img src=\"./download/file.php?id=36363&amp;t=1&amp;sid=7ebcb27080387b075c00f0cfac181750\" class=\"postimage\" alt=\"147B3B6E-B4AC-4EC0-855B-08B4681AA178.png\" title=\"147B3B6E-B4AC-4EC0-855B-08B4681AA178.png (112.48 KiB) Viewed 2699 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Mon Aug 26, 2019 3:34 pm"
+  }, {
+    "postId" : "924624",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "924624",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20110",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Mine has never got that hot (oil temp) yet. \n<br> \n<br> You've got too much advance as it's over 32 degrees, if its at full throttle, so I'd pull that back.",
+    "lastEdited" : "Mon Aug 26, 2019 4:32 pm"
+  }, {
+    "postId" : "924625",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "924625",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20110",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=36367&amp;sid=7ebcb27080387b075c00f0cfac181750&amp;mode=view\"><img src=\"./download/file.php?id=36367&amp;t=1&amp;sid=7ebcb27080387b075c00f0cfac181750\" class=\"postimage\" alt=\"Screenshot_20190722-153032.png\" title=\"Screenshot_20190722-153032.png (88.09 KiB) Viewed 2693 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=36366&amp;sid=7ebcb27080387b075c00f0cfac181750&amp;mode=view\"><img src=\"./download/file.php?id=36366&amp;t=1&amp;sid=7ebcb27080387b075c00f0cfac181750\" class=\"postimage\" alt=\"Screenshot_20190712-143029.png\" title=\"Screenshot_20190712-143029.png (327.55 KiB) Viewed 2693 times\"></a>\n  </dt> \n </dl> \n</div> \n<div class=\"inline-attachment\"> \n <dl class=\"thumbnail\"> \n  <dt>\n   <a href=\"./download/file.php?id=36365&amp;sid=7ebcb27080387b075c00f0cfac181750&amp;mode=view\"><img src=\"./download/file.php?id=36365&amp;t=1&amp;sid=7ebcb27080387b075c00f0cfac181750\" class=\"postimage\" alt=\"Screenshot_20190722-153039.png\" title=\"Screenshot_20190722-153039.png (83.99 KiB) Viewed 2693 times\"></a>\n  </dt> \n </dl> \n</div>",
+    "lastEdited" : "Mon Aug 26, 2019 4:37 pm"
+  }, {
+    "postId" : "924626",
+    "author" : {
+      "username" : "andystoker",
+      "userId" : "924626",
+      "joined" : "Mon Mar 25, 2019 7:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "Jim - thank you so much for posting this.. I will try that out this week!",
+    "lastEdited" : "Mon Aug 26, 2019 8:00 pm"
+  }, {
+    "postId" : "924875",
+    "author" : {
+      "username" : "andystoker",
+      "userId" : "924875",
+      "joined" : "Mon Mar 25, 2019 7:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4",
+      "avatarPath" : null
+    },
+    "content" : "New map made a huge difference - thank you @vwjim \n<br> I also found that my throttle linkage was so worn that I wasn’t getting much more than half throttle.. which is probably a mercy given the amount of advance I had with the original map. Combination of distributor, correct map and a new Buddys Bits linkage and it feels like a completely different van. 46mph and holding steady in 4th on my ‘test hill’ where I was struggling to maintain 30mph in 3rd. Feeling much better about my trip to Tintagel on Monday \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" width=\"15\" height=\"15\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Tue Sep 03, 2019 9:03 pm"
+  }, {
+    "postId" : "924878",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "924878",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20110",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Sounds like you've released the potential of the engine now. \n<br> \n<br> Thanks goes to the ssvc technical editor too, Paul Fautley, as he assisted in developing my map after getting duff instructions on its setup.",
+    "lastEdited" : "Tue Sep 03, 2019 9:58 pm"
+  }, {
+    "postId" : "925044",
+    "author" : {
+      "username" : "presland123",
+      "userId" : "925044",
+      "joined" : "Tue Apr 17, 2007 12:27 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "near Peterborough",
+      "postCount" : "1311",
+      "avatarPath" : "./download/file.php%3Favatar=5116_1246086570.jpg"
+    },
+    "content" : "Hi there seems to be a variety of 123 distributors out there and suppliers , what one's are you using (im running a 1776 twinport with dual carbs)\n<br> \n<br> Cheers",
+    "lastEdited" : "Mon Sep 09, 2019 6:23 am"
+  }, {
+    "postId" : "925240",
+    "author" : {
+      "username" : "joannedoyle",
+      "userId" : "925240",
+      "joined" : "Mon Aug 17, 2009 5:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Littleborough, Lancs",
+      "postCount" : "513",
+      "avatarPath" : "./download/file.php%3Favatar=33443_1409222692.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=124&amp;sid=7ebcb27080387b075c00f0cfac181750\">vwJim</a> wrote: <a href=\"./viewtopic.php?p=924625&amp;sid=7ebcb27080387b075c00f0cfac181750#p924625\" data-post-id=\"924625\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Mon Aug 26, 2019 4:37 pm\n   </div></cite> Screenshot_20190722-153032.png\n  <br> \n  <br> Screenshot_20190712-143029.png\n  <br> \n  <br> Screenshot_20190722-153039.png \n </div>\n</blockquote> Hi Jim\n<br> Just wondering if you can help me with my tune+\n<br> I’ve just installed it and set the timing. Engine running okay but I’ve put your map in it and for some reason mine won’t advance more than 24 degrees now??\n<br> Simon",
+    "lastEdited" : "Fri Sep 13, 2019 5:03 pm"
+  }, {
+    "postId" : "925243",
+    "author" : {
+      "username" : "joannedoyle",
+      "userId" : "925243",
+      "joined" : "Mon Aug 17, 2009 5:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Littleborough, Lancs",
+      "postCount" : "513",
+      "avatarPath" : "./download/file.php%3Favatar=33443_1409222692.jpg"
+    },
+    "content" : "Scrap that. I didn’t have the vac pipe connected during the testing as with a 009\n<br> I’ve put the vac pipe on and getting 32 degrees max. I’ll go for a spin over the weekend and give it a good test.\n<br> Cheers \n<br> Simon",
+    "lastEdited" : "Fri Sep 13, 2019 6:43 pm"
+  }, {
+    "postId" : "925247",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "925247",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "I may have been out of the office when the email came around about 123 Ignition+ thingy, but would love to know what it’s all about.\n<br> \n<br> Running twin 35 Dell’ortos on a 1776 with Engle 110 and Accuspark SVDA dizzy, which has been rolling road tuned for driveability, but always interested in things like this.\n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Fri Sep 13, 2019 8:03 pm"
+  }, {
+    "postId" : "925250",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "925250",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20110",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=33443&amp;sid=7ebcb27080387b075c00f0cfac181750\">joannedoyle</a> wrote: <a href=\"./viewtopic.php?p=925243&amp;sid=7ebcb27080387b075c00f0cfac181750#p925243\" data-post-id=\"925243\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Fri Sep 13, 2019 6:43 pm\n   </div></cite> Scrap that. I didn’t have the vac pipe connected during the testing as with a 009\n  <br> I’ve put the vac pipe on and getting 32 degrees max. I’ll go for a spin over the weekend and give it a good test.\n  <br> Cheers \n  <br> Simon \n </div>\n</blockquote>g\n<br> \n<br> Lol. That'll help then.",
+    "lastEdited" : "Fri Sep 13, 2019 8:25 pm"
+  }, {
+    "postId" : "925258",
+    "author" : {
+      "username" : "joannedoyle",
+      "userId" : "925258",
+      "joined" : "Mon Aug 17, 2009 5:54 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Littleborough, Lancs",
+      "postCount" : "513",
+      "avatarPath" : "./download/file.php%3Favatar=33443_1409222692.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37570&amp;sid=7ebcb27080387b075c00f0cfac181750\">JonnyCJ</a> wrote: <a href=\"./viewtopic.php?p=925247&amp;sid=7ebcb27080387b075c00f0cfac181750#p925247\" data-post-id=\"925247\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Fri Sep 13, 2019 8:03 pm\n   </div></cite> I may have been out of the office when the email came around about 123 Ignition+ thingy, but would love to know what it’s all about.\n  <br> \n  <br> Running twin 35 Dell’ortos on a 1776 with Engle 110 and Accuspark SVDA dizzy, which has been rolling road tuned for driveability, but always interested in things like this.\n  <br> \n  <br> Cheers\n  <br> \n  <br> Jonny \n </div>\n</blockquote> Hi Jonny \n<br> Here’s the write up on it off dan Simpson’s web page.\n<br> “ VW performance distributor – Control your 123/TUNE+ with your iOS/Android smartphone or tablet. The App makes it possible to adjust the ignition curve and shows an electronic dashboard. Main features: REV-counter, Anti-theft system, Bluetooth 4.0, Real time tuning, Vacuum advance, Boost retard, Soft REV-limiter, etc.\n<br> \n<br> Ideally suited to high performance VW aircooled engines replaces 009 or 031 distributors with vacuum, with high performance ignition system with adjustable advance curve and bluetooth technology. These VW performance distributor are the top of the range distributors being used today by most VW performance engine builders. Great for VW Beetle, Bus, Buggy, Porsche. simple to install adjustable advance curves.“\n<br> \n<br> It’s a great bit of kit and all the mechanical advance and vacuum are performed electronically so the only moving part is the rotor shaft. It times absolutely perfect.\n<br> It even measures the oil temperature which can be monitored on the phone.\n<br> Simon",
+    "lastEdited" : "Sat Sep 14, 2019 7:38 am"
+  }, {
+    "postId" : "925277",
+    "author" : {
+      "username" : "Bren Ralls",
+      "userId" : "925277",
+      "joined" : "Mon Sep 12, 2011 6:16 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Deal, Kent.",
+      "postCount" : "1231",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37570&amp;sid=7ebcb27080387b075c00f0cfac181750\">JonnyCJ</a> wrote: <a href=\"./viewtopic.php?p=925247&amp;sid=7ebcb27080387b075c00f0cfac181750#p925247\" data-post-id=\"925247\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Fri Sep 13, 2019 8:03 pm\n   </div></cite> I may have been out of the office when the email came around about 123 Ignition+ thingy, but would love to know what it’s all about.\n  <br> \n  <br> Running twin 35 Dell’ortos on a 1776 with Engle 110 and Accuspark SVDA dizzy, which has been rolling road tuned for driveability, but always interested in things like this.\n  <br> \n  <br> Cheers\n  <br> \n  <br> Jonny \n </div>\n</blockquote> Just put one in my bus and as above. Tells me everything my engine is doing blue toothed to my phone without need for additional gauges, so keeps classic look of the dash. \n<br> Reasonably easy to set up and works a treat, can even immobilise my engine with it. \n<br> \n<br> Well that was my excuse to justify cost to the wife.",
+    "lastEdited" : "Sat Sep 14, 2019 4:28 pm"
+  }, {
+    "postId" : "925282",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "925282",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20110",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Yeah, that's another neat function on it.",
+    "lastEdited" : "Sat Sep 14, 2019 8:53 pm"
+  }, {
+    "postId" : "925283",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "925283",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "391",
+      "avatarPath" : null
+    },
+    "content" : "Looks a good bit of kit! \n<br> \n<br> Another thing to add to the shopping list \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Sat Sep 14, 2019 9:08 pm"
+  } ]
+}

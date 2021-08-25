@@ -1,0 +1,76 @@
+{
+  "forumId" : "6",
+  "threadId" : "34236",
+  "title" : "Manuals | VIN Numbers | M-Codes | Wiring | Paint ......",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=34236",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "249710",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "249710",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Midlands",
+      "postCount" : "10373",
+      "avatarPath" : "http://i6.photobucket.com/albums/y226/phish1070/anime.gif"
+    },
+    "content" : "There is also a complete parts list with diagrams online at \n<!-- w -->\n<a class=\"postlink\" href=\"http://www.vintagebus.com\">www.vintagebus.com</a>\n<!-- w --> which is helpfull to see the exploded lists and check which parts fit which years etc. \n<br> \n<br>I've found this helpfull",
+    "lastEdited" : "Sun Sep 09, 2007 1:33 pm"
+  }, {
+    "postId" : "427003",
+    "author" : {
+      "username" : "BaronVonKronken",
+      "userId" : "427003",
+      "joined" : "Sat May 07, 2005 5:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Warwickshire UK",
+      "postCount" : "1135",
+      "avatarPath" : "http://www.baronvonkronken.com/BVKAvatar.JPG"
+    },
+    "content" : "also loads of information on \n<!-- w -->\n<a class=\"postlink\" href=\"http://www.baronvonkronken.com\">www.baronvonkronken.com</a>\n<!-- w --> \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Jun 09, 2009 6:54 am"
+  }, {
+    "postId" : "512433",
+    "author" : {
+      "username" : "bushi",
+      "userId" : "512433",
+      "joined" : "Wed Feb 03, 2010 8:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Dubai, U.A.E.",
+      "postCount" : "768",
+      "avatarPath" : "http://i1177.photobucket.com/albums/x349/bushiur/Logo%20concepts/59493fc3-b2a6-45bd-83e7-2654af966cc3_zps897b6b04.png"
+    },
+    "content" : "Anybody knows a good VIN decoder thats online (apart from thesamba.com which is quite incomplete).\n<br>Similar to the M-CODE decoder like this: \n<!-- m -->\n<a class=\"postlink\" href=\"http://www.vw-mplate.com/mcode.php?lang=EN\">http://www.vw-mplate.com/mcode.php?lang=EN</a>\n<!-- m -->\n<br>\n<br>Cheers, bushi",
+    "lastEdited" : "Wed May 26, 2010 5:23 pm"
+  }, {
+    "postId" : "608796",
+    "author" : {
+      "username" : "bushi",
+      "userId" : "608796",
+      "joined" : "Wed Feb 03, 2010 8:07 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Dubai, U.A.E.",
+      "postCount" : "768",
+      "avatarPath" : "http://i1177.photobucket.com/albums/x349/bushiur/Logo%20concepts/59493fc3-b2a6-45bd-83e7-2654af966cc3_zps897b6b04.png"
+    },
+    "content" : "FOUND THIS DECODER, AND IT SEEMS TO WORK!\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.dubnetworks.net/vw-vin-decoder.htm\">http://www.dubnetworks.net/vw-vin-decoder.htm</a>\n<!-- m -->",
+    "lastEdited" : "Fri Sep 16, 2011 7:59 pm"
+  }, {
+    "postId" : "862745",
+    "author" : {
+      "username" : "Griffin",
+      "userId" : "862745",
+      "joined" : "Wed Apr 22, 2015 11:39 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Birth certificate just received\n<br>M007 is \"delivered without tyres\"\n<br>\n<br>seems unusual but was delivered to south Africa ... hmm",
+    "lastEdited" : "Thu Feb 04, 2016 2:30 am"
+  } ]
+}

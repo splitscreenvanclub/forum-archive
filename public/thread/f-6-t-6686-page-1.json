@@ -1,0 +1,40 @@
+{
+  "forumId" : "6",
+  "threadId" : "6686",
+  "title" : "Heater box bolts",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=6686",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=8ed51d46d7de0a154c8e88c734c5a959",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "33056",
+    "author" : {
+      "username" : "Red Devil",
+      "userId" : "33056",
+      "joined" : "Mon Oct 18, 2004 2:41 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lincolnshire",
+      "postCount" : "1147",
+      "avatarPath" : null
+    },
+    "content" : "Just started to strip down my engine for the first time and have only got as far as the heater boxes before reaching my first decision. The bolts which hold on the heater boxes (clutch side) to the head are rusted and with lots of spray I have been able to turn them but the whole thing is turning, ie the nut and the threaded screw part. Is it ok to just undo this and then get another thread to go back in or should I do it up again and cut off the bolt so that the threaded part remains in the head?\n<br> \n<br> Thanks for any help. \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Mon Jan 24, 2005 2:02 pm"
+  }, {
+    "postId" : "33065",
+    "author" : {
+      "username" : "The Flying Scotvan",
+      "userId" : "33065",
+      "joined" : "Thu Apr 17, 2003 9:04 pm",
+      "profileRank" : "Registered user",
+      "location" : "An t-Eilean Dubh",
+      "postCount" : "348",
+      "avatarPath" : null
+    },
+    "content" : "Just pull out the whole stud. Replcements are very cheap. You can get them at Just Kampers. You are lucky the whole thing is turning. The bolt could have sheared off leaving a stump as it did with mine...\n<br> \n<br> Good luck. I striped and rebuild my first engine last month and it was a piece of cake. It is now running as sweet as a nut.",
+    "lastEdited" : "Mon Jan 24, 2005 4:43 pm"
+  } ]
+}

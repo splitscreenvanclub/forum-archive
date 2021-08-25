@@ -1,0 +1,27 @@
+{
+  "forumId" : "2",
+  "threadId" : "103962",
+  "title" : "Lincolnshire camp-out 4-6 July",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=103962",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=1940900622ee1757172112278d944712",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "790853",
+    "author" : {
+      "username" : "SSVC Van Register",
+      "userId" : "790853",
+      "joined" : "Thu May 04, 2006 10:17 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "90",
+      "avatarPath" : "./download/file.php%3Favatar=2355_1351277882.jpg"
+    },
+    "content" : "Anyone else interested in joining the SSVC camp-out at the Bubble Car Museum, Langrick, Boston 4th to 6th July ? Please let me know ASAP. About 10 units booked so far. £7 per unit per night (sorry no hook-ups this time).",
+    "lastEdited" : "Thu Jun 26, 2014 6:02 pm"
+  } ]
+}

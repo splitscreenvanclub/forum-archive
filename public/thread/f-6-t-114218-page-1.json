@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "114218",
+  "title" : "1957 Handbrake Cables mystery",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=114218",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 16,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "861163",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "861163",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "I have a set of NOS handbrake cables correct for my 57. There are a set of cables in place but they seem oddly short. See picture. At the top is where the gear shift rod starts and that's as far as the cables get.\n<br> \n<br> Anyone seen this before? There's nothing unique with a 57 is there that means the cables don't come up through the cab floor? \n<br> \n<br> The ones in place are way off the cable floor hole. There's no handbrake mechanism so maybe someone put 'new' cables on but they're the wrong ones?\n<br> \n<br> Just want to check before I go ahead and pull out the old cables.\n<br> \n<br> \n<img src=\"//images.tapatalk-cdn.com/16/01/21/886182a7094b61f3a5be68785df28c68.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Thu Jan 21, 2016 3:06 pm"
+  }, {
+    "postId" : "861175",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "861175",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "What transmission do you have? If you have a later tunnel case (big-nut) transmission, the standard cables won't fit. The fitting at the drum end is different to the fitting on the original split case (small nut) transmission brake drums, so they end up too short. Later cables are too long. You'll have to buy or fabricate custom cables.\n<br> \n<br> There are a few threads on here with options, but I used later cables and cut them down to length at the handbrake end. I fitted wire rope fittings to replace the original swaged-on fittings.",
+    "lastEdited" : "Thu Jan 21, 2016 6:23 pm"
+  }, {
+    "postId" : "861181",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "861181",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "I've got a small nut tranny. 36mm on the axle nut. I think I'm just going to gave to pull the current ones out and compare to the NOS ones I have. If they're shorter then job done. If they're same size I'm stumped!",
+    "lastEdited" : "Thu Jan 21, 2016 7:04 pm"
+  }, {
+    "postId" : "861190",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "861190",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "Strange. Does it have the correct rear brake backing plates for your year?",
+    "lastEdited" : "Thu Jan 21, 2016 7:25 pm"
+  }, {
+    "postId" : "861198",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "861198",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "I'm guessing so mate. I'll go grab a picture. I don;t know whether these were the original cables on the bus though and it's odd the handbrake is not there so that makes me think there may have been an issue which made the PO replace the cables but with the incorrect ones.",
+    "lastEdited" : "Thu Jan 21, 2016 8:15 pm"
+  }, {
+    "postId" : "861199",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "861199",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "<img src=\"//images.tapatalk-cdn.com/16/01/21/c42b2c831a85bef22e51cf6a713728a1.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Thu Jan 21, 2016 8:19 pm"
+  }, {
+    "postId" : "861202",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "861202",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "Also, what is that triangular piece on the first picture that the cables feed into and where does that fit in??",
+    "lastEdited" : "Thu Jan 21, 2016 8:39 pm"
+  }, {
+    "postId" : "861206",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "861206",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "The triangular piece acts to balance out the pull to compensate for slight differences in length (e.g if one side's shoes are more worn, or more likely if the cables are adjusted to different lengths).\n<br> \n<br> Re the backing plate - I thought maybe you had one ton brakes instead of 3/4 ton. Not sure if their cables are different lengths - it was just a theory in my head. That plate looks like what I think a 3/4 ton backing plate looks like, so that's that theory dead. My '56 truck has a later big nut rear end, so totally different backing plate, hence different cables.",
+    "lastEdited" : "Thu Jan 21, 2016 9:05 pm"
+  }, {
+    "postId" : "861208",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "861208",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "Where would that triangular bit normally sit? Would it be under the cab floor before the cables pop up through?\n<br> \n<br> Blooming hell right old mystery. I reckon bottom line is I need to strip them out and trial fit the NOS ones?",
+    "lastEdited" : "Thu Jan 21, 2016 9:10 pm"
+  }, {
+    "postId" : "861231",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "861231",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "I'm not 100% on year changes, but I'm pretty certain your cables shouldn't come up through the floor. They connect to that balancing/compensating piece, like you can see in your picture.\n<br> \n<br> The complete system should look like this (this is before I fixed mine, so one of the cables is too short (original), the other is too long (later type)..\n<br> \n<br> \n<img src=\"http://i156.photobucket.com/albums/t15/Who_Me_Photos/ANDY-PC/TruckPics/DSC_0390_zps75d26a98.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Your pic is missing the connecting pin and the twisted bar that connects the balancing/compensating piece to the bottom of the handbrake lever, where it projects through the floor. The bottom of my handbrake lever is to the right in my picture above, hidden behind the beam.\n<br> \n<br> Have a look at the bottom corner of this picture from OACDP for the parts you'll need (parts 34-40, although you have some of them already)...\n<br> \n<br> \n<img src=\"http://oacdp.org/5867part/359.png\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://oacdp.org/5867part/361.png\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Bookmark OACDP (Obsolete air cooled document project) if you haven't already done so... \n<a href=\"http://oacdp.org/5867part.html\" class=\"postlink\">OACDP</a>",
+    "lastEdited" : "Fri Jan 22, 2016 8:02 am"
+  }, {
+    "postId" : "861235",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "861235",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20179",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Cables don't go into the cab.....",
+    "lastEdited" : "Fri Jan 22, 2016 8:33 am"
+  }, {
+    "postId" : "861241",
+    "author" : {
+      "username" : "Manzo",
+      "userId" : "861241",
+      "joined" : "Fri Mar 24, 2006 11:08 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "385",
+      "avatarPath" : "./download/file.php%3Favatar=2211_1484821261.jpg"
+    },
+    "content" : "my 57 has cables that terminate at the triangular balance bar UNDER the cab floor - they do not go into the cab. You adjust tension under the van",
+    "lastEdited" : "Fri Jan 22, 2016 9:30 am"
+  }, {
+    "postId" : "861242",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "861242",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "Right this is good news lads thanks. So the cables are probably the right length. So I need the bits that connect the triangular section to the bottom of the handbrake lever?\n<br> Does anyone have a picture of how that connects please? My handbrake from the U.S. has the same curved bittom as the one above in the diagram?\n<br> \n<br> Thanks gents really helpful.",
+    "lastEdited" : "Fri Jan 22, 2016 9:57 am"
+  }, {
+    "postId" : "861243",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "861243",
+      "joined" : "Tue Dec 30, 2014 1:58 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Essex",
+      "postCount" : "662",
+      "avatarPath" : null
+    },
+    "content" : "And where can I buy those bits I need?",
+    "lastEdited" : "Fri Jan 22, 2016 10:10 am"
+  }, {
+    "postId" : "861250",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "861250",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1090",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Crooky wrote:</cite>Right this is good news lads thanks. So the cables are probably the right length. So I need the bits that connect the triangular section to the bottom of the handbrake lever?\n  <br> Does anyone have a picture of how that connects please? My handbrake from the U.S. has the same curved bittom as the one above in the diagram?\n  <br> \n  <br> Thanks gents really helpful.\n </div>\n</blockquote> Not sure where you'll find the parts, other than via a wanted ad or one of the used parts vendors, but how it fits together is described in the scanned diagram in my last post. Have a look at the left hand page of the first scan. Right-click on the image and save it. Rotate it to landscape and the bit at bottom left shows the mechanism.\n<br> \n<br> Once you've got the twisted bar, you just need link pins that fit the holes, washers and split pins to connect them up. One end of the twisted bar goes to your handbrake, the other end goes to the triangle bit.",
+    "lastEdited" : "Fri Jan 22, 2016 12:02 pm"
+  } ]
+}

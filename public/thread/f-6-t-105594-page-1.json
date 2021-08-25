@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "105594",
+  "title" : "Nose Cone / Gearshift seal",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=105594",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=0b10bb4c7fb52f45837455369a8faa77",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "801528",
+    "author" : {
+      "username" : "chessfoss",
+      "userId" : "801528",
+      "joined" : "Tue Jan 03, 2012 8:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "5",
+      "avatarPath" : null
+    },
+    "content" : "Apologies if I'm using the wrong section. I have a 1964 splitty and its leaking oil from the nose cone at the gear selector shaft. It has reduction boxes ( hoping this helps to identify the gearbox) .\n<br> \n<br> I was wondering if there is a source of repair seals / kits? or if a new nose cone is easier / better as I read it was difficult o get the seals.\n<br> \n<br> Thanks for any help!",
+    "lastEdited" : "Tue Sep 09, 2014 1:43 pm"
+  }, {
+    "postId" : "801668",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "801668",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Try custom &amp; commercial - pretty easy to navigate to the correct section ! Replacement bushes are available.\n<br> \n<br> Cheers\n<br> \n<br> Jonny",
+    "lastEdited" : "Tue Sep 09, 2014 10:09 pm"
+  }, {
+    "postId" : "801763",
+    "author" : {
+      "username" : "chessfoss",
+      "userId" : "801763",
+      "joined" : "Tue Jan 03, 2012 8:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "5",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Jonny,\n<br> \n<br> They appear to have them for bay windows but they're not sure 131301225A if this will work on a splitscreen. They have a bushing for the splitscreen 111301207 but not the seal kit???",
+    "lastEdited" : "Wed Sep 10, 2014 10:35 am"
+  }, {
+    "postId" : "801778",
+    "author" : {
+      "username" : "jayvanman",
+      "userId" : "801778",
+      "joined" : "Tue Aug 19, 2008 10:21 am",
+      "profileRank" : "Registered user",
+      "location" : "Bristol",
+      "postCount" : "3260",
+      "avatarPath" : "./download/file.php%3Favatar=28832_1285795027.jpg"
+    },
+    "content" : "Here you go, this should help.\n<br> \n<br> Learn from my mistakes, better than learning from your own \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" width=\"15\" height=\"15\" alt=\";-)\" title=\"Wink\">\n<br> \n<br> \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=8&amp;t=70593&amp;hilit=benidict&amp;start=45\" class=\"postlink\">viewtopic.php?f=8&amp;t=70593&amp;hilit=benidict&amp;start=45</a>\n<br> \n<br> Jason",
+    "lastEdited" : "Wed Sep 10, 2014 11:13 am"
+  } ]
+}

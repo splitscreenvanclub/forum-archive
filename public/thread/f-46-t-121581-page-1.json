@@ -1,0 +1,69 @@
+{
+  "forumId" : "46",
+  "threadId" : "121581",
+  "title" : "Seized roller advice ?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=121581",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=f9750136f6bb715cf784a0754903c045",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=46&sid=f9750136f6bb715cf784a0754903c045",
+    "label" : "Devon"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "911160",
+    "author" : {
+      "username" : "Fuch77",
+      "userId" : "911160",
+      "joined" : "Mon Apr 10, 2017 8:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "I have a seized spaceway roller. \n<br> Any advice to free it up?\n<br> I have given it the wd40 treatment",
+    "lastEdited" : "Sun Apr 08, 2018 6:55 pm"
+  }, {
+    "postId" : "911190",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "911190",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15461",
+      "avatarPath" : null
+    },
+    "content" : "Not sure where this roller is of how you would do this...but.. looks like a steel shaft and roller in a steel carrier.\n<br> The steel surfaces corrode and the rust sits on the surface as an expanded layer.\n<br> What was a running clearance fit becomes an interference fit. Unless you dissolve the rust it will not free up.\n<br> I have had lots of derusting success with white vinegar..\n<br> Immerse and it comes off as a grey black sludge.\n<br> May need to clean the WD40 off first with white spirit so the vinegar can get to and wet the rust.\n<br> when free then WD40 again.\n<br> G",
+    "lastEdited" : "Mon Apr 09, 2018 3:04 am"
+  }, {
+    "postId" : "911204",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "911204",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3533",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "These rollers are made up from number of thick fibre washers. I free them off by removing the shaft and easing the washers off one at a time. If you are not bothered about originality you can make up a better roller by using a piece of rubber tubing over a new shaft (piece of 6\" nail) then sliding a piece of stainless tubing over the rubber. You can then keep the original piece in your bedside cabinet and gloat over it at regular intervals. Hope this helps \n<img class=\"smilies\" src=\"./images/smilies/icon_rolleyes.gif\" width=\"15\" height=\"15\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Mon Apr 09, 2018 4:30 pm"
+  }, {
+    "postId" : "911259",
+    "author" : {
+      "username" : "Fuch77",
+      "userId" : "911259",
+      "joined" : "Mon Apr 10, 2017 8:15 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "258",
+      "avatarPath" : null
+    },
+    "content" : "Thats good advice thank you but how do you get the pin out then the end it looks crimped in ?\n<br> and how long should i vinegar dip it for?",
+    "lastEdited" : "Wed Apr 11, 2018 11:48 am"
+  } ]
+}

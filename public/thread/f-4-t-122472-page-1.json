@@ -1,0 +1,105 @@
+{
+  "forumId" : "4",
+  "threadId" : "122472",
+  "title" : "Flat 4 Detailed Fuchs with tyres",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=122472",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=97c829aa265b96e41d3f516c0a38baff",
+    "label" : "Bus Parts For Sale"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "915723",
+    "author" : {
+      "username" : "sparkyjohn",
+      "userId" : "915723",
+      "joined" : "Mon Feb 16, 2009 9:23 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "168",
+      "avatarPath" : null
+    },
+    "content" : "SOLD",
+    "lastEdited" : "Sun Aug 26, 2018 6:48 am"
+  }, {
+    "postId" : "915738",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "915738",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "Can't find them on eBay....",
+    "lastEdited" : "Sun Aug 26, 2018 5:34 pm"
+  }, {
+    "postId" : "915747",
+    "author" : {
+      "username" : "sparkyjohn",
+      "userId" : "915747",
+      "joined" : "Mon Feb 16, 2009 9:23 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "168",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Sun Aug 26, 2018 10:36 pm"
+  }, {
+    "postId" : "915754",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "915754",
+      "joined" : "Thu Apr 17, 2003 11:24 am",
+      "profileRank" : "SSVC Member",
+      "location" : "posh part of Salford",
+      "postCount" : "11921",
+      "avatarPath" : "./download/file.php%3Favatar=34_1253389696.jpg"
+    },
+    "content" : "<a href=\"https://rover.ebay.com/rover/0/0/0?mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fulk%2Fitm%2F173495304672\" class=\"postlink\">https://rover.ebay.com/rover/0/0/0?mpre ... 3495304672</a>\n<br> \n<br> Buzzers",
+    "lastEdited" : "Mon Aug 27, 2018 9:58 am"
+  }, {
+    "postId" : "915774",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "915774",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1896",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote cite=\"./viewtopic.php?p=915754&amp;sid=97c829aa265b96e41d3f516c0a38baff#p915754\">\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=34&amp;sid=97c829aa265b96e41d3f516c0a38baff\">vwbuzzers</a> wrote: <a href=\"./viewtopic.php?p=915754&amp;sid=97c829aa265b96e41d3f516c0a38baff#p915754\" data-post-id=\"915754\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a><span class=\"responsive-hide\">Mon Aug 27, 2018 9:58 am</span></cite> \n  <a href=\"https://rover.ebay.com/rover/0/0/0?mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fulk%2Fitm%2F173495304672\" class=\"postlink\">https://rover.ebay.com/rover/0/0/0?mpre ... 3495304672</a>\n  <br> \n  <br> Buzzers \n </div>\n</blockquote> Cheers K \n<img class=\"smilies\" src=\"./images/smilies/icon_wink.gif\" width=\"15\" height=\"15\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Mon Aug 27, 2018 11:26 pm"
+  }, {
+    "postId" : "915778",
+    "author" : {
+      "username" : "sparkyjohn",
+      "userId" : "915778",
+      "joined" : "Mon Feb 16, 2009 9:23 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "168",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Tue Aug 28, 2018 10:26 am"
+  }, {
+    "postId" : "916233",
+    "author" : {
+      "username" : "sparkyjohn",
+      "userId" : "916233",
+      "joined" : "Mon Feb 16, 2009 9:23 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "168",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Thu Sep 13, 2018 8:00 pm"
+  } ]
+}

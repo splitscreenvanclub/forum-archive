@@ -1,0 +1,76 @@
+{
+  "forumId" : "2",
+  "threadId" : "109606",
+  "title" : "microwaves and inverters",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=109606",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "829569",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "829569",
+      "joined" : "Mon Jun 14, 2004 1:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hullbridge Essex",
+      "postCount" : "526",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "Is it possible to run a 800w microwave of an inverter? If so what size inverter to get and how long would a lb last before it went flat (100a lb) cheers",
+    "lastEdited" : "Thu Apr 09, 2015 10:57 am"
+  }, {
+    "postId" : "829570",
+    "author" : {
+      "username" : "dombutler",
+      "userId" : "829570",
+      "joined" : "Sat Apr 26, 2003 3:49 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hastings the pirate town.",
+      "postCount" : "1514",
+      "avatarPath" : "./download/file.php%3Favatar=141_1358500587.jpg"
+    },
+    "content" : "Hi,\n<br>yes you can run a microwave, though some inverters don't like it. At a rough guess you would need a 2000w inverter and I would say on paper your battery would last about an hour, in reality it is probably half that as you don't want to flatten a leisure battery as it will damage it. \n<br>\n<br>There are some 12v microwaves on eBay, they use about 500w, so your battery would last 1-2 hours max.",
+    "lastEdited" : "Thu Apr 09, 2015 11:21 am"
+  }, {
+    "postId" : "829583",
+    "author" : {
+      "username" : "CCSICeman",
+      "userId" : "829583",
+      "joined" : "Tue Feb 23, 2010 9:17 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sat In Front Of Computer",
+      "postCount" : "948",
+      "avatarPath" : "./download/file.php%3Favatar=33992_1386074932.jpg"
+    },
+    "content" : "Proper leisure batteries are designed to be used till flat.",
+    "lastEdited" : "Thu Apr 09, 2015 12:15 pm"
+  }, {
+    "postId" : "829585",
+    "author" : {
+      "username" : "dombutler",
+      "userId" : "829585",
+      "joined" : "Sat Apr 26, 2003 3:49 pm",
+      "profileRank" : "Registered user",
+      "location" : "Hastings the pirate town.",
+      "postCount" : "1514",
+      "avatarPath" : "./download/file.php%3Favatar=141_1358500587.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>CCSICeman wrote:</cite>Proper leisure batteries are designed to be used till flat.\n </div>\n</blockquote>\n<br>\n<br>I was told that it would damage the battery and there would be a problem charging it from flat.",
+    "lastEdited" : "Thu Apr 09, 2015 12:20 pm"
+  }, {
+    "postId" : "829591",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "829591",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1124",
+      "avatarPath" : "http://i1068.photobucket.com/albums/u451/clymoj/Bus/Bus005_zps44edd617.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>dombutler wrote:</cite>\n  <blockquote>\n   <div>\n    <cite>CCSICeman wrote:</cite>Proper leisure batteries are designed to be used till flat.\n   </div>\n  </blockquote>\n  <br>\n  <br>I was told that it would damage the battery and there would be a problem charging it from flat.\n </div>\n</blockquote>\n<br>\n<br>One of the many areas where there is much discussion and mis-perception. I don't claim to fully understand all of it but as far as I know:\n<br>\n<br>A leisure battery isn't necessarily a deep cycle battery. And a deep cycle battery isn't necessarily a 'true deep cycle' battery. And even a true deep cycle battery will only withstand 80% discharging. And even then it'll still last longer if you keep it above around 50% charge.\n<br>\n<br>A good rule of thumb seems to be that if your battery cost you less than £800 then you can't discharge it without killing it. And if it came from Halfords and has a picture of a caravan on the front then you've just paid three times the price to get a big car battery. I'm oversimplifying of course \n<img class=\"smilies\" src=\"./images/smilies/wink.gif\" alt=\";)\" title=\"Wink\">\n<br>\n<br>If you want to read more:\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://en.wikipedia.org/wiki/Deep_cycle_battery\">http://en.wikipedia.org/wiki/Deep_cycle_battery</a>\n<!-- m -->\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://jgdarden.com/batteryfaq/carfaq.htm\">http://jgdarden.com/batteryfaq/carfaq.htm</a>\n<!-- m -->",
+    "lastEdited" : "Thu Apr 09, 2015 2:56 pm"
+  } ]
+}

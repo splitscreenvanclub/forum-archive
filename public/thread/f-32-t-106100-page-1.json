@@ -1,0 +1,37 @@
+{
+  "forumId" : "32",
+  "threadId" : "106100",
+  "title" : "Staying on line",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=106100",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "805382",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "805382",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "The automatic log in feature ( tick box ) doesn't work",
+    "lastEdited" : "Sat Oct 04, 2014 8:21 am"
+  }, {
+    "postId" : "805386",
+    "author" : {
+      "username" : "Terry",
+      "userId" : "805386",
+      "joined" : "Sun Apr 27, 2003 2:47 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Silver End, Essex",
+      "postCount" : "1772",
+      "avatarPath" : "./download/file.php%3Favatar=148_1464560012.jpg"
+    },
+    "content" : "Not sure if it is working or not as sometimes it does seem to but I must say I have to log in most days even though I have ticked the box.",
+    "lastEdited" : "Sat Oct 04, 2014 8:40 am"
+  } ]
+}

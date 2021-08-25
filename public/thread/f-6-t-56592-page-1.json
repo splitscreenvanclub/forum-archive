@@ -1,0 +1,131 @@
+{
+  "forumId" : "6",
+  "threadId" : "56592",
+  "title" : "Can you use late bay IRS with CE wide 5 drums on a split?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=56592",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "434059",
+    "author" : {
+      "username" : "mattp",
+      "userId" : "434059",
+      "joined" : "Mon Sep 15, 2008 12:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leatherhead, Surrey",
+      "postCount" : "789",
+      "avatarPath" : null
+    },
+    "content" : "Hi, I would like to know if there is any reason why I could not run a late bay IRS set up coupled with new Creative engineering drums and a T1 IRS box in a split.\n<br> \n<br> I have the following\n<br> \n<br> 2 late bay rear A arms and springplates together with the A arm brackets (cut from the donor bay)\n<br> 2 late bay rear hubs inc. brakes, bearings and stub axles\n<br> 2 bay driveshafts with CV's and 2 spare T1 CV's (to mate to the T1 IRS box)\n<br> 1 DC code box (68&gt; Type 3 4.125 ratio)\n<br> \n<br> Now is there any reason why I could not run this with a new pair of Creative Engineering wide 5 (205PCD) drums? \n<br> \n<br> I know the new CE drums are designed to work on late bay parts and that the late bay rear end will work together. I have the correct brackets to weld to the torsion tube so that should be ok provided they are lined up correctly.\n<br> \n<br> From the CE website I assume that I am correct in thinking that I can run bay driveshafts with T2 CV's one end and T1 CV's the other.\n<br> \n<br> The gearbox will fit into the split although I guess it may be necessary to change the nosecone and hockey stick -I would appreciate any advice on this.\n<br> \n<br> Other than that I can only possible see a need to source the right shocks (can the splitty mounts be used?)\n<br> \n<br> Can anyone comment on the above, all advice on this welcomed\n<br> \n<br> Many thanks, Matt",
+    "lastEdited" : "Fri Jul 03, 2009 6:51 pm"
+  }, {
+    "postId" : "434316",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "434316",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1114",
+      "avatarPath" : null
+    },
+    "content" : "i think the drums that CE sell are just replacement drums - the same as you'd buy from any other repro seller (C&amp;C, just kampers, etc). you havent mentioned which IRS kit you're using, but if its the CE kit then im pretty sure this only works on early bay drums/hubs/brakes.\n<br> \n<br> you're correct in saying you need T1 CVs at the gearbox end and bay CVs at the hubs end. You do also need to replace the hockey stick and nosecone for a T1 IRS gearbox also.",
+    "lastEdited" : "Sat Jul 04, 2009 9:33 pm"
+  }, {
+    "postId" : "434355",
+    "author" : {
+      "username" : "orb",
+      "userId" : "434355",
+      "joined" : "Wed Jan 14, 2004 6:00 pm",
+      "profileRank" : "Registered user",
+      "location" : "Kingston upon Thames",
+      "postCount" : "2475",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>ferkh10 wrote:</cite>i think the drums that CE sell are just replacement drums - the same as you'd buy from any other repro seller (C&amp;C, just kampers, etc). you havent mentioned which IRS kit you're using, but if its the CE kit then im pretty sure this only works on early bay drums/hubs/brakes.\n  <br> \n  <br> you're correct in saying you need T1 CVs at the gearbox end and bay CVs at the hubs end. You do also need to replace the hockey stick and nosecone for a T1 IRS gearbox also.\n </div>\n</blockquote> The creative drums are not the same as you can get anywhere, they are wide 5 but nodded to fit late bay backplates, you have to modify the shoes to fit as well.\n<br> They do work very well though\n<br> \n<br> Orb",
+    "lastEdited" : "Sun Jul 05, 2009 8:00 am"
+  }, {
+    "postId" : "434395",
+    "author" : {
+      "username" : "mattp",
+      "userId" : "434395",
+      "joined" : "Mon Sep 15, 2008 12:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leatherhead, Surrey",
+      "postCount" : "789",
+      "avatarPath" : null
+    },
+    "content" : "Orb,\n<br> \n<br> Thanks for the reply, pertty sure the CE drums just use the full late bay innards.\n<br> \n<br> My question is really, can this set up be used on a split as most peeps seems to go for the rarer and more expensive 68/69 wide 5 stuff. Given you cannot get things like backing plates for Early bay wide 5 brakes if the late VW IRS parts fit straight on (A arm and spring plate) surely this makes more sense to use as you can then just get new brake parts.\n<br> \n<br> So, will all the parts from a later bay fit onto a splitty?",
+    "lastEdited" : "Sun Jul 05, 2009 12:50 pm"
+  }, {
+    "postId" : "434404",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "434404",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1114",
+      "avatarPath" : null
+    },
+    "content" : "as i say, it depends which IRS kit you're using. Im fairly sure the CE IRS kit is designed for early bay rear ends. i dont think a late bay rear end will work, i believe the swing arms are a different length.\n<br> \n<br> to be honest, if you're willing to spend £160 on the CE drums you mentioned then its worth having a hunt around as im sure you'll find a complete early bay IRS set up including gearbox for not much more. Im sure ive seen a couple of complete early bay IRS set up including 1303 gearboxs for well under £300 on this site over the last few weeks. have a word with a guy called scott wilson on here - he regularly ships containers over to the UK. top bloke as well.\n<br> \n<br> it is possile to get early bay backing plates if youre determined. for my IRS kit i bought an early bay IRS set up and the backing plates were kippered. i used thesamba and asked a few people who were breaking early bays in the US - i got someone to ship over mint condition early bay backing plates for under £25 (the dollar was $2.20 then though).",
+    "lastEdited" : "Sun Jul 05, 2009 2:05 pm"
+  }, {
+    "postId" : "434408",
+    "author" : {
+      "username" : "mattp",
+      "userId" : "434408",
+      "joined" : "Mon Sep 15, 2008 12:07 pm",
+      "profileRank" : "Registered user",
+      "location" : "Leatherhead, Surrey",
+      "postCount" : "789",
+      "avatarPath" : null
+    },
+    "content" : "I probably haven't made myself clear.\n<br> \n<br> What I want to know is, is there any reason why late bay A arms and springplates will not fit on a splitscreed bus?\n<br> \n<br> The fact that the arms a different length means that the correct springplates must be used with the correct A arm (early wwith early and late with late)",
+    "lastEdited" : "Sun Jul 05, 2009 2:31 pm"
+  }, {
+    "postId" : "434425",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "434425",
+      "joined" : "Tue Sep 19, 2006 8:53 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "4544",
+      "avatarPath" : null
+    },
+    "content" : "Late bay arms are longer, late bay track is wider, there are too many unknowns. I think you're best bet is to measure a bay torsion tube and see if its the same size as a split one and whether you can mount the inner IRS brackets correctly. It sounds like a lot of work though.",
+    "lastEdited" : "Sun Jul 05, 2009 4:30 pm"
+  }, {
+    "postId" : "434456",
+    "author" : {
+      "username" : "ferkh10",
+      "userId" : "434456",
+      "joined" : "Tue Jan 25, 2005 9:03 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Birmingham",
+      "postCount" : "1114",
+      "avatarPath" : null
+    },
+    "content" : "dont think you can just connect bay IRS (late or early) straight onto a split bus. you'll need some way of attaching the swing arms to the chassis (this is the IRS kit). The CE kit uses chassis legs that you weld into your split bus , others (harry harpics) use a bolt on clamp. you could even opt for a T1 IRS kit (bus boys), which use beetle IRS components.\n<br> \n<br> In other words you can use either beetle, early or late bay IRS items on your split bus but you wont be able to connect them straight into your bus - you'll need an IRS kit to match your chosen suspension/brakes/hubs/\n<br> \n<br> hope this helps.",
+    "lastEdited" : "Sun Jul 05, 2009 5:54 pm"
+  }, {
+    "postId" : "434489",
+    "author" : {
+      "username" : "rob-G60",
+      "userId" : "434489",
+      "joined" : "Thu Feb 05, 2009 11:11 pm",
+      "profileRank" : "Registered user",
+      "location" : "Nr portsmouth",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "as above the spring plates are longer and the late bay splines are bigger so you will need late bay torsion bars which are longer the inner splines are the same.i dont know where the a arm brackets will fit on the torsion tube. there is no reason that i know you cant use it (i dont know everything) the reason they use early bay is it is the same dimentions as a split and as above late bays are bigger both ways. so everything fits better with 68/69 you need early/split brake internals as the shoes are 10mm wider on the late bay. have a go if you want but i think its worth the extra cost of early bay.",
+    "lastEdited" : "Sun Jul 05, 2009 7:55 pm"
+  } ]
+}

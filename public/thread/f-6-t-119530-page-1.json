@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "119530",
+  "title" : "Horn location",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119530",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "899055",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "899055",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Hi\n<br> can anyone tell me where the horn is located. i've recently purchased a splitty and with a mot coming up I need to sort it\n<br> thanks",
+    "lastEdited" : "Wed Jun 21, 2017 6:45 pm"
+  }, {
+    "postId" : "899056",
+    "author" : {
+      "username" : "philsparks",
+      "userId" : "899056",
+      "joined" : "Wed May 21, 2014 7:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "new forset",
+      "postCount" : "341",
+      "avatarPath" : null
+    },
+    "content" : "Hi.\n<br> It is normally under the front valence by the front beam tucked up high. \n<br> You should see two wires close to the steering column.\n<br> \n<br> Check the horn by testing it on your battery. It may be the push",
+    "lastEdited" : "Wed Jun 21, 2017 6:52 pm"
+  }, {
+    "postId" : "899061",
+    "author" : {
+      "username" : "ScottyN",
+      "userId" : "899061",
+      "joined" : "Thu Dec 06, 2007 9:46 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Rickmansworth",
+      "postCount" : "400",
+      "avatarPath" : null
+    },
+    "content" : "<a href=\"http://s747.photobucket.com/user/scottyn/media/812F3A97-859A-447F-B226-814EEB239783_zpsbuodoifq.jpg.html\" class=\"postlink\"><img src=\"http://i747.photobucket.com/albums/xx118/scottyn/812F3A97-859A-447F-B226-814EEB239783_zpsbuodoifq.jpg\" class=\"postimage\" alt=\"Image\"></a>",
+    "lastEdited" : "Wed Jun 21, 2017 7:46 pm"
+  }, {
+    "postId" : "899063",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "899063",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Cheers !",
+    "lastEdited" : "Wed Jun 21, 2017 7:53 pm"
+  }, {
+    "postId" : "899090",
+    "author" : {
+      "username" : "Starsky2727",
+      "userId" : "899090",
+      "joined" : "Thu Jun 15, 2017 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "177",
+      "avatarPath" : "./download/file.php%3Favatar=42213_1499353155.jpg"
+    },
+    "content" : "Thanks, the earth wire had been snapped where it leaves the bottom of the steering arm",
+    "lastEdited" : "Thu Jun 22, 2017 2:44 pm"
+  } ]
+}

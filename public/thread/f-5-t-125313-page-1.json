@@ -1,0 +1,40 @@
+{
+  "forumId" : "5",
+  "threadId" : "125313",
+  "title" : "1600cc engine for 1971 Brazilian Split",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=125313",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=c1ab3cd3fe398420d89a00a1ce85af80",
+    "label" : "Wanted"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "933265",
+    "author" : {
+      "username" : "srichard",
+      "userId" : "933265",
+      "joined" : "Sun Nov 08, 2020 5:40 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "2",
+      "avatarPath" : null
+    },
+    "content" : "have just purchased a 1971 Brazilian spilt and its more of a project than I thought it was going to be\n<br> \n<br> looking to get an engine for a Brazilian Split - currently has an H-code in it but only running on 2 cylinders - reckon it would need rebuilt\n<br> \n<br> it also needs a fair amount of welding on the chassis to make it safe\n<br> \n<br> happy to listen to any ideas about the best way to go about doing this\n<br> \n<br> call 07887 987928\n<br> \n<br> cheers \n<br> Steve",
+    "lastEdited" : "Sat Nov 21, 2020 10:03 pm"
+  }, {
+    "postId" : "933314",
+    "author" : {
+      "username" : "El torro",
+      "userId" : "933314",
+      "joined" : "Thu Aug 10, 2017 8:54 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "82",
+      "avatarPath" : null
+    },
+    "content" : "What's the end float like,can you check compression on cylinders,might be lucky and just need new barrels and Pistons,or cylinder heads ,valves replaced",
+    "lastEdited" : "Tue Nov 24, 2020 10:06 pm"
+  } ]
+}

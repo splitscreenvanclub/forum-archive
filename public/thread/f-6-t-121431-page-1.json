@@ -1,0 +1,105 @@
+{
+  "forumId" : "6",
+  "threadId" : "121431",
+  "title" : "Not wanting to wake up after a long winters sleep",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=121431",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=238e6a3084876a78e15469ee642da29a",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "910563",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "910563",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "1641 with twin dellorto carbs. Electronic ignition.\n<br> Rebuilt and tuned about 2 years ago, ran beautifully all last year, then I put it to bed at the end of October.\n<br> Usually I take it out every couple of weeks over the winter just to keep her moving. But I’ve been away a lot and the the weathers been pretty awful this year so this month is the first time I’ve been down to the garage to get her out.\n<br> Of course she didn’t want to start, I thought she was just sulking because she hadn’t been for a drive. But no matter what I did I couldn’t get her going.\n<br> She turns over fine but just wouldn’t catch.\n<br> 5ltrs of fresh petrol.\n<br> Dizzy cap looks fine\n<br> Took the hose off to check that Petrol was coming out of the pump.\n<br> Checked spark. That was weak so I changed the plugs (which were quite sooty with tight gaps) for new ones (regapped) put a new coil on too. And tried again.\n<br> Same issue-She turns over but really didn’t want to catch.\n<br> This time she felt like she was going to go, but would fizzle out. Did this for about an hour with her hooked up to another car with jump leads and she just didn’t want to start ticking over.\n<br> Also tried sure start down spray the carbs which seemed to help her catch, but it came to nothing.\n<br> \n<br> Any suggestions for anything else to try?\n<br> It’s got me puzzled and more than a little frustrated as I know she was all fine when I parked her up.",
+    "lastEdited" : "Sun Mar 25, 2018 12:53 pm"
+  }, {
+    "postId" : "910569",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "910569",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Jets may be gummed up - pop them out and have a check that they’re letting petrol through.\n<br> \n<br> Check out this video - pretty much what you’re describing \n<a href=\"https://youtu.be/ol9TzrdBQTg\" class=\"postlink\">https://youtu.be/ol9TzrdBQTg</a>",
+    "lastEdited" : "Sun Mar 25, 2018 6:43 pm"
+  }, {
+    "postId" : "910717",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "910717",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Cheers Jonny i’ll Check them next",
+    "lastEdited" : "Wed Mar 28, 2018 9:47 am"
+  }, {
+    "postId" : "910719",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "910719",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3072",
+      "avatarPath" : null
+    },
+    "content" : "Also have a smell of your oil. If there is a carb blockage and the fuel pump is still pumping fuel you want to make sure you’re not getting petrol into the oil somehow.\n<br> \n<br> If it is, cure the blockage and then change oil and filter. For peace of mind it might even be worth putting some cheap oil in as a flush as you don’t want any fuel at all in the oil and that way you can be sure you’ve got all the contaminated stuff out. Then refill with correct oil.\n<br> \n<br> The dipstick will smell petrolly if you have contamination.",
+    "lastEdited" : "Wed Mar 28, 2018 10:17 am"
+  }, {
+    "postId" : "911216",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "911216",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "Just an update for anyone that reads this thread in the future.\n<br> My fuel cut off solenoid is connected to my fire extinguisher, so that if it goes off, the solenoid shuts down the fuel from the tank.\n<br> If, you happen to have a loose earth wire on the extinguisher then the solenoid thinks it’s gone off and closes down the fuel.\n<br> Yep it was that simple.\n<br> On the plus side the bus now has new plugs, coil, rotor arm and dizzy cap.\n<br> \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Mon Apr 09, 2018 7:52 pm"
+  }, {
+    "postId" : "911238",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "911238",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "lol that's annoying after all that effort!\n<br> Well done finding the fault anyway \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">\n<br> DD",
+    "lastEdited" : "Tue Apr 10, 2018 4:21 pm"
+  }, {
+    "postId" : "911254",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "911254",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1251",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "You live and learn \n<img class=\"smilies\" src=\"./images/smilies/icon_biggrin.gif\" width=\"15\" height=\"15\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Apr 11, 2018 6:27 am"
+  } ]
+}

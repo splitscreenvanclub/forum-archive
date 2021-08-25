@@ -1,0 +1,37 @@
+{
+  "forumId" : "6",
+  "threadId" : "112298",
+  "title" : "Who supplies the most reliable alternator",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112298",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "847141",
+    "author" : {
+      "username" : "motosparkz",
+      "userId" : "847141",
+      "joined" : "Tue May 06, 2014 4:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York, UK",
+      "postCount" : "75",
+      "avatarPath" : null
+    },
+    "content" : "Reet blokes &amp; blokette's.\n<br>\n<br>My dynamo is struggling on my '59, 1660cc, so I think it is time for an alternator upgrade, but who supplies the most reliable. I don't want a Chinese repro so may be looking at trying to source a Bosch that is recon'd or that I can get overhauled.\n<br>\n<br>Any pointers peeps, cheers, me!",
+    "lastEdited" : "Sat Aug 29, 2015 8:45 am"
+  }, {
+    "postId" : "847142",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "847142",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5098",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "what do you mean by struggling…does it not just need some new bushes etc…i run a dynamo and manages quite well keeping x2 120amp leisure batteries charged",
+    "lastEdited" : "Sat Aug 29, 2015 8:53 am"
+  } ]
+}

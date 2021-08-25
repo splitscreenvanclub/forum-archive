@@ -1,0 +1,102 @@
+{
+  "forumId" : "32",
+  "threadId" : "37035",
+  "title" : "Topic Reply and New Message Notification Email Problems",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=37035&start=15",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 22,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "809575",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "809575",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6009",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "I have changed a setting which may or may not help. Let me know if it has fixed it for you",
+    "lastEdited" : "Fri Nov 07, 2014 10:48 pm"
+  }, {
+    "postId" : "809618",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "809618",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1085",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "Nope nothing through",
+    "lastEdited" : "Sat Nov 08, 2014 12:24 pm"
+  }, {
+    "postId" : "810545",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "810545",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1085",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "Fixed for me. Good work guys \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Sat Nov 15, 2014 9:15 pm"
+  }, {
+    "postId" : "810805",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "810805",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "624",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "After a few days of getting notifications to my posts, it has stopped once again.\n<br>\n<br>@ hotmail.com",
+    "lastEdited" : "Tue Nov 18, 2014 6:37 am"
+  }, {
+    "postId" : "810806",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "810806",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "1549",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "Mine started up again but has now stopped again. I have my own domain hosted by One.com",
+    "lastEdited" : "Tue Nov 18, 2014 7:28 am"
+  }, {
+    "postId" : "839776",
+    "author" : {
+      "username" : "The Sheila",
+      "userId" : "839776",
+      "joined" : "Sun Dec 28, 2014 12:45 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "34",
+      "avatarPath" : "http://i284.photobucket.com/albums/ll13/Yram/86d63901-acb7-448a-8c8b-15bfe9f2dd4f_zpshnvcyrm8.jpg"
+    },
+    "content" : "hi, since the update to the site I'n not receiving email notifications to any threads that I follow - one of them is my husbands' thread on our bus rebuild!\n<br>Have a yahoo account. 'Paul' was looking into it a few weeks ago, but have not heard anything back.",
+    "lastEdited" : "Thu Jun 25, 2015 10:36 am"
+  }, {
+    "postId" : "839799",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "839799",
+      "joined" : "Thu Apr 17, 2003 9:58 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Gillingham, Kent",
+      "postCount" : "6009",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Hi there,\n<br>\n<br>They should work for you. Can you go into your user control panel and then click on Board Preferences, and choose notifications. Then check that email is ticked for the notification\n<br>\n<br>Cheers\n<br>Paul",
+    "lastEdited" : "Thu Jun 25, 2015 11:58 am"
+  } ]
+}

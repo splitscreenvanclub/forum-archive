@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "119623",
+  "title" : "Clutch and brake pedal mechanism required for a rhd 62 splitscreen, could i use any other vw pedal, thanks",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119623",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "899636",
+    "author" : {
+      "username" : "Adamski123",
+      "userId" : "899636",
+      "joined" : "Sat Mar 19, 2016 4:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "West Midlands",
+      "postCount" : "54",
+      "avatarPath" : null
+    },
+    "content" : "Vw splitscreen rhd 62 brake and clutch pedal required or information on what else may be used, thanks",
+    "lastEdited" : "Tue Jul 04, 2017 3:04 pm"
+  }, {
+    "postId" : "899704",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "899704",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "A RHD pedal assembly - that could be tricky to find - can't say I've ever seen one for sale - you do get the pedals themselves come up fairly often - not sure if the pedal itself is any different LH/RH drive - I guess all the usual sources FBI etc would be LHD.\n<br> I guess the bit under the floor probably is almost certainly different....\n<br> \n<br> Have a look at the online parts catalogs here: and check out a few part numbers.\n<br> \n<br> \n<a href=\"http://oacdp.org/5867part/367.png\" class=\"postlink\">http://oacdp.org/5867part/367.png</a>\n<br> \n<br> and\n<br> \n<br> \n<a href=\"http://oacdp.org/5867part.html#q7\" class=\"postlink\">http://oacdp.org/5867part.html#q7</a>",
+    "lastEdited" : "Wed Jul 05, 2017 9:53 am"
+  }, {
+    "postId" : "899738",
+    "author" : {
+      "username" : "Adamski123",
+      "userId" : "899738",
+      "joined" : "Sat Mar 19, 2016 4:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "West Midlands",
+      "postCount" : "54",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the info, really struggling to find rhd parts, who could i try with part no, thanks again Adam \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Wed Jul 05, 2017 6:45 pm"
+  }, {
+    "postId" : "899740",
+    "author" : {
+      "username" : "Adamski123",
+      "userId" : "899740",
+      "joined" : "Sat Mar 19, 2016 4:16 pm",
+      "profileRank" : "Registered user",
+      "location" : "West Midlands",
+      "postCount" : "54",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"inline-attachment\">\n <!-- ia0 -->DSC_0278.JPG\n <!-- ia0 -->\n</div>Can't connect speedo cable as small thread before big thread, any ideas please",
+    "lastEdited" : "Wed Jul 05, 2017 7:51 pm"
+  } ]
+}

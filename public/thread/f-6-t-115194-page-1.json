@@ -1,0 +1,50 @@
+{
+  "forumId" : "6",
+  "threadId" : "115194",
+  "title" : "Quarter light seals - frame to door",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115194",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "868677",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "868677",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "I'm just about ready to fit new seals to the quarter light frame of the door before the installing the quarter light unit. Any tips on getting a good fit - using talc or superglue etc ?",
+    "lastEdited" : "Thu Mar 24, 2016 2:49 pm"
+  }, {
+    "postId" : "868770",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "868770",
+      "joined" : "Wed Dec 21, 2011 6:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Northampton",
+      "postCount" : "1171",
+      "avatarPath" : null
+    },
+    "content" : "Don't glue it as it needs to be able to equalise around the frame.\n<br>\n<br>I use copious amounts of spray silicone rubber lubricant (make sure it is appropriate for use with rubber seals as some has petroleum content that can perish seals over time).\n<br>\n<br>Be prepared for some sore finger tips pushing them into location, I also use a plastic trim tool (bojo) to help them over the lip that runs around the inside. Avoid using anything mildly sharp and metallic like a screw driver, as if you nick the rubber it is both unsightly and can be the start of a split. The smooth handle end of a spoon might work well.\n<br>\n<br>Starting at the end where the pivot pin goes through works for me.\n<br>\n<br>Good luck \n<img class=\"smilies\" src=\"./images/smilies/smile.gif\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Fri Mar 25, 2016 8:30 am"
+  }, {
+    "postId" : "868915",
+    "author" : {
+      "username" : "Taffy",
+      "userId" : "868915",
+      "joined" : "Sat May 03, 2014 12:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "149",
+      "avatarPath" : null
+    },
+    "content" : "Many thanks",
+    "lastEdited" : "Sat Mar 26, 2016 8:35 pm"
+  } ]
+}

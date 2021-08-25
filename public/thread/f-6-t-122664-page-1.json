@@ -1,0 +1,209 @@
+{
+  "forumId" : "6",
+  "threadId" : "122664",
+  "title" : "How do people deal with/fix stripped sump bolt threads?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=122664",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=96d01f88a908d95fe606c98cf76a24b5",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 19,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "916709",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "916709",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "Hi all,\n<br> been watching oil drip while my bus is standing cold and it appears to be coming though alongside two of the six sump bolts (the little 10mm ones with the brass washers). How can I fix this? The bolts are only supposed to be torqued up lightly but on these two bolts in particular it seems that it won't tighten at all so the thread must be worn and I don't want to strip them and make them worse.\n<br> Any tips to fix this issue gratefully appreciated!\n<br> Thanks,\n<br> DD",
+    "lastEdited" : "Wed Oct 24, 2018 7:58 pm"
+  }, {
+    "postId" : "916712",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "916712",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "473",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "will need a Heli coil or time sert fitting to the stripped threads. prefer time serts myself.",
+    "lastEdited" : "Wed Oct 24, 2018 8:08 pm"
+  }, {
+    "postId" : "916725",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "916725",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "Forgive my ignorance but what's a time sert?",
+    "lastEdited" : "Thu Oct 25, 2018 9:32 am"
+  }, {
+    "postId" : "916726",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "916726",
+      "joined" : "Tue Jul 17, 2012 8:31 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Wolverhampton",
+      "postCount" : "2671",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Dave\n<br> \n<br> Here they are:-\n<br> \n<br> \n<a href=\"https://eshop.wurth.co.uk/Product-categories/Thread-repair-system-Time-Sert/3108600601.cyid/3108.cgid/en/GB/GBP/\" class=\"postlink\">https://eshop.wurth.co.uk/Product-categ ... en/GB/GBP/</a>\n<br> \n<br> I've used them for engine studs.\n<br> \n<br> Can you not try some loctite on it?",
+    "lastEdited" : "Thu Oct 25, 2018 11:56 am"
+  }, {
+    "postId" : "916748",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "916748",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "Cheers guys, I'll give it a go!\n<br> DD",
+    "lastEdited" : "Thu Oct 25, 2018 8:33 pm"
+  }, {
+    "postId" : "916753",
+    "author" : {
+      "username" : "lids_2001",
+      "userId" : "916753",
+      "joined" : "Sat Dec 10, 2005 7:09 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Enfield, North London",
+      "postCount" : "283",
+      "avatarPath" : null
+    },
+    "content" : "i have threaded a bolt from the inside before and used standard nuts from underneath with some sealant in the past",
+    "lastEdited" : "Thu Oct 25, 2018 10:51 pm"
+  }, {
+    "postId" : "916755",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "916755",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "931",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "The studs are available from most of the usual suppliers, if it's the stud rather than the case that's suffered with age then it's an easy replacement next time you change the oil.",
+    "lastEdited" : "Fri Oct 26, 2018 3:29 am"
+  }, {
+    "postId" : "916765",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "916765",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "1070",
+      "avatarPath" : "./download/file.php%3Favatar=39206_1498850951.jpg"
+    },
+    "content" : "<a href=\"http://www.machine7.com/product.php?xProd=288\" class=\"postlink\">http://www.machine7.com/product.php?xProd=288</a>\n<br> \n<br> ??",
+    "lastEdited" : "Fri Oct 26, 2018 10:01 am"
+  }, {
+    "postId" : "916816",
+    "author" : {
+      "username" : "BJ1",
+      "userId" : "916816",
+      "joined" : "Thu Aug 30, 2007 8:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Devon",
+      "postCount" : "3540",
+      "avatarPath" : "./download/file.php%3Favatar=8751_1235073846.jpg"
+    },
+    "content" : "WHS ^^^^^^ This is the easiest fix. Simply tap the case holes to M8 and fit the stepped studs. Stronger than helicoils etc. but don't overtighten them!",
+    "lastEdited" : "Sun Oct 28, 2018 4:20 pm"
+  }, {
+    "postId" : "916824",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "916824",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "cheers guys!\n<br> Wish me luck lol\n<br> DD",
+    "lastEdited" : "Sun Oct 28, 2018 8:26 pm"
+  }, {
+    "postId" : "916877",
+    "author" : {
+      "username" : "unclegee",
+      "userId" : "916877",
+      "joined" : "Sat Mar 02, 2013 10:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "WE WUNT BE DRUV!",
+      "postCount" : "864",
+      "avatarPath" : "./download/file.php%3Favatar=37518_1606474331.jpg"
+    },
+    "content" : "Hiya Dave\n<br> \n<br> With BJ1 on this one, it's how I got around worn threads - part no. N0144781SS from VW Heritage. Don't forget to pre-drill to 6.8mm before tapping out to M8 though!\n<br> \n<br> Good luck mate,\n<br> All the best, Grant",
+    "lastEdited" : "Tue Oct 30, 2018 6:25 pm"
+  }, {
+    "postId" : "916889",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "916889",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "Hi Grant,\n<br> cheers for the info!\n<br> I bet you don't get this problem in the Zafira lol\n<br> See ya\n<br> DD",
+    "lastEdited" : "Tue Oct 30, 2018 9:32 pm"
+  }, {
+    "postId" : "916896",
+    "author" : {
+      "username" : "unclegee",
+      "userId" : "916896",
+      "joined" : "Sat Mar 02, 2013 10:11 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "WE WUNT BE DRUV!",
+      "postCount" : "864",
+      "avatarPath" : "./download/file.php%3Favatar=37518_1606474331.jpg"
+    },
+    "content" : "<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> No way, that thing goes into a laboratory where its fixed by a robot with a computer!!!",
+    "lastEdited" : "Wed Oct 31, 2018 9:33 am"
+  }, {
+    "postId" : "917020",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "917020",
+      "joined" : "Fri Jan 28, 2005 3:51 pm",
+      "profileRank" : "Registered user",
+      "location" : "Essex but I'm nothing like the twats on the telly.",
+      "postCount" : "5515",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "Are the threads on the studs stripped so the nuts won’t do up or are the threads in the block stripped so the stud is pulling from the block? If it’s just the threads on the studs then just pull the stud out with some grips and put a new stud in as that’s better than drilling the block out if you don’t have to.",
+    "lastEdited" : "Sat Nov 03, 2018 11:17 pm"
+  }, {
+    "postId" : "917051",
+    "author" : {
+      "username" : "Doka Dave",
+      "userId" : "917051",
+      "joined" : "Fri Mar 04, 2011 11:49 am",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "517",
+      "avatarPath" : null
+    },
+    "content" : "It's not studs Lee, it's just bolts. The bottom of the sump has six holes, not six studs if you know I mean.\n<br> When I go to tighten 2 of the six bolts in order to secure the sump plate on, they just spin with a bit of friction, not tighten. And this is where the oil is leaking past those threads.\n<br> Pain in the *** anyway!\n<br> Cheers,\n<br> DD",
+    "lastEdited" : "Sun Nov 04, 2018 4:44 pm"
+  } ]
+}

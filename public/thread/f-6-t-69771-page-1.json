@@ -1,0 +1,27 @@
+{
+  "forumId" : "6",
+  "threadId" : "69771",
+  "title" : "roof repair advice",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=69771",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "536502",
+    "author" : {
+      "username" : "shaggy",
+      "userId" : "536502",
+      "joined" : "Tue Jul 24, 2007 9:43 pm",
+      "profileRank" : "Registered user",
+      "location" : "old coulsdon",
+      "postCount" : "236",
+      "avatarPath" : "./download/file.php%3Favatar=7405_1285798816.jpg"
+    },
+    "content" : "this is my project for the winter, i'm not experienced at welding or filling but am quite good with a grinder \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br> i will be replacing the rot, but could do with some advice / drawings of how the gutter panels sit under the roof section and where the welds are etc.\n<br> \n<br> any advice will be greatly received (apart from get someone in to do it for me!)\n<br> \n<img src=\"http://i779.photobucket.com/albums/yy75/aquaphobics/utf-8BSU1HMDAwMTYtMjAxMDA5MjUtMTMwNi5qcGc.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<img src=\"http://i779.photobucket.com/albums/yy75/aquaphobics/utf-8BSU1HMDAwMTctMjAxMDA5MjUtMTMzMi5qcGc.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Sat Sep 25, 2010 4:44 pm"
+  } ]
+}

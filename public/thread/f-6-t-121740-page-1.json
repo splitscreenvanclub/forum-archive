@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "121740",
+  "title" : "Engine wont start",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=121740",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=62ad6b576af2f085a06cb375bc5eeee3",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "911901",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "911901",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "724",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br> engine on the van wont start, it turns over but wont fire. Its not getting fuel the plastic filter only has a little fuel in it and when I'm pumping the accelerator I dont really smell any fuel.\n<br> I'm fairly certain it must be a fuel pump failure - Its currently a Brazilian one &amp; just want to check if that sounds right, before I go and order one.\n<br> \n<br> Thanks",
+    "lastEdited" : "Sun Apr 29, 2018 11:41 am"
+  }, {
+    "postId" : "911905",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "911905",
+      "joined" : "Tue Mar 31, 2009 8:52 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Nottingham",
+      "postCount" : "470",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "as a check. connect a piece of rubber pipe with a funnel and manually fill the carb. when funnel will take no more fuel, carb is full. then try and start engine, if it runs then the pump is not working.",
+    "lastEdited" : "Sun Apr 29, 2018 2:15 pm"
+  }, {
+    "postId" : "911910",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "911910",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "724",
+      "avatarPath" : null
+    },
+    "content" : "Thanks richandsue, I don't have a funnel small enough here at home, I'll try get one this week.",
+    "lastEdited" : "Sun Apr 29, 2018 4:37 pm"
+  }, {
+    "postId" : "911911",
+    "author" : {
+      "username" : "Dougie",
+      "userId" : "911911",
+      "joined" : "Tue Feb 21, 2006 8:31 am",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Redditch",
+      "postCount" : "902",
+      "avatarPath" : "./download/file.php%3Favatar=2106_1498983016.jpg"
+    },
+    "content" : "Carefully take the fuel line off the carb, with the open end in an old mug get someone to turn it over on the key. You will soon see if the pumps working.",
+    "lastEdited" : "Sun Apr 29, 2018 4:43 pm"
+  }, {
+    "postId" : "911912",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "911912",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1250",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "If the filter is between the tank and the mechanical? fuel pump and isn’t getting fuel then it’s not the pump that’s the problem it’s your filter, as the pump should be after the filter and before your carb right?\n<br> So check your lines between the tank and the filter,\n<br> Daft question I know, but I’m going to ask anyway, does it have petrol in the tank?\n<br> \n<br> Next I’d take the hose that’s from the tank and detach it before the filter and before the pump and see if any fuel comes out, if it does your next step is to check and see if the filter is blocked, (just get a new one) then after that if all is still good reattach to the pump and take the hose off the carb, (as Dougie said) get someone to turn it over a couple of times and see if fuel comes out there. If it does your pump is good.\n<br> \n<br> Good link here:\n<br> \n<a href=\"http://www.vw-resource.com/fuel_pump.html#test\" class=\"postlink\">http://www.vw-resource.com/fuel_pump.html#test</a>",
+    "lastEdited" : "Sun Apr 29, 2018 4:53 pm"
+  }, {
+    "postId" : "911916",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "911916",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "724",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=36896&amp;sid=62ad6b576af2f085a06cb375bc5eeee3\">Sjtw</a> wrote: <a href=\"./viewtopic.php?p=911912&amp;sid=62ad6b576af2f085a06cb375bc5eeee3#p911912\" data-post-id=\"911912\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Apr 29, 2018 4:53 pm\n   </div></cite> If the filter is between the tank and the mechanical? fuel pump and isn’t getting fuel then it’s not the pump that’s the problem it’s your filter, as the pump should be after the filter and before your carb right?\n  <br> So check your lines between the tank and the filter,\n  <br> Daft question I know, but I’m going to ask anyway, does it have petrol in the tank?\n  <br> \n  <br> Next I’d take the hose that’s from the tank and detach it before the filter and before the pump and see if any fuel comes out, if it does your next step is to check and see if the filter is blocked, (just get a new one) then after that if all is still good reattach to the pump and take the hose off the carb, (as Dougie said) get someone to turn it over a couple of times and see if fuel comes out there. If it does your pump is good.\n  <br> \n  <br> Good link here:\n  <br> \n  <a href=\"http://www.vw-resource.com/fuel_pump.html#test\" class=\"postlink\">http://www.vw-resource.com/fuel_pump.html#test</a> \n </div>\n</blockquote> Yes it's got fuel, my filter is between the tank and pump, so the filter and fuel lines are good as I checked to see if fuel would come out.",
+    "lastEdited" : "Sun Apr 29, 2018 5:27 pm"
+  }, {
+    "postId" : "911917",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "911917",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "724",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=2106&amp;sid=62ad6b576af2f085a06cb375bc5eeee3\">Dougie</a> wrote: <a href=\"./viewtopic.php?p=911911&amp;sid=62ad6b576af2f085a06cb375bc5eeee3#p911911\" data-post-id=\"911911\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Apr 29, 2018 4:43 pm\n   </div></cite> Carefully take the fuel line off the carb, with the open end in an old mug get someone to turn it over on the key. You will soon see if the pumps working. \n </div>\n</blockquote> Thanks Dougie I'll give a try",
+    "lastEdited" : "Sun Apr 29, 2018 5:28 pm"
+  }, {
+    "postId" : "911918",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "911918",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "724",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=2106&amp;sid=62ad6b576af2f085a06cb375bc5eeee3\">Dougie</a> wrote: <a href=\"./viewtopic.php?p=911911&amp;sid=62ad6b576af2f085a06cb375bc5eeee3#p911911\" data-post-id=\"911911\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Apr 29, 2018 4:43 pm\n   </div></cite> Carefully take the fuel line off the carb, with the open end in an old mug get someone to turn it over on the key. You will soon see if the pumps working. \n </div>\n</blockquote> Just did that and turned engine over for around 20 seconds and no fuel in the mug, so new fuel pump it is,\n<br> Thanks everyone for your help",
+    "lastEdited" : "Sun Apr 29, 2018 5:54 pm"
+  }, {
+    "postId" : "911930",
+    "author" : {
+      "username" : "Sjtw",
+      "userId" : "911930",
+      "joined" : "Sat Aug 11, 2012 9:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hertfordshire",
+      "postCount" : "1250",
+      "avatarPath" : "./download/file.php%3Favatar=36896_1353412288.jpg"
+    },
+    "content" : "At least the pump is an easy fix. \n<img class=\"smilies\" src=\"./images/smilies/icon_smile.gif\" width=\"15\" height=\"15\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Mon Apr 30, 2018 7:53 am"
+  }, {
+    "postId" : "911946",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "911946",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20054",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=1342&amp;sid=62ad6b576af2f085a06cb375bc5eeee3\">66Westy &amp; 64Bug</a> wrote: <a href=\"./viewtopic.php?p=911918&amp;sid=62ad6b576af2f085a06cb375bc5eeee3#p911918\" data-post-id=\"911918\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Sun Apr 29, 2018 5:54 pm\n   </div></cite> \n  <blockquote>\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=2106&amp;sid=62ad6b576af2f085a06cb375bc5eeee3\">Dougie</a> wrote: <a href=\"./viewtopic.php?p=911911&amp;sid=62ad6b576af2f085a06cb375bc5eeee3#p911911\" data-post-id=\"911911\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n     <div class=\"responsive-hide\">\n      Sun Apr 29, 2018 4:43 pm\n     </div></cite> Carefully take the fuel line off the carb, with the open end in an old mug get someone to turn it over on the key. You will soon see if the pumps working. \n   </div>\n  </blockquote> Just did that and turned engine over for around 20 seconds and no fuel in the mug, so new fuel pump it is,\n  <br> Thanks everyone for your help \n </div>\n</blockquote> If your filter is between the tank and the pump, but there's no fuel in the filter then I'd say the in-tank filter is blocked as an inline filter will be gravity feed.\n<br> \n<br> So might not be the pump at fault",
+    "lastEdited" : "Mon Apr 30, 2018 6:44 pm"
+  }, {
+    "postId" : "912016",
+    "author" : {
+      "username" : "66Westy & 64Bug",
+      "userId" : "912016",
+      "joined" : "Tue Apr 19, 2005 3:17 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Harrogate",
+      "postCount" : "724",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=124&amp;sid=62ad6b576af2f085a06cb375bc5eeee3\">vwJim</a> wrote: <a href=\"./viewtopic.php?p=911946&amp;sid=62ad6b576af2f085a06cb375bc5eeee3#p911946\" data-post-id=\"911946\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Mon Apr 30, 2018 6:44 pm\n   </div></cite> \n  <blockquote>\n   <div>\n    <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=1342&amp;sid=62ad6b576af2f085a06cb375bc5eeee3\">66Westy &amp; 64Bug</a> wrote: <a href=\"./viewtopic.php?p=911918&amp;sid=62ad6b576af2f085a06cb375bc5eeee3#p911918\" data-post-id=\"911918\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n     <div class=\"responsive-hide\">\n      Sun Apr 29, 2018 5:54 pm\n     </div></cite> \n    <blockquote>\n     <div>\n      <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=2106&amp;sid=62ad6b576af2f085a06cb375bc5eeee3\">Dougie</a> wrote: <a href=\"./viewtopic.php?p=911911&amp;sid=62ad6b576af2f085a06cb375bc5eeee3#p911911\" data-post-id=\"911911\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n       <div class=\"responsive-hide\">\n        Sun Apr 29, 2018 4:43 pm\n       </div></cite> Carefully take the fuel line off the carb, with the open end in an old mug get someone to turn it over on the key. You will soon see if the pumps working. \n     </div>\n    </blockquote> Just did that and turned engine over for around 20 seconds and no fuel in the mug, so new fuel pump it is,\n    <br> Thanks everyone for your help \n   </div>\n  </blockquote> If your filter is between the tank and the pump, but there's no fuel in the filter then I'd say the in-tank filter is blocked as an inline filter will be gravity feed.\n  <br> \n  <br> So might not be the pump at fault \n </div>\n</blockquote> Thanks vwjim when I pulled the fuel line from the pump fuel was spilling all over my arm, so I know it's coming out, new pump should arrive today so hoping to fit it later and see I get it started",
+    "lastEdited" : "Wed May 02, 2018 9:55 am"
+  } ]
+}

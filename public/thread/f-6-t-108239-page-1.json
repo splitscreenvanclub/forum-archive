@@ -1,0 +1,157 @@
+{
+  "forumId" : "6",
+  "threadId" : "108239",
+  "title" : "Rear Hatch Lock issue",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=108239",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "819942",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "819942",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "Hey folks\n<br> \n<br> I have a really weird problem with my rear hatch lock. I've refitted the barrel into the push button and fitted the button mechanism and the latch, but the button isn't activating the latch. Looking at it from the inside, it seems to be too short! I'm certain that its the same barrel as before, but when you push the button in, it's not reaching the latch trigger.\n<br> \n<br> Any ideas? When the button is pressed in I assume that its just meant to push against the trigger?\n<br> \n<br> Here's the barrel with the button in the 'out' position.\n<br> \n<img src=\"http://i1118.photobucket.com/albums/k604/UK_Monkey/IMAG0628_zpstsjmmoes.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Here's the barrel with the button in the 'in' position. As you can see it doesn't go in far enough to push the latch trigger. Really odd.\n<br> \n<img src=\"http://i1118.photobucket.com/albums/k604/UK_Monkey/IMAG0630_zpsproddpna.jpg\" class=\"postimage\" alt=\"Image\">\n<br> Your thoughts and opinions please?",
+    "lastEdited" : "Mon Feb 02, 2015 1:50 pm"
+  }, {
+    "postId" : "819944",
+    "author" : {
+      "username" : "gazpilot",
+      "userId" : "819944",
+      "joined" : "Wed Aug 19, 2009 5:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Ipswich, Suffolk",
+      "postCount" : "714",
+      "avatarPath" : "./download/file.php%3Favatar=33453_1384286005.jpg"
+    },
+    "content" : "Dude I've exactly the same issue. Mines a 67 and has the hole in that bar the lock pushes (in the bently manual as a safety modification) I've put a short nut and bolt through it and is working now , can not figure out what I did wrong. \n<br> \n<br> Grant",
+    "lastEdited" : "Mon Feb 02, 2015 2:07 pm"
+  }, {
+    "postId" : "820482",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "820482",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1450",
+      "avatarPath" : null
+    },
+    "content" : "I had the same issue too - well similar, I had to push it really hard to get it to unlatch, the button went all the way in.\n<br> Mines a 67 as well.\n<br> \n<br> What I did was put a piece of rubber tubing over the roundish bit off the lock barrel - this makes it much thicker, and it now presses the lever properly.\n<br> I found some old vac pipe or fuel pipe in my bits drawer, it was a tight push fit on the bar, but the wall thickness of the rubber pipe made up the gap.\n<br> \n<br> Cheers",
+    "lastEdited" : "Thu Feb 05, 2015 4:50 pm"
+  }, {
+    "postId" : "820485",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "820485",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "I was thinking of trying to pack it out with a couple of small washers. It's weird why it doesn't work properly now.",
+    "lastEdited" : "Thu Feb 05, 2015 5:12 pm"
+  }, {
+    "postId" : "820499",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "820499",
+      "joined" : "Fri Feb 01, 2008 1:56 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "up norf",
+      "postCount" : "5544",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "ditto…not 67, but my early bay, which has the same mechanism\n<br> \n<br> exactly the same, it worked when i dismantled it, but not when i put it back together !!!!\n<br> \n<br> \n<br> like mentioned above, mine actually as a small hole in the part it pushes, so going to pop a small nut/bolt/rubber washer in\n<br> it will work…..but god please, someone show us all a pic of how its supposed to be \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\"> \n<img class=\"smilies\" src=\"./images/smilies/icon_lol.gif\" width=\"15\" height=\"15\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Thu Feb 05, 2015 7:15 pm"
+  }, {
+    "postId" : "820502",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "820502",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15817",
+      "avatarPath" : null
+    },
+    "content" : "err\n<br> 1967 bus with L code keys?\n<br> L code barrel is longer...Not changed to T code?\n<br> \n<br> wavy washer between finger and end of barrell\n<br> \n<br> Thick paint on your tail gate opening area?\n<br> \n<br> Tightening order of the bolts caused panels to move apart?\n<br> \n<br> Does the lock have the collar around the body of the lock?\n<br> Lock is held to the mech by two machine screws that are very tight..have you tightened these really tight..\n<br> Strange",
+    "lastEdited" : "Thu Feb 05, 2015 7:24 pm"
+  }, {
+    "postId" : "820583",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "820583",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "Mine looks like there used to be a rubber block on the latch. There's definitely glue and a shadow of where something was stuck on it. So I just made a rubber block and stuck it on. Should be fine now.",
+    "lastEdited" : "Fri Feb 06, 2015 12:22 am"
+  }, {
+    "postId" : "820698",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "820698",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15817",
+      "avatarPath" : null
+    },
+    "content" : "mmm maybe the idea of having some rubber tubing on there might be a good one..\n<br> At least the block would not fall off and dissapear AGAIN.... seems to have gone once..\n<br> Yes I know you can access the lock by taking all the chromed headed push in fittings out of the rear trim panel and then operating the latch manually..\n<br> BUT did you really want to have to do this when you are miles from home and did not bring your tools?",
+    "lastEdited" : "Fri Feb 06, 2015 7:06 pm"
+  }, {
+    "postId" : "820700",
+    "author" : {
+      "username" : "monkey",
+      "userId" : "820700",
+      "joined" : "Tue Apr 29, 2003 10:20 am",
+      "profileRank" : "Registered user",
+      "location" : "Syresham, Northants",
+      "postCount" : "2250",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>type21f wrote:</cite>mmm maybe the idea of having some rubber tubing on there might be a good one..\n  <br> At least the block would not fall off and dissapear AGAIN.... seems to have gone once..\n  <br> Yes I know you can access the lock by taking all the chromed headed push in fittings out of the rear trim panel and then operating the latch manually..\n  <br> BUT did you really want to have to do this when you are miles from home and did not bring your tools?\n </div>\n</blockquote> True.\n<br> It had to take quite a block to get it to activate. A bit of pipe wouldn't work.\n<br> \n<br> But I take your point. Perhaps I should wire it on for added security!",
+    "lastEdited" : "Fri Feb 06, 2015 7:10 pm"
+  }, {
+    "postId" : "820703",
+    "author" : {
+      "username" : "type21f",
+      "userId" : "820703",
+      "joined" : "Tue May 29, 2007 12:55 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Yorkshire",
+      "postCount" : "15817",
+      "avatarPath" : null
+    },
+    "content" : "Good...sensible..\n<br> Strange something very strange...\n<br> Something has changed!\n<br> You sure you have not fitted a different part somewhere..?&gt;?&gt;?\n<br> I had lots of similar fun with mine...BUT only because I wanted one key fits all!\n<br> i bought/ was given a couple of locks to use to try to do this..Took me four alternative to get a lock dissembled!\n<br> \n<br> But Done!!!!!!!!!!!!!!!!1\n<br> G",
+    "lastEdited" : "Fri Feb 06, 2015 7:16 pm"
+  }, {
+    "postId" : "821210",
+    "author" : {
+      "username" : "CACMG",
+      "userId" : "821210",
+      "joined" : "Thu Apr 28, 2011 6:41 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "28",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>monkey wrote:</cite>Hey folks\n  <br> \n  <br> I have a really weird problem with my rear hatch lock. I've refitted the barrel into the push button and fitted the button mechanism and the latch, but the button isn't activating the latch. Looking at it from the inside, it seems to be too short! I'm certain that its the same barrel as before, but when you push the button in, it's not reaching the latch trigger.\n  <br> \n  <br> Any ideas? When the button is pressed in I assume that its just meant to push against the trigger?\n  <br> \n  <br> Here's the barrel with the button in the 'out' position.\n  <br> \n  <img src=\"http://i1118.photobucket.com/albums/k604/UK_Monkey/IMAG0628_zpstsjmmoes.jpg\" class=\"postimage\" alt=\"Image\">\n  <br> \n  <br> Here's the barrel with the button in the 'in' position. As you can see it doesn't go in far enough to push the latch trigger. Really odd.\n  <br> \n  <img src=\"http://i1118.photobucket.com/albums/k604/UK_Monkey/IMAG0630_zpsproddpna.jpg\" class=\"postimage\" alt=\"Image\">\n  <br> Your thoughts and opinions please?\n </div>\n</blockquote> The latch in the pics appears to be in the unlatched position meaning that the lock button has already pushed the trigger.\n<br> \n<br> If it was rotated to the latched position - you can push it quite easily - would the button then be able to trigger it open ?\n<br> \n<br> Latched \n<img src=\"http://rs1302.pbsrc.com/albums/ag140/CACMG/DSCF4895_zps7adc58ae.jpg~c200?t=1423430484\" class=\"postimage\" alt=\"Image\"> Unlatched \n<img src=\"http://rs1302.pbsrc.com/albums/ag140/CACMG/DSCF4894_zps0c71ecf5.jpg~c200?t=1423430484\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Mon Feb 09, 2015 9:35 pm"
+  } ]
+}

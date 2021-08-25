@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "48330",
+  "title" : "Cab door hinge repair....A how to",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=48330",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "368568",
+    "author" : {
+      "username" : "andy f",
+      "userId" : "368568",
+      "joined" : "Mon Oct 23, 2006 10:45 am",
+      "profileRank" : "SSVC Member",
+      "location" : "Sunny Gosport on the South Coast",
+      "postCount" : "2106",
+      "avatarPath" : "./download/file.php%3Favatar=3280_1338289652.jpg"
+    },
+    "content" : "OK, hopefully here’s my chance to put something back into the forum rather than just asking questions and advice !\n<br> This came about when both Cab doors I had, needed repairs to the hinge area. Some people just suggested buying a replacement door, but this wasn’t an option…..financially, the only option was to repair the doors I had.\n<br> Mark-s on here sent me the instructions on how to do it, so I’ve added some photo’s and hopefully a few extra tips.\n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/door_0003.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/door_0008.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> First you need to remove the door , drill the rivets out and remove the hinge. I’ve searched on the forum a bit on the best to remove the cab door hinge pin and only other advice I can give that seemed to work well was if you have a SDS hammer drill with roto stop facility. Drill a pilot hole in the bottom of the hinge pin, with the SDS drill on roto stop use a Pointy chisel sds bit and use that to hammer the pin out.\n<br> \n<br> \n<br> With the hinge and bad metal removed, you should see the panel underneath that the hinge was riveted to. This will be be made of thicker metal than the door skin &amp; bears the weight of the door. Hopefully this bit will still be intact &amp; you can still use it for hinge alignment. \n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/PIC_0003.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> You may see the inner piece will have the metal edge of the holes raised where the rivets have forced the metal, use a block underneath and hammer flat. Note the cracks from the hole going into the metal, there's a bit about this further down the page.\n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/PIC_0006.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Cut the area back to leave you with good solid metal.Treat any rust ( I love Metal Ready ) and prime in a Zinc rich weld thu primer.Cut your new metal and weld it in. \n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/PIC_0008.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> You will have to be careful that you don't block the hinge location with weld, so keep checking as you go. \n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/PIC_0013.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> One thing I found is that the rivet holes on the inner support piece usually have cracks running from the hole out into the metal. What I did is, from the inside of the door weld a circle or two around the hole.\n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/PIC_0011.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> When its all done, drill new holes in the repaired section for the new bolts, fit the hinge &amp; countersink the door skin into the hinge holes as per the original, put some M6 countersink head allen bolts &amp; locknuts &amp; tighten it all up through the original holes in the hinge support plate. I found if you put the bolt in and tighten to finger tight and then with a flat face hammer, tap the head down, finger tighten again tap down etc etc. This will create the countersink recess in the new metal nicely.\n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/dC_0001.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Repeat for lower hinge, and jobs a good un\n<br> \n<br> \n<img src=\"http://i178.photobucket.com/albums/w254/clareyf/Door%20Repair/Door1.jpg\" class=\"postimage\" alt=\"Image\">\n<br> \n<br> Andy",
+    "lastEdited" : "Sat Nov 15, 2008 9:48 pm"
+  }, {
+    "postId" : "491778",
+    "author" : {
+      "username" : "bigmick1",
+      "userId" : "491778",
+      "joined" : "Thu Jun 19, 2003 8:14 pm",
+      "profileRank" : "Registered user",
+      "location" : "west yorkshire",
+      "postCount" : "433",
+      "avatarPath" : "./download/file.php%3Favatar=345_1267384158.jpg"
+    },
+    "content" : "cheers mate ill be trying that later \n<img class=\"smilies\" src=\"./images/smilies/thumbsup.gif\" width=\"25\" height=\"18\" alt=\":thumbup:\" title=\"thumbup\"> \n<img class=\"smilies\" src=\"./images/smilies/thumbsup.gif\" width=\"25\" height=\"18\" alt=\":thumbup:\" title=\"thumbup\">",
+    "lastEdited" : "Thu Feb 25, 2010 2:56 pm"
+  }, {
+    "postId" : "665116",
+    "author" : {
+      "username" : "luke4648",
+      "userId" : "665116",
+      "joined" : "Fri Apr 03, 2009 8:24 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "48",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for that, I'm doing it today if the kids don't need amusing.",
+    "lastEdited" : "Sun Jun 24, 2012 6:28 am"
+  }, {
+    "postId" : "929461",
+    "author" : {
+      "username" : "shaggy",
+      "userId" : "929461",
+      "joined" : "Tue Jul 24, 2007 9:43 pm",
+      "profileRank" : "Registered user",
+      "location" : "old coulsdon",
+      "postCount" : "236",
+      "avatarPath" : "./download/file.php%3Favatar=7405_1285798816.jpg"
+    },
+    "content" : "I know this thread is very old but it’s just helped me out a treat. Thank you Andy F if you’re still on here.",
+    "lastEdited" : "Wed Apr 29, 2020 9:13 pm"
+  } ]
+}

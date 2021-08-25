@@ -1,0 +1,66 @@
+{
+  "forumId" : "6",
+  "threadId" : "85161",
+  "title" : "Front brake hose setup for disk brakes??",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=85161",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "657039",
+    "author" : {
+      "username" : "dombutler",
+      "userId" : "657039",
+      "joined" : "Sat Apr 26, 2003 3:49 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hastings the pirate town.",
+      "postCount" : "1515",
+      "avatarPath" : "./download/file.php%3Favatar=141_1358500587.jpg"
+    },
+    "content" : "Hi,\n<br> in the process of putting disk brakes up front, but not sure of what brake hose to use.\n<br> \n<br> I know that bay window brakes have a small pipe that goes from the caliper to the spindle.\n<br> But I have seen someones setup with long braided hoses on 944 calipers that go from the body to the caliper.\n<br> Now not sure what way to plumb in the calipers.\n<br> \n<br> Has anyone got suggestions or pictures of what they have done?\n<br> Cheers,\n<br> Dom.",
+    "lastEdited" : "Mon May 14, 2012 2:30 pm"
+  }, {
+    "postId" : "657145",
+    "author" : {
+      "username" : "TLM2106",
+      "userId" : "657145",
+      "joined" : "Tue Feb 16, 2010 1:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "New Romney, Kent",
+      "postCount" : "286",
+      "avatarPath" : null
+    },
+    "content" : "Hard lines from master cylinder through wheel arch via rubber grommit, all as standard, then stainless braided hoses to caliper. Had my hoses made by 'Earls' located at Silverstone.",
+    "lastEdited" : "Mon May 14, 2012 9:06 pm"
+  }, {
+    "postId" : "657195",
+    "author" : {
+      "username" : "dombutler",
+      "userId" : "657195",
+      "joined" : "Sat Apr 26, 2003 3:49 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Hastings the pirate town.",
+      "postCount" : "1515",
+      "avatarPath" : "./download/file.php%3Favatar=141_1358500587.jpg"
+    },
+    "content" : "Hi,\n<br> thanks for the info, I was not sure if I had to make up a small pipe to the spindle.\n<br> Cheers,\n<br> Dom.",
+    "lastEdited" : "Tue May 15, 2012 8:02 am"
+  }, {
+    "postId" : "657566",
+    "author" : {
+      "username" : "TLM2106",
+      "userId" : "657566",
+      "joined" : "Tue Feb 16, 2010 1:50 pm",
+      "profileRank" : "Registered user",
+      "location" : "New Romney, Kent",
+      "postCount" : "286",
+      "avatarPath" : null
+    },
+    "content" : "Picture for you, hope this helps\n<br> \n<br> \n<img src=\"http://i1077.photobucket.com/albums/w469/may3103/P1030634.jpg\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Wed May 16, 2012 6:42 pm"
+  } ]
+}

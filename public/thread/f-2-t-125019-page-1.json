@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "125019",
+  "title" : "Advice on pricing two Canterbury Pitt cookers.",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=125019",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "931582",
+    "author" : {
+      "username" : "Lankylad 2",
+      "userId" : "931582",
+      "joined" : "Fri Jun 19, 2020 3:52 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "3",
+      "avatarPath" : null
+    },
+    "content" : "Have been out of vws for a while and need some advice with prices for two Pitt cookers both working with good door cabinets. One early aluminium and one later enamelled one. How to post photos would be good. Thanks.",
+    "lastEdited" : "Thu Aug 06, 2020 5:20 pm"
+  }, {
+    "postId" : "931583",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "931583",
+      "joined" : "Thu Oct 17, 2002 4:01 pm",
+      "profileRank" : "Registered user",
+      "location" : ".... Amersham",
+      "postCount" : "4280",
+      "avatarPath" : "./download/file.php%3Favatar=4_1435778539.jpg"
+    },
+    "content" : "Advice on posting photos is here:\n<br> \n<br> \n<a href=\"https://ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=113833\" class=\"postlink\">https://ssvc.org.uk/phpbb/viewtopic.php?f=6&amp;t=113833</a>",
+    "lastEdited" : "Thu Aug 06, 2020 5:27 pm"
+  } ]
+}

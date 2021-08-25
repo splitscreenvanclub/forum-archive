@@ -1,0 +1,79 @@
+{
+  "forumId" : "6",
+  "threadId" : "119467",
+  "title" : "dodgy fuel pump?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=119467",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "898595",
+    "author" : {
+      "username" : "Barney75",
+      "userId" : "898595",
+      "joined" : "Wed Aug 26, 2015 12:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "69",
+      "avatarPath" : "./download/file.php%3Favatar=40725_1455986793.jpg"
+    },
+    "content" : "Came home on the truck of shame today \n<img class=\"smilies\" src=\"./images/smilies/icon_sad.gif\" width=\"15\" height=\"15\" alt=\":(\" title=\"Sad\">\n<br> \n<br> Was cruising happily at 60, then out of nowhere the engine really started to struggle. Ran fine at half-throttle, but above that, nothing. It ran, but was gutless, like it was being strangled. I limped on for a bit, but then got defeated by a slip road on a hill.\n<br> \n<br> Back home now and there's nothing obvious wrong. No smoke, no oil leaking, all cylinders are firing. I can see fuel in the fuel filter, but its still running really poorly.\n<br> \n<br> Only other symptom is that the oil pressure light comes on when the engine is warmed up and on idling (disappears with a blip of the throttle). The generator light also came on, but that doesn't seem to make much sense. It also went off with some throttle and the belt seems to be tight and not slipping.\n<br> \n<br> Anyone got any advice?\n<br> \n<br> Cheers\n<br> \n<br> Barney",
+    "lastEdited" : "Sun Jun 11, 2017 7:35 pm"
+  }, {
+    "postId" : "898645",
+    "author" : {
+      "username" : "jap",
+      "userId" : "898645",
+      "joined" : "Fri Oct 21, 2005 8:51 am",
+      "profileRank" : "Registered user",
+      "location" : "at home",
+      "postCount" : "92",
+      "avatarPath" : null
+    },
+    "content" : "Is it a mechanical pump? If so, How's your oil level, is it high, and more importantly does it smell of petrol? Common problem of mechanical pumps is the diaphragm splits and leaks fuel into the case, thins out the oil and causes less fuel to carb, if it's a og pump what I did was buy aftermarket and take the diaphragm out of that and put it into the og one as the aftermarket on didn't look like it would last that long\n<br> \n<br> Also had a t25 break down in front of me at Brighton one year, turned out his fuel pump pin had worn down, took me a while to work that out, but measured the pin and it was a little shorter than a new on at one of the stalls, replaced it and all was good again",
+    "lastEdited" : "Mon Jun 12, 2017 3:03 pm"
+  }, {
+    "postId" : "898646",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "898646",
+      "joined" : "Sat Jan 26, 2008 8:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Suffolk",
+      "postCount" : "2859",
+      "avatarPath" : "./download/file.php%3Favatar=15577_1493122446.jpg"
+    },
+    "content" : "As has been said above, check your oil level, if its higher and smells of petrol you have a split diaphragm in the pump. Getr one of these \n<a href=\"https://www.vwheritage.com/113127025d-fuel-pump-t1-t2-1-2-1-6-for-dynamo-rod-best-quality\" class=\"postlink\">https://www.vwheritage.com/113127025d-f ... st-quality</a> then change your oil.\n<br> \n<br> Only other thing i can think of is if it doesnt want to rev and lacks power the condensor could be breaking down",
+    "lastEdited" : "Mon Jun 12, 2017 3:10 pm"
+  }, {
+    "postId" : "898649",
+    "author" : {
+      "username" : "Barney75",
+      "userId" : "898649",
+      "joined" : "Wed Aug 26, 2015 12:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "69",
+      "avatarPath" : "./download/file.php%3Favatar=40725_1455986793.jpg"
+    },
+    "content" : "Oil level is normal, and doesn't smell of fuel - the fuel pump is an aftermarket electronic one, a Facet.\n<br> \n<br> Am I right in thinking that the easiest way to test it is to discounnect the fuel line from the carb then turn on the ignition - if I get good flow the pump is probably OK and the problem is somewhere else?\n<br> \n<br> [engine is a 1776, pertonix electronic igniition, Twin Dellorto 40s, tuned on a rolling road last year]",
+    "lastEdited" : "Mon Jun 12, 2017 3:39 pm"
+  }, {
+    "postId" : "900681",
+    "author" : {
+      "username" : "Barney75",
+      "userId" : "900681",
+      "joined" : "Wed Aug 26, 2015 12:59 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "69",
+      "avatarPath" : "./download/file.php%3Favatar=40725_1455986793.jpg"
+    },
+    "content" : "Well, turned out it was a problem in the fuel tank.\n<br> \n<br> The seal for the fuel sender had perished and deposited a load of gunk into the tank, that was blocking the in-line filter before the pump and stopping enough fuel getting through to the second bowl filter in the engine bay.\n<br> \n<br> On investigation, also turned out that the tank was leaking and one of the fuel lines from filter to carb had a small leak too.\n<br> \n<br> So, tank out, new one going in, all fuel lines being replaced (no more braided cr*p) and fingers crossed.",
+    "lastEdited" : "Wed Jul 26, 2017 6:36 pm"
+  } ]
+}

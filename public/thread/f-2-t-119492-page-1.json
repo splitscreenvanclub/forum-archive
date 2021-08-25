@@ -1,0 +1,53 @@
+{
+  "forumId" : "2",
+  "threadId" : "119492",
+  "title" : "BBT / HESSISCH WEDNESDAY NIGHT FERRY CANCELLED",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=119492",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=947618c4ceb65e1da2d4128d030e56b0",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "898741",
+    "author" : {
+      "username" : "nigetoy",
+      "userId" : "898741",
+      "joined" : "Wed Apr 22, 2009 9:43 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "South Normanton Derbyshire",
+      "postCount" : "56",
+      "avatarPath" : "./download/file.php%3Favatar=33038_1280874269.jpg"
+    },
+    "content" : "BBT / HESSISCH WEDNESDAY NIGHT P&amp;O FERRY CANCELLED HULL ZEBRUGGE \n<img class=\"smilies\" src=\"./images/smilies/icon_redface.gif\" width=\"15\" height=\"15\" alt=\":oops:\" title=\"Red Face\"> PLEASE RING P&amp;O A.S.A.P and get re booked\n<br> the ferry failed tonight (Tuesday 13th June) due to a gearbox issue the ferry will be out of service all next week !!",
+    "lastEdited" : "Tue Jun 13, 2017 9:36 pm"
+  }, {
+    "postId" : "898787",
+    "author" : {
+      "username" : "Aspro",
+      "userId" : "898787",
+      "joined" : "Tue Oct 23, 2012 7:39 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "554",
+      "avatarPath" : null
+    },
+    "content" : "Just to add. Hull Rotterdam is now sold out too.",
+    "lastEdited" : "Wed Jun 14, 2017 8:04 pm"
+  }, {
+    "postId" : "898829",
+    "author" : {
+      "username" : "David Eccles",
+      "userId" : "898829",
+      "joined" : "Wed Apr 30, 2003 6:08 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Leicester",
+      "postCount" : "1427",
+      "avatarPath" : null
+    },
+    "content" : "that's a bit of a pig! wonder how many VW owners that affects? I guess more would have been on the Thurs nighter hopefully they are still OK ...\n<br> glad we are booked on Hull &gt; Rotterdam!",
+    "lastEdited" : "Thu Jun 15, 2017 3:41 pm"
+  } ]
+}

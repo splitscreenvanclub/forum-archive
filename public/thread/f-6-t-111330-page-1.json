@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "111330",
+  "title" : "Help!! Van won't start",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111330",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "840973",
+    "author" : {
+      "username" : "geocamper1",
+      "userId" : "840973",
+      "joined" : "Wed Apr 10, 2013 10:21 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "147",
+      "avatarPath" : null
+    },
+    "content" : "Moved the van out of the garage this morning and everything was fine. Started on the button then moved it onto the drive. I then went to put it back in the garage this evening and when I went to turn the key there was nothing. Checked the battery, Connections,Earth to the battery and fuses and everything looks fine. Never had this problem before. Any suggestions?",
+    "lastEdited" : "Sat Jul 04, 2015 5:20 pm"
+  }, {
+    "postId" : "840978",
+    "author" : {
+      "username" : "DOUGAL",
+      "userId" : "840978",
+      "joined" : "Thu Apr 06, 2006 3:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Oxford",
+      "postCount" : "890",
+      "avatarPath" : "http://www.charity-bolivia.org/vw/DOUGAL.jpg"
+    },
+    "content" : "When you turned the key was there nothing at all - not even the lights on the speedo came on?\n<br>Ignition switch?\n<br>Earth lead of the starter motor?\n<br>\n<br>Gertjan",
+    "lastEdited" : "Sat Jul 04, 2015 6:11 pm"
+  }, {
+    "postId" : "840987",
+    "author" : {
+      "username" : "VioletVW",
+      "userId" : "840987",
+      "joined" : "Sun Jan 03, 2010 8:01 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Cardiff",
+      "postCount" : "226",
+      "avatarPath" : "./download/file.php%3Favatar=33840_1262622037.gif"
+    },
+    "content" : "Check the wires to and from the headlight switch. Have had a similar issue and it appears that my switch is dodgy. Switch on sidelights and try turning over the engine.",
+    "lastEdited" : "Sat Jul 04, 2015 8:41 pm"
+  }, {
+    "postId" : "841140",
+    "author" : {
+      "username" : "etiennevert",
+      "userId" : "841140",
+      "joined" : "Sun Aug 06, 2006 11:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "York",
+      "postCount" : "241",
+      "avatarPath" : "http://i222.photobucket.com/albums/dd159/etiennevert/Mobile%20Uploads/DSC_0788.jpg"
+    },
+    "content" : "When this happened to me it turned out to be ignition switch. Was able to give it a wiggle for a while to get a connection but since swapping it out for a new one its been spot on.",
+    "lastEdited" : "Sun Jul 05, 2015 10:32 pm"
+  } ]
+}

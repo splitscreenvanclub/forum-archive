@@ -1,0 +1,40 @@
+{
+  "forumId" : "2",
+  "threadId" : "123638",
+  "title" : "VW made EV Split",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=123638",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=13d9893886f24aa27cb0fe8ce0c3c45f",
+    "label" : "VW Related Chat"
+  } ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "923592",
+    "author" : {
+      "username" : "tombailey77",
+      "userId" : "923592",
+      "joined" : "Thu Mar 18, 2010 10:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Brighton",
+      "postCount" : "479",
+      "avatarPath" : "./download/file.php%3Favatar=34059_1393239209.jpg"
+    },
+    "content" : "<a href=\"https://www.slashgear.com/vws-glorious-retro-ev-concept-blends-1962-with-the-tech-of-tomorrow-02582549/\" class=\"postlink\">https://www.slashgear.com/vws-glorious- ... -02582549/</a>\n<br> \n<br> \n<img src=\"\" class=\"postimage\" alt=\"Image\">",
+    "lastEdited" : "Fri Jul 12, 2019 2:29 pm"
+  }, {
+    "postId" : "923593",
+    "author" : {
+      "username" : "tombailey77",
+      "userId" : "923593",
+      "joined" : "Thu Mar 18, 2010 10:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Brighton",
+      "postCount" : "479",
+      "avatarPath" : "./download/file.php%3Favatar=34059_1393239209.jpg"
+    },
+    "content" : "some more",
+    "lastEdited" : "Fri Jul 12, 2019 2:30 pm"
+  } ]
+}

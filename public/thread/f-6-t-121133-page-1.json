@@ -1,0 +1,131 @@
+{
+  "forumId" : "6",
+  "threadId" : "121133",
+  "title" : "1641 valve clearance setting",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=121133",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=495ebc3f8bb960093e9a5f54bd76b154",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "908943",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "908943",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "332",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "Hi. Would like to know the correct valve clearance for 1641 engine Vw say 0.004 but some say 0.006 any advice please! Thanks steve\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Tue Feb 06, 2018 10:01 am"
+  }, {
+    "postId" : "908951",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "908951",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1894",
+      "avatarPath" : null
+    },
+    "content" : "If it's got stock pushrods then 6 thou. If steel rods then you can set at 0 gap. Make sure engine is left overnight so stone cold before adjustment.",
+    "lastEdited" : "Tue Feb 06, 2018 3:50 pm"
+  }, {
+    "postId" : "908972",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "908972",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3071",
+      "avatarPath" : null
+    },
+    "content" : "Hi FB - Going to do my valve clearances in the next couple of months. Do you use sealant or just good quality cork gaskets ? I’ve heard a school of thought to use sealant on the cover side only, due to different expansion rates do the heads and the covers, but would prefer to use gaskets only if I can.",
+    "lastEdited" : "Tue Feb 06, 2018 9:51 pm"
+  }, {
+    "postId" : "908975",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "908975",
+      "joined" : "Thu Apr 24, 2003 6:05 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "under a bus in Hampshire...",
+      "postCount" : "20054",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "No sealants. Just a gasket, clean heat, good cover and strong bails.",
+    "lastEdited" : "Tue Feb 06, 2018 10:20 pm"
+  }, {
+    "postId" : "908978",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "908978",
+      "joined" : "Thu Mar 14, 2013 6:50 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Heswall",
+      "postCount" : "3071",
+      "avatarPath" : null
+    },
+    "content" : "Thanks Jim",
+    "lastEdited" : "Tue Feb 06, 2018 10:29 pm"
+  }, {
+    "postId" : "908995",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "908995",
+      "joined" : "Mon May 13, 2013 6:12 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgnorth, Shropshire.",
+      "postCount" : "1440",
+      "avatarPath" : null
+    },
+    "content" : "They changed from 0.04 to 0.06 due to the smaller setting causing burnt exhaust valves - particularly on No.3\n<br> The factory increased it to 0.06 to give a bit more clearance and tolerance on the valves.\n<br> You can run 0.04 but be very careful with frequency of gap checks and note if any keep going tight - this means the valve is stretching.",
+    "lastEdited" : "Wed Feb 07, 2018 2:18 pm"
+  }, {
+    "postId" : "908997",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "908997",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "332",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "Thanks for all your advice \n<img src=\"http://emoji.tapatalk-cdn.com/emoji106.png\">\n<img src=\"http://emoji.tapatalk-cdn.com/emoji1.png\">\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Wed Feb 07, 2018 2:47 pm"
+  }, {
+    "postId" : "909160",
+    "author" : {
+      "username" : "Stevep",
+      "userId" : "909160",
+      "joined" : "Tue Apr 22, 2014 3:04 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "332",
+      "avatarPath" : "./download/file.php%3Favatar=39116_1494751044.jpg"
+    },
+    "content" : "Just serviced my bus valves set to 0.006 and is fine no extra noise. Thanks\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Sun Feb 11, 2018 12:43 pm"
+  }, {
+    "postId" : "909341",
+    "author" : {
+      "username" : "Huw",
+      "userId" : "909341",
+      "joined" : "Fri Apr 18, 2003 6:40 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Bridgend",
+      "postCount" : "1408",
+      "avatarPath" : null
+    },
+    "content" : "<blockquote>\n <div>\n  <cite><a href=\"./memberlist.php?mode=viewprofile&amp;u=37891&amp;sid=495ebc3f8bb960093e9a5f54bd76b154\">ted698</a> wrote: <a href=\"./viewtopic.php?p=908995&amp;sid=495ebc3f8bb960093e9a5f54bd76b154#p908995\" data-post-id=\"908995\" onclick=\"if(document.getElementById(hash.substr(1)))href=hash\">↑</a>\n   <div class=\"responsive-hide\">\n    Wed Feb 07, 2018 2:18 pm\n   </div></cite> They changed from 0.04 to 0.06 due to the smaller setting causing burnt exhaust valves - particularly on No.3\n  <br> The factory increased it to 0.06 to give a bit more clearance and tolerance on the valves.\n  <br> You can run 0.04 but be very careful with frequency of gap checks and note if any keep going tight - this means the valve is stretching. \n </div>\n</blockquote> \n<br> \n<br> Why do it then, VW say 0.06 \n<img class=\"smilies\" src=\"./images/smilies/icon_cool.gif\" width=\"15\" height=\"15\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Fri Feb 16, 2018 8:46 pm"
+  } ]
+}

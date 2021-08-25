@@ -1,0 +1,63 @@
+{
+  "forumId" : "5",
+  "threadId" : "112455",
+  "title" : "Westy 3 bow and 2 bow roof racks",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112455",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "848112",
+    "author" : {
+      "username" : "alfalvw",
+      "userId" : "848112",
+      "joined" : "Sat Jan 03, 2015 8:41 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "38",
+      "avatarPath" : null
+    },
+    "content" : "After a couple of racks for my bus\n<br>\n<br>3 bow and 2 bow westy style \n<br>\n<br>Cheers",
+    "lastEdited" : "Mon Sep 07, 2015 7:59 pm"
+  }, {
+    "postId" : "848146",
+    "author" : {
+      "username" : "westwopa",
+      "userId" : "848146",
+      "joined" : "Fri Feb 19, 2010 5:06 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "498",
+      "avatarPath" : null
+    },
+    "content" : "Got a new Westy style rack still in the box unopened. \n<br>£300",
+    "lastEdited" : "Tue Sep 08, 2015 7:06 am"
+  }, {
+    "postId" : "848170",
+    "author" : {
+      "username" : "alfalvw",
+      "userId" : "848170",
+      "joined" : "Sat Jan 03, 2015 8:41 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "38",
+      "avatarPath" : null
+    },
+    "content" : "3 bow or 2 bow?",
+    "lastEdited" : "Tue Sep 08, 2015 1:05 pm"
+  }, {
+    "postId" : "848173",
+    "author" : {
+      "username" : "westwopa",
+      "userId" : "848173",
+      "joined" : "Fri Feb 19, 2010 5:06 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "498",
+      "avatarPath" : null
+    },
+    "content" : "It's a 3 bow.",
+    "lastEdited" : "Tue Sep 08, 2015 2:15 pm"
+  } ]
+}

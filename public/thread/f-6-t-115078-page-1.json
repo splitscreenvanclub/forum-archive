@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "115078",
+  "title" : "Alternator knocking - not installed",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115078",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867857",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "867857",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "456",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Been reassembling the engine tin etc after replacing the oil seals and fitting original VW tin. Went to fit the alternator to the fan shroud this evening and it's making a knocking noise.\n<br>\n<br>The fan isn't hitting the shroud - it makes the noise if I take it out of the shroud and hold the alternator in my hand and spin the pulley. There is one point where it feels like it catches and that's when it makes the noise. It's not rubbing during the whole rotation.\n<br>\n<br>Any ideas as to what might be causing it?\n<br>\n<br>The noise almost disappears if I get the alternator absolutely horizontal, but as soon as I move it off horizontal it starts again.\n<br>\n<br>I fitted new alternator plates and a new pulley at the weekend and it was fine in a vice on the bench. I was wondering if I'd pinched the alternator case in the vice and made it out of round?\n<br>\n<br>Can't fit it like this. The noise would drive me nuts (or at least nuttier).",
+    "lastEdited" : "Wed Mar 16, 2016 8:23 pm"
+  }, {
+    "postId" : "867883",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "867883",
+      "joined" : "Thu Apr 17, 2003 6:42 pm",
+      "profileRank" : "Registered user",
+      "location" : "Lincolnshire",
+      "postCount" : "639",
+      "avatarPath" : null
+    },
+    "content" : "Unfortunately, placing any part of the alternator in a vice is definitely not a good idea, but I think you already suspect that! However, you may (just may) have got away with it. I am assuming the alternator is the one fitted to almost all 1600cc stock engines. My advice would be to dismantle / remove both the fan and pulley so as to avoid any damage. Loosen and remove the brush box or brush box with the regulator depending on the exact model. Loosen (but don't remove) the 3 screws by several turns holding the large pulley end bracket to the main case, and similarly the two screws at the fan end bracket, and pry both brackets very slightly apart. Now working on the fan end bracket first, tighten the screws by hand first one screw then the other, a bit at a time until fully hand tight. Now fit all the fan end components except for the fan itself and tighten the 36mm nut as tight as possible by hand. This is to pull the rotor shaft into the correct lateral position. Now hand tighten the 3 screws holding the pulley end bracket into palace. Spin the rotor by hand and it should be near to silent with just a very slight bearing noise, and certainly no catching or knocking. If there is any form of catch or knocking try hitting the case at first one end then the other with a SOFT headed hammer. If the noise cannot be eliminated by this, then the vice has done the damage most likely. If you can eliminate the catching / knocking, torque up the 3 and 2 screws, refit the brush box, pulley and lastly the fan.\n<br>Peter Good",
+    "lastEdited" : "Wed Mar 16, 2016 10:08 pm"
+  }, {
+    "postId" : "867903",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "867903",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "456",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Thanks Peter.\n<br>\n<br>It's a Bosch alternator - AL28 (think it's an N, but the letter wiped off when I cleaned it) alternator. Wasn't sure if it was safe to remove the end caps, so I'll try stripping it back down to the bare alternator and loosen and retorque the screws as you sugest.\n<br>\n<br>Is the brush box the small square projection on top with a black cap and an electrical terminal? Thought I'd check as it doesn't project far.\n<br>\n<br>There is another screw just below it on the case. What is that and should I adjust it too or leave well alone?",
+    "lastEdited" : "Thu Mar 17, 2016 7:36 am"
+  }, {
+    "postId" : "867955",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "867955",
+      "joined" : "Thu May 15, 2014 8:13 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "West Sussex",
+      "postCount" : "456",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Well, I seem to have fixed it. The problem wasn't the case or the bearings, but Peter's recommendation for loosening the end caps showed what it was.\n<br>\n<br>One segment of the the stator ring was projecting above the rest of the ring and the rotor was catching on it at one point. It's the silver 'tooth' indicated by the arrow below (the rest are black, not sure why this one isn't)...\n<br>\n<br>\n<img src=\"http://i156.photobucket.com/albums/t15/Who_Me_Photos/ANDYNEWLAPTOP/TruckPics2/09824028-0ac4-4ec0-b411-073c2ad7240f_zps4yo0vdc0.jpg\" class=\"postimage\" alt=\"Image\">\n<br>\n<br>I think the stator ring segment got damaged when I removed the pulley or fan as the pulley it was missing its woodruff key, so I had to lock the rotor ring to the case with a screwdriver. I must have caught the stator segment with the end of the screwdriver and either moved or distorted it.\n<br>\n<br>I used a fine file to take the high spot off and the rotor now spins without catching it. Noise gone.\n<br>\n<br>I'm hoping the armature windings are OK though.",
+    "lastEdited" : "Thu Mar 17, 2016 8:07 pm"
+  } ]
+}

@@ -1,0 +1,180 @@
+{
+  "forumId" : "11",
+  "threadId" : "106818",
+  "title" : "Email Notification Issues",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=11&t=106818",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 13,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "809892",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "809892",
+      "joined" : "Thu Mar 13, 2003 7:21 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Coventry",
+      "postCount" : "1783",
+      "avatarPath" : "http://i22.photobucket.com/albums/b317/nisted/r2valu.jpg"
+    },
+    "content" : "We've just discovered that for some unknown reason Microsoft have blocked all email traffic from the SSVC server to their email addresses (hotmail, live, outlook etc). The main implication of this is that any forum notifications that go to Microsoft hosted addresses will be blocked until the situation is resolved. At this point in time I've got no idea exactly how long this will take to sort, but it is in hand, and I'll keep you all updated on our progress. \n<br>Cheers,\n<br>Nige.",
+    "lastEdited" : "Mon Nov 10, 2014 5:36 pm"
+  }, {
+    "postId" : "809894",
+    "author" : {
+      "username" : "Claushema",
+      "userId" : "809894",
+      "joined" : "Sun Oct 06, 2013 8:32 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Amsterdam/central France",
+      "postCount" : "906",
+      "avatarPath" : "./download/file.php%3Favatar=38574_1386788824.jpg"
+    },
+    "content" : "Doesn't Microsoft have anything better to do?",
+    "lastEdited" : "Mon Nov 10, 2014 5:44 pm"
+  }, {
+    "postId" : "809948",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "809948",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1193",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "I don't have a microsoft account and I recently stopped getting the notifications too.\n<br>\n<br>Mine is a apple @me.com email account",
+    "lastEdited" : "Tue Nov 11, 2014 12:17 am"
+  }, {
+    "postId" : "809983",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "809983",
+      "joined" : "Thu Mar 13, 2003 7:21 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Coventry",
+      "postCount" : "1783",
+      "avatarPath" : "http://i22.photobucket.com/albums/b317/nisted/r2valu.jpg"
+    },
+    "content" : "<blockquote>\n <div>\n  <cite>Rippers wrote:</cite>I don't have a microsoft account and I recently stopped getting the notifications too.\n  <br>\n  <br>Mine is a apple @me.com email account\n </div>\n</blockquote>\n<br>\n<br>OK, thanks for letting us know - I'll look into this, too.",
+    "lastEdited" : "Tue Nov 11, 2014 12:28 pm"
+  }, {
+    "postId" : "809991",
+    "author" : {
+      "username" : "Choc",
+      "userId" : "809991",
+      "joined" : "Wed Jun 28, 2006 7:16 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Derbyshire",
+      "postCount" : "3422",
+      "avatarPath" : "http://i36.photobucket.com/albums/e9/Choc1/9-6-0720.jpg"
+    },
+    "content" : "[quote=\"Rippers\"]I don't have a microsoft account and I recently stopped getting the notifications too.[/quote]\n<br>\n<br>Mine runs through 1and1, no notifications either (whether they use Microsoft and this is adding to the issue who knows).",
+    "lastEdited" : "Tue Nov 11, 2014 1:16 pm"
+  }, {
+    "postId" : "810067",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "810067",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "2593",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "I have my own domain hosted by One.com and I'm not getting them either.\n<br>\n<br>Steve",
+    "lastEdited" : "Wed Nov 12, 2014 7:11 am"
+  }, {
+    "postId" : "810082",
+    "author" : {
+      "username" : "flatbeat",
+      "userId" : "810082",
+      "joined" : "Thu Oct 04, 2007 4:06 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Gloucester",
+      "postCount" : "1570",
+      "avatarPath" : null
+    },
+    "content" : "I have a Fastmail account and I've stopped getting them too.",
+    "lastEdited" : "Wed Nov 12, 2014 10:34 am"
+  }, {
+    "postId" : "810086",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "810086",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "2593",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "Seems as if it may be sorted. I got notification of the last post!\n<br>\n<br>Steve",
+    "lastEdited" : "Wed Nov 12, 2014 11:39 am"
+  }, {
+    "postId" : "810133",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "810133",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1193",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "none for me still",
+    "lastEdited" : "Wed Nov 12, 2014 7:52 pm"
+  }, {
+    "postId" : "810172",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "810172",
+      "joined" : "Thu Mar 13, 2003 7:21 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Coventry",
+      "postCount" : "1783",
+      "avatarPath" : "http://i22.photobucket.com/albums/b317/nisted/r2valu.jpg"
+    },
+    "content" : "This is getting weirder \n<img class=\"smilies\" src=\"./images/smilies/sad.gif\" alt=\":-(\" title=\"Sad\"> Thanks for the info so far.",
+    "lastEdited" : "Thu Nov 13, 2014 12:31 am"
+  }, {
+    "postId" : "810544",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "810544",
+      "joined" : "Thu Jul 21, 2011 4:36 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "-",
+      "postCount" : "1193",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "Mines fixed now :)",
+    "lastEdited" : "Sat Nov 15, 2014 9:15 pm"
+  }, {
+    "postId" : "810851",
+    "author" : {
+      "username" : "rusty1962",
+      "userId" : "810851",
+      "joined" : "Wed Sep 11, 2013 10:35 pm",
+      "profileRank" : "SSVC Member",
+      "location" : "Lackford, Suffolk",
+      "postCount" : "2593",
+      "avatarPath" : "http://i790.photobucket.com/albums/yy185/stevejones3163/Rusty/8c3bfc32-9c7a-4584-a076-f57b1a450787_zps009a6b4f.jpg"
+    },
+    "content" : "Mine's packed up again!\n<br>\n<br>Steve",
+    "lastEdited" : "Tue Nov 18, 2014 5:40 pm"
+  }, {
+    "postId" : "811438",
+    "author" : {
+      "username" : "Unknown",
+      "userId" : "811438",
+      "joined" : "Thu Mar 13, 2003 7:21 pm",
+      "profileRank" : "SSVC Committee Member",
+      "location" : "Coventry",
+      "postCount" : "1783",
+      "avatarPath" : "http://i22.photobucket.com/albums/b317/nisted/r2valu.jpg"
+    },
+    "content" : "Without going into the (extremely) boring techy stuff, I *think* that we've got all of the blocks on club email sorted.\n<br>\n<br>Please continue to let me know if anyone is still experiencing problems.",
+    "lastEdited" : "Mon Nov 24, 2014 12:05 pm"
+  } ]
+}

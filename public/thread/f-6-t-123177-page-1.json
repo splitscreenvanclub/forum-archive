@@ -1,0 +1,53 @@
+{
+  "forumId" : "6",
+  "threadId" : "123177",
+  "title" : "Heat exchanger cable fitment",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=123177",
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=a90b7e159de7a8fa86c4cd1c3f4d4629",
+    "label" : "Technical"
+  } ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "920961",
+    "author" : {
+      "username" : "Iranu148",
+      "userId" : "920961",
+      "joined" : "Wed Sep 07, 2016 1:05 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "26",
+      "avatarPath" : null
+    },
+    "content" : "I'm just about to fit a new heater cable. I've cleaned the tubes and stripped the heater control knob assembly. The manual says the longer cable goes in the right hand guide tube, but doesn't state if that's looking from the rear of van to front or vice versa. Any help appreciated, ta.",
+    "lastEdited" : "Wed Mar 27, 2019 7:54 pm"
+  }, {
+    "postId" : "920965",
+    "author" : {
+      "username" : "Wigsplitta",
+      "userId" : "920965",
+      "joined" : "Tue Aug 29, 2017 7:22 pm",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "33",
+      "avatarPath" : null
+    },
+    "content" : "Down the right hand tube when you're sat in the van facing forward... the offside. I think the reason is cylinders 1 and 2 sit slightly further back on the block, as does the HE.",
+    "lastEdited" : "Wed Mar 27, 2019 9:08 pm"
+  }, {
+    "postId" : "920996",
+    "author" : {
+      "username" : "clymoj",
+      "userId" : "920996",
+      "joined" : "Tue Mar 27, 2012 12:10 pm",
+      "profileRank" : "Registered user",
+      "location" : "London & Birmingham",
+      "postCount" : "1355",
+      "avatarPath" : null
+    },
+    "content" : "I can’t remember off the top of my head but as said above if you look at the staggering if your cylinders and heat exchangers it will make sense - one side is slightly further forward\n<br> \n<br> \n<br> Sent from my iPhone using Tapatalk",
+    "lastEdited" : "Fri Mar 29, 2019 4:15 am"
+  } ]
+}

@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "115083",
+  "title" : "modifying a 64 front door to a 61?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115083",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "867897",
+    "author" : {
+      "username" : "Griffin",
+      "userId" : "867897",
+      "joined" : "Wed Apr 22, 2015 11:39 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Hi all, I have been looking for a pair of front doors for my SC with limited luck but have been offered a later pair of 64 doors with the push button locks as opposed to the icepicks.\n<br>I was thinking maybe I could just swap the lock / handle but has anyone done this and if so how hard it it to do?\n<br>cheers",
+    "lastEdited" : "Thu Mar 17, 2016 3:41 am"
+  }, {
+    "postId" : "867898",
+    "author" : {
+      "username" : "Griffin",
+      "userId" : "867898",
+      "joined" : "Wed Apr 22, 2015 11:39 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "alternatively if anyone has a set of 61 doors for sale for my SC...",
+    "lastEdited" : "Thu Mar 17, 2016 3:43 am"
+  }, {
+    "postId" : "868095",
+    "author" : {
+      "username" : "Griffin",
+      "userId" : "868095",
+      "joined" : "Wed Apr 22, 2015 11:39 am",
+      "profileRank" : "Registered user",
+      "location" : "-",
+      "postCount" : "65",
+      "avatarPath" : null
+    },
+    "content" : "Alternatively will the later doors fit an early Kombi even though technically incorrect?",
+    "lastEdited" : "Sat Mar 19, 2016 12:01 am"
+  }, {
+    "postId" : "868112",
+    "author" : {
+      "username" : "mjknight71",
+      "userId" : "868112",
+      "joined" : "Thu Nov 29, 2007 3:12 pm",
+      "profileRank" : "Registered user",
+      "location" : "Weymouth Dorset",
+      "postCount" : "1255",
+      "avatarPath" : null
+    },
+    "content" : "Will fit yes, I think to convert you would have to change skin around handle and inner frame where the handle mounts.....There is also the door tie thing to stop them opening too far that early doors don't have but what year that started I don't know .\n<br>\n<br>I am sure Fbi on ebay have a pair of ice pick doors.....sit down whilst looking",
+    "lastEdited" : "Sat Mar 19, 2016 10:02 am"
+  } ]
+}
