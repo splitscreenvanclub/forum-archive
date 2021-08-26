@@ -6,6 +6,7 @@ import { useData } from "hooks/useData";
 import LoadingIndicator from "components/LoadingIndicator";
 import SadEmoji from 'heroicons/outline/emoji-sad.svg';
 import Link from 'next/link';
+import Head from "next/head";
 
 function fixPostContent(html) {
   return html
@@ -162,6 +163,9 @@ const TopicContent: FC<TopicContentProps> = ({ forumId, threadId, page }) => {
 
   return (
     <div className="p-4 bg-white rounded-md flex flex-col space-y-6 border border-gray-100">
+      <Head>
+        <title>{topic.title} | The Split Screen Van Club</title>
+      </Head>
       <div>
         <div className="text-gray-500 pb-2 flex flex-col md:flex-row justify-between items-center">
           <span>Forum Archive &gt; {(topic.breadcrumbs || [])[0]?.label}</span>
@@ -205,7 +209,7 @@ export default function ViewTopicPage() {
   return (
     <>
       <div className="p-4 mb-8 bg-yellow-300 flex flex-col space-y-2 rounded-md">
-        <h3>You are viewing the Split Screen Van Club forum archive.</h3>
+        <div className="text-brand font-bold">You are viewing the Split Screen Van Club forum archive.</div>
 
         <strong>The forum archive is read-only.</strong>
 
