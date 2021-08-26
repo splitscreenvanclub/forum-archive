@@ -2,7 +2,7 @@ import { useRouter } from "next/router";
 import { queryParamFrom } from "util/url";
 import { FC, useEffect } from "react";
 import Search from "components/Search";
-import { useData } from "hooks/useData";
+import { useTopic, useTopicRecoverState } from "hooks/useData";
 import LoadingIndicator from "components/LoadingIndicator";
 import SadEmoji from 'heroicons/outline/emoji-sad.svg';
 import Link from 'next/link';
@@ -11,7 +11,8 @@ import Head from "next/head";
 function fixPostContent(html) {
   return html
     .replace(/images\.thesamba\.com/gi, 'thesamba.com')
-    .replace(/(https?:\/\/)?(www\.)?ssvc\.org\.uk\/phpbb/g, 'https://archives.ssvc.org.uk');
+    .replace(/(https?:\/\/)?(www\.)?ssvc\.org\.uk\/phpbb/g, 'https://archives.ssvc.org.uk')
+    .replace(/(ssvc\.org\.uk[^ ]+?)start=([0-9]+)/g, (match, grp1, grp2) => `${grp1}page=${parseInt(grp2)/15}`);
 }
 
 type PostAuthor = {
@@ -43,13 +44,45 @@ type Topic = {
   posts: Post[];
 }
 
-type PaginationProps = {
-  topic: Topic;
+export type TopicRecoverState = {
+  totalPages: number;
+  recoveredPages: number[];
 }
 
-const PaginationControls: FC<PaginationProps> = ({ topic }) => {
-  const { pageNumber, totalPages, forumId, threadId } = topic;
+type TopicPageLoadFailureProps = {
+  forumId: string;
+  threadId: string;
+  page: string;
+}
+
+const TopicPageLoadFailure: FC<TopicPageLoadFailureProps> = ({ forumId, threadId, page }) => {
+  const { data: firstPageOfTopic } = page && (page+'') !== '1' ? useTopic(forumId, threadId, '1') : { data: null };
+
+  return (
+    <div className="h-full flex flex-col justify-center items-center w-full text-center">
+      <SadEmoji className="w-8 mb-4" />
+      <div>
+        <p>Sorry we couldn't load this page.</p>
+        {firstPageOfTopic && (
+          <div className="py-3">
+            <PaginationControls forumId={forumId} threadId={threadId} pageNumber={parseInt(page)} totalPages={firstPageOfTopic.totalPages} />
+          </div>
+        )}
+      </div>
+    </div>
+  )
+}
+
+type PaginationProps = {
+  forumId: string;
+  threadId: string;
+  pageNumber: number;
+  totalPages: number;
+}
+
+const PaginationControls: FC<PaginationProps> = ({ forumId, threadId, pageNumber, totalPages }) => {
   const options = [];
+  const { data: topicRecoverState } = useTopicRecoverState(forumId, threadId);
 
   if (totalPages > 8 && pageNumber > 1) {
     options.push({ label: '<< First', pageNumber: 1 });
@@ -59,7 +92,7 @@ const PaginationControls: FC<PaginationProps> = ({ topic }) => {
   }
 
   if (totalPages <= 8) {
-    for (let i = 1; i < totalPages; i++) {
+    for (let i = 1; i <= totalPages; i++) {
       options.push({ label: i+'', pageNumber: i });
     }
   }
@@ -77,16 +110,29 @@ const PaginationControls: FC<PaginationProps> = ({ topic }) => {
   }
 
   return (
-    <div className="flex space-x-2 items-center justify-center text-xs md:text-sm">
-      {options.map(opt =>
-        <div key={opt.label} className={opt.label.match(/[0-9]+/) && opt.pageNumber !== pageNumber ? 'hidden md:block' : ''}>
-          {opt.pageNumber === pageNumber ?
-            <span>{opt.label}</span>
-            :
-            <Link href={`/viewtopic.php?f=${forumId}&t=${threadId}&page=${opt.pageNumber}`}>
-              <a>{opt.label}</a>
-            </Link>
-          }
+    <div className="flex flex-col items-center">
+      <div className="flex space-x-2 items-center justify-center text-xs md:text-sm">
+        {options.map(opt =>
+          <div
+            key={opt.label}
+            className={
+              (opt.label.match(/[0-9]+/) && opt.pageNumber !== pageNumber ? 'hidden md:block ' : ' ') +
+              (topicRecoverState && topicRecoverState.recoveredPages.indexOf(opt.pageNumber) === -1 ? 'opacity-50' : '')
+            }
+          >
+            {opt.pageNumber === pageNumber ?
+              <span>{opt.label}</span>
+              :
+              <Link href={`/viewtopic.php?f=${forumId}&t=${threadId}&page=${opt.pageNumber}`}>
+                <a>{opt.label}</a>
+              </Link>
+            }
+          </div>
+        )}
+      </div>
+      {topicRecoverState && topicRecoverState.recoveredPages && (
+        <div className="text-xs text-gray-400">
+          Recovered {((topicRecoverState.recoveredPages.length / topicRecoverState.totalPages)*100).toFixed(0)}%
         </div>
       )}
     </div>
@@ -139,21 +185,14 @@ type TopicContentProps = {
 }
 
 const TopicContent: FC<TopicContentProps> = ({ forumId, threadId, page }) => {
-  const { data: topic, error } = useData(`/thread/f-${forumId}-t-${threadId}-page-${page}.json`);
+  const { data: topic, error } = useTopic(forumId, threadId, page);
 
   if (error) {
     return (
-      <div className="h-full flex flex-col justify-center items-center w-full text-center">
-        <SadEmoji className="w-8 mb-4" />
-        <div>
-          Sorry we couldn't load this page.
-          <br/>
-          Either this a broken link or we were unable to recover this page.
-        </div>
-      </div>
+      <TopicPageLoadFailure forumId={forumId} threadId={threadId} page={page} />
     );
   }
-  if (!topic) {
+  if (!topic || !topic.posts) {
     return (
       <div className="h-full flex flex-col items-center justify-center p-8">
         <LoadingIndicator />
@@ -169,7 +208,7 @@ const TopicContent: FC<TopicContentProps> = ({ forumId, threadId, page }) => {
       <div>
         <div className="text-gray-500 pb-2 flex flex-col md:flex-row justify-between items-center">
           <span>Forum Archive &gt; {(topic.breadcrumbs || [])[0]?.label}</span>
-          <PaginationControls topic={topic} />
+          <PaginationControls {...topic} />
         </div>
         <h2>{topic.title}</h2>
       </div>
@@ -181,7 +220,7 @@ const TopicContent: FC<TopicContentProps> = ({ forumId, threadId, page }) => {
           isTopicStart={index === 0 && topic.pageNumber === 1}
         />
       )}
-      <PaginationControls topic={topic} />
+      <PaginationControls {...topic} />
       <div className="py-2 text-center">
         <a
           href={`https://web.archive.org/web/${topic.originalUrl}`}
