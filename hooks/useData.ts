@@ -2,9 +2,12 @@ import useSWR, { SWRResponse } from 'swr';
 import { TopicRecoverState } from "pages/viewtopic.php";
 
 const FIVE_SECONDS = 5000;
-const A_MINUTE = 60000;
 const SWR_CONFIG = {
-  refreshInterval: A_MINUTE * 60,
+  revalidateOnMount: true,
+  revalidateOnFocus: false,
+  revalidateOnReconnect: false,
+  refreshInterval: 0,
+  refreshWhenHidden: false,
   errorRetryInterval: FIVE_SECONDS,
   errorRetryCount: 3,
 };

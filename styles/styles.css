@@ -72,9 +72,20 @@ input.gsc-input {
         background: #ECF3F7;
     }
 
+    .post .inline-attachment,
     .post image:not(.smilies),
     .post img:not(.smilies):not(.avatar) {
-        @apply max-w-full lg:max-w-prose border border-gray-200 bg-white shadow my-2 p-1;
+        @apply max-w-full lg:max-w-prose;
+    }
+
+    .post .prose > image:not(.smilies),
+    .post .prose > img:not(.smilies):not(.avatar),
+    .post .inline-attachment {
+        @apply border border-gray-200 bg-white shadow my-2 p-1;
+    }
+
+    .post .inline-attachment dd {
+        @apply text-xs text-gray-600 border-t border-gray-200 pt-1 mt-1;
     }
 
     .post img.avatar {
