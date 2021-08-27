@@ -3,7 +3,10 @@
   "threadId" : "73634",
   "title" : "Bwa 1915",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=73634&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 16,
   "pageNumber" : 2,
   "totalPages" : 2,

@@ -3,7 +3,10 @@
   "threadId" : "111580",
   "title" : "BROMSGROVE TRIMMERS",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=111580",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=b89ca0fe4ab7b417e92029405f5f5115",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

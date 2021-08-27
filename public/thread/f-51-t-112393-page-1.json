@@ -3,7 +3,10 @@
   "threadId" : "112393",
   "title" : "71 og paint deluxe bay SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112393",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

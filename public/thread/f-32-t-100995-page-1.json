@@ -3,7 +3,10 @@
   "threadId" : "100995",
   "title" : "emptying inbox",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=100995",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=13e52081a40294143eb5b7d8d394bb88",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

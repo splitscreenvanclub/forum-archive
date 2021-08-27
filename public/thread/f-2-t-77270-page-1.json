@@ -3,7 +3,10 @@
   "threadId" : "77270",
   "title" : "Lack of m plate",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=77270",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=a2e27346b52f2c1ad9c5c7482694c0e6",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

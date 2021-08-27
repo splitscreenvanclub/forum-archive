@@ -3,7 +3,10 @@
   "threadId" : "114662",
   "title" : "1964 LHD 11 Window Camper Van with 1776cc Engine - SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=114662",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=5ce82f68a8ed893850acbf22764b7bc4",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,
@@ -49,7 +52,7 @@
   }, {
     "postId" : "864870",
     "author" : {
-      "username" : "Unknown",
+      "username" : "8 8US",
       "userId" : "864870",
       "joined" : "Tue Jul 17, 2012 8:31 pm",
       "profileRank" : "SSVC Member",

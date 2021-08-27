@@ -3,7 +3,10 @@
   "threadId" : "109606",
   "title" : "microwaves and inverters",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=109606",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=1cfd7a0a9224f09b885d9b2518c3a1a2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

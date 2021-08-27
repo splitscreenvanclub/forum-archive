@@ -3,7 +3,10 @@
   "threadId" : "68918",
   "title" : "Paris Beetles Bus Sunroof pics anyone?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=68918",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=dff38e20eac9c53b3db1880a7eb46434",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 13,
   "pageNumber" : 1,
   "totalPages" : 1,

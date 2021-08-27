@@ -3,7 +3,10 @@
   "threadId" : "115214",
   "title" : "Clutch adjustment?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115214",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=88bea50f941f40d85d004da75c221d5f",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "106677",
   "title" : "so42 ice box flip table",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=106677",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=bca349d7e62d4d5449e24fc78d0e4510",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=bca349d7e62d4d5449e24fc78d0e4510",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

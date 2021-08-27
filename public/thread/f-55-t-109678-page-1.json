@@ -3,7 +3,10 @@
   "threadId" : "109678",
   "title" : "2 Autogrip Radial F101 185 60R15's starting at 99p SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=109678",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

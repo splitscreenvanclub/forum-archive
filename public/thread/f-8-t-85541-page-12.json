@@ -3,14 +3,17 @@
   "threadId" : "85541",
   "title" : "1950, 10w Kombi",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=85541&start=165",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 175,
   "pageNumber" : 12,
   "totalPages" : 12,
   "posts" : [ {
     "postId" : "813935",
     "author" : {
-      "username" : "Unknown",
+      "username" : "8 8US",
       "userId" : "813935",
       "joined" : "Tue Jul 17, 2012 8:31 pm",
       "profileRank" : "SSVC Member",

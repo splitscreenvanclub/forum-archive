@@ -3,7 +3,13 @@
   "threadId" : "107938",
   "title" : "VOLKSPOWER 10 - 12 July, Redcar",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=107938",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=a5a30ed9f0cec3535eefbda40f908db5",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=a5a30ed9f0cec3535eefbda40f908db5",
+    "label" : "Events"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

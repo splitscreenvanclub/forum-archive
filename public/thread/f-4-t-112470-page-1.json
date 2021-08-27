@@ -3,7 +3,10 @@
   "threadId" : "112470",
   "title" : "GENE BERG SHIFTER FOR ALL *OCT ORDER*",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112470",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 25,
   "pageNumber" : 1,
   "totalPages" : 2,

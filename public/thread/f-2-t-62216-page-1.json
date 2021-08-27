@@ -3,7 +3,10 @@
   "threadId" : "62216",
   "title" : "Info request about building Garages",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=62216",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=1245f7a82076884ab4aa79e31a065c73",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

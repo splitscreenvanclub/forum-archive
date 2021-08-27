@@ -3,7 +3,10 @@
   "threadId" : "114882",
   "title" : "Looking for any Dutch members !!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=114882",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14&sid=97b4b775fbf9710664d78061ce9f700a",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

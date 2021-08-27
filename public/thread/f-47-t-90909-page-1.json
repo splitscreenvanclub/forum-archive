@@ -3,7 +3,13 @@
   "threadId" : "90909",
   "title" : "So44",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=90909",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=cba7f50a3937aea47a86b6399bcd74b5",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=cba7f50a3937aea47a86b6399bcd74b5",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "117219",
   "title" : "1967 UK right hand drive 11 window",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117219",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 14,
   "pageNumber" : 1,
   "totalPages" : 1,

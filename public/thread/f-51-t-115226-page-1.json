@@ -3,7 +3,10 @@
   "threadId" : "115226",
   "title" : "vw t5 coach built trading vehicle",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=115226",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=0571d820a9dd30502368c9c78fc86b66",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

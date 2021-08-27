@@ -3,7 +3,10 @@
   "threadId" : "112499",
   "title" : "Fitting a vintage speed shifter",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112499",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

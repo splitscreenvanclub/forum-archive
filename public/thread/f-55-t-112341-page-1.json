@@ -3,14 +3,17 @@
   "threadId" : "112341",
   "title" : "DEVON type seats",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=112341",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "847379",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "847379",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",
@@ -36,7 +39,7 @@
   }, {
     "postId" : "847429",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "847429",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

@@ -3,7 +3,10 @@
   "threadId" : "113467",
   "title" : "1966 Caravette",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=113467",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=c327315fb4b66cacb5c97451c5033efb",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

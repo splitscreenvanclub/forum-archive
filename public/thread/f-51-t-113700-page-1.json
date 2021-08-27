@@ -3,7 +3,10 @@
   "threadId" : "113700",
   "title" : "1965 walk through pop top SO42 project bus Price: 13.500 GBP",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=113700",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=a8faf5c33c18bbcf045ff237f197fcca",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "115148",
   "title" : "late or early spindles",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115148",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ba7cb8b026ce5c05475a769723ce3856",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

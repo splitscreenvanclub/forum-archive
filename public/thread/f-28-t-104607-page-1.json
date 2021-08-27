@@ -3,7 +3,10 @@
   "threadId" : "104607",
   "title" : "BWA Power Question...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=104607",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=dbd0c830d646a4cb5743408939d0bf3c",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

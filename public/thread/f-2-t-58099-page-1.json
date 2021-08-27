@@ -3,7 +3,10 @@
   "threadId" : "58099",
   "title" : "23 WINDOW SAMBA ON EBAY ANYONE",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=58099",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2e34523d003c3e989ecaad3e6f60f9b2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

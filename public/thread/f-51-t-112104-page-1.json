@@ -3,7 +3,10 @@
   "threadId" : "112104",
   "title" : "1966 RHD 11 window Camper",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112104",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

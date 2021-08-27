@@ -3,7 +3,10 @@
   "threadId" : "112297",
   "title" : "FOR SALE 1965 SO42 IN USA",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112297",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

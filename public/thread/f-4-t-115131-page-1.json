@@ -3,7 +3,10 @@
   "threadId" : "115131",
   "title" : "2x Porsche style Fuchs with tyres",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115131",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=7870b5046f31b2250c2bbe60e744e947",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

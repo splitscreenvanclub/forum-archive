@@ -3,7 +3,13 @@
   "threadId" : "107745",
   "title" : "Canterbury Pitt roof racks",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=107745",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=d15cafe67d2389d30fd3a23888f152c4",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48&sid=d15cafe67d2389d30fd3a23888f152c4",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

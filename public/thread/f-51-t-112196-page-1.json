@@ -3,7 +3,10 @@
   "threadId" : "112196",
   "title" : "1965 panel van",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112196",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "112397",
   "title" : "Brighton Breeze parts Bonanza!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112397&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 19,
   "pageNumber" : 2,
   "totalPages" : 2,

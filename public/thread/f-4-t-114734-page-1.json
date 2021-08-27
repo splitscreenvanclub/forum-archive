@@ -3,7 +3,10 @@
   "threadId" : "114734",
   "title" : "Rear 1/4 panel profiled plates",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114734",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=679878925c21dfb0edcd7688b6c05c41",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 49,
   "pageNumber" : 1,
   "totalPages" : 4,
@@ -192,7 +195,7 @@
   }, {
     "postId" : "870199",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "870199",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

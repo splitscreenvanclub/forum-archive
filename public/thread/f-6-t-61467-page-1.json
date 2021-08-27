@@ -3,7 +3,10 @@
   "threadId" : "61467",
   "title" : "panel van interior panels",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=61467",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b17b1cc22b741e524e2102e73025b207",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

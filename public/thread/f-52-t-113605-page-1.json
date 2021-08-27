@@ -3,7 +3,10 @@
   "threadId" : "113605",
   "title" : "Trailer- Vintage accessory for your VW Bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=113605",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=06bf04de7e1bb3f47baf51403fec7afb",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

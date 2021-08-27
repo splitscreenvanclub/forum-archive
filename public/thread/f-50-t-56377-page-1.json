@@ -3,14 +3,20 @@
   "threadId" : "56377",
   "title" : "Hessich Twitter",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=50&t=56377",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=50",
+    "label" : "Hessich Oldendorf"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "432178",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Doc",
       "userId" : "432178",
       "joined" : "Wed Sep 17, 2003 3:23 pm",
       "profileRank" : "Registered user",

@@ -3,7 +3,13 @@
   "threadId" : "32205",
   "title" : "oh yes....",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=32205",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=6515abd265ff79358fe68d294bf05e61",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=6515abd265ff79358fe68d294bf05e61",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "110454",
   "title" : "LHD Walkthru seat frame Ebay item number 181747015578",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=110454",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "83242",
   "title" : "Suffolk coast recommendations",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=83242",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=da88808f6f490001a54d2725ddef1bb0",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

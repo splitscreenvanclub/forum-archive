@@ -3,7 +3,10 @@
   "threadId" : "115073",
   "title" : "Early Wolfgang safari windows",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115073",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=9e04fdd2c9cb510ea6152a2a4072e578",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "110411",
   "title" : "***Barn Door Campout #4 is coming!!***",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=110411&start=45",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 87,
   "pageNumber" : 4,
   "totalPages" : 6,

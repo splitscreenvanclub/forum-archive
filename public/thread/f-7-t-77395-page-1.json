@@ -3,7 +3,10 @@
   "threadId" : "77395",
   "title" : "Stolen - 64 Eriba Familia from Bristol 12 July",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=77395",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

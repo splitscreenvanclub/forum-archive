@@ -3,7 +3,10 @@
   "threadId" : "60503",
   "title" : "Status VW break-in.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=60503",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

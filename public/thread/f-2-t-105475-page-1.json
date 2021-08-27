@@ -3,7 +3,10 @@
   "threadId" : "105475",
   "title" : "Hessich, bad camberg & ??? Advice please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=105475",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=dfac2a4d743c6e2c8c62bfa36c656b14",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,
@@ -153,7 +156,7 @@
   }, {
     "postId" : "801264",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "801264",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

@@ -3,7 +3,10 @@
   "threadId" : "112481",
   "title" : "Vintage Coleman SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=112481",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "65509",
   "title" : "55-67 refurbed dropped or stock spindles.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=65509&start=135",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=0beae6838828583415dbed3f0b077207",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 176,
   "pageNumber" : 10,
   "totalPages" : 12,

@@ -3,7 +3,10 @@
   "threadId" : "115090",
   "title" : "Wanted: cargo door folding table.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115090",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=d01257323d5e5e15a27d42c1724153fc",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

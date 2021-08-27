@@ -3,7 +3,10 @@
   "threadId" : "112509",
   "title" : "RSVP BBQ 2015",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112509",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

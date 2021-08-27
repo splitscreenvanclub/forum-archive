@@ -3,7 +3,10 @@
   "threadId" : "110851",
   "title" : "5 split buses for sale on eBay",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=110851",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

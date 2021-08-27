@@ -3,7 +3,10 @@
   "threadId" : "107952",
   "title" : "GENE BERG SHIFTER FOR ALL",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=107952&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=76b6534e0763cbe6e66b811182f93f8a",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 43,
   "pageNumber" : 2,
   "totalPages" : 3,

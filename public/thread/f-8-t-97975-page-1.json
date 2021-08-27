@@ -3,7 +3,10 @@
   "threadId" : "97975",
   "title" : "Rusty, our 1962 11 window bus, resto now in year two……er, three...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=97975",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=348a4f40ba73398343214c9f36478f56",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 2842,
   "pageNumber" : 1,
   "totalPages" : 190,

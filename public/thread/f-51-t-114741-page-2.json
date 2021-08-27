@@ -3,7 +3,10 @@
   "threadId" : "114741",
   "title" : "1957 School bus (SOLD)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=114741&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=eb3faffd4d9457b2ab338662968ae4c2",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 2,
   "totalPages" : 2,

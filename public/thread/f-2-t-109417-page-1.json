@@ -3,7 +3,10 @@
   "threadId" : "109417",
   "title" : "recommended audio set-up for a camper?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=109417",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=01071105345a4a6ec47457e456c26fdf",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

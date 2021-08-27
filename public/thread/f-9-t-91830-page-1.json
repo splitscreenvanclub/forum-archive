@@ -3,7 +3,10 @@
   "threadId" : "91830",
   "title" : "Cae Du Tywyn North wales",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=91830",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=d305b2cb2461c64dbbd163faab6cf31c",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

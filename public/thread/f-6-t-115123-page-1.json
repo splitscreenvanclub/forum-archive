@@ -3,7 +3,10 @@
   "threadId" : "115123",
   "title" : "Rear drive shaft bearing covers",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115123",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=a05a7356f0f538536b10104b94c56cdb",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

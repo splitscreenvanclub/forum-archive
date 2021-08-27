@@ -3,7 +3,10 @@
   "threadId" : "114977",
   "title" : "We are looking for Split Screen owners to join our club",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114977",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=427f9c4e4e9edda84c28bb677b3aa426",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

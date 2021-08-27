@@ -3,7 +3,13 @@
   "threadId" : "110090",
   "title" : "SO34 Chair wanted",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=110090",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=450f280a78f9f596b30fc48e880a467c",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=450f280a78f9f596b30fc48e880a467c",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

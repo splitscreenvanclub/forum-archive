@@ -3,7 +3,10 @@
   "threadId" : "111690",
   "title" : "1971 LHD Karmann Ghia Project",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=111690",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

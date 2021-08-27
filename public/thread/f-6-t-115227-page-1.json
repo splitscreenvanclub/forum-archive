@@ -3,7 +3,10 @@
   "threadId" : "115227",
   "title" : "Corrosion in front roof pillars",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115227",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=a73f7f68decf62600b5c83f7c62da54d",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

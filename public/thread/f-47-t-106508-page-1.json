@@ -3,7 +3,13 @@
   "threadId" : "106508",
   "title" : "Split westie interior ? Or bay ? Help needed",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=106508",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=9a5c9774d755a3b6d4012dab0e0e487a",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=9a5c9774d755a3b6d4012dab0e0e487a",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

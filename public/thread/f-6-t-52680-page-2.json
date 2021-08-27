@@ -3,7 +3,10 @@
   "threadId" : "52680",
   "title" : "csp super comp exhaust",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=52680&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6a5875546c066f8442e2c4d8d1e80736",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 27,
   "pageNumber" : 2,
   "totalPages" : 2,

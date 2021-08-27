@@ -3,7 +3,10 @@
   "threadId" : "79889",
   "title" : "New Stolen vehicle VW Split / Bay & Panel Van website",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=79889",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=4411d647260e1017203ebae446ef586d",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

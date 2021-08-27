@@ -3,7 +3,10 @@
   "threadId" : "113926",
   "title" : "CE Bulkhead Double Seat, SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=113926&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=568a5329c0250e5f82acbf7732895a88",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 18,
   "pageNumber" : 2,
   "totalPages" : 2,

@@ -3,7 +3,10 @@
   "threadId" : "114948",
   "title" : "Swap safaris??",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114948",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=fe9db56825b48ae3a5946535754d080c",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

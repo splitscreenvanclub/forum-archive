@@ -3,7 +3,10 @@
   "threadId" : "104995",
   "title" : "Pale blue Split on the sea front in Puerto Pollenca, Majorca",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=42&t=104995",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=42&sid=9934a4be877298517fad657f19e56850",
+    "label" : "Split Screens Seen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

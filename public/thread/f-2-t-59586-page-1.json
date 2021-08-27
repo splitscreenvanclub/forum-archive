@@ -3,7 +3,10 @@
   "threadId" : "59586",
   "title" : "CE steering rack. feedback/opinions please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=59586",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=f0bc670604a2e3e5e75f89de73ff5eac",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 55,
   "pageNumber" : 1,
   "totalPages" : 4,

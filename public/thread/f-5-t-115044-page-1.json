@@ -3,7 +3,10 @@
   "threadId" : "115044",
   "title" : "VWOA Roof rack clamp/s",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115044",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=3f8c88cf3c42701ec75b0d36fee20a1e",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

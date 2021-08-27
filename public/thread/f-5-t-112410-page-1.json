@@ -3,7 +3,10 @@
   "threadId" : "112410",
   "title" : "Project bits wanted",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112410",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

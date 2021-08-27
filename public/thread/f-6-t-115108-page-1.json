@@ -3,7 +3,10 @@
   "threadId" : "115108",
   "title" : "Re furbishing front spinles",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115108",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=2774bfacab53cee5bdfaac0fbe073425",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

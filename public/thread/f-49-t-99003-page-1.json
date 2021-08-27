@@ -3,7 +3,13 @@
   "threadId" : "99003",
   "title" : "Curvy custom interior featured in an old vw mag",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=99003",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=17a06db5e7b48d0d85265d092514a68b",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=17a06db5e7b48d0d85265d092514a68b",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

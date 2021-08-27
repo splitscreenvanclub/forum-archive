@@ -3,7 +3,10 @@
   "threadId" : "116952",
   "title" : "1973 Project VW Splitscreen Bus For Sale - 15 Windows - Blue Deluxe - £6.9k",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=116952",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

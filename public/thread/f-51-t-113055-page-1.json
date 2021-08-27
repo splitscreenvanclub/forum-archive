@@ -3,7 +3,10 @@
   "threadId" : "113055",
   "title" : "NOW SOLD ! 1967 RHD EARLY BAY DOUBLE CAB",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=113055",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=079d35a41688dccd33a44bb2cbe95c1d",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

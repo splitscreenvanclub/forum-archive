@@ -3,7 +3,10 @@
   "threadId" : "60407",
   "title" : "lowering + disc brakes",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=60407",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=2303196730d3d180dd68a42757a01b1b",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

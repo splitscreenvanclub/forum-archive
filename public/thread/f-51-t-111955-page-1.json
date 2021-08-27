@@ -3,7 +3,10 @@
   "threadId" : "111955",
   "title" : "58 semaphore Kombi RHD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=111955",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 36,
   "pageNumber" : 1,
   "totalPages" : 3,

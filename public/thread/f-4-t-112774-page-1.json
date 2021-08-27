@@ -3,7 +3,10 @@
   "threadId" : "112774",
   "title" : "NOS 66-67 indicator arm",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112774",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=db413e838bb15071981843812cee5dda",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

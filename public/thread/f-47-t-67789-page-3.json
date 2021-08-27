@@ -3,7 +3,13 @@
   "threadId" : "67789",
   "title" : "Repro Westy Cots - Now with Cot Boot pics and prices",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=67789&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=16f1bf49166b5c67b1cf31e60779d3ee",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=16f1bf49166b5c67b1cf31e60779d3ee",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 96,
   "pageNumber" : 3,
   "totalPages" : 7,

@@ -3,7 +3,13 @@
   "threadId" : "111089",
   "title" : "SO-42 Jump Seat",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=111089",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=4872ebe2811ebc2027a7d3ddba117f60",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=4872ebe2811ebc2027a7d3ddba117f60",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

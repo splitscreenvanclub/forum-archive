@@ -3,7 +3,10 @@
   "threadId" : "102958",
   "title" : "Vehicle Transportation required Sat 17th May Morning",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=102958",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

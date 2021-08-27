@@ -3,7 +3,10 @@
   "threadId" : "115140",
   "title" : "MANGO PANEL ON INTERCEPTORS",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115140",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=498d8835cb4e548f8e6c20bd4b3bd307",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

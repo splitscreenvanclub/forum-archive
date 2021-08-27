@@ -3,7 +3,10 @@
   "threadId" : "115125",
   "title" : "1500 AH code swing axle box",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115125",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=e97721c6e936c72370b1564369cf3a05",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "108594",
   "title" : "Dimensions need please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=108594",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=be8c47616012b28505de0fa5af909888",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=be8c47616012b28505de0fa5af909888",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

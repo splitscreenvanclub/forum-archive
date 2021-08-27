@@ -3,7 +3,10 @@
   "threadId" : "69994",
   "title" : "Rikki James -Man of Steel",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=69994&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=86cfb5400c8c7c8dce24dc8bcced80b5",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 24,
   "pageNumber" : 2,
   "totalPages" : 2,

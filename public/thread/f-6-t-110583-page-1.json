@@ -3,7 +3,10 @@
   "threadId" : "110583",
   "title" : "stuck in a carpark with no gears. need gear linkage advice",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=110583",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=ff80f053697993cbe9caa520a8c76a97",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,

@@ -3,7 +3,10 @@
   "threadId" : "87152",
   "title" : "Good site required in Anglesey",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=87152",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=9e9f2381d267028e3a96030eb346704e",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

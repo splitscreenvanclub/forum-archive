@@ -3,7 +3,10 @@
   "threadId" : "107294",
   "title" : "Re: velvet 64 one owner from alaska",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=107294",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=a94b6a787d1ef2a79d9f98f79f644111",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

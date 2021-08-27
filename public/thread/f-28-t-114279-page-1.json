@@ -3,7 +3,10 @@
   "threadId" : "114279",
   "title" : "BWA club re-vamp",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=114279",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=83a209bdcbaaec0112529ba842b18e47",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

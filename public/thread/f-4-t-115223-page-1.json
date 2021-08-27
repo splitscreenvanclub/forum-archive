@@ -3,7 +3,10 @@
   "threadId" : "115223",
   "title" : "OG VW Bosch Distributors 009/205/039",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115223",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=734cf9acf98dca895a98fd144b27d487",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

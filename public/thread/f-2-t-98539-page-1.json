@@ -3,7 +3,10 @@
   "threadId" : "98539",
   "title" : "East Coast Classics in South Africa",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=98539",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 58,
   "pageNumber" : 1,
   "totalPages" : 4,

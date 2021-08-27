@@ -3,7 +3,10 @@
   "threadId" : "114991",
   "title" : "Roof gutter",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=114991",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=958daf1ec63bfca081defe452abee49c",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

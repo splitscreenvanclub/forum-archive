@@ -3,7 +3,10 @@
   "threadId" : "110610",
   "title" : "Cab window mesh (polished)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=110610&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 28,
   "pageNumber" : 2,
   "totalPages" : 2,

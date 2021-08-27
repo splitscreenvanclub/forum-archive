@@ -3,7 +3,10 @@
   "threadId" : "68713",
   "title" : "Bertha and Wall-e do France",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=68713&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 23,
   "pageNumber" : 2,
   "totalPages" : 2,

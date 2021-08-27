@@ -3,7 +3,13 @@
   "threadId" : "106327",
   "title" : "HURST VIEW DUB FEST JUNE 2015 - New forest",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=106327",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

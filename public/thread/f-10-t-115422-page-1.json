@@ -3,7 +3,13 @@
   "threadId" : "115422",
   "title" : "VANFEST 2016",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=115422",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

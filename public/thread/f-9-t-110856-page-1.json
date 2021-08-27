@@ -3,7 +3,10 @@
   "threadId" : "110856",
   "title" : "Brecon Beacons",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=110856",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=316c26e47941a668917bd392a9011030",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

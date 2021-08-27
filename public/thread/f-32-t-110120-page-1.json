@@ -3,7 +3,10 @@
   "threadId" : "110120",
   "title" : "Posting photos?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=110120",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=c97452367adef4fd03adbef33928c3df",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

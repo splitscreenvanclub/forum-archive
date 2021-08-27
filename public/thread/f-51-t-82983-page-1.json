@@ -3,7 +3,10 @@
   "threadId" : "82983",
   "title" : "1960 SO23 Westfalia - testing the water!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=82983",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=4bc69bc1900c03bffbe16172838dc0f3",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -75,7 +78,7 @@
   }, {
     "postId" : "641208",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "641208",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

@@ -3,7 +3,10 @@
   "threadId" : "103906",
   "title" : "Anyone from Portsmouth????",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=103906",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2965982aece0f7d205e9bf87e0bb6b9e",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

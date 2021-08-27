@@ -3,7 +3,13 @@
   "threadId" : "105962",
   "title" : "Bit of cooker info needed please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=105962&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 21,
   "pageNumber" : 2,
   "totalPages" : 2,

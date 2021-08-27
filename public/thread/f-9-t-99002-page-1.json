@@ -3,7 +3,10 @@
   "threadId" : "99002",
   "title" : "CamperFest 2014",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=99002",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=f6809e059b31567a5b9b6ce080c6c070",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

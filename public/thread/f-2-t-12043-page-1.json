@@ -3,7 +3,10 @@
   "threadId" : "12043",
   "title" : "JDF 822D where are you?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=12043",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2fdaee6bdcdc7628d9e5526abda73cb9",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

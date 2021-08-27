@@ -3,7 +3,10 @@
   "threadId" : "74620",
   "title" : "STOLEN: 1974 VW WESTFALIA CAMPER ORANGE/WHITE - SAV 85M",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=74620",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

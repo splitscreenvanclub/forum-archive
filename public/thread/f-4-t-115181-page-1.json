@@ -3,7 +3,10 @@
   "threadId" : "115181",
   "title" : "Camper interior for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115181",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=700b1f921becf4a430a08f03efb4b614",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

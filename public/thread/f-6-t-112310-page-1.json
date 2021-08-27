@@ -3,7 +3,10 @@
   "threadId" : "112310",
   "title" : "Beam adjusters, dropped spindles and coilovers",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112310",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

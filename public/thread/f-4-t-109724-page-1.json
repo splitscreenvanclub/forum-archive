@@ -3,7 +3,10 @@
   "threadId" : "109724",
   "title" : "big list of parts for sale CLEAROUT",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=109724",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 31,
   "pageNumber" : 1,
   "totalPages" : 3,

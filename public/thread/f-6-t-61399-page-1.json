@@ -3,7 +3,10 @@
   "threadId" : "61399",
   "title" : "Electrical problems - van not starting",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=61399",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=44cff3e8f69bbc8e59881d1a7e9ddfdc",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

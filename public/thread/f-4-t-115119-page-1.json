@@ -3,7 +3,10 @@
   "threadId" : "115119",
   "title" : "Parts clear out! *updated*",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115119",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=eda354e40f8ba4c5a2c29ff3d6d6ddc0",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 15,
   "pageNumber" : 1,
   "totalPages" : 1,

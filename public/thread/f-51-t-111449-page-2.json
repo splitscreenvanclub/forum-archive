@@ -3,7 +3,10 @@
   "threadId" : "111449",
   "title" : "1962 RHD Kenyan Import for Sale (with free african party light!) SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=111449&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 43,
   "pageNumber" : 2,
   "totalPages" : 3,
@@ -49,7 +52,7 @@
   }, {
     "postId" : "841645",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwJim",
       "userId" : "841645",
       "joined" : "Thu Apr 24, 2003 6:05 pm",
       "profileRank" : "Founder BWA Member",
@@ -88,7 +91,7 @@
   }, {
     "postId" : "841654",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwJim",
       "userId" : "841654",
       "joined" : "Thu Apr 24, 2003 6:05 pm",
       "profileRank" : "Founder BWA Member",

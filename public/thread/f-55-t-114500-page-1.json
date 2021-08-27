@@ -3,7 +3,10 @@
   "threadId" : "114500",
   "title" : "Ambulance on eBay",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=114500",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=569b36eeaab47455eca1e6e074727344",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "115187",
   "title" : "Gene berg shifter",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115187",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=5b8ca69bbcd0acb4d4bb7dff77a5312a",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

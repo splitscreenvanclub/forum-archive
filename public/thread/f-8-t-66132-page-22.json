@@ -3,7 +3,10 @@
   "threadId" : "66132",
   "title" : "1964 Slammed/Narrowed Swedish Panel Resto",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=66132&start=315",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 395,
   "pageNumber" : 22,
   "totalPages" : 27,

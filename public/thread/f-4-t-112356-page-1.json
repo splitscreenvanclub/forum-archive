@@ -3,7 +3,10 @@
   "threadId" : "112356",
   "title" : "4 x vw splitscreen aluminium jacking point covers ((SOLD)) thanks ssvc",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112356",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

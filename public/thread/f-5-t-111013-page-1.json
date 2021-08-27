@@ -3,7 +3,10 @@
   "threadId" : "111013",
   "title" : "'Hehr' window operator",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=111013",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +39,7 @@
   }, {
     "postId" : "838894",
     "author" : {
-      "username" : "Unknown",
+      "username" : "8 8US",
       "userId" : "838894",
       "joined" : "Tue Jul 17, 2012 8:31 pm",
       "profileRank" : "SSVC Member",

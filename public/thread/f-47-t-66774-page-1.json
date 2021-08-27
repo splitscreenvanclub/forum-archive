@@ -3,14 +3,20 @@
   "threadId" : "66774",
   "title" : "mauser bowl wreck",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=66774",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=866f7af833cc32668c74a3175793192e",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=866f7af833cc32668c74a3175793192e",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "515280",
     "author" : {
-      "username" : "Unknown",
+      "username" : "wolfie53",
       "userId" : "515280",
       "joined" : "Tue Aug 07, 2007 3:39 pm",
       "profileRank" : "Registered user",
@@ -62,7 +68,7 @@
   }, {
     "postId" : "515343",
     "author" : {
-      "username" : "Unknown",
+      "username" : "wolfie53",
       "userId" : "515343",
       "joined" : "Tue Aug 07, 2007 3:39 pm",
       "profileRank" : "Registered user",
@@ -75,7 +81,7 @@
   }, {
     "postId" : "515344",
     "author" : {
-      "username" : "Unknown",
+      "username" : "wolfie53",
       "userId" : "515344",
       "joined" : "Tue Aug 07, 2007 3:39 pm",
       "profileRank" : "Registered user",

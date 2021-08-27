@@ -3,7 +3,10 @@
   "threadId" : "114331",
   "title" : "barndoor parts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114331",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=db6ab13494c832d1f8571f24bb723825",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

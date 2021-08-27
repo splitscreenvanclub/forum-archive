@@ -3,7 +3,10 @@
   "threadId" : "109796",
   "title" : "Cargo door canopy",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=109796",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

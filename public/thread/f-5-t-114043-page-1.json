@@ -3,7 +3,10 @@
   "threadId" : "114043",
   "title" : "Rhd split wanted",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114043",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=a91387e7a2156776aa561bd330c702c2",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

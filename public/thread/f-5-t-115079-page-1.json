@@ -3,7 +3,10 @@
   "threadId" : "115079",
   "title" : "1959 speedo wanted...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115079",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=91f77fd8911fe9032593ab26622a4263",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

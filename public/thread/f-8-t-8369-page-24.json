@@ -3,7 +3,10 @@
   "threadId" : "8369",
   "title" : "New garage/workshop project for the Zombi Kombi!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=8369&start=345",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=0c64ce348e1dfa24d358a28e06930b87",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 537,
   "pageNumber" : 24,
   "totalPages" : 36,

@@ -3,7 +3,10 @@
   "threadId" : "47329",
   "title" : "adding pictures",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=47329&start=60",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14&sid=5523295a2cccf54505cd6c96b4eb24e6",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 61,
   "pageNumber" : 5,
   "totalPages" : 5,

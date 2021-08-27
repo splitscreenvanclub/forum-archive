@@ -3,7 +3,10 @@
   "threadId" : "115117",
   "title" : "Cup Holders",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115117",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=7251245d8b9fee6f7b3c6567d70b35c5",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

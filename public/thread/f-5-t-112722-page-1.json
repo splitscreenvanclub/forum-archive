@@ -3,7 +3,10 @@
   "threadId" : "112722",
   "title" : "Anyone got a decent splitscreen for sale?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112722",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=15e289e2672ee08003c593ee6a687497",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

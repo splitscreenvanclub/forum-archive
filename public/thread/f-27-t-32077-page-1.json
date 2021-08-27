@@ -3,7 +3,13 @@
   "threadId" : "32077",
   "title" : "LOADSA PICS OF BC",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=32077",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=59452ba1ce65d44125f3364d605c36b3",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=59452ba1ce65d44125f3364d605c36b3",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

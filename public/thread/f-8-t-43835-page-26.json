@@ -3,7 +3,10 @@
   "threadId" : "43835",
   "title" : "16 Year Olds '62 VW Split Kombi Project! Now 19 and finished",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=43835&start=375",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=5cd2a6037b4b546dc08fc39def730147",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 580,
   "pageNumber" : 26,
   "totalPages" : 39,

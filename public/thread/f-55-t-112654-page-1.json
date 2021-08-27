@@ -3,7 +3,10 @@
   "threadId" : "112654",
   "title" : "splitty alloys",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=112654",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=c3144646705ecc729b377c61dc673bfd",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

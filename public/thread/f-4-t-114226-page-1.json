@@ -3,7 +3,10 @@
   "threadId" : "114226",
   "title" : "Cab floor PENDING",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114226",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=33c25a2a5d6d91a5cde2b874dc1df0ff",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

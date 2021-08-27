@@ -3,7 +3,10 @@
   "threadId" : "107415",
   "title" : "Not for sale anymore",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=107415",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=3a20c73e942583ce233d894028f6b6fe",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

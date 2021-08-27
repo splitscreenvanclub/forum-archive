@@ -3,7 +3,13 @@
   "threadId" : "98619",
   "title" : "wanted - westfalia LHD splitscreen interior or parts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=98619",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=d2308dbd574ed192063594e8eaf5f9af",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=d2308dbd574ed192063594e8eaf5f9af",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

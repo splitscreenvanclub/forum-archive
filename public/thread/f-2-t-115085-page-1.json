@@ -3,7 +3,10 @@
   "threadId" : "115085",
   "title" : "Wintertrail 2016",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115085",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=9f83fd8d7c48a3f3d1088e6789ceab8f",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

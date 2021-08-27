@@ -3,7 +3,10 @@
   "threadId" : "115062",
   "title" : "Front bench seat pad",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115062",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=27e5643773b31ca1154ccf585e451a47",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "59962",
   "title" : "engine upgrade type 4",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=59962",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=1073ceb4276c8c472775648bd986f4f3",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

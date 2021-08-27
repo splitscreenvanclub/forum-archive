@@ -3,7 +3,10 @@
   "threadId" : "111542",
   "title" : "Samba seats £600 , Porsche wheels £800 , dealership signs Reduced",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=111542",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "115078",
   "title" : "Alternator knocking - not installed",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115078",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=a39f27b47903860bbf82205bcb020517",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

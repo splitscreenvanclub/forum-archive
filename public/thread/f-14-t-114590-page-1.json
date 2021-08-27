@@ -3,7 +3,10 @@
   "threadId" : "114590",
   "title" : "Sending parts abroad",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=114590",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14&sid=24f14901be5102d3a17f9e2d5c20bfad",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "117292",
   "title" : "1974 VW Splitscreen Bus For Sale - One Year MOT - 15 Windows - Yellow - £15k",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117292",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

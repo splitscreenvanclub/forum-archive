@@ -3,7 +3,10 @@
   "threadId" : "105080",
   "title" : "Shiny bus thread",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=105080&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=a234613f17a4fefd27a120c7e9cdafed",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 30,
   "pageNumber" : 2,
   "totalPages" : 2,
@@ -153,7 +156,7 @@
   }, {
     "postId" : "868120",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "868120",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

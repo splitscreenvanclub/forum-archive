@@ -3,7 +3,10 @@
   "threadId" : "115188",
   "title" : "Indicator switch",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115188",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=17bf87f1ac984ba3b0c2b42a00772e2c",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

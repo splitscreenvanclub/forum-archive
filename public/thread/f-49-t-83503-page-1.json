@@ -3,7 +3,13 @@
   "threadId" : "83503",
   "title" : "Has anyone made high gloss units?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=83503",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=5571bf1ee0037b17d3905a52adfaf221",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=5571bf1ee0037b17d3905a52adfaf221",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

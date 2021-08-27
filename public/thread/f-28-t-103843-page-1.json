@@ -3,7 +3,10 @@
   "threadId" : "103843",
   "title" : "New PB at Cal Look Drag Day",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=103843",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=026effe6388ae7ef4ab408af4787b00b",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

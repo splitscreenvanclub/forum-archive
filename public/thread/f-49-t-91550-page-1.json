@@ -3,7 +3,13 @@
   "threadId" : "91550",
   "title" : "Recessed window holes into the back of a 66 panel van",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=91550",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=7c370bbd11204e2345e3c392f64ccaf0",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=7c370bbd11204e2345e3c392f64ccaf0",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

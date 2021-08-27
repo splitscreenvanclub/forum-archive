@@ -3,7 +3,13 @@
   "threadId" : "106353",
   "title" : "how are these interior panels called?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=106353",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=6f813153293cca0fbda82f91b3e6de85",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=6f813153293cca0fbda82f91b3e6de85",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

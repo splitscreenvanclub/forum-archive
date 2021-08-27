@@ -3,7 +3,10 @@
   "threadId" : "115035",
   "title" : "Moving to Suffolk",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115035",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ef09549c62c7efeda0a01332a2e16664",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "116188",
   "title" : "1967 LHD Splitscreen - £23,500 ONO will consider a PX/swap with a 4 berth T5 to same value",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=116188",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

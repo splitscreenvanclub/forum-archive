@@ -3,7 +3,10 @@
   "threadId" : "72990",
   "title" : "Changing the colour of a van.......",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=72990",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=621aea891b09588a12f73d7b11773838",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 24,
   "pageNumber" : 1,
   "totalPages" : 2,

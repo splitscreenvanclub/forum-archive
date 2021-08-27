@@ -3,7 +3,10 @@
   "threadId" : "34236",
   "title" : "Manuals | VIN Numbers | M-Codes | Wiring | Paint ......",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=34236",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=723ee823a076412c12a4e0d5fff20ef6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

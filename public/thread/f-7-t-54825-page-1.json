@@ -3,7 +3,10 @@
   "threadId" : "54825",
   "title" : "curtain rails",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=54825",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=e39d44653fb4b8774caf3cb9e328f988",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

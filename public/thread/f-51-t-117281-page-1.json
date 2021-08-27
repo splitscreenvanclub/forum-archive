@@ -3,7 +3,10 @@
   "threadId" : "117281",
   "title" : "Kombi Bus 1971, originally restored, split window - https://www.facebook.com/brasilianvwforsale/",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117281",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

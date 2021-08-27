@@ -3,7 +3,10 @@
   "threadId" : "112011",
   "title" : "Wanted Aero Papyrus interior panels",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112011",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=682b203a8ee418332d45dc35b1bcf264",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "115162",
   "title" : "US Sealed Beamed Headlights: Adjustable for RHD Use?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115162",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=51a040324d2e2b7641abf4a2475d987c",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

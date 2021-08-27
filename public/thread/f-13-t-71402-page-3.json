@@ -3,7 +3,10 @@
   "threadId" : "71402",
   "title" : "December 2010 VOTM",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=13&t=71402&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=13",
+    "label" : "Van of the Month"
+  } ],
   "totalPosts" : 60,
   "pageNumber" : 3,
   "totalPages" : 4,

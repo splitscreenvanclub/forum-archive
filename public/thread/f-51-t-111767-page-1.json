@@ -3,7 +3,10 @@
   "threadId" : "111767",
   "title" : "1964 13 window deluxe walkthrough (sold)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=111767",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 24,
   "pageNumber" : 1,
   "totalPages" : 2,

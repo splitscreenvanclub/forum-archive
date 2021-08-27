@@ -3,7 +3,10 @@
   "threadId" : "112318",
   "title" : "Test running engine outside bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112318",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

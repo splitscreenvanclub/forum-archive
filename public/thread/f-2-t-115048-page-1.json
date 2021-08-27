@@ -3,7 +3,10 @@
   "threadId" : "115048",
   "title" : "Bay Westy interior in a Split",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115048",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=4c5a0968c48c20897b8d2ca2570ff11e",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

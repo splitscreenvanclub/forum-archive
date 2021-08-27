@@ -3,7 +3,10 @@
   "threadId" : "111018",
   "title" : "Barndoor for Auction",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=111018",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=e38ebc59ba4dfd00f408dc65a78536d9",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

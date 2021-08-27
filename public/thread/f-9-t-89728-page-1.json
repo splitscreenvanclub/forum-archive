@@ -3,7 +3,10 @@
   "threadId" : "89728",
   "title" : "Great campsite in P√©rigord France",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=89728",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

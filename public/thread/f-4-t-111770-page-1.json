@@ -3,7 +3,10 @@
   "threadId" : "111770",
   "title" : "Lots of Split bus parts for sale, I'l keep adding as i sort through...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=111770",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 80,
   "pageNumber" : 1,
   "totalPages" : 6,

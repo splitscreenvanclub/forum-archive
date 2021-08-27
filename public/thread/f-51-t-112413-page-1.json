@@ -3,7 +3,10 @@
   "threadId" : "112413",
   "title" : "1966 T1 Deluxe 13 window for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112413",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

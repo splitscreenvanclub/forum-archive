@@ -3,7 +3,10 @@
   "threadId" : "108490",
   "title" : "Hi what type of food have you cooked in your camper",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=108490",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 27,
   "pageNumber" : 1,
   "totalPages" : 2,

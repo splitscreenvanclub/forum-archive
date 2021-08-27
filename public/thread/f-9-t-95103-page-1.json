@@ -3,7 +3,10 @@
   "threadId" : "95103",
   "title" : "Brittany France VW garages (just in Case)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=95103",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

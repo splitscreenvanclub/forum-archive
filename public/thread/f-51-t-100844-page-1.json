@@ -3,7 +3,10 @@
   "threadId" : "100844",
   "title" : "1964 Westfalia Splitscreen Camper van - 50 years old!*SOLD*",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=100844",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=da203c46b8be7cd2d05842783b07c60d",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +39,7 @@
   }, {
     "postId" : "770628",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "770628",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

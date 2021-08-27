@@ -3,7 +3,10 @@
   "threadId" : "42634",
   "title" : "STOLEN SPLIT SCREEN 63",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=42634&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=f3d4e62a29854ef831dd038a69f95bae",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 36,
   "pageNumber" : 3,
   "totalPages" : 3,

@@ -3,7 +3,10 @@
   "threadId" : "111837",
   "title" : "3/4 length HWE commercial style roof rack.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=111837",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

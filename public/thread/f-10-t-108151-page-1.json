@@ -3,7 +3,13 @@
   "threadId" : "108151",
   "title" : "POWERFEST at York Raceway 23 - 25 May",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=108151",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=486a96377316db14175520d65063841e",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=486a96377316db14175520d65063841e",
+    "label" : "Events"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

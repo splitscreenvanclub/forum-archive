@@ -3,7 +3,13 @@
   "threadId" : "98452",
   "title" : "Westfalia S0-42 Rear bed hinge pics/info please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=98452",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "37796",
   "title" : "Door top rubbers",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=37796&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=b878e704d56c5e9bc16ac147b0406989",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 43,
   "pageNumber" : 3,
   "totalPages" : 3,

@@ -3,7 +3,10 @@
   "threadId" : "114028",
   "title" : "wanted 3 bow westy rack",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114028",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=c31adf1acf472af8f2b8e7fbe491a4d0",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

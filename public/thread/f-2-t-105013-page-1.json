@@ -3,7 +3,10 @@
   "threadId" : "105013",
   "title" : "VW Camper needed for Children's Charity in West Sussex",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=105013",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=6a8ff903b60119c967e76506c7f8567f",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 21,
   "pageNumber" : 1,
   "totalPages" : 2,

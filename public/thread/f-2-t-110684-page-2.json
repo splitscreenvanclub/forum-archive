@@ -3,7 +3,10 @@
   "threadId" : "110684",
   "title" : "THE DEBATE #1 - engines",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=110684&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=5f8e52657752b5f8921b613964e38616",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 28,
   "pageNumber" : 2,
   "totalPages" : 2,

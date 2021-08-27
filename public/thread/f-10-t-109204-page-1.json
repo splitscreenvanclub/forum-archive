@@ -3,7 +3,13 @@
   "threadId" : "109204",
   "title" : "VW Heretics April 16th @ VWHeritage",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=109204",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

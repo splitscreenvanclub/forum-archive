@@ -3,7 +3,10 @@
   "threadId" : "114724",
   "title" : "1300AB Gearbox and Rancho Repro Nosecone",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114724",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=4518b61729e851ee842fbc889180992d",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "104219",
   "title" : "French sites - Brittany",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=104219",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=9950cfadca4a7bd34797530899f71bf0",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

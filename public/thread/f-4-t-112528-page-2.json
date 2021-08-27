@@ -3,7 +3,10 @@
   "threadId" : "112528",
   "title" : "hoops and slats for single cab",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112528&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=aa6d2812894c8d7791d09ba4226c55dd",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 28,
   "pageNumber" : 2,
   "totalPages" : 2,

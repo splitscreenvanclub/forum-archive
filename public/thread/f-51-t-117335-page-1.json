@@ -3,7 +3,10 @@
   "threadId" : "117335",
   "title" : "1960 EZ Camper Patina perfection",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117335",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

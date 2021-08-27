@@ -3,7 +3,13 @@
   "threadId" : "107883",
   "title" : "BUSFEST CLUB CAMPING",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=107883",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

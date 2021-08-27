@@ -3,7 +3,10 @@
   "threadId" : "114993",
   "title" : "Pics of 3/4 Rusty Lee R&R Fitted in LHD Bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=114993",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=078c743a71fdfe8c084e00b8774c6fdc",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

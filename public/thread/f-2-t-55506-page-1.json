@@ -3,7 +3,10 @@
   "threadId" : "55506",
   "title" : "Ideal Shopping Channel looking for a split for Friday night",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=55506",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=4978de82f54446947643735eee82008a",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 20,
   "pageNumber" : 1,
   "totalPages" : 2,

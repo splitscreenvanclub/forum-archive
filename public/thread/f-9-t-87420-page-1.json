@@ -3,7 +3,10 @@
   "threadId" : "87420",
   "title" : "Campervan friendly campsites in cornwall",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=87420",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

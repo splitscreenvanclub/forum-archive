@@ -3,7 +3,10 @@
   "threadId" : "109799",
   "title" : "Stunning Westfalia Tent/Awning",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=109799",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "108349",
   "title" : "Westy awning extending poles to hold up the front",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=108349",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,

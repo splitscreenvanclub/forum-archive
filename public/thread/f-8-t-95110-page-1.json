@@ -3,7 +3,10 @@
   "threadId" : "95110",
   "title" : "65 13w deluxe 'Project Franklin'",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=95110",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=cb98ec388e512e00661218bba7c11848",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 83,
   "pageNumber" : 1,
   "totalPages" : 6,

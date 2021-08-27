@@ -3,7 +3,10 @@
   "threadId" : "112292",
   "title" : "Split Quarter Light Frames & Glass",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112292",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

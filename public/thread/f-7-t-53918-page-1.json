@@ -3,7 +3,10 @@
   "threadId" : "53918",
   "title" : "Stolen 2 x TOP condition Bays stolen in 4 DAYS London *PICS*",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=53918",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=61ff7f36ac348b70339ef1f1b51c8f8c",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 20,
   "pageNumber" : 1,
   "totalPages" : 2,

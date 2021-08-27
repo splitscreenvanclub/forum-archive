@@ -3,7 +3,10 @@
   "threadId" : "72586",
   "title" : "Tinted windows",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=72586",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=5e7be13597d0ba937e37579ca020968d",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

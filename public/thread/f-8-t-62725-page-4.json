@@ -3,7 +3,10 @@
   "threadId" : "62725",
   "title" : "55 barndoor standard, update chassis in.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=62725&start=45",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=ea529dacb302d32462abff5fc6f6a421",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 61,
   "pageNumber" : 4,
   "totalPages" : 5,

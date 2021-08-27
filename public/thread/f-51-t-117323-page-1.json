@@ -3,7 +3,10 @@
   "threadId" : "117323",
   "title" : "66 Walkthrough bus. Sea blue / white w patina",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117323",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

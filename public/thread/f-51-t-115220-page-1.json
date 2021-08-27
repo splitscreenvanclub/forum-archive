@@ -3,7 +3,10 @@
   "threadId" : "115220",
   "title" : "1967 SO42 Westfalia WITHDRAWN",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=115220",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=f8b68ab116c12c203bf88b028fbbf75c",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 21,
   "pageNumber" : 1,
   "totalPages" : 2,

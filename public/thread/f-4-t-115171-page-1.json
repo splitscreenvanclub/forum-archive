@@ -3,7 +3,10 @@
   "threadId" : "115171",
   "title" : "wide 5 steel rims with tyres",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115171",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=130f55d9e0cc3812a9c7e373dfb47f31",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "868516",
     "author" : {
-      "username" : "Unknown",
+      "username" : "8 8US",
       "userId" : "868516",
       "joined" : "Tue Jul 17, 2012 8:31 pm",
       "profileRank" : "SSVC Member",

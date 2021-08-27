@@ -3,7 +3,13 @@
   "threadId" : "32431",
   "title" : "bad camberg 07 limited edition plaques....",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=32431",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=5c4fa18ced2a3ddb6c3e935d926a5f10",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=5c4fa18ced2a3ddb6c3e935d926a5f10",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

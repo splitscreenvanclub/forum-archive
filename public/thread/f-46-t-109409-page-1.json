@@ -3,7 +3,13 @@
   "threadId" : "109409",
   "title" : "Magazine rack catches question!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=109409",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=46",
+    "label" : "Devon"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

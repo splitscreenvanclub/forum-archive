@@ -3,7 +3,10 @@
   "threadId" : "45199",
   "title" : "caveat emptor....",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=45199&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=945100707a3eca7105629d6d2478e83c",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 38,
   "pageNumber" : 2,
   "totalPages" : 3,

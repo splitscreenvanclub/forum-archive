@@ -3,7 +3,10 @@
   "threadId" : "114637",
   "title" : "VW Brazil",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=114637",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=f503aa023ff3c6a8c02a3b517f748fb4",
+    "label" : "Magazine"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

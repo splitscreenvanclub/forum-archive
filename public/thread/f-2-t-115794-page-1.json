@@ -3,7 +3,10 @@
   "threadId" : "115794",
   "title" : "any beetle experts on here?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115794",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

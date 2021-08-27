@@ -3,7 +3,10 @@
   "threadId" : "83526",
   "title" : "'63 11 window project (Aussie)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=83526&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=b4987de9417bed55e3a2f10b5527ed90",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 22,
   "pageNumber" : 2,
   "totalPages" : 2,

@@ -3,7 +3,10 @@
   "threadId" : "115151",
   "title" : "SOLD SUN VISOR SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115151",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=c5d3b2100f0ee19342d10a4cce283c51",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

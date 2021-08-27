@@ -3,7 +3,10 @@
   "threadId" : "112418",
   "title" : "65 11 Window OG Sea Blue/Blue White LHD **SOLD**",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112418",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

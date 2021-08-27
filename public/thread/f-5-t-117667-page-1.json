@@ -3,7 +3,10 @@
   "threadId" : "117667",
   "title" : "Wanted early rear view mirror",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=117667",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=c3f2db4799f85b4f5afde7a70be7bbee",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

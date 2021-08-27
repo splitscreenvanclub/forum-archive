@@ -3,7 +3,10 @@
   "threadId" : "115082",
   "title" : "55-59 Pressed Bumper Towbar",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115082",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=b09de7a912e3aba0624b1ac2038298c7",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

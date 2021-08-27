@@ -3,7 +3,10 @@
   "threadId" : "114047",
   "title" : "Split screen drivers seat (1/3 2/3 combination",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=114047",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=8dca58ed076181df37aca696c53f5bc8",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

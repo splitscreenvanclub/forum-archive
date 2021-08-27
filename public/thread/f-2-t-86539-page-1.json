@@ -3,7 +3,10 @@
   "threadId" : "86539",
   "title" : "Panel Van Campers question",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=86539",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=5e4339ebb7c4fb5753eeefd68897ce41",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

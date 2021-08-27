@@ -3,14 +3,17 @@
   "threadId" : "105601",
   "title" : "How to write the ideal advert",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=105601",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=e034724ee4d00bfd3ab6aa20dfb0f708",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "801547",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Menace",
       "userId" : "801547",
       "joined" : "Sun May 09, 2004 3:05 pm",
       "profileRank" : "SSVC Committee Member",

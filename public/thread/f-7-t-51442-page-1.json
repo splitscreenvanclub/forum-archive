@@ -3,7 +3,10 @@
   "threadId" : "51442",
   "title" : "stolen from Lancashire T25",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=51442",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=26f2883a324315167d2936cc8a504f83",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

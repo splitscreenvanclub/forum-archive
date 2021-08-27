@@ -3,7 +3,10 @@
   "threadId" : "71985",
   "title" : "STOLEN TODAY VW POLO OLDBURY BIRMINGHAM",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=71985",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=8a73c7bcc3bbd9861eb924b257c4a426",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

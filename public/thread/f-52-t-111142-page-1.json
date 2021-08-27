@@ -3,7 +3,10 @@
   "threadId" : "111142",
   "title" : "Westfalia Hamburg Steel Box Trailer SOLD THANKS",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=111142",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=520301abd902a8504c339ee2c634084f",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

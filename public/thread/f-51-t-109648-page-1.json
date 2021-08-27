@@ -3,7 +3,10 @@
   "threadId" : "109648",
   "title" : "1963 Texas import project £SOLD SOLD SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=109648",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 15,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "114647",
   "title" : "Aircooled Offshore",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=114647",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=abbc4378652ca20b006a47cffcc50f36",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=abbc4378652ca20b006a47cffcc50f36",
+    "label" : "Events"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

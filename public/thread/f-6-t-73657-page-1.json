@@ -3,7 +3,10 @@
   "threadId" : "73657",
   "title" : "Fitting headliner",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=73657",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=7c82b033f0f129e3a650f511032059e2",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

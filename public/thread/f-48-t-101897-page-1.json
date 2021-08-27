@@ -3,7 +3,13 @@
   "threadId" : "101897",
   "title" : "Canterbury Pitt roof and mechanism",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=101897",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

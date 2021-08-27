@@ -3,7 +3,10 @@
   "threadId" : "60746",
   "title" : "gear linkage coupling",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=60746",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=428fb29b39eba2d2cf049e651e0b642b",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

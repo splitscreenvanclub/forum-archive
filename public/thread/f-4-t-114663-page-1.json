@@ -3,7 +3,10 @@
   "threadId" : "114663",
   "title" : "Almost complete (but ratty) set of interior panels - 1960 Mango",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114663",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=5acf62984769cc1851a49fbb28030fb0",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

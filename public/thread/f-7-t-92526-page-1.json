@@ -3,7 +3,10 @@
   "threadId" : "92526",
   "title" : "Stolen From Nottingham 1966 Splitscreen bus RHD deluxe",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=92526",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=aa8eb590c9c0de4541a38dcd3e7988da",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 19,
   "pageNumber" : 1,
   "totalPages" : 2,

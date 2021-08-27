@@ -3,7 +3,10 @@
   "threadId" : "109050",
   "title" : "Anyone in to splitties in Swansea in the early '90s?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=109050",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

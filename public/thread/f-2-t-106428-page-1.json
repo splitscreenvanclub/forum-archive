@@ -3,7 +3,10 @@
   "threadId" : "106428",
   "title" : "South African Pick Ups buffing query!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=106428",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=eb9e3a3f7d866fe47a2cac85bfd8909e",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,

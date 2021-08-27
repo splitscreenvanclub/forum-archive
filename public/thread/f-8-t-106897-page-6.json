@@ -3,7 +3,10 @@
   "threadId" : "106897",
   "title" : "1966 Westy SO42 \"Daisy\"",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=106897&start=75",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=70179e77c900ae5245a9b26988a418ec",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 146,
   "pageNumber" : 6,
   "totalPages" : 10,

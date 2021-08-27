@@ -3,7 +3,10 @@
   "threadId" : "114051",
   "title" : "Ambulance fans",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=114051",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=3bc4ca8d52806dd77687e5e0d830af8f",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

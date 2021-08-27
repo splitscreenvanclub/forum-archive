@@ -3,7 +3,10 @@
   "threadId" : "100936",
   "title" : "Robs crazy ass Barndoor rescue mission 2 !!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=100936&start=150",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 157,
   "pageNumber" : 11,
   "totalPages" : 11,

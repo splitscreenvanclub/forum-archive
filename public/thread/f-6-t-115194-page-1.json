@@ -3,7 +3,10 @@
   "threadId" : "115194",
   "title" : "Quarter light seals - frame to door",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115194",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=8665aa083adbc29f29ccccd2fe7cc030",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

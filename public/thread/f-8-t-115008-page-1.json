@@ -3,7 +3,10 @@
   "threadId" : "115008",
   "title" : "1963 23 window Samba - new resto starting!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=115008",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=b135b50d7b578ce2d6655a89d190f331",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

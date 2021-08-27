@@ -3,7 +3,10 @@
   "threadId" : "115124",
   "title" : "Fitting steering cushion and clamp set",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115124",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=fd643d80f952f41d826d4593f698e3d3",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "77553",
   "title" : "stolen beetle",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=77553",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=9e99d5c1e285fc0e3c35b6c782189962",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

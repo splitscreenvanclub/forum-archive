@@ -3,7 +3,10 @@
   "threadId" : "114983",
   "title" : "Bench seat rubber stops",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114983",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=561e323a692105bb40a86bcc08ff2a00",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

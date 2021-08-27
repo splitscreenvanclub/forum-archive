@@ -3,7 +3,10 @@
   "threadId" : "112506",
   "title" : "front non-walkthrough seats LHD 1/3 2/3",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112506",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

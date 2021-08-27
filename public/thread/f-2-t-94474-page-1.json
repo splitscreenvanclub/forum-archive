@@ -3,7 +3,10 @@
   "threadId" : "94474",
   "title" : "Blasting Die Past Restoration company Bristol",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=94474",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 128,
   "pageNumber" : 1,
   "totalPages" : 9,

@@ -3,7 +3,13 @@
   "threadId" : "56474",
   "title" : "Hessiech pics- please add yours",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=50&t=56474",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=50",
+    "label" : "Hessich Oldendorf"
+  } ],
   "totalPosts" : 55,
   "pageNumber" : 1,
   "totalPages" : 4,

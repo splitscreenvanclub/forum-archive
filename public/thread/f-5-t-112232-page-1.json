@@ -3,7 +3,10 @@
   "threadId" : "112232",
   "title" : "Side window body cuts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112232",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=3b91e8dce10c5446976967c7e12dd30c",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "32920",
   "title" : "Show of shows",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=32920",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=3cc0b6d5ccfdb29010a97f36107b678d",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=3cc0b6d5ccfdb29010a97f36107b678d",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

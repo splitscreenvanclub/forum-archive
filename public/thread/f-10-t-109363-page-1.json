@@ -3,7 +3,13 @@
   "threadId" : "109363",
   "title" : "Bus Types VW Show 17/18/19 April 2015 Oswestry Showground",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=109363",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=3373744bef37fbfbc3d2fd1dc99a35e5",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=3373744bef37fbfbc3d2fd1dc99a35e5",
+    "label" : "Events"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

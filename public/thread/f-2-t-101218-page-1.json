@@ -3,7 +3,10 @@
   "threadId" : "101218",
   "title" : "***2nd Adventure Campout in Symonds Yat***",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=101218",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 149,
   "pageNumber" : 1,
   "totalPages" : 10,

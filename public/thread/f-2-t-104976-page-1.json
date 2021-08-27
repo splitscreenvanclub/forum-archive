@@ -3,7 +3,10 @@
   "threadId" : "104976",
   "title" : "Time to treat my bus :-)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=104976",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=7c4e4cd3a484bbec157665f641883297",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

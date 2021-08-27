@@ -3,7 +3,10 @@
   "threadId" : "110205",
   "title" : "Post your SSVC AGM and Stanford Hall pictures here, please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=110205&start=75",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=e18df948d4708be76710869f1287dedb",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 86,
   "pageNumber" : 6,
   "totalPages" : 6,

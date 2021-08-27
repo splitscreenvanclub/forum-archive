@@ -3,7 +3,10 @@
   "threadId" : "115182",
   "title" : "removed",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115182",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=20364be19c777218cb9aaa9b92e6ad40",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "49595",
   "title" : "Brazilian Splitscreen bus register + info",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=49595",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=497e272e19522dc2e46de778e2935581",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 30,
   "pageNumber" : 1,
   "totalPages" : 2,

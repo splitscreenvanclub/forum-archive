@@ -3,7 +3,10 @@
   "threadId" : "112300",
   "title" : "what year are the longer bodied wiper arms from?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112300",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

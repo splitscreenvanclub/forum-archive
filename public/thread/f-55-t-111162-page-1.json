@@ -3,7 +3,10 @@
   "threadId" : "111162",
   "title" : "Devon awning",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=111162",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=802fd1dcf31d8373a586f3f1170dc6f0",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

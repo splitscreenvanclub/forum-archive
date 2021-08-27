@@ -3,7 +3,10 @@
   "threadId" : "65212",
   "title" : "Colour ideas for splitty??????????/",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=65212",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=0f4ebc100b02518d38d6cfbc539dae45",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 25,
   "pageNumber" : 1,
   "totalPages" : 2,

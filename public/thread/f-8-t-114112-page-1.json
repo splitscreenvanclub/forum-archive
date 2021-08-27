@@ -3,7 +3,10 @@
   "threadId" : "114112",
   "title" : "Help!!! 1963 R/H drive Splitty Camper Project",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=114112",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=ebb22662c11ef015d8287f88fab668a7",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 26,
   "pageNumber" : 1,
   "totalPages" : 2,

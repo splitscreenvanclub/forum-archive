@@ -3,7 +3,10 @@
   "threadId" : "98191",
   "title" : "WANTED BUS FOR 53 OVAL PLUS CASH",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=98191",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=b172a50bbff79c18f65a0eac84ebf95b",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

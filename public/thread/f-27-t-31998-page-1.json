@@ -3,14 +3,20 @@
   "threadId" : "31998",
   "title" : "Bad Camberg gets its own forum",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=31998",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=18178ad7a5075aefd487f4d458f78757",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=18178ad7a5075aefd487f4d458f78757",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "232993",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Doc",
       "userId" : "232993",
       "joined" : "Wed Sep 17, 2003 3:23 pm",
       "profileRank" : "Registered user",
@@ -23,7 +29,7 @@
   }, {
     "postId" : "233048",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Dipsy",
       "userId" : "233048",
       "joined" : "Thu Mar 13, 2003 7:21 pm",
       "profileRank" : "SSVC Committee Member",
@@ -36,7 +42,7 @@
   }, {
     "postId" : "233051",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Doc",
       "userId" : "233051",
       "joined" : "Wed Sep 17, 2003 3:23 pm",
       "profileRank" : "Registered user",

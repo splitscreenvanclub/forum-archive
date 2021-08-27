@@ -3,7 +3,10 @@
   "threadId" : "110998",
   "title" : "Single cab drop gates",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=110998",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=f1bdf6c961537c6cdec460b75108e33f",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

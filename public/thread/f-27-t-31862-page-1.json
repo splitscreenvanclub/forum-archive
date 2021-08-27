@@ -3,7 +3,13 @@
   "threadId" : "31862",
   "title" : "hello from camberg",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=31862",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +42,7 @@
   }, {
     "postId" : "232252",
     "author" : {
-      "username" : "Unknown",
+      "username" : "John",
       "userId" : "232252",
       "joined" : "Tue Apr 15, 2003 6:32 pm",
       "profileRank" : "SSVC Committee Member",
@@ -75,7 +81,7 @@
   }, {
     "postId" : "232300",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwJim",
       "userId" : "232300",
       "joined" : "Thu Apr 24, 2003 6:05 pm",
       "profileRank" : "Founder BWA Member",

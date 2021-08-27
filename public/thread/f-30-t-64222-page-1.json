@@ -3,7 +3,10 @@
   "threadId" : "64222",
   "title" : "1995/6?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=30&t=64222",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=30",
+    "label" : "25th Anniversary - A photographic history"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

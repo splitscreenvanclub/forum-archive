@@ -3,7 +3,10 @@
   "threadId" : "97688",
   "title" : "New tabs?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=97688",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

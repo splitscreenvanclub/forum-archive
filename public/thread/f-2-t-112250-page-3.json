@@ -3,7 +3,10 @@
   "threadId" : "112250",
   "title" : "Belly pans! Yes or no?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112250&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 36,
   "pageNumber" : 3,
   "totalPages" : 3,

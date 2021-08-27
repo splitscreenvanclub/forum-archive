@@ -3,7 +3,10 @@
   "threadId" : "102342",
   "title" : "ultimate wheels on history channel",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=102342",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=0de377bd67dac4d17814610aa6f50147",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

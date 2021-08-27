@@ -3,7 +3,10 @@
   "threadId" : "103487",
   "title" : "New Splitty meeting",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=103487",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=d3484b57930dc5e93750705b1d1aaa23",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

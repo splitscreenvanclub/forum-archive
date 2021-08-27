@@ -3,7 +3,10 @@
   "threadId" : "17137",
   "title" : "BARNDOOR BUSES SPOTTED FOR SALE",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=17137&start=2925",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=7eb1bc902f8197b5e11e5c8956961d16",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2957,
   "pageNumber" : 196,
   "totalPages" : 198,

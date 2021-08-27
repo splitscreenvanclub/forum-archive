@@ -3,7 +3,10 @@
   "threadId" : "104363",
   "title" : "Max Last, the Swedish `63",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=104363&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=78d1f4c3bca561c52ed707dded9d749b",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 53,
   "pageNumber" : 2,
   "totalPages" : 4,

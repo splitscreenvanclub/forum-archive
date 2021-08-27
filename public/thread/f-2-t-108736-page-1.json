@@ -3,7 +3,10 @@
   "threadId" : "108736",
   "title" : "Westy interior help???????",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=108736",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=520fce312ee8d934e37c33f705189601",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "115112",
   "title" : "vw interior panels",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=115112",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=3bfeba29312e415550818e810bcae417",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

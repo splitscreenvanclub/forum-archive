@@ -3,14 +3,17 @@
   "threadId" : "112188",
   "title" : "Westfalia so22 interior bits on German Ebay",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=112188",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=b1a00bc18364f49e2a027fde8054f331",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "846405",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "846405",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

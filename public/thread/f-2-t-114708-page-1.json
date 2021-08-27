@@ -3,7 +3,10 @@
   "threadId" : "114708",
   "title" : "Anyone know James Austin",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114708",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=d74c9e95e71fc5caca0dd157777a21f0",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

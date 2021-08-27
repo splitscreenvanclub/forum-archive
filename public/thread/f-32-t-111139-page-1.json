@@ -3,7 +3,10 @@
   "threadId" : "111139",
   "title" : "Testing for photo",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=111139",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=e7dbc30fffcb06c3d3db6e31f856a886",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

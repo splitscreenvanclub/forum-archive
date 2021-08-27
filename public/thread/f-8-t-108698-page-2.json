@@ -3,7 +3,10 @@
   "threadId" : "108698",
   "title" : "'63 Turkis Kombi build.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=108698&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 27,
   "pageNumber" : 2,
   "totalPages" : 2,

@@ -3,7 +3,13 @@
   "threadId" : "110791",
   "title" : "The Final Fling 23rd - 25th October 2015, North Devon",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=110791",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

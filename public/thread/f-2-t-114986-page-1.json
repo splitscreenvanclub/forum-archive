@@ -3,7 +3,10 @@
   "threadId" : "114986",
   "title" : "Rat Rod Radio Flyer and the like...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114986",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=8b4193a384b8b8bb6e3e6426084ada2d",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

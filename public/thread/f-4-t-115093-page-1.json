@@ -3,7 +3,10 @@
   "threadId" : "115093",
   "title" : "IRS 1600 DC gearbox",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115093",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=573cce89e9574cfa9336b5594e096d30",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

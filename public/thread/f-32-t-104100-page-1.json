@@ -3,7 +3,10 @@
   "threadId" : "104100",
   "title" : "Query re \"View active topics\"",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=104100",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=e09624748c2e62986a3e73204b58c5ba",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

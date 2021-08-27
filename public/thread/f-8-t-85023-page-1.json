@@ -3,7 +3,10 @@
   "threadId" : "85023",
   "title" : "1951 Barndoor in Sweden",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=85023",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=f5aa95f03efe4fb2f96d87b825d2a1d5",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 29,
   "pageNumber" : 1,
   "totalPages" : 2,

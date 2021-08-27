@@ -3,7 +3,10 @@
   "threadId" : "60608",
   "title" : "fitting a 091 box",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=60608",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=e5fcca302398566d6b2731b59d477225",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 13,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "111594",
   "title" : "Moving a car 5 miles in peterborough - any help",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=111594",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

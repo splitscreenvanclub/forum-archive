@@ -3,7 +3,10 @@
   "threadId" : "88331",
   "title" : "DTA maps?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=88331",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=6c8720f7cafe252ab172647b6f475369",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

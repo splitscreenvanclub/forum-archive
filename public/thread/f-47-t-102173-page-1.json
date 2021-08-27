@@ -3,7 +3,13 @@
   "threadId" : "102173",
   "title" : "Westfalia roof trims/jointing strips for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=102173",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=fb2391eb16540d1562a43b61c84b6b85",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=fb2391eb16540d1562a43b61c84b6b85",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

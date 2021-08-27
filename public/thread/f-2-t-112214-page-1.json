@@ -3,7 +3,10 @@
   "threadId" : "112214",
   "title" : "Anyone seen DPC87B?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112214",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

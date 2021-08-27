@@ -3,7 +3,10 @@
   "threadId" : "105157",
   "title" : "New project 51 barndoor panel",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=105157&start=105",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 163,
   "pageNumber" : 8,
   "totalPages" : 11,

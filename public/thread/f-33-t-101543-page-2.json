@@ -3,7 +3,10 @@
   "threadId" : "101543",
   "title" : "Breaking bad",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=101543&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33",
+    "label" : "Pointless Bitching"
+  } ],
   "totalPosts" : 26,
   "pageNumber" : 2,
   "totalPages" : 2,

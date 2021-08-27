@@ -3,7 +3,10 @@
   "threadId" : "92818",
   "title" : "1967 sea blue / white original paint resto!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=92818",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=b7e09638371f71d61ea671105f88271b",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 36,
   "pageNumber" : 1,
   "totalPages" : 3,

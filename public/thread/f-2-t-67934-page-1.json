@@ -3,7 +3,10 @@
   "threadId" : "67934",
   "title" : "Mini-cyclops / tuk-tuk headlight",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=67934",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 28,
   "pageNumber" : 1,
   "totalPages" : 2,

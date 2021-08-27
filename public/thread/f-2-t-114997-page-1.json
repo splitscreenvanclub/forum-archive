@@ -3,7 +3,10 @@
   "threadId" : "114997",
   "title" : "Devon pump value.........",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114997",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=8ca10c2c4eec5de36e29314331534c63",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

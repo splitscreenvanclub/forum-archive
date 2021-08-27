@@ -3,7 +3,13 @@
   "threadId" : "106857",
   "title" : "SISAL repro mat for westy SO34 Flipseat SO35 SO36 - LHD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=106857",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

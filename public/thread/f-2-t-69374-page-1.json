@@ -3,7 +3,10 @@
   "threadId" : "69374",
   "title" : "SSVC Club Stand At Vanfest",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=69374",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=1f5b699103315c89cc9aeb9888be13f5",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

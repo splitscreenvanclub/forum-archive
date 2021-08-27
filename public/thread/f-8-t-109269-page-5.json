@@ -3,7 +3,10 @@
   "threadId" : "109269",
   "title" : "1959 Canadian Mango Microbus project",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=109269&start=60",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 95,
   "pageNumber" : 5,
   "totalPages" : 7,

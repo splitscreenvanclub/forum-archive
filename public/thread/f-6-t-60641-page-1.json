@@ -3,7 +3,10 @@
   "threadId" : "60641",
   "title" : "944T torsion bar conundrum",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=60641",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=0a084418b885f56703d721f96a533bcc",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

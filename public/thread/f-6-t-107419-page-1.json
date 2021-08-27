@@ -3,7 +3,10 @@
   "threadId" : "107419",
   "title" : "Deluxe trim - are all the repro ones the same quality?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=107419",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=78a308113a57442de68da0fd6e96eea3",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "813857",
     "author" : {
-      "username" : "Unknown",
+      "username" : "8 8US",
       "userId" : "813857",
       "joined" : "Tue Jul 17, 2012 8:31 pm",
       "profileRank" : "SSVC Member",

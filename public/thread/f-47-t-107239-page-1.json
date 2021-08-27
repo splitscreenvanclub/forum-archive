@@ -3,7 +3,13 @@
   "threadId" : "107239",
   "title" : "Seat Belts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=107239",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=9bb97e7e2484fbcc8d5967625302bef8",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=9bb97e7e2484fbcc8d5967625302bef8",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

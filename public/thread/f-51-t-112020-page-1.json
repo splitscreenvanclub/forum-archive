@@ -3,7 +3,10 @@
   "threadId" : "112020",
   "title" : "Late '66 Walkthrough 11 window Sundial - New price.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112020",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=b46b9fedfa74f719a4bd2d34aba2a671",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

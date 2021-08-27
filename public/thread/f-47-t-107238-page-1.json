@@ -3,7 +3,13 @@
   "threadId" : "107238",
   "title" : "Fridge advice for a Westy",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=107238",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=bc8f21b565604f72cb6f774e2a4100ce",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=bc8f21b565604f72cb6f774e2a4100ce",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

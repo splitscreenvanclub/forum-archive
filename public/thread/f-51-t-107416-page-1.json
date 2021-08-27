@@ -3,7 +3,10 @@
   "threadId" : "107416",
   "title" : "Early Bay T2A 1968 OG paint Kombi",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=107416",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=64b7934eff7fe95f8a3e159a29894c1b",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

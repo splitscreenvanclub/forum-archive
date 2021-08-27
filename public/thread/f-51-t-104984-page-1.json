@@ -3,14 +3,17 @@
   "threadId" : "104984",
   "title" : "ALL ADVERTS REQUIRE A PRICE",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=104984",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=4a4ed3856441f1e0a9e2298eab12c82a",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "797592",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Menace",
       "userId" : "797592",
       "joined" : "Sun May 09, 2004 3:05 pm",
       "profileRank" : "SSVC Committee Member",

@@ -3,7 +3,10 @@
   "threadId" : "114998",
   "title" : "Rear Slash Cut Bumper",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114998",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=67d3647f5f90f9b787bfb8867139be54",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

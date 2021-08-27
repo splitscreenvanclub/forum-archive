@@ -3,7 +3,10 @@
   "threadId" : "87694",
   "title" : "Camping sites -travelling from Bath to Malvern ?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=87694",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=73f5f420cbeb437e9e1fc4c2d7f20de0",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

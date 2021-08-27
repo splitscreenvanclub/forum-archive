@@ -3,7 +3,10 @@
   "threadId" : "115208",
   "title" : "1967 Engine Lid",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115208",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=95816daebe023151d273ff9499c9bc47",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

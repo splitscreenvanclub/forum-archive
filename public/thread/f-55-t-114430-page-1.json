@@ -3,7 +3,10 @@
   "threadId" : "114430",
   "title" : "sold",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=114430",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=1de27e0a145066be01dc520033ee070c",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

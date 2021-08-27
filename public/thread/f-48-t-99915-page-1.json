@@ -3,7 +3,13 @@
   "threadId" : "99915",
   "title" : "forward facing bench and half the rear facing bench seats",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=99915",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

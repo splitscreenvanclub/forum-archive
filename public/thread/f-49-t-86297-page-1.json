@@ -3,7 +3,13 @@
   "threadId" : "86297",
   "title" : "Wanted- pics of Rustylee's R+R beds",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=86297",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=6242029537e54c702e9e756f6c14aa73",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=6242029537e54c702e9e756f6c14aa73",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

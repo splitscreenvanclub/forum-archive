@@ -3,7 +3,13 @@
   "threadId" : "31962",
   "title" : "What did you buy at Bad Camberg?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=31962&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=633cc6d74b24230b6dc6a3c002ecfbc9",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=633cc6d74b24230b6dc6a3c002ecfbc9",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 23,
   "pageNumber" : 2,
   "totalPages" : 2,

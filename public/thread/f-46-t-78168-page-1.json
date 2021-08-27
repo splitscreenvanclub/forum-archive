@@ -3,7 +3,13 @@
   "threadId" : "78168",
   "title" : "1966 Devon Spaceway Interior Bed Layout Pics",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=78168",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=46",
+    "label" : "Devon"
+  } ],
   "totalPosts" : 16,
   "pageNumber" : 1,
   "totalPages" : 2,

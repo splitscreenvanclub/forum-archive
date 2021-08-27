@@ -3,7 +3,10 @@
   "threadId" : "104011",
   "title" : "jurgens autovilla",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=104011",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=3fda89fd277393dc5f5c90ffda390987",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "95181",
   "title" : "Anyone going to GLASTONBURY",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=95181",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=b1dffd2471a42bfad51cc3802df4f9bb",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 25,
   "pageNumber" : 1,
   "totalPages" : 2,

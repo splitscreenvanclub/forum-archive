@@ -3,7 +3,10 @@
   "threadId" : "112476",
   "title" : "Og deluxe trim pieces",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112476",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

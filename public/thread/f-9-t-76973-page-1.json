@@ -3,7 +3,10 @@
   "threadId" : "76973",
   "title" : "where can i go and camp right on the beach in the uk ??help",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=76973",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=992b0ff2a2507f03023b6b8d77a618b4",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

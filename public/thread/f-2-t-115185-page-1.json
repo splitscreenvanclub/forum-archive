@@ -3,7 +3,10 @@
   "threadId" : "115185",
   "title" : "Find my old Bay?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115185",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=a521ad5c6f9fb0971af6c7b448cf09e8",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

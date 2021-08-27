@@ -3,7 +3,10 @@
   "threadId" : "35703",
   "title" : "1963 SPLIT SCREEN SENSATION",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=35703",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=6dba53584a926113b62d1c3a47a1db68",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 80,
   "pageNumber" : 1,
   "totalPages" : 6,
@@ -101,7 +104,7 @@
   }, {
     "postId" : "263322",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "263322",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

@@ -3,7 +3,10 @@
   "threadId" : "114644",
   "title" : "The CamperVan Life Fanzine",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114644",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=7107b2fdc9a1f6a61a40b89da20d964f",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +39,7 @@
   }, {
     "postId" : "865044",
     "author" : {
-      "username" : "Unknown",
+      "username" : "8 8US",
       "userId" : "865044",
       "joined" : "Tue Jul 17, 2012 8:31 pm",
       "profileRank" : "SSVC Member",

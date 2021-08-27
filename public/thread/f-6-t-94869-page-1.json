@@ -3,7 +3,10 @@
   "threadId" : "94869",
   "title" : "Petrol flap spring/clip",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=94869",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=58d20eefc54c312512dd1d180efe2e33",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

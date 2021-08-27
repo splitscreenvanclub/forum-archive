@@ -3,7 +3,10 @@
   "threadId" : "113594",
   "title" : "Need to contact Keith Taylor Manchester",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=113594",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=02d20dd25bbc649a8e517ea742edc7ed",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

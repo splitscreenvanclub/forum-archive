@@ -3,7 +3,10 @@
   "threadId" : "112949",
   "title" : "Scam bus for sale ad v-world camper and bus mag",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112949",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=c2a16108f6be384c4f095e377685d54e",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

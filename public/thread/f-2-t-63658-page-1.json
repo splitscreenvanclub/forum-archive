@@ -3,7 +3,10 @@
   "threadId" : "63658",
   "title" : "Roof racks",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=63658",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=849d9b6166dbef71b8e0a1e9da846f31",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

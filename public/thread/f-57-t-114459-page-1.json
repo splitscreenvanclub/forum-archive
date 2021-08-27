@@ -3,7 +3,10 @@
   "threadId" : "114459",
   "title" : "Welcome",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=114459",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=eeb04795bdfeaa40d3338b8f351c809d",
+    "label" : "Magazine"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

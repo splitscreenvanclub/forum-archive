@@ -3,7 +3,10 @@
   "threadId" : "108883",
   "title" : "Help with a vin number",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=108883",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=1e8566df41c9b406fe37da9b401a1eab",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 14,
   "pageNumber" : 1,
   "totalPages" : 1,

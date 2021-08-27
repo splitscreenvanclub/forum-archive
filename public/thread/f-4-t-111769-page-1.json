@@ -3,7 +3,10 @@
   "threadId" : "111769",
   "title" : "4 tip exhaust for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=111769",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

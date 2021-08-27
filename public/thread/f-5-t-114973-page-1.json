@@ -3,7 +3,10 @@
   "threadId" : "114973",
   "title" : "Full width middle seat LHD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114973",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=ccdb8056959a603ef0accd470627d339",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

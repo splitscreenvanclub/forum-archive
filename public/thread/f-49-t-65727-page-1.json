@@ -3,7 +3,13 @@
   "threadId" : "65727",
   "title" : "Wooden headlining additional parts required to fit?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=65727",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=3827072ed30806fddb56b44fc93d4330",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=3827072ed30806fddb56b44fc93d4330",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 13,
   "pageNumber" : 1,
   "totalPages" : 1,

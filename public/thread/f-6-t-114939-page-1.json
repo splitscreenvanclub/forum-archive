@@ -3,14 +3,17 @@
   "threadId" : "114939",
   "title" : "How to set up a personal Avatar",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=114939",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=83586e6bf4974997ec3bcbba10cd8c48",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "866909",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "866909",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

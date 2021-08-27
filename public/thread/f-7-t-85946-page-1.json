@@ -3,7 +3,10 @@
   "threadId" : "85946",
   "title" : "Stolen, Early Bay, South East Kent",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=85946",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=48150ffe1ae2c76ad6a8512bbe41f92e",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

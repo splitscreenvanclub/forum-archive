@@ -3,7 +3,10 @@
   "threadId" : "103856",
   "title" : "For Sale :65 LHD Split - SOLD SOLD SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=103856",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=7852b1c1d87afcf997f3d7dfef18e5b7",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "114478",
   "title" : "EXAUST TIP",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114478",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=74e3fadc3c296acc3c37070da7b5f16b",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

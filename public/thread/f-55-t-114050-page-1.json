@@ -3,7 +3,10 @@
   "threadId" : "114050",
   "title" : "Splitscreen rear bench",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=114050",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=40f8d55af1ec2aff0c0013f60e9e3178",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

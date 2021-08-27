@@ -3,7 +3,13 @@
   "threadId" : "105034",
   "title" : "Canterbury Pitt table - first repro almost done :)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=105034",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=bae50325dea1f86cd028d4174dbc7df8",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48&sid=bae50325dea1f86cd028d4174dbc7df8",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 23,
   "pageNumber" : 1,
   "totalPages" : 2,

@@ -3,7 +3,13 @@
   "threadId" : "107659",
   "title" : "Westfalia Part Numbers",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=107659",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=ad5ee137b713e5366a511ae694b5e475",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=ad5ee137b713e5366a511ae694b5e475",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

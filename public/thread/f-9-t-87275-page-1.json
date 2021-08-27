@@ -3,7 +3,10 @@
   "threadId" : "87275",
   "title" : "overnight camping or wild camping in brighton",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=87275",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=0a078c352761c2f103b1a524546ea5bd",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "102964",
   "title" : "Usual word of warning!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=102964",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=678baeb2c2ad392972e957f017b4d6ab",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 23,
   "pageNumber" : 1,
   "totalPages" : 2,

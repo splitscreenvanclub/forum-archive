@@ -3,7 +3,13 @@
   "threadId" : "113982",
   "title" : "nice SO42 project anyone?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=113982",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=f2e7c6dea8612d81e907036dd3e58d16",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=f2e7c6dea8612d81e907036dd3e58d16",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

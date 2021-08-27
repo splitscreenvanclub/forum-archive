@@ -3,7 +3,10 @@
   "threadId" : "105887",
   "title" : "***Attention all single/crew cab owners***",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=105887",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2cc87e7f06e29271cb82deba5eefb376",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 26,
   "pageNumber" : 1,
   "totalPages" : 2,

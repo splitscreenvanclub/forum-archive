@@ -3,7 +3,10 @@
   "threadId" : "113221",
   "title" : "1962 FLIPSEAT SO34 SUBHATCH CAMPER (sold)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=113221",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=7ad7ef28eed61af7363fbc0dfb3b7ede",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

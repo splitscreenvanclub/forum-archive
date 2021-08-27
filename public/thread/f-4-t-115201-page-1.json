@@ -3,7 +3,10 @@
   "threadId" : "115201",
   "title" : "Body panels for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115201",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=ca5c3dd04e8492a59000d11ee13511ec",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

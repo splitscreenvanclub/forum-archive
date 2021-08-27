@@ -3,7 +3,13 @@
   "threadId" : "108413",
   "title" : "Camping-Box interiors available early 2015",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=108413",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=2da9b0e76ecc00753a06d21699be17f1",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=2da9b0e76ecc00753a06d21699be17f1",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "107210",
   "title" : "CAMPERFEST CHESTER IS BACK FOR 2015!!!!!!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=107210",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=3070d7ad5b3e7a5d315506f26fa564d5",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

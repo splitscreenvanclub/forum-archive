@@ -3,7 +3,10 @@
   "threadId" : "115152",
   "title" : "UK made exhaust muffler",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115152",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=72c94497be29efb8b2ea1b1fce265fa9",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

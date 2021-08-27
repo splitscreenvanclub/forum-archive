@@ -3,7 +3,13 @@
   "threadId" : "112656",
   "title" : "Dubs In T' Dales-End of Season Camp-Out",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=112656",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=5f5e5632e9ac5501c9da5103b8ce388d",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=5f5e5632e9ac5501c9da5103b8ce388d",
+    "label" : "Events"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

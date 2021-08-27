@@ -3,7 +3,13 @@
   "threadId" : "110624",
   "title" : "Restoring black formica",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=110624",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=46",
+    "label" : "Devon"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

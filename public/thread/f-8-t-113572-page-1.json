@@ -3,7 +3,10 @@
   "threadId" : "113572",
   "title" : "1959 23 Deluxe",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=113572",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=8114bd84a3cb8ab0b783ac881bfda74d",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "112247",
   "title" : "1962 Crew cab defiantly for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112247",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 22,
   "pageNumber" : 1,
   "totalPages" : 2,

@@ -3,7 +3,10 @@
   "threadId" : "115120",
   "title" : "King and link pins",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115120",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=c438f638c68d6f38a11c5184620c5618",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

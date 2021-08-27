@@ -3,7 +3,10 @@
   "threadId" : "114350",
   "title" : "Bus Parts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114350",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=75a2e7fb0cb5ee85da9f44da3cfeaa2c",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 35,
   "pageNumber" : 1,
   "totalPages" : 3,

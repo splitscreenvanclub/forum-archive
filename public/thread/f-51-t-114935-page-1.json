@@ -3,7 +3,10 @@
   "threadId" : "114935",
   "title" : "15 Window Brazilian Microbus - £8,490",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=114935",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=c554d078da9c39bbd641874d11d8a477",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

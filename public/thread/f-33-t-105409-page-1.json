@@ -3,7 +3,10 @@
   "threadId" : "105409",
   "title" : "SELF EXPLANATORY",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=105409",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=3d7dbd1cca7b32277915d44fb4dbe1da",
+    "label" : "Pointless Bitching"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "107719",
   "title" : "Easter Plans?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=107719",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=0cf2292f3468e6ee3d4636c2ab70f9af",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

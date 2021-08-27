@@ -3,7 +3,10 @@
   "threadId" : "83478",
   "title" : "Stolen splitty",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=83478",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=0b5dd43823bd385c2d16e20cafd48d39",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

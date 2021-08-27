@@ -3,7 +3,10 @@
   "threadId" : "61385",
   "title" : "Will a 67 gearbox fit a 64 split?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=61385",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=bfaf6efc7752f32a991d38f111885251",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

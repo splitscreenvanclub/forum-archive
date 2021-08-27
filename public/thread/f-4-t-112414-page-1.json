@@ -3,7 +3,10 @@
   "threadId" : "112414",
   "title" : "Lots of bits to sell",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112414",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 47,
   "pageNumber" : 1,
   "totalPages" : 4,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "847847",
     "author" : {
-      "username" : "Unknown",
+      "username" : "8 8US",
       "userId" : "847847",
       "joined" : "Tue Jul 17, 2012 8:31 pm",
       "profileRank" : "SSVC Member",

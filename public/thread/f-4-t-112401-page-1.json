@@ -3,7 +3,10 @@
   "threadId" : "112401",
   "title" : "Early split bus Rear Seat (fits any bus)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112401",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

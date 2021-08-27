@@ -3,7 +3,10 @@
   "threadId" : "112487",
   "title" : "Split screen outline drawing help",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112487",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=1e656e6d292bb05ab28da256876aad22",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

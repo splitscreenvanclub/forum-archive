@@ -3,7 +3,13 @@
   "threadId" : "108703",
   "title" : "OG Rear Westfalia corner panel SO23 SO22 SO34",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=108703",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=5a951fa7f71595089815844d42c4c331",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=5a951fa7f71595089815844d42c4c331",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "114910",
   "title" : "Barndoor narrowed beam",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114910",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=27c7f870bdf6cf23bd5fefda41511903",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

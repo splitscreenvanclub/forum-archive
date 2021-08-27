@@ -3,7 +3,10 @@
   "threadId" : "53755",
   "title" : "reusing engine case",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=53755",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=72af8fc78a85b2b155531032a0d43d2a",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

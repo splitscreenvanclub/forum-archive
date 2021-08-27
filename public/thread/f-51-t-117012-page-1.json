@@ -3,7 +3,10 @@
   "threadId" : "117012",
   "title" : "1959 11 window micro bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117012",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=87a547e71a839cf13470da0bf6af4ad2",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 16,
   "pageNumber" : 1,
   "totalPages" : 2,

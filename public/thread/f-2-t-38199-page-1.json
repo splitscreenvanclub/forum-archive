@@ -3,7 +3,10 @@
   "threadId" : "38199",
   "title" : "show that interior",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=38199",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=c469a3ee01f6a40c1bf3b0f6a8691f6f",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 132,
   "pageNumber" : 1,
   "totalPages" : 9,

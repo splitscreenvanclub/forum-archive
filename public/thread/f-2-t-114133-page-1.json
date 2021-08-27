@@ -3,7 +3,10 @@
   "threadId" : "114133",
   "title" : "Bling!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114133",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=feca372bef9548d0df23ceef1f4b22ab",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

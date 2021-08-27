@@ -3,7 +3,10 @@
   "threadId" : "26433",
   "title" : "TomTom POI for bus repairers",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=26433&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=33f558f532447005384eb59a56b4c281",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 44,
   "pageNumber" : 3,
   "totalPages" : 3,

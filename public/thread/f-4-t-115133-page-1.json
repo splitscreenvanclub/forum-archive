@@ -3,7 +3,10 @@
   "threadId" : "115133",
   "title" : "356 rep wheels",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115133",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=59aa2fb87050325d71f9084f83f3aa5f",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

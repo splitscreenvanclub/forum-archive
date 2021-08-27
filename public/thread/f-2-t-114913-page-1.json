@@ -3,7 +3,10 @@
   "threadId" : "114913",
   "title" : "Engine Builder Needed",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114913",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2a1c1c57de7a550040f4a9738efa848a",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "98296",
   "title" : "Which Stereo",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=98296",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=a0873f8072ad6d48f3ec8cdb07689e93",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=a0873f8072ad6d48f3ec8cdb07689e93",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

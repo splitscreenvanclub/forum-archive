@@ -3,7 +3,10 @@
   "threadId" : "99960",
   "title" : "62 15 Window project - No longer grey!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=99960&start=420",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=c9d6c080849f54981ce268e9cf3c3e4a",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 566,
   "pageNumber" : 29,
   "totalPages" : 38,

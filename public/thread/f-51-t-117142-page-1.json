@@ -3,7 +3,10 @@
   "threadId" : "117142",
   "title" : "1968 baywindow for possible swap with a split?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117142",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "110766",
   "title" : "Colours inside a two tone bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=110766",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,

@@ -3,7 +3,10 @@
   "threadId" : "115038",
   "title" : "ANYONE FROM GLOUCESTER???",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115038",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ae76b8d878abcc15b7a2175ee4ec763b",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

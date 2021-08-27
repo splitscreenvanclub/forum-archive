@@ -3,7 +3,10 @@
   "threadId" : "112437",
   "title" : "Mobile coffee Crewcab",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=112437",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

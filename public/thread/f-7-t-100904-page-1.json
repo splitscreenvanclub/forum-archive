@@ -3,7 +3,10 @@
   "threadId" : "100904",
   "title" : "Barndoor front bench seat, lost in the post/ stolen.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=100904",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=4d63a2f77be799e482f5018f325b0751",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

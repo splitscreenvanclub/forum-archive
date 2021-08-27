@@ -3,14 +3,17 @@
   "threadId" : "111559",
   "title" : "Brittany - Camping Milin Kerhe near Guingamp",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=111559",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=c97bb6b297028d3960da55ed811dc9f3",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "842375",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "842375",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

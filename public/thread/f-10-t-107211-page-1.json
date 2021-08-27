@@ -3,7 +3,13 @@
   "threadId" : "107211",
   "title" : "CAMPERFEST CHESTER IS BACK FOR 2015!!!!!!!!!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=107211",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

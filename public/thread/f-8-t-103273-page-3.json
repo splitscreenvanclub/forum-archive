@@ -3,7 +3,10 @@
   "threadId" : "103273",
   "title" : "1960 OG Mango 11 Window...interior",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=103273&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 87,
   "pageNumber" : 3,
   "totalPages" : 6,

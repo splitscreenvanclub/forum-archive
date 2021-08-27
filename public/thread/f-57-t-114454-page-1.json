@@ -3,7 +3,10 @@
   "threadId" : "114454",
   "title" : "First post in new section",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=114454",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=d84017a260d2ad3c2904a0042c161ac9",
+    "label" : "Magazine"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

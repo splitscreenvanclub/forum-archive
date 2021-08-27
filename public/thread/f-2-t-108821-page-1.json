@@ -3,7 +3,10 @@
   "threadId" : "108821",
   "title" : "Too good to be true....",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=108821",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ca0cb623ae41b2d6d3ad29b9838e328f",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 15,
   "pageNumber" : 1,
   "totalPages" : 1,

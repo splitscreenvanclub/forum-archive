@@ -3,7 +3,10 @@
   "threadId" : "115178",
   "title" : "Dr Pepper Cooler, Rubber seals, Front deluxe bumper, 7up cooler, overriders etc",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115178",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=fe9508ef512c727712f667aaffad83af",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

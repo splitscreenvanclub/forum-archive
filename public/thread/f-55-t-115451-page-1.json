@@ -3,7 +3,10 @@
   "threadId" : "115451",
   "title" : "VW WORKSHOP SIGNS / mr & mrs bubblehead",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=115451",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=a338aaae8be633eea75a6a18d3412afa",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

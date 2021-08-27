@@ -3,7 +3,10 @@
   "threadId" : "112869",
   "title" : "Bug-Tech shifters - BULK BUY OFFER",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112869&start=120",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=63bcfb0e1d81e36637e0f028881f2555",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 195,
   "pageNumber" : 9,
   "totalPages" : 13,

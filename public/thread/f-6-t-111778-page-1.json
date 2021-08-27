@@ -3,7 +3,10 @@
   "threadId" : "111778",
   "title" : "Paint Removal & Rust Treatment",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111778",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=cb6a709a32f81c513a687a1b4895ae79",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

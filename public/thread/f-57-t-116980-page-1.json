@@ -3,7 +3,10 @@
   "threadId" : "116980",
   "title" : "Issue 200",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=116980",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=c0a99aadc8b809b6dc005735aeba7f37",
+    "label" : "Magazine"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

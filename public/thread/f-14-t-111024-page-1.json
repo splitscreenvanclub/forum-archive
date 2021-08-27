@@ -3,7 +3,10 @@
   "threadId" : "111024",
   "title" : "British Airways upgrades to Vegas",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=111024",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +39,7 @@
   }, {
     "postId" : "840211",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "840211",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

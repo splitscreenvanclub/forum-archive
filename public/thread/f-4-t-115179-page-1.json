@@ -3,7 +3,10 @@
   "threadId" : "115179",
   "title" : "Wide 5 Porsche Fuchs (American eagle wheels)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115179",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=a2c93624457dc20eccd5f97454c86830",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

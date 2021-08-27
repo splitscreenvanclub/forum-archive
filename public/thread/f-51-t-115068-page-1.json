@@ -3,7 +3,10 @@
   "threadId" : "115068",
   "title" : "1967 11 Window Split Screen For Sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=115068",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=a63eda3102fe216e3bd39e7a5c960d69",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "100038",
   "title" : "What a shame,rare too",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=100038&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=172d32d3ecebd8d55093d94a36791788",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 37,
   "pageNumber" : 3,
   "totalPages" : 3,

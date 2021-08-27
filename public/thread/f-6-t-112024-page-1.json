@@ -3,7 +3,10 @@
   "threadId" : "112024",
   "title" : "Lost 4th gear from beneath gearstick (cab end)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112024",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

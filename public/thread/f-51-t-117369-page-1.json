@@ -3,7 +3,10 @@
   "threadId" : "117369",
   "title" : "My 1966 13 window splitscreen for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117369",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

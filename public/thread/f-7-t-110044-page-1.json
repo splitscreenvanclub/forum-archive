@@ -3,7 +3,10 @@
   "threadId" : "110044",
   "title" : "Bay Window camper stolen (XCK288V) from Reading",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=110044",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=c887c53db9c60822bc0e53b2bc48ae99",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

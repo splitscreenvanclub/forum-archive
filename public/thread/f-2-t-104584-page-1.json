@@ -3,7 +3,10 @@
   "threadId" : "104584",
   "title" : "1950 Barndoor in the UK....",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=104584",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ae4f594b8fa564e940e5c3b361fafced",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 24,
   "pageNumber" : 1,
   "totalPages" : 2,

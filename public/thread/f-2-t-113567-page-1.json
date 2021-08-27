@@ -3,7 +3,10 @@
   "threadId" : "113567",
   "title" : "NOVA / CE389 issues",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=113567",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=0d60d29a388ff2646aadb9e47efe7e33",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

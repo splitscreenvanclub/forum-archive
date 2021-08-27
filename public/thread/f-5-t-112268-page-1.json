@@ -3,7 +3,10 @@
   "threadId" : "112268",
   "title" : "Roof panel wanted",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112268",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

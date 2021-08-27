@@ -3,7 +3,10 @@
   "threadId" : "115197",
   "title" : "1957 original dove blue Kombi SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=115197",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=11e6fc06a6eec6c41eb4cdbfa8098cad",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 15,
   "pageNumber" : 1,
   "totalPages" : 1,

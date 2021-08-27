@@ -3,7 +3,10 @@
   "threadId" : "89105",
   "title" : "KBL 449D STOLEN Please please help **** NOW RECOVERED ****",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=89105&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=bb763a679bd24e2eab2c783cdbea511d",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 42,
   "pageNumber" : 3,
   "totalPages" : 3,

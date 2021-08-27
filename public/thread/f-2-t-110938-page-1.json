@@ -3,7 +3,10 @@
   "threadId" : "110938",
   "title" : "Thanks wejjy (Paul)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=110938",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=fbfa38642c155d233607b1c034b6371d",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

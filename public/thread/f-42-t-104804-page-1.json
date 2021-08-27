@@ -3,7 +3,10 @@
   "threadId" : "104804",
   "title" : "anyone seen this bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=42&t=104804",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=42",
+    "label" : "Split Screens Seen"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -49,7 +52,7 @@
   }, {
     "postId" : "801115",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "801115",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

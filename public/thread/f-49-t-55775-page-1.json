@@ -3,7 +3,13 @@
   "threadId" : "55775",
   "title" : "Cutting and adding a poptop to a solid roof?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=55775",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=7b4d6150e0618d4d1f04185232fe6c85",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=7b4d6150e0618d4d1f04185232fe6c85",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 18,
   "pageNumber" : 1,
   "totalPages" : 2,

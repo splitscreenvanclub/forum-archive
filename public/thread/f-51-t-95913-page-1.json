@@ -3,7 +3,10 @@
   "threadId" : "95913",
   "title" : "15 Window BAY sale or swop",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=95913",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=c0657a38510acca7ed4f8abd8162ad81",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

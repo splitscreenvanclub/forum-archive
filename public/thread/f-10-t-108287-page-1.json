@@ -3,7 +3,13 @@
   "threadId" : "108287",
   "title" : "Aircooled Offshore. Jersey",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=108287",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=0fd9aa06d1c2444864a3785dbc61fa5f",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=0fd9aa06d1c2444864a3785dbc61fa5f",
+    "label" : "Events"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

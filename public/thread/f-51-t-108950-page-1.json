@@ -3,7 +3,10 @@
   "threadId" : "108950",
   "title" : "1954 RHD Barndoor Doubledoor",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=108950",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=72c831ec72ea4ac5f15c121aefb8b1e2",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 53,
   "pageNumber" : 1,
   "totalPages" : 4,

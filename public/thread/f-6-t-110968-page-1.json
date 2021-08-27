@@ -3,7 +3,10 @@
   "threadId" : "110968",
   "title" : "Bus keeps pulling to the right when braking",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=110968",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=4a693950496769ca0cc510cd96035747",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,

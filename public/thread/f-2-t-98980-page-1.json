@@ -3,7 +3,10 @@
   "threadId" : "98980",
   "title" : "Rusting hulk",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=98980",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=b872da0d8a36e7418d3959f07e3ce022",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 22,
   "pageNumber" : 1,
   "totalPages" : 2,

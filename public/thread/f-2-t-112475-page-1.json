@@ -3,7 +3,10 @@
   "threadId" : "112475",
   "title" : "Brighton Breeze question",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112475",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "848236",
     "author" : {
-      "username" : "Unknown",
+      "username" : "8 8US",
       "userId" : "848236",
       "joined" : "Tue Jul 17, 2012 8:31 pm",
       "profileRank" : "SSVC Member",

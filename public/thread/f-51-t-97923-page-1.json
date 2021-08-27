@@ -3,7 +3,10 @@
   "threadId" : "97923",
   "title" : "1967 Spiltscreen bus for sale - bus no longer for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=97923",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=d7a8c4ae224a68c19fbb5e42f3394698",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "115196",
   "title" : "Single Wheel Trailer Upgrade",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115196",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=46a419542733226a3aa821e2f8adc29f",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

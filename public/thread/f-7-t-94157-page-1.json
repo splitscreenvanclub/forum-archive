@@ -3,7 +3,10 @@
   "threadId" : "94157",
   "title" : "Split and a bay stolen from Kent",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=94157",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=f907f995bab9aae8db28731ae40be798",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

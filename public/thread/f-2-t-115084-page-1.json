@@ -3,7 +3,10 @@
   "threadId" : "115084",
   "title" : "ply roof lining",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115084",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=65a2fcfed2a19faa3c6825a99430ec66",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

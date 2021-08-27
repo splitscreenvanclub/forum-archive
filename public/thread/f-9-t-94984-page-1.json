@@ -3,7 +3,10 @@
   "threadId" : "94984",
   "title" : "Recommended campsites bath / bristol area",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=94984",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=ed607e3aec0cf4b98f40654b2b915bcc",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

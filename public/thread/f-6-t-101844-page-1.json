@@ -3,7 +3,10 @@
   "threadId" : "101844",
   "title" : "sp engine upgrades",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=101844",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=d5a44b85a7a6ae9705c205b2e0190d3f",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

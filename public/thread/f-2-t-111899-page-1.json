@@ -3,7 +3,10 @@
   "threadId" : "111899",
   "title" : "waxoyl /underseal good or bad",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=111899",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -88,7 +91,7 @@
   }, {
     "postId" : "844586",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwJim",
       "userId" : "844586",
       "joined" : "Thu Apr 24, 2003 6:05 pm",
       "profileRank" : "Founder BWA Member",

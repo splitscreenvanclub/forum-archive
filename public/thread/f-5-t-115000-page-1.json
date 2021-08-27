@@ -3,7 +3,10 @@
   "threadId" : "115000",
   "title" : "Wanted to Buy - Swage Pressing = having Pressed",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115000",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=133beb3a20509196804a4d0edff3ff84",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 21,
   "pageNumber" : 1,
   "totalPages" : 2,

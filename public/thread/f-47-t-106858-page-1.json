@@ -3,7 +3,13 @@
   "threadId" : "106858",
   "title" : "SO33 & Mosaic SO22 Westy Sisal Mat",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=106858",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=cab1dfbc17bc699e1874addb7c91cd3e",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=cab1dfbc17bc699e1874addb7c91cd3e",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

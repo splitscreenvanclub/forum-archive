@@ -3,7 +3,13 @@
   "threadId" : "107011",
   "title" : "so42 cabinet",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=107011",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=306dc20378d002d9f13c0c5940beaa1e",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=306dc20378d002d9f13c0c5940beaa1e",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

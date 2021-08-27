@@ -3,7 +3,13 @@
   "threadId" : "114621",
   "title" : "Magazine rack - elastic?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=114621",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=c04fc94e73ca0fad5a782b471d2c5354",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=46&sid=c04fc94e73ca0fad5a782b471d2c5354",
+    "label" : "Devon"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

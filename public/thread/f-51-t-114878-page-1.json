@@ -3,7 +3,10 @@
   "threadId" : "114878",
   "title" : "1968 VW SPLITSCREEN 15 WINDOW SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=114878",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=0b664a89d2ed713512797cddc1e91697",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

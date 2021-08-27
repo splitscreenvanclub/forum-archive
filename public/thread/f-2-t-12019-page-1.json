@@ -3,7 +3,10 @@
   "threadId" : "12019",
   "title" : "57kombi Now SPLIT 1",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=12019",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=4cdad4f2c2d94230014f8ed34a4dad9a",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 14,
   "pageNumber" : 1,
   "totalPages" : 1,

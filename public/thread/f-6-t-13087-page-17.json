@@ -3,7 +3,10 @@
   "threadId" : "13087",
   "title" : "Swing Axle vs IRS Technical Topic",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=13087&start=240",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=1b6ee76b461e34a6a7b89093ffd0ab6f",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 266,
   "pageNumber" : 17,
   "totalPages" : 18,

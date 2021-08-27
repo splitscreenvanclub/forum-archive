@@ -3,7 +3,10 @@
   "threadId" : "114348",
   "title" : "1967 LHD 13 window deluxe NOW SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=114348",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=96cfea19623984d38329127f8b82fde5",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

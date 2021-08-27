@@ -3,7 +3,10 @@
   "threadId" : "115021",
   "title" : "Wheel arch >67",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115021",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=1995b0627fd46cece23237de02ae5e0d",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 15,
   "pageNumber" : 1,
   "totalPages" : 1,

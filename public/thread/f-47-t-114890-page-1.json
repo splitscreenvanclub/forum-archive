@@ -3,7 +3,13 @@
   "threadId" : "114890",
   "title" : "Westy Awning so35",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=114890",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=eaf164aae72cd5aef75695fd562dc333",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=eaf164aae72cd5aef75695fd562dc333",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

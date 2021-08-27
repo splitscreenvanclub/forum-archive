@@ -3,7 +3,10 @@
   "threadId" : "66272",
   "title" : "Wing Hall, Rutland",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=66272",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=ea361a340d178b74e5194544d69aeee4",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "116625",
   "title" : "Overnight sleeping in Norfolk car parks",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=116625",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=eb4717542fb40ae968605b46912ba853",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

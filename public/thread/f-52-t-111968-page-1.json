@@ -3,7 +3,10 @@
   "threadId" : "111968",
   "title" : "Fortress crook lock - SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=111968",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "844926",
     "author" : {
-      "username" : "Unknown",
+      "username" : "wolfie53",
       "userId" : "844926",
       "joined" : "Tue Aug 07, 2007 3:39 pm",
       "profileRank" : "Registered user",
@@ -49,7 +52,7 @@
   }, {
     "postId" : "845189",
     "author" : {
-      "username" : "Unknown",
+      "username" : "wolfie53",
       "userId" : "845189",
       "joined" : "Tue Aug 07, 2007 3:39 pm",
       "profileRank" : "Registered user",

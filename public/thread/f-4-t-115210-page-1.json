@@ -3,7 +3,10 @@
   "threadId" : "115210",
   "title" : "wheels, bumpers, hubcaps, glass, etc, bug, bus, etc, etc!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115210",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=bbbea86883243baa624ac03a9cbcbd6a",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 14,
   "pageNumber" : 1,
   "totalPages" : 1,

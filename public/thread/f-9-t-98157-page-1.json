@@ -3,7 +3,10 @@
   "threadId" : "98157",
   "title" : "UK hotel/ b&b for a few winter nights away any ideas please?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=98157",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=0a7d0b27125e1ac8eb11b06437e50945",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

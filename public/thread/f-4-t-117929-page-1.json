@@ -3,7 +3,10 @@
   "threadId" : "117929",
   "title" : "SOLD 67 LHD Front seats",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=117929",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

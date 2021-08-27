@@ -3,7 +3,10 @@
   "threadId" : "114736",
   "title" : "WANTED - 1776 piston and cylinder 90.5mm",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114736",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=8bb5fc3c7af6908218f6e4ce9d585486",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

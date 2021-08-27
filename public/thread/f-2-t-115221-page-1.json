@@ -3,7 +3,10 @@
   "threadId" : "115221",
   "title" : "Show me your NON VW BUS mirrors fitted to your bus hinges",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115221",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=986d6a22a7b52c2f8845b0a0b560e4ce",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

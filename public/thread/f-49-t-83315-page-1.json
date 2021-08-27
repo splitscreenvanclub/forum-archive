@@ -3,7 +3,13 @@
   "threadId" : "83315",
   "title" : "fitting a table",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=83315",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=df9f8fea7eaf1c95a53b376345b579a8",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=df9f8fea7eaf1c95a53b376345b579a8",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

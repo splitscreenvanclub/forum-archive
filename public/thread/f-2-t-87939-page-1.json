@@ -3,7 +3,10 @@
   "threadId" : "87939",
   "title" : "Splitbus Nation Photographs 2012 - The GB Report",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=87939",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=5482453855fac70057315f1423d0e6bb",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 14,
   "pageNumber" : 1,
   "totalPages" : 1,

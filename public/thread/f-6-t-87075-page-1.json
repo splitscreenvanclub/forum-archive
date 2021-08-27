@@ -3,7 +3,10 @@
   "threadId" : "87075",
   "title" : "Clutch Issue",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=87075",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=c0c9e94d7b75bfcf440a335f0bc5a20a",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "670961",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "670961",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",

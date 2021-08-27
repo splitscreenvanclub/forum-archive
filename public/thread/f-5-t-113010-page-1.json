@@ -3,7 +3,10 @@
   "threadId" : "113010",
   "title" : "Flat-4 6\" Fuchs",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=113010",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=a1f498c8e027c6f9ea09248209baa4f9",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

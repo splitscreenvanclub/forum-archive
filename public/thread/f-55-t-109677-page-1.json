@@ -3,7 +3,10 @@
   "threadId" : "109677",
   "title" : "VW Empi 5 spoke alloys (3) starting at 99p",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=109677",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "104703",
   "title" : "Table leg dimensions",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=104703",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=e4b0ebd7059b290dad642adcd1fd7205",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48&sid=e4b0ebd7059b290dad642adcd1fd7205",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

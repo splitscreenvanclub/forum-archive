@@ -3,7 +3,10 @@
   "threadId" : "115049",
   "title" : "Template needed",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115049",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=8846d23fffb6debd61790939434b3a51",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

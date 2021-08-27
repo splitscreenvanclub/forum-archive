@@ -3,7 +3,10 @@
   "threadId" : "115006",
   "title" : "Westy interior",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115006",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=0e3d14692476f137b34521357a6d7a0f",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

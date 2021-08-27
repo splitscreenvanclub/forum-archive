@@ -3,7 +3,13 @@
   "threadId" : "77564",
   "title" : "Foam cushions",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=77564",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

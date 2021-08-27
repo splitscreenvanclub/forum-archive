@@ -3,7 +3,10 @@
   "threadId" : "110646",
   "title" : "Barndoor dash pod (OG dove blue) & 7up Cooler",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=110646",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

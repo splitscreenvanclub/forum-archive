@@ -3,7 +3,10 @@
   "threadId" : "117367",
   "title" : "1975 VW SPLIT SCREEN 15 WINDOW LHD FULLY RESTORED AND IN EXCELLENT CONDITION",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117367",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +39,7 @@
   }, {
     "postId" : "883691",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "883691",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

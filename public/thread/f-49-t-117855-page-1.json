@@ -3,7 +3,13 @@
   "threadId" : "117855",
   "title" : "DORMOBILE 68 interior for an RHD split or bay for sale with great buddy seats",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=117855",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

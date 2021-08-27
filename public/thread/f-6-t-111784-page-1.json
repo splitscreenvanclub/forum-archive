@@ -3,7 +3,10 @@
   "threadId" : "111784",
   "title" : "Alternator retaining strap Snapped",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111784",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=b277d4814d44e9cfabf70b8b88dd962a",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

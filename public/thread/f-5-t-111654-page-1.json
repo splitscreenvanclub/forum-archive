@@ -3,7 +3,10 @@
   "threadId" : "111654",
   "title" : "twin solex carb linkage",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=111654",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=9fc1abe137bf3071669f600516d79bc6",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "103504",
   "title" : "vw crew cab like new",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=103504",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=cd7ed808dc068c10c623ebc3c4c78d8b",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

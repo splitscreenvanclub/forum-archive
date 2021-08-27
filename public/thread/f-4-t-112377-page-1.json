@@ -3,7 +3,10 @@
   "threadId" : "112377",
   "title" : "BIG CLEAROUT, SELECTION OF PARTS",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112377",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 18,
   "pageNumber" : 1,
   "totalPages" : 2,

@@ -3,7 +3,10 @@
   "threadId" : "112369",
   "title" : "anyone managed to get reprop bumper trims to fit?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112369",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

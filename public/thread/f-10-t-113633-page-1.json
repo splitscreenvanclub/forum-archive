@@ -3,7 +3,13 @@
   "threadId" : "113633",
   "title" : "Beautiful Budel. The VW Aircooled Festival, 2016.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=113633",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=d555c2723f4864af8b28731cce403456",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=d555c2723f4864af8b28731cce403456",
+    "label" : "Events"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

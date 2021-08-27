@@ -3,7 +3,10 @@
   "threadId" : "115128",
   "title" : "Westfalia 3 bow roof rack?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115128",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=338600e3e1cd517a7cb83aa7325121aa",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "92071",
   "title" : "Stolen from St Neots Cambs",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=92071",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=988b1f273b120e58a1c2d308029e3ede",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

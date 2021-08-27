@@ -3,7 +3,10 @@
   "threadId" : "107752",
   "title" : "Bad camberg",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=107752",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=7228d7e2b959b596438e2ab508ff9a7d",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

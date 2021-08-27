@@ -3,7 +3,10 @@
   "threadId" : "115154",
   "title" : "Fuel pump block off plates",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115154",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=d8ad9e73bd9c18ccbfc23954d8b4f93e",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

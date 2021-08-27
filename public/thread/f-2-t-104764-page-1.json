@@ -3,7 +3,10 @@
   "threadId" : "104764",
   "title" : "Horse hair/Foam????",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=104764",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=c4b585eb60571275d414702f17cf14d0",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

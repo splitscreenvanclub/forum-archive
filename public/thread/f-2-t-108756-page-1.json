@@ -3,7 +3,10 @@
   "threadId" : "108756",
   "title" : "What 52mm tach to buy",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=108756",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

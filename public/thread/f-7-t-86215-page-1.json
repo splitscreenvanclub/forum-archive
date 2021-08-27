@@ -3,7 +3,10 @@
   "threadId" : "86215",
   "title" : "my split stolen and sold on ebay last week need info asap!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=86215",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=7c4e6e140c30cff72f7b324f14c5afb0",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 16,
   "pageNumber" : 1,
   "totalPages" : 2,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "664732",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "664732",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",
@@ -36,7 +39,7 @@
   }, {
     "postId" : "664734",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "664734",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",

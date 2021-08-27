@@ -3,7 +3,10 @@
   "threadId" : "42630",
   "title" : "61 Kombi - Getting bits together for the Interior",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=42630&start=90",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=74233fbb65439a92d919a50458f8e201",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 94,
   "pageNumber" : 7,
   "totalPages" : 7,

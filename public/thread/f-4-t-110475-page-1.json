@@ -3,7 +3,10 @@
   "threadId" : "110475",
   "title" : "BARNDOOR steering wheel for split bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=110475",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 14,
   "pageNumber" : 1,
   "totalPages" : 1,

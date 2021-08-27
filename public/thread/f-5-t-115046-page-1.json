@@ -3,7 +3,10 @@
   "threadId" : "115046",
   "title" : "Mangle 4.5\" 356 Reps",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115046",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=c4c1d3fef682b2b7c6cb03c1a34484ba",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

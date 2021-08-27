@@ -3,7 +3,10 @@
   "threadId" : "111100",
   "title" : "Full fuel pipe replacement and upgrade",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111100",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

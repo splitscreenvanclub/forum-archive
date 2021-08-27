@@ -3,7 +3,13 @@
   "threadId" : "79495",
   "title" : "4 inch high density foam or 5 inch foam?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=79495",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=506a1634adc22dc9c2d7dfac3fac1989",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=506a1634adc22dc9c2d7dfac3fac1989",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

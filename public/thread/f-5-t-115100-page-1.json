@@ -3,7 +3,10 @@
   "threadId" : "115100",
   "title" : "7.5 box truck",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115100",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=6f6c626d8d8e3aecfe4a065e9380aa06",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "108660",
   "title" : "A few so22 parts I'm looking for",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=108660",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=e34b5ed542bab63d239f76c39bad4b4f",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=e34b5ed542bab63d239f76c39bad4b4f",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

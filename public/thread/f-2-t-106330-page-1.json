@@ -3,7 +3,10 @@
   "threadId" : "106330",
   "title" : "4 bolts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=106330",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=8592c2f3638d6ca8ab4f919e92808f23",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "109381",
   "title" : "SO42 Interior materials",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=109381",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

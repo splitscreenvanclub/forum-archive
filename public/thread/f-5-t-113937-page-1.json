@@ -3,7 +3,10 @@
   "threadId" : "113937",
   "title" : "fold-down buddy seat wanted",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=113937",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=ec2dca7b14077f3c5a44ae0efd4371cd",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

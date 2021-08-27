@@ -3,7 +3,10 @@
   "threadId" : "79152",
   "title" : "A sad weekend in kent",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=79152",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=4376c7f2499104c4bbed60b311c07ce5",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 75,
   "pageNumber" : 1,
   "totalPages" : 5,
@@ -75,7 +78,7 @@
   }, {
     "postId" : "609133",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwJim",
       "userId" : "609133",
       "joined" : "Thu Apr 24, 2003 6:05 pm",
       "profileRank" : "Founder BWA Member",

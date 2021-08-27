@@ -3,7 +3,10 @@
   "threadId" : "107800",
   "title" : "Anyone know of a company specialising in funky interiors",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=107800",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=b0faf45490b0914ec70dfabbe5483574",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

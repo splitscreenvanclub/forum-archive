@@ -3,7 +3,10 @@
   "threadId" : "116705",
   "title" : "64 EZ camper",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=116705",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 19,
   "pageNumber" : 1,
   "totalPages" : 2,

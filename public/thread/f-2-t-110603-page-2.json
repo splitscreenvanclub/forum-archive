@@ -3,7 +3,10 @@
   "threadId" : "110603",
   "title" : "Did Commercial split buses have different wing mirrors?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=110603&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=da1359aed844ff585b568efc9606a2d2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 20,
   "pageNumber" : 2,
   "totalPages" : 2,

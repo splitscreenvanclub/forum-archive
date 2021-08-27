@@ -3,7 +3,10 @@
   "threadId" : "102566",
   "title" : "stanford hall",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=102566&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=dfcef798255affb2f413b24475a55bce",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 23,
   "pageNumber" : 2,
   "totalPages" : 2,

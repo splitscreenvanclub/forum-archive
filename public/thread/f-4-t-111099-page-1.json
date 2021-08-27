@@ -3,7 +3,10 @@
   "threadId" : "111099",
   "title" : "Flying Cog Wheel hub caps and billet shifter knobs at Busfest..",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=111099",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 23,
   "pageNumber" : 1,
   "totalPages" : 2,

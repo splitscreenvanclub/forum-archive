@@ -3,7 +3,10 @@
   "threadId" : "114474",
   "title" : "Changes of split buses in time",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114474",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=7c5bc27282b8a290d3928d336c922c4b",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 20,
   "pageNumber" : 1,
   "totalPages" : 2,

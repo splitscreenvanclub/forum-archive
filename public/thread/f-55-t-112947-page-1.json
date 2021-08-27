@@ -3,7 +3,10 @@
   "threadId" : "112947",
   "title" : "Leather cushions from a wedding hire bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=112947",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=b607160051c9a3a72156ce24833b85c1",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

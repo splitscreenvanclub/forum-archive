@@ -3,7 +3,10 @@
   "threadId" : "82512",
   "title" : "1956 RHD Wolfsburg Kombi Resto. AKA 'Bucket'",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=82512&start=510",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 531,
   "pageNumber" : 35,
   "totalPages" : 36,

@@ -3,7 +3,10 @@
   "threadId" : "112419",
   "title" : "Rotisserie / rollover jig",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112419",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

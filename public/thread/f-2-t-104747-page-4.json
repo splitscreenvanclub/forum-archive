@@ -3,7 +3,10 @@
   "threadId" : "104747",
   "title" : "matt gill restoration, updates ** now with pictures**",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=104747&start=45",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=7259b5a4688105b747fc7c9dc4eab9f0",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 50,
   "pageNumber" : 4,
   "totalPages" : 4,

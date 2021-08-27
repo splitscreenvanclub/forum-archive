@@ -3,7 +3,10 @@
   "threadId" : "43433",
   "title" : "......Return of word association .......",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=43433&start=13695",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14&sid=d8426126b0cdcf3c2135462a2582158a",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 13903,
   "pageNumber" : 914,
   "totalPages" : 927,

@@ -3,7 +3,13 @@
   "threadId" : "105793",
   "title" : "FOOTMAN JAMES CLASSIC CAR SHOW - MANCHESTER - 20/21 SEPT'",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=105793",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

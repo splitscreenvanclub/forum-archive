@@ -3,7 +3,10 @@
   "threadId" : "112479",
   "title" : "Clutch pedal grommit",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112479",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

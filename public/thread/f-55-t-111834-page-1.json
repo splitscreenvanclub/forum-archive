@@ -3,7 +3,10 @@
   "threadId" : "111834",
   "title" : "T25 bits",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=111834",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=0b76cc37270c132bc2ad04e8bd270611",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

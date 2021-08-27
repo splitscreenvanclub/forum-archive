@@ -3,7 +3,10 @@
   "threadId" : "114523",
   "title" : "dormobile roof",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114523",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=b36f3cbb662efa8d53c1ed27aa6c3bef",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

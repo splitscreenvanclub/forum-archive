@@ -3,7 +3,10 @@
   "threadId" : "86441",
   "title" : "SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=86441",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=777f74fe4621e9fd4c5659a27e002995",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 36,
   "pageNumber" : 1,
   "totalPages" : 3,

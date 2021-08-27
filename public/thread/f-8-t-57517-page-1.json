@@ -3,7 +3,10 @@
   "threadId" : "57517",
   "title" : "RHD 52 Kombi",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=57517",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 63,
   "pageNumber" : 1,
   "totalPages" : 5,
@@ -153,7 +156,7 @@
   }, {
     "postId" : "441696",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Doc",
       "userId" : "441696",
       "joined" : "Wed Sep 17, 2003 3:23 pm",
       "profileRank" : "Registered user",

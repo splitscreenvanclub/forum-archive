@@ -3,7 +3,10 @@
   "threadId" : "52523",
   "title" : "Thieving scum.............",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=52523&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=d728fc6d6f30234a47b09e7be6a7b4cc",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 38,
   "pageNumber" : 3,
   "totalPages" : 3,

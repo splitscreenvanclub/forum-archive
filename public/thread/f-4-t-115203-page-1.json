@@ -3,7 +3,10 @@
   "threadId" : "115203",
   "title" : "Propex heatsource with fitting kit new",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115203",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=acf8bd2cb2ef7391729fd980ae9b877b",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

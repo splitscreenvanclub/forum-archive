@@ -3,7 +3,10 @@
   "threadId" : "114928",
   "title" : "Front Bumper",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114928",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=2b0b129c839ba0c0f314c699e0cc3bcd",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

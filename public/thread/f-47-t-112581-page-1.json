@@ -3,7 +3,13 @@
   "threadId" : "112581",
   "title" : "Replacement Pop top canvas",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=112581",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=20979e3e1c7ff1a695ef6bf040ac1e94",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=20979e3e1c7ff1a695ef6bf040ac1e94",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

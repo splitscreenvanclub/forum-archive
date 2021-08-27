@@ -3,14 +3,17 @@
   "threadId" : "4142",
   "title" : "The Mag wants to know about your rides too!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=4142",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 19,
   "pageNumber" : 1,
   "totalPages" : 2,
   "posts" : [ {
     "postId" : "16894",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Chris",
       "userId" : "16894",
       "joined" : "Sun Jan 26, 2003 12:16 pm",
       "profileRank" : "Registered user",

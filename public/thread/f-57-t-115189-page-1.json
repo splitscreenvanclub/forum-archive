@@ -3,7 +3,10 @@
   "threadId" : "115189",
   "title" : "Issue 198",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=115189",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=734f2434e0a825ff4d23d1f957997043",
+    "label" : "Magazine"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

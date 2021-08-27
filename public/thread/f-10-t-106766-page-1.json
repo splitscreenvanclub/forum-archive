@@ -3,7 +3,13 @@
   "threadId" : "106766",
   "title" : "Bristol Santa Cruz 2014 - 30th November",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=106766",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

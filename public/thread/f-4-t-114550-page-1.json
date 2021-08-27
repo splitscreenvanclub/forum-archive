@@ -3,7 +3,10 @@
   "threadId" : "114550",
   "title" : "rear body cut",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114550",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=18684d49a2a6832e27a9c8efdd85f258",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

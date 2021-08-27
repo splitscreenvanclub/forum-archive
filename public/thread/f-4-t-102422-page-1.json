@@ -3,7 +3,10 @@
   "threadId" : "102422",
   "title" : "3/4 OG roofrack for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=102422",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=bfcae329cc6a196adb26297be0589b04",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 14,
   "pageNumber" : 1,
   "totalPages" : 1,

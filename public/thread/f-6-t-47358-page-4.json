@@ -3,7 +3,10 @@
   "threadId" : "47358",
   "title" : "steering rack again",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=47358&start=45",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=28e2d1c72d51da31e49e4592f8a3f683",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 127,
   "pageNumber" : 4,
   "totalPages" : 9,

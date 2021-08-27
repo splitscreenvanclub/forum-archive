@@ -3,7 +3,10 @@
   "threadId" : "110792",
   "title" : "50-52 barndoor dash pod, supplied in primer.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=110792",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=c8283cd0f979435075a92cd2dfc507fa",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "111951",
   "title" : "Strange intermittent non starting problem.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=111951&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 24,
   "pageNumber" : 2,
   "totalPages" : 2,

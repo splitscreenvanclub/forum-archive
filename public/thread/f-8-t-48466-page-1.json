@@ -3,7 +3,10 @@
   "threadId" : "48466",
   "title" : "Das Bus (1965 army sunroof split)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=48466",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=e7be4745ce9ffff55246142bcda282e5",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 52,
   "pageNumber" : 1,
   "totalPages" : 4,

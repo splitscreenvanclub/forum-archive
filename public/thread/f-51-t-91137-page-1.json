@@ -3,7 +3,10 @@
   "threadId" : "91137",
   "title" : "X",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=91137",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=a0952cc2aaecf964304a90fd7f512ba4",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 16,
   "pageNumber" : 1,
   "totalPages" : 2,
@@ -62,7 +65,7 @@
   }, {
     "postId" : "702237",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "702237",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

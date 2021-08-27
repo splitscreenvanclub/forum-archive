@@ -3,7 +3,10 @@
   "threadId" : "96594",
   "title" : "Loire Camping near Angers",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=96594",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=a8fe5c5abbd754a3d205d616725cd292",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

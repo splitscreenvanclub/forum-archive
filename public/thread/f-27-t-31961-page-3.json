@@ -3,7 +3,13 @@
   "threadId" : "31961",
   "title" : "Who broke what in Camberg??!!!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=31961&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 39,
   "pageNumber" : 3,
   "totalPages" : 3,

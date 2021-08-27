@@ -3,7 +3,10 @@
   "threadId" : "115225",
   "title" : "new built 3 berth caravan",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=115225",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=975148f386bea4091f911385602499b9",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

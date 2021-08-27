@@ -3,7 +3,13 @@
   "threadId" : "92946",
   "title" : "Tynemouth classic, registration opens today.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=92946",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=99c9e0353a131300011098e9a7b9b0df",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=99c9e0353a131300011098e9a7b9b0df",
+    "label" : "Events"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

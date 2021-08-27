@@ -3,7 +3,10 @@
   "threadId" : "107785",
   "title" : "Just Kampers retro drive away awning",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=107785",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2b123203ccfd795bf871ae7fe5246f53",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

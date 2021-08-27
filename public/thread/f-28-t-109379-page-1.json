@@ -3,7 +3,10 @@
   "threadId" : "109379",
   "title" : "is full flow oil set up needed?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=109379",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=cf799bcac9748b066b8324ef57403589",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

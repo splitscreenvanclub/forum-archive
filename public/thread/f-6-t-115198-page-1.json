@@ -3,7 +3,10 @@
   "threadId" : "115198",
   "title" : "Bumper colour",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115198",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=4ef9d1bda2ede07f3443989682c2a541",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "112093",
   "title" : "Swage line pinstripe, what width approx??",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112093",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 13,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "85339",
   "title" : "Pre-1960 cars exempted from MoT",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=85339",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=c88bec434515f94d1f230af4367d615c",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 70,
   "pageNumber" : 1,
   "totalPages" : 5,

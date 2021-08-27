@@ -3,7 +3,10 @@
   "threadId" : "114436",
   "title" : "Airstream caravans and towing??",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=114436",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14&sid=ab01a27363eedf217d243e5c5b0b6e81",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "862988",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwJim",
       "userId" : "862988",
       "joined" : "Thu Apr 24, 2003 6:05 pm",
       "profileRank" : "Founder BWA Member",

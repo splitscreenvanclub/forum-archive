@@ -3,7 +3,10 @@
   "threadId" : "77920",
   "title" : "NON VW - STOLEN RARE MINI VAN 1967 - PLEASE HELP!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=77920",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=722a5b9c8bb91208889a8fd4fcd0f327",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "600244",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "600244",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

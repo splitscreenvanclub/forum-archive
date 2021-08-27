@@ -3,7 +3,10 @@
   "threadId" : "108031",
   "title" : "'What do you want one of those for?' - Neg Heads!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=108031",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=3088ed14d2627ba75e095bc8005f59be",
+    "label" : "Pointless Bitching"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +39,7 @@
   }, {
     "postId" : "818404",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "818404",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

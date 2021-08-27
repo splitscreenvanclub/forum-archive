@@ -3,7 +3,10 @@
   "threadId" : "117678",
   "title" : "new fuel tank",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=117678",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=2c938723feccff636e819270b28cef89",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

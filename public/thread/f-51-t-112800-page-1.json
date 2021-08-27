@@ -3,7 +3,10 @@
   "threadId" : "112800",
   "title" : "65 Caravelle Camper - us import , freak or unique ? - SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112800",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=b1a9bfc6dda298ad8980a812f8a37fb6",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

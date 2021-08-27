@@ -3,7 +3,13 @@
   "threadId" : "100572",
   "title" : "SO42 parts trade",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=100572",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=8f983d98571350c47a966b5c77591113",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=8f983d98571350c47a966b5c77591113",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

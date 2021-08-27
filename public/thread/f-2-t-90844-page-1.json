@@ -3,7 +3,10 @@
   "threadId" : "90844",
   "title" : "Parts manual in downloadable pdf?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=90844",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=1b207d91c288c4aed56b3cf1955836df",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

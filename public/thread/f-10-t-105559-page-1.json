@@ -3,7 +3,13 @@
   "threadId" : "105559",
   "title" : "Busfest Today - Joined the SSVC",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=105559",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10",
+    "label" : "Events"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

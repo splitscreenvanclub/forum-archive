@@ -3,7 +3,10 @@
   "threadId" : "110464",
   "title" : "buses for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=110464",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=22c762d557dda9303518ec761fcdd41a",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

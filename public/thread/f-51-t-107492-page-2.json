@@ -3,7 +3,10 @@
   "threadId" : "107492",
   "title" : "1957 PGSG now arrived in UK",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=107492&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=842ab6414279608a8c2df5f0c4fd9e75",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 24,
   "pageNumber" : 2,
   "totalPages" : 2,

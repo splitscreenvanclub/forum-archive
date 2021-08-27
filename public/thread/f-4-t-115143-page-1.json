@@ -3,7 +3,10 @@
   "threadId" : "115143",
   "title" : "Clear-out of parts, many nice",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115143",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=099a2d3fc4f353f652ae24c978e151ef",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 25,
   "pageNumber" : 1,
   "totalPages" : 2,

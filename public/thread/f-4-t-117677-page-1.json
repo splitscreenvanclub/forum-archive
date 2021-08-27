@@ -3,7 +3,10 @@
   "threadId" : "117677",
   "title" : "FOR SALE - Set of four 5x205 split wheels & hubcaps",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=117677",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=63e7a4b66342f3622630bd2c6dedf3d4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

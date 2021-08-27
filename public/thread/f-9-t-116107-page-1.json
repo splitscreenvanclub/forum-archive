@@ -3,7 +3,10 @@
   "threadId" : "116107",
   "title" : "Free Camping in the UK......",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=116107",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

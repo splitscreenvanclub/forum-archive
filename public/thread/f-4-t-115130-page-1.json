@@ -3,7 +3,10 @@
   "threadId" : "115130",
   "title" : "VWOA 3 Bow Roofrack",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115130",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=23ed9b42b28b7bfb1681750d86b78f22",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

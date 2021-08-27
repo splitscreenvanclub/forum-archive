@@ -3,7 +3,10 @@
   "threadId" : "68304",
   "title" : "UK Supplied Barndoors...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=68304",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=a39cdd1078cf3e722e3b9b004ae1d32e",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 113,
   "pageNumber" : 1,
   "totalPages" : 8,

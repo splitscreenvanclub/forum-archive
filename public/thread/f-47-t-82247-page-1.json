@@ -3,7 +3,13 @@
   "threadId" : "82247",
   "title" : "Westfalia Cot pole from ?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=82247",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +42,7 @@
   }, {
     "postId" : "698197",
     "author" : {
-      "username" : "Unknown",
+      "username" : "miles",
       "userId" : "698197",
       "joined" : "Thu Oct 17, 2002 4:01 pm",
       "profileRank" : "Registered user",

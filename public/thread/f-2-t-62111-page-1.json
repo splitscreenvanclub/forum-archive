@@ -3,7 +3,10 @@
   "threadId" : "62111",
   "title" : "Harrington Bumpers...Anyone used them before???",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=62111",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=58f4a039ac0a7a9806eda1c1a2b99725",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 13,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -140,7 +143,7 @@
   }, {
     "postId" : "481014",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "481014",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

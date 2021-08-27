@@ -3,7 +3,10 @@
   "threadId" : "76555",
   "title" : "So cruel! Lol",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=76555",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

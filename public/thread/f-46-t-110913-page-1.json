@@ -3,7 +3,13 @@
   "threadId" : "110913",
   "title" : "devon/westy seat?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=46&t=110913",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=46",
+    "label" : "Devon"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

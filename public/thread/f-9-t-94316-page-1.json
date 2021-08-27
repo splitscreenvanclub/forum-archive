@@ -3,7 +3,10 @@
   "threadId" : "94316",
   "title" : "South Easy in July",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=94316",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=944df41db090e721cb66da6cdcaefc12",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

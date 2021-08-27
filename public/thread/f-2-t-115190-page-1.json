@@ -3,7 +3,10 @@
   "threadId" : "115190",
   "title" : "Bid to win the Hippy split soapbox racer at this years AGM",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115190",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=1050d7b5c08b16b860773a33a942cf06",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

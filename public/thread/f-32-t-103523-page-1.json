@@ -3,7 +3,10 @@
   "threadId" : "103523",
   "title" : "Page fail message",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=103523",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "788172",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "788172",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",

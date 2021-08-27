@@ -3,7 +3,10 @@
   "threadId" : "38100",
   "title" : "The cool photo thread",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=38100&start=2700",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=6f9694eb5d145672d93a002a96dadace",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 3021,
   "pageNumber" : 181,
   "totalPages" : 202,

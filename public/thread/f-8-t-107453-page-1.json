@@ -3,7 +3,10 @@
   "threadId" : "107453",
   "title" : "'67 Velvet Green Kombi Preservation",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=107453",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=e5461a74c4fd9b80c1e5c609dbebcb02",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 23,
   "pageNumber" : 1,
   "totalPages" : 2,

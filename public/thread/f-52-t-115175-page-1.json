@@ -3,7 +3,10 @@
   "threadId" : "115175",
   "title" : "Lillebror Chateau Mobile - Now SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=115175",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=bb294c7f41e3ac124a36a86dedb28e4f",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

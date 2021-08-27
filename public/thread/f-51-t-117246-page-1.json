@@ -3,7 +3,10 @@
   "threadId" : "117246",
   "title" : "Swap my adventurewagon for Single Cab",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117246",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

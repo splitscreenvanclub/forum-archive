@@ -3,7 +3,13 @@
   "threadId" : "41114",
   "title" : "5 Consecutive Vin numbers?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=29&t=41114",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=83c2ca3ac3e2df526fd731be42a0d7ff",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=29&sid=83c2ca3ac3e2df526fd731be42a0d7ff",
+    "label" : "International VW Bus Meeting - Hanover"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "112502",
   "title" : "Sash windows",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=112502",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=14",
+    "label" : "Non VW Chat & Discussion"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

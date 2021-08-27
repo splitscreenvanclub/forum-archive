@@ -3,14 +3,17 @@
   "threadId" : "31659",
   "title" : "****BJT 525A STOLEN 58 VW BUS FROM S.E.LONDON/KENT AREA****",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=31659&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 26,
   "pageNumber" : 2,
   "totalPages" : 2,
   "posts" : [ {
     "postId" : "230711",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "230711",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",
@@ -62,7 +65,7 @@
   }, {
     "postId" : "230857",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "230857",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

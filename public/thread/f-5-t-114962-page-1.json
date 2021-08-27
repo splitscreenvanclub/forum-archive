@@ -3,7 +3,10 @@
   "threadId" : "114962",
   "title" : "UPPER CARGO DOOR FRAME REINFORCEMENT",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114962",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=a847dfc44d75c2c0c2ea99a92c056cd2",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

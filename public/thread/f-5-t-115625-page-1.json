@@ -3,7 +3,10 @@
   "threadId" : "115625",
   "title" : "Gaz 1.9 inch coilovers wantedho",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115625",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=d4c5ff2a649180c2516c146fab78036d",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "102016",
   "title" : "fuel guage",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=102016",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=cc63a83267971009f8c4b3732805fb6b",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

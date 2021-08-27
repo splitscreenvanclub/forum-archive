@@ -3,7 +3,10 @@
   "threadId" : "84045",
   "title" : "RHD '59' 23 Samba... From Sweden.(My Retirement Project!)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=84045&start=90",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=826ee0b06cb06639de45d5597cc6a833",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 168,
   "pageNumber" : 7,
   "totalPages" : 12,

@@ -3,7 +3,10 @@
   "threadId" : "109184",
   "title" : "has anyone a bus to show?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=56&t=109184",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=56&sid=921eb645f19ad77a004c86109a60e4da",
+    "label" : "Non German Variants"
+  } ],
   "totalPosts" : 14,
   "pageNumber" : 1,
   "totalPages" : 1,

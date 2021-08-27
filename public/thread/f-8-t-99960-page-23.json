@@ -3,7 +3,10 @@
   "threadId" : "99960",
   "title" : "62 15 Window project - Single shade of Grey",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=99960&start=330",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 346,
   "pageNumber" : 23,
   "totalPages" : 24,

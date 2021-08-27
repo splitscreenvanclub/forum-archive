@@ -3,7 +3,10 @@
   "threadId" : "96920",
   "title" : "QUALITY CARGO DOOR CANOPY £45.00",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=96920",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=a69a361cd6a98b0335e2d2a980dc7a96",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 171,
   "pageNumber" : 1,
   "totalPages" : 12,

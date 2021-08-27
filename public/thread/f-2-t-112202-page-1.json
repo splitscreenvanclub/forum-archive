@@ -3,7 +3,10 @@
   "threadId" : "112202",
   "title" : "Braided throttle cable",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112202",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "846478",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "846478",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",

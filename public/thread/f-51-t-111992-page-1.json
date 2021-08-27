@@ -3,7 +3,10 @@
   "threadId" : "111992",
   "title" : "Volkswagen T1 15 Fenster Bus OG Paint 35.000€",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=111992",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

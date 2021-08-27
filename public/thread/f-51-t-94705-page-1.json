@@ -3,7 +3,10 @@
   "threadId" : "94705",
   "title" : "My Old bus for sale on Ebay",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=94705",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=07bee727f88dac89b5baf6d658c45273",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

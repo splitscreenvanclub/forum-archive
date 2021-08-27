@@ -3,7 +3,13 @@
   "threadId" : "108008",
   "title" : "Interior Templates",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=108008",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

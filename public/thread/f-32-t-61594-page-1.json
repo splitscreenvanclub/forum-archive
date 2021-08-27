@@ -3,7 +3,10 @@
   "threadId" : "61594",
   "title" : "AVATAR",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=61594",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=63d43e4cd7e9278db826ea34640b2d17",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

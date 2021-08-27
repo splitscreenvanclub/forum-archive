@@ -3,7 +3,10 @@
   "threadId" : "58784",
   "title" : "Panel Beating/Shrinking/Stretching Course - interested?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=58784",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=59f23a88e9390efd865fcc7e5756f2d1",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 28,
   "pageNumber" : 1,
   "totalPages" : 2,

@@ -3,14 +3,20 @@
   "threadId" : "34623",
   "title" : "The Hanover International VW Bus Meeting gets it's own forum",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=29&t=34623",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=29ac0d2f0627a2798b1bd0b648dee6ad",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=29&sid=29ac0d2f0627a2798b1bd0b648dee6ad",
+    "label" : "International VW Bus Meeting - Hanover"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "253041",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Doc",
       "userId" : "253041",
       "joined" : "Wed Sep 17, 2003 3:23 pm",
       "profileRank" : "Registered user",

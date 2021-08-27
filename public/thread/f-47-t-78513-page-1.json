@@ -3,7 +3,13 @@
   "threadId" : "78513",
   "title" : "Information wanted - Westfalia trailer wheels",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=78513",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=25ccdc56eef6125c5a8cb0b0a926d14f",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=25ccdc56eef6125c5a8cb0b0a926d14f",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

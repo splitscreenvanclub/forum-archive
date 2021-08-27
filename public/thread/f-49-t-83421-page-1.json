@@ -3,7 +3,13 @@
   "threadId" : "83421",
   "title" : "best fitting interior panels?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=83421",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=81a5719a9116daa47966056da3a819a8",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=81a5719a9116daa47966056da3a819a8",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

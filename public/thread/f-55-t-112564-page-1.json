@@ -3,7 +3,10 @@
   "threadId" : "112564",
   "title" : "Splitscreen cab carpet set",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=112564",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=ba220b46f0ea09a7e873f5423cbc41d0",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

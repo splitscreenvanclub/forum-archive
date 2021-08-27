@@ -3,7 +3,10 @@
   "threadId" : "115230",
   "title" : "Help with nose cone",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115230",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=17589a284b6343173e6c0fb9d49c73ab",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

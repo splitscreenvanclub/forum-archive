@@ -3,7 +3,10 @@
   "threadId" : "115216",
   "title" : "VW Camper 1967 Split screen £37,500",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=115216",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=895209a714d949a4269f75b68843f99c",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

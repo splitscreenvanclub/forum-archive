@@ -3,7 +3,10 @@
   "threadId" : "116130",
   "title" : "LHD 56 kombi parts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=116130",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

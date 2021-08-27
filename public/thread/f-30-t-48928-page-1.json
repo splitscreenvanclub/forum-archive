@@ -3,7 +3,10 @@
   "threadId" : "48928",
   "title" : "1984",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=30&t=48928",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=30",
+    "label" : "25th Anniversary - A photographic history"
+  } ],
   "totalPosts" : 23,
   "pageNumber" : 1,
   "totalPages" : 2,
@@ -88,7 +91,7 @@
   }, {
     "postId" : "382556",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Doc",
       "userId" : "382556",
       "joined" : "Wed Sep 17, 2003 3:23 pm",
       "profileRank" : "Registered user",
@@ -114,7 +117,7 @@
   }, {
     "postId" : "382635",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Doc",
       "userId" : "382635",
       "joined" : "Wed Sep 17, 2003 3:23 pm",
       "profileRank" : "Registered user",

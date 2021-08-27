@@ -3,7 +3,10 @@
   "threadId" : "77015",
   "title" : "Help and ideas please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=77015",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +39,7 @@
   }, {
     "postId" : "594725",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "594725",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",

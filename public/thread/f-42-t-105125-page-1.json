@@ -3,7 +3,10 @@
   "threadId" : "105125",
   "title" : "Westfalia SO23 Reg# 273 YUF White over red",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=42&t=105125",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=42&sid=206f2fba49ec82ac5fcc28995dd488a1",
+    "label" : "Split Screens Seen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

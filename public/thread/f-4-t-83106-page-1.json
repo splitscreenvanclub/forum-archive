@@ -3,7 +3,10 @@
   "threadId" : "83106",
   "title" : "Westy Repro Cots/Hammocks",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=83106",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=266a98bbf70290a6fb566d81e83b1df8",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 78,
   "pageNumber" : 1,
   "totalPages" : 6,

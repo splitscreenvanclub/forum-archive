@@ -3,7 +3,10 @@
   "threadId" : "114097",
   "title" : "1959 Mango 11 window RHD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=114097",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=a01c100aef404c23358051edb8d2a4f1",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

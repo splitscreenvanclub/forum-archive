@@ -3,7 +3,10 @@
   "threadId" : "77416",
   "title" : "Championships",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=77416",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

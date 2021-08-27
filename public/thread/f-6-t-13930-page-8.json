@@ -3,7 +3,10 @@
   "threadId" : "13930",
   "title" : "Front Beam Options Technical Topic",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=13930&start=105",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=bf804916677b718d234d9cf31da64bb0",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 128,
   "pageNumber" : 8,
   "totalPages" : 9,

@@ -3,7 +3,10 @@
   "threadId" : "114926",
   "title" : "Curtain Track Position",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=114926",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=165be872c8e85e92da583533e4611f9e",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

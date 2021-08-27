@@ -3,7 +3,10 @@
   "threadId" : "61369",
   "title" : "vinyl wrap off but so is paint,advice n help please?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=61369",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=d2f95cef15894913bcfd84def72c9eaa",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

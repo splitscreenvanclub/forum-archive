@@ -3,7 +3,10 @@
   "threadId" : "115028",
   "title" : "front seat base",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115028",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=5058015c6b897fa4f437b547cedf62a1",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

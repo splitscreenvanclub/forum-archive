@@ -3,7 +3,10 @@
   "threadId" : "112389",
   "title" : "3 bow westy roof rack at busfest",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112389",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

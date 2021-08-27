@@ -3,7 +3,10 @@
   "threadId" : "110573",
   "title" : "Camping Near Barnard Castle",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=110573",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=af6ee7c95c1463b1ed2943b0081a510d",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

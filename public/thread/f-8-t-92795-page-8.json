@@ -3,7 +3,10 @@
   "threadId" : "92795",
   "title" : "1961 Project so23 Jobs stopped for a few weeks!!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=92795&start=105",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=8a8bc9e77867683c5eecbe78f7d87db8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 115,
   "pageNumber" : 8,
   "totalPages" : 8,

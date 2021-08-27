@@ -3,7 +3,13 @@
   "threadId" : "99761",
   "title" : "Canterbury Pitt table - fitting and resto advice please...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=99761",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=eb16aae4b0167c0b979987f4c2952eb2",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48&sid=eb16aae4b0167c0b979987f4c2952eb2",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

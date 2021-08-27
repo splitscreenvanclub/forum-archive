@@ -3,7 +3,13 @@
   "threadId" : "94384",
   "title" : "(WTB) SO34 parts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=94384",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

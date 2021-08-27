@@ -3,7 +3,10 @@
   "threadId" : "114873",
   "title" : "VW split 1966 dormobile",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=114873",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=0c7fb8afd094e904854898b896eb7da4",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

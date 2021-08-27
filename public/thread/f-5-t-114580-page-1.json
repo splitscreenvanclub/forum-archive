@@ -3,7 +3,10 @@
   "threadId" : "114580",
   "title" : "original used single cab load bed wood slat",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114580",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=f24905e485c4f1b1a553ad7f43be0729",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

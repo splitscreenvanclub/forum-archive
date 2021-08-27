@@ -3,7 +3,10 @@
   "threadId" : "112225",
   "title" : "Newcastle to Busfest or Manchester transport",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112225",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "106077",
   "title" : "velvet 64 one owner from alaska",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=106077&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=0f03c01987823aa2fa94e7884cb4b3a6",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 2,
   "totalPages" : 2,

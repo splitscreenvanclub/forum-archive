@@ -3,7 +3,13 @@
   "threadId" : "107683",
   "title" : "Aircooled 15 - Back for a second year 12-14 June 2015",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=10&t=107683",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=bc9c26ed07819261f8d3220903d9027e",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=10&sid=bc9c26ed07819261f8d3220903d9027e",
+    "label" : "Events"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

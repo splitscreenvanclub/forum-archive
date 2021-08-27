@@ -3,7 +3,10 @@
   "threadId" : "95952",
   "title" : "My '67 Split Bus Resto Thread in the Philippines",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=95952&start=60",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 90,
   "pageNumber" : 5,
   "totalPages" : 6,

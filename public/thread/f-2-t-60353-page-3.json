@@ -3,7 +3,10 @@
   "threadId" : "60353",
   "title" : "Birth certificate for your VW ??",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=60353&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=2f0dbd9c547c704e83bcbc8284dc4fa3",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 55,
   "pageNumber" : 3,
   "totalPages" : 4,

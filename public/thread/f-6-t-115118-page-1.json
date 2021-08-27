@@ -3,7 +3,10 @@
   "threadId" : "115118",
   "title" : "DeLuxe clock hole dimensions and position in dashboard.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115118",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6f9492f1eaf51df68f7852ba75e69ef4",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

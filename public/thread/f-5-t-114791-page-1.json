@@ -3,7 +3,10 @@
   "threadId" : "114791",
   "title" : "Rear bumper",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114791",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=f3fa056582e5c38f4066c1e23ad2165f",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

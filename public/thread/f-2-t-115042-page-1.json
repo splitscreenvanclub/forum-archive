@@ -3,7 +3,10 @@
   "threadId" : "115042",
   "title" : "westi flip seat",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115042",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=457697b7770f414f000bcf9f7a62029a",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

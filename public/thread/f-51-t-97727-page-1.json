@@ -3,7 +3,10 @@
   "threadId" : "97727",
   "title" : "slammed 53 oval swap for bus now with pics PX WITH CASH????",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=97727",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=c0ca94e95bc15b2d06868337003692d5",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "747733",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "747733",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

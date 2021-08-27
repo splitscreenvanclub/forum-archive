@@ -3,7 +3,10 @@
   "threadId" : "101662",
   "title" : "non german section?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=101662",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=0f691a736f3859574809f509a8ec60b8",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -88,7 +91,7 @@
   }, {
     "postId" : "826638",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "826638",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",
@@ -101,7 +104,7 @@
   }, {
     "postId" : "826670",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "826670",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",

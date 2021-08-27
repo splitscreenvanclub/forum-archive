@@ -3,7 +3,10 @@
   "threadId" : "109675",
   "title" : "US taillights",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=109675",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

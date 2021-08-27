@@ -3,7 +3,10 @@
   "threadId" : "110436",
   "title" : "Porsche pattern slot mags 4.5x15 (fentongyro)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=110436",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

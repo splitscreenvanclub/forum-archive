@@ -3,7 +3,10 @@
   "threadId" : "115091",
   "title" : "Wanted, single sprintstar wheel, 4.5\"",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115091",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=5248c794394060ce34c7b2742d401e3a",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

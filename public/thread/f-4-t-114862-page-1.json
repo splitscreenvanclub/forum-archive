@@ -3,7 +3,10 @@
   "threadId" : "114862",
   "title" : "Creative Engineering Weedeater Airbag Beam",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=114862",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=1b9d7998c1f3e529b9c911e5b6e96c23",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

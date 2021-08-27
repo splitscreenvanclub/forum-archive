@@ -3,7 +3,10 @@
   "threadId" : "104446",
   "title" : "Campsites near Hertfordshire. Recommendations please!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=104446",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=0d608f55010105091c56808be07cd2c9",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

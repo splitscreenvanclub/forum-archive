@@ -3,7 +3,10 @@
   "threadId" : "102018",
   "title" : "cab door skins",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=102018",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=965058a27fd9cc9ad36c99f1903a4cd0",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

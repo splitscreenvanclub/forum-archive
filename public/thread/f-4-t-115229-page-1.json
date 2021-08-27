@@ -3,7 +3,10 @@
   "threadId" : "115229",
   "title" : "NOS early USA spec indicater unit",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115229",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=bceebac875744d59e56d6d743694523a",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

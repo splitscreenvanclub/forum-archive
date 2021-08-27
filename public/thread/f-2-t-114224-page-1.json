@@ -3,7 +3,10 @@
   "threadId" : "114224",
   "title" : "Can anyone identify these please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114224",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=e88641e659d62e90744a497f9a0e0cf8",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

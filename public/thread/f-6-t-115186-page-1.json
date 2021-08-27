@@ -3,7 +3,10 @@
   "threadId" : "115186",
   "title" : ".22 Bullets for replacement clips",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115186",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=80381967983c9351deb980ade542028a",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "88022",
   "title" : "Slammed 71 deluxe, Price dropped!SOLD!!!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=88022",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=82fbeb609b55b91dff522b5fb87fff5c",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 38,
   "pageNumber" : 1,
   "totalPages" : 3,
@@ -75,7 +78,7 @@
   }, {
     "postId" : "678646",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "678646",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

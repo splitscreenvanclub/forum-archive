@@ -3,7 +3,10 @@
   "threadId" : "115350",
   "title" : "Cargo doors / various body cuts / Rubber cab mat.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=115350",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

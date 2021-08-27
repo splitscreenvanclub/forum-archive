@@ -3,7 +3,13 @@
   "threadId" : "101620",
   "title" : "Subhatch Flip-Hatch Top Hinge bolts SO34 SO23 SO33 westfalia",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=101620",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=78ed359bf6c1d3c1f2ddf81337d88d5a",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47&sid=78ed359bf6c1d3c1f2ddf81337d88d5a",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

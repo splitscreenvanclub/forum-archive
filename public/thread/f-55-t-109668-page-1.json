@@ -3,7 +3,10 @@
   "threadId" : "109668",
   "title" : "VW Splitscreen OG Badge",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=109668",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

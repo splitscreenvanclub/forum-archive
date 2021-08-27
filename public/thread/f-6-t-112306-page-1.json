@@ -3,7 +3,10 @@
   "threadId" : "112306",
   "title" : "Warm earth strap. Connection corroded",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112306",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

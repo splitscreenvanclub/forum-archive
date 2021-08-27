@@ -3,7 +3,13 @@
   "threadId" : "80130",
   "title" : "How much is a 1 +2 seat setup worth?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=80130",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

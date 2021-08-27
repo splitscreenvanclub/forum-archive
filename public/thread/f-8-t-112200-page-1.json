@@ -3,7 +3,10 @@
   "threadId" : "112200",
   "title" : "62 panel van",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=112200",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

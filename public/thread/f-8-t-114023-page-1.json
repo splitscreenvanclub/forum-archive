@@ -3,7 +3,10 @@
   "threadId" : "114023",
   "title" : "1960 RHD Double Cab",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=114023",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=96a5337eeb1dd034acd176162797609e",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,

@@ -3,7 +3,10 @@
   "threadId" : "111981",
   "title" : "1962 SINGLE CAB PICK UP FOR SALE",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=111981",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

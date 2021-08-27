@@ -3,7 +3,10 @@
   "threadId" : "112919",
   "title" : "64-67 Spindles SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112919",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=98fbc2532488d91a5c9998e43c4d1bcf",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "101569",
   "title" : "glasses yellow and transparant BOSCH, HELLA",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=101569&start=90",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 156,
   "pageNumber" : 7,
   "totalPages" : 11,

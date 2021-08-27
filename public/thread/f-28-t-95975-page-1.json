@@ -3,7 +3,10 @@
   "threadId" : "95975",
   "title" : "Bug Jam",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=95975",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

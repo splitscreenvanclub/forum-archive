@@ -3,7 +3,10 @@
   "threadId" : "109125",
   "title" : "Awesome 1959 Splitscreen Panel",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=109125",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=5310d15522447434db83cbc8652b1151",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 13,
   "pageNumber" : 1,
   "totalPages" : 1,

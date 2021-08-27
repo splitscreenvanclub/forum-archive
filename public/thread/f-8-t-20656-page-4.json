@@ -3,7 +3,10 @@
   "threadId" : "20656",
   "title" : "My Diesel '66 WESTY, Work Continues...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=20656&start=45",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=4ac58af6c66884404686fb405695914d",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 55,
   "pageNumber" : 4,
   "totalPages" : 4,

@@ -3,7 +3,10 @@
   "threadId" : "107135",
   "title" : "posting in the wrong section",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=107135",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=ae8b83086fcfdc1a8e0a5a5fc5335edc",
+    "label" : "Pointless Bitching"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

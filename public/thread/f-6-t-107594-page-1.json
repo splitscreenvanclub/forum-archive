@@ -3,7 +3,10 @@
   "threadId" : "107594",
   "title" : "Headlight flasher not working-late split-& how I fixed it...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=107594",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=716a71e31ceddafa61f14487596864d7",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "102157",
   "title" : "Southern Ireland Roadtrip",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=102157",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=5fa68ab5163828efbdc2338cfc9dca4b",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

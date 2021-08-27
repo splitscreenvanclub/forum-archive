@@ -3,7 +3,10 @@
   "threadId" : "115193",
   "title" : "gas gauge pegs when I turn speedo light dimmer",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115193",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=767c9581a6be72c6975aae40e61e1655",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

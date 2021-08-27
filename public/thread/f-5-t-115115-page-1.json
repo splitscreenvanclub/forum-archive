@@ -3,7 +3,10 @@
   "threadId" : "115115",
   "title" : "Deluxe Chrome Speedo Trim",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115115",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=78e0d69f1a4a05388c9b1364369fbfec",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

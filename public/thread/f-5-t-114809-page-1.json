@@ -3,7 +3,10 @@
   "threadId" : "114809",
   "title" : "Blaupunkt Dortmund deluxe radio chrome facia wanted.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114809",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=fc7768cd51f3c6026ba3e7235fee65c9",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

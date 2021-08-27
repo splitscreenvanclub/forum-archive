@@ -3,7 +3,10 @@
   "threadId" : "112311",
   "title" : "original vintage VW split screen armrest and fixing bracket – Part Number 221867171C",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112311",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

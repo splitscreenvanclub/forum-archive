@@ -3,7 +3,10 @@
   "threadId" : "53526",
   "title" : "windscreen repair section/a posts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=53526",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=025d006c83853a1d0140ebfcab491145",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

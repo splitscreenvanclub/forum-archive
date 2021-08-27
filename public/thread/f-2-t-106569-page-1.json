@@ -3,7 +3,10 @@
   "threadId" : "106569",
   "title" : "Wide5 to porsche adopters, anybody running this type???",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=106569",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=a4c3b9b29820f881ad8ccac1cc979ea6",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

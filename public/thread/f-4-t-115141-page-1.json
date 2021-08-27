@@ -3,7 +3,10 @@
   "threadId" : "115141",
   "title" : "Barndoor deluxe horn button for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115141",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=1e7b6e64eebc01e684b94cbea6aa8c86",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

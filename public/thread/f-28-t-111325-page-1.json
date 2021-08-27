@@ -3,7 +3,10 @@
   "threadId" : "111325",
   "title" : "BWA Updates",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=111325",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=30ce6e3f3f71b74ad7b25fd73dd14cb8",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

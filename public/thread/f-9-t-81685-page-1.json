@@ -3,7 +3,10 @@
   "threadId" : "81685",
   "title" : "Holiday in Great Britain",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=81685",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=0d1a195a0a6dfac7bca075f008b82988",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,13 @@
   "threadId" : "75966",
   "title" : "Eurotunnel Crossing for Bad Camburg & EBI",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=75966",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=7804d24dede0f83b64f0ecf84e5d42c7",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=7804d24dede0f83b64f0ecf84e5d42c7",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "112263",
   "title" : "Pics of walk through seats wtd",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=112263&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 16,
   "pageNumber" : 2,
   "totalPages" : 2,

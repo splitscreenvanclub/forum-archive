@@ -3,7 +3,10 @@
   "threadId" : "89557",
   "title" : "Masons camp site Appletrewick York dales pic heavy",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=89557",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=03965fc2da3c2284c87f91c95e180650",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

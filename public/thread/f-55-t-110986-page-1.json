@@ -3,7 +3,10 @@
   "threadId" : "110986",
   "title" : "6v Gauges",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=110986",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=85cf5c39679be9e22064790beaad47bb",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

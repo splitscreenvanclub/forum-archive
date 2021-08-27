@@ -3,7 +3,10 @@
   "threadId" : "116715",
   "title" : "1961 double door original logo panel SOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=116715",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 18,
   "pageNumber" : 1,
   "totalPages" : 2,

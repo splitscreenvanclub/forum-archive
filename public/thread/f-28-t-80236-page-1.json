@@ -3,7 +3,10 @@
   "threadId" : "80236",
   "title" : "Club Shirts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=80236",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=a95a12e2309b7bc614c20b97f249211a",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -88,7 +91,7 @@
   }, {
     "postId" : "622021",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "622021",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",
@@ -101,7 +104,7 @@
   }, {
     "postId" : "652925",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "652925",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

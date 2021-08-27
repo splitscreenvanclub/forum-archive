@@ -3,7 +3,13 @@
   "threadId" : "114020",
   "title" : "Canterbury Pitt table restoration",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=114020&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=70b29cd9d879132183912ac61f13bec5",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48&sid=70b29cd9d879132183912ac61f13bec5",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 36,
   "pageNumber" : 3,
   "totalPages" : 3,

@@ -3,7 +3,13 @@
   "threadId" : "104706",
   "title" : "back rest part for forward facing bench seat for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=48&t=104706",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=48",
+    "label" : "Canterbury Pitt"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

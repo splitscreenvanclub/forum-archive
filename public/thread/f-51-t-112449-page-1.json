@@ -3,7 +3,10 @@
   "threadId" : "112449",
   "title" : "1967 spliscreen velvet green panel bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=112449",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=fc01eee937d672bd01b1c0868e46463e",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 30,
   "pageNumber" : 1,
   "totalPages" : 2,
@@ -49,7 +52,7 @@
   }, {
     "postId" : "848117",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "848117",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",
@@ -179,7 +182,7 @@
   }, {
     "postId" : "868555",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "868555",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

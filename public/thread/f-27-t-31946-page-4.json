@@ -3,7 +3,13 @@
   "threadId" : "31946",
   "title" : "The Gaffa Tape Tour",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=27&t=31946&start=45",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=6e91d65bddcf4d7e325f60a35896972a",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=27&sid=6e91d65bddcf4d7e325f60a35896972a",
+    "label" : "Bad Camberg"
+  } ],
   "totalPosts" : 104,
   "pageNumber" : 4,
   "totalPages" : 7,

@@ -3,7 +3,10 @@
   "threadId" : "114388",
   "title" : "6v deluxe clock",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=114388",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=cfbe80d954d96fe0d1bbb91389cf1311",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

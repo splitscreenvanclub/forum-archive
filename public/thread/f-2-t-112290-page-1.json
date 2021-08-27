@@ -3,7 +3,10 @@
   "threadId" : "112290",
   "title" : "French Connection",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=112290",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

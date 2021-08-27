@@ -3,7 +3,10 @@
   "threadId" : "107940",
   "title" : "Nice 66 RHD walk through for sale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=107940",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 18,
   "pageNumber" : 1,
   "totalPages" : 2,

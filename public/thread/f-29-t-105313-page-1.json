@@ -3,7 +3,13 @@
   "threadId" : "105313",
   "title" : "Importing a bus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=29&t=105313",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=41&sid=adcaca07426108ba93a6dd767098e9c8",
+    "label" : "Events"
+  }, {
+    "url" : "./viewforum.php?f=29&sid=adcaca07426108ba93a6dd767098e9c8",
+    "label" : "International VW Bus Meeting - Hanover"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

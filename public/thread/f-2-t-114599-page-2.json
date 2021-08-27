@@ -3,7 +3,10 @@
   "threadId" : "114599",
   "title" : "SSVC display at the VolksWorld Show",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114599&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=25107f51605222cb909a4fec7177d3dc",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 45,
   "pageNumber" : 2,
   "totalPages" : 3,

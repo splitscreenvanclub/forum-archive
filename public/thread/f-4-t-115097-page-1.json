@@ -3,7 +3,10 @@
   "threadId" : "115097",
   "title" : "Porsche Fuchs Conversion Kit",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115097",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=8261cd82653e00974586a7444395acba",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "115088",
   "title" : "Jacks supermarket shop early 60s",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115088",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=c00bb3507818464bb89b11c65ff23f53",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "88175",
   "title" : "Can we help a buddy from Australia....",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=88175",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=dd1c357af0f86a4ba2ce63d46b024e27",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

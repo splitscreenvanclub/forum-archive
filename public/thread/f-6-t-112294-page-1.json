@@ -3,7 +3,10 @@
   "threadId" : "112294",
   "title" : "Headlight Flasher on indicator stalk (1967)",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112294",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

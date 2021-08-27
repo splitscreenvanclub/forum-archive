@@ -3,7 +3,10 @@
   "threadId" : "115036",
   "title" : "Underslung water tank?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115036",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=f596d4cbd21227e870d90b0a130c80e4",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

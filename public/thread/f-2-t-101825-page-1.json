@@ -3,7 +3,10 @@
   "threadId" : "101825",
   "title" : "door hinge help",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=101825",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=4707f97bae925d2fbc9a7735d6d359d0",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

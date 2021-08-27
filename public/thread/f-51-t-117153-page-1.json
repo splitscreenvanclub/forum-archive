@@ -3,7 +3,10 @@
   "threadId" : "117153",
   "title" : "1961 15 window deluxe",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=117153",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

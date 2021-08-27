@@ -3,7 +3,10 @@
   "threadId" : "35954",
   "title" : "My '60 23 Window Deluxe",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=35954",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=32ea1268bc8da8626df7b726d6795def",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 964,
   "pageNumber" : 1,
   "totalPages" : 65,

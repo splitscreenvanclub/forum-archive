@@ -3,7 +3,10 @@
   "threadId" : "27596",
   "title" : "My 64 camper Blog",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=27596&start=45",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 79,
   "pageNumber" : 4,
   "totalPages" : 6,

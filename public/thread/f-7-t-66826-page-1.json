@@ -3,7 +3,10 @@
   "threadId" : "66826",
   "title" : "http://www.stolenclassics.co.uk - Site for Stolen Cars.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=66826",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=529d66e23fe18688eb0ed72b6d9c6719",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

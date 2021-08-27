@@ -3,7 +3,10 @@
   "threadId" : "74504",
   "title" : "AUSSIE BUSES",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=74504&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=3874e18ce423856a24c1bae91c1a9f15",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 48,
   "pageNumber" : 3,
   "totalPages" : 4,

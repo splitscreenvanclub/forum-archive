@@ -3,7 +3,10 @@
   "threadId" : "111128",
   "title" : "Who's got big balls, and spare 5 years?!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=111128",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 13,
   "pageNumber" : 1,
   "totalPages" : 1,

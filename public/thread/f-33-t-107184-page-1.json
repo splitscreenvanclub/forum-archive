@@ -3,7 +3,10 @@
   "threadId" : "107184",
   "title" : "Stupid signs",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=107184",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=57a6a5bd3653f9060c17bde450e06597",
+    "label" : "Pointless Bitching"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

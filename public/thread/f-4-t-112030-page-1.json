@@ -3,7 +3,10 @@
   "threadId" : "112030",
   "title" : "Pair of Bridgestone Potenza 165 50 15",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112030",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

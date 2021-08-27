@@ -3,7 +3,10 @@
   "threadId" : "85630",
   "title" : "Bit that fits to the van for the heat exchange hoses to fit",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=85630",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=35f4d272faec35f54e1b64134ac52f12",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

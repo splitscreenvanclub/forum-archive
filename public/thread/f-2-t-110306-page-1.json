@@ -3,7 +3,10 @@
   "threadId" : "110306",
   "title" : "Garage recommendation? Dorset area",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=110306",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=da567d129c1618e200f2adb9da196e52",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

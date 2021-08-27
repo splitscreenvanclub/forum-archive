@@ -3,7 +3,10 @@
   "threadId" : "93363",
   "title" : "steering lock...how does it work",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=93363",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=3796c3d251af3ccea7a510b4fe21e5d1",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 16,
   "pageNumber" : 1,
   "totalPages" : 2,

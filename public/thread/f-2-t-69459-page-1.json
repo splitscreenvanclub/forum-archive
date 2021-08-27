@@ -3,7 +3,10 @@
   "threadId" : "69459",
   "title" : "French Resistance road trip....",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=69459&hilit=french+resistance",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=31a5ee9af7aec88f5acd008f42154e0c",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

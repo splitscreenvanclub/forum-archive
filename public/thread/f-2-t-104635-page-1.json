@@ -3,7 +3,10 @@
   "threadId" : "104635",
   "title" : "Register as 'light van', or 'motor caravan'?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=104635",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=3c6e55ecabcc887245b5b582f58161cc",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

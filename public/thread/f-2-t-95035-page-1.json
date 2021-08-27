@@ -3,7 +3,10 @@
   "threadId" : "95035",
   "title" : "VIEW FROM THE SPLIT",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=95035",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=24ef3f2e0c6a0c5505926b312ed14e8c",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 610,
   "pageNumber" : 1,
   "totalPages" : 41,

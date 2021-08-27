@@ -3,7 +3,10 @@
   "threadId" : "115155",
   "title" : "Wanted Splyitsceen Camper!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115155",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=b738a8bfaa730b198fb36d4f72a781ef",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

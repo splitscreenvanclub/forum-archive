@@ -3,7 +3,10 @@
   "threadId" : "51969",
   "title" : "Camper stolen from Clola Customs",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=51969&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=b28bdd87762314fe8a50b1399033e68a",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 34,
   "pageNumber" : 3,
   "totalPages" : 3,

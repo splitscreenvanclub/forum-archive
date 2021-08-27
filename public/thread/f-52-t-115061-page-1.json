@@ -3,7 +3,10 @@
   "threadId" : "115061",
   "title" : "Classic 1965 Retro Trailer Tent for sale. Chateau Mobile Lillebror.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=115061",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52&sid=a7f02ee412c7a76813939d03c7d35c1a",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

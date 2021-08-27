@@ -3,7 +3,10 @@
   "threadId" : "63710",
   "title" : "EMPI Trigger shift",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=63710",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=77abf400ca6cb21b9a833d1f67afecbe",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

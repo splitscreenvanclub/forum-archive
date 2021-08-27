@@ -3,7 +3,10 @@
   "threadId" : "102496",
   "title" : "Stock height LHD Red/White Camper in Bickenhill Nr. Solihull",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=42&t=102496",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=42",
+    "label" : "Split Screens Seen"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

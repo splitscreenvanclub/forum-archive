@@ -3,7 +3,10 @@
   "threadId" : "45171",
   "title" : "STOLEN BUS",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=45171",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=acefd4af7a06932238c0c6f847f57c71",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -23,7 +26,7 @@
   }, {
     "postId" : "341997",
     "author" : {
-      "username" : "Unknown",
+      "username" : "vwbuzzers",
       "userId" : "341997",
       "joined" : "Thu Apr 17, 2003 11:24 am",
       "profileRank" : "SSVC Member",

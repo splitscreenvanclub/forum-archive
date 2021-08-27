@@ -3,7 +3,10 @@
   "threadId" : "77702",
   "title" : "Metal Roof Rack stolen from my 66 Fire Bus, Bristol",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=77702",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

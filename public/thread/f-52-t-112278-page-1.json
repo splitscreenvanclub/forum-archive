@@ -3,7 +3,10 @@
   "threadId" : "112278",
   "title" : "67 Bug Java green panels",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=112278",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=52",
+    "label" : "Non Bus Things For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

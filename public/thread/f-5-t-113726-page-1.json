@@ -3,7 +3,10 @@
   "threadId" : "113726",
   "title" : "Under seat wheel arch",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=113726",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=e5ab1eb2e9a36d5611060284a8368152",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

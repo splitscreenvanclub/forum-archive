@@ -3,7 +3,10 @@
   "threadId" : "109742",
   "title" : "Parts - more added",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=109742",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=5c82025649b90b80cdd0b07321c41272",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 46,
   "pageNumber" : 1,
   "totalPages" : 4,

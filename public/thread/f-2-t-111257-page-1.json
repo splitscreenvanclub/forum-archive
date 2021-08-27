@@ -3,7 +3,10 @@
   "threadId" : "111257",
   "title" : "Who does valuations in Cheshire",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=111257",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=7ac9924e6e804d496544d5d5218b7eae",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "114797",
   "title" : "Autocraft RHS full rear panel (small hatch) NO LONGER NEEDED",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114797",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=b40dc2e9b5cf2d2bcaedd5e527999d3c",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

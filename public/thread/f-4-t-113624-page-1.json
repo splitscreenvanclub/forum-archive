@@ -3,7 +3,10 @@
   "threadId" : "113624",
   "title" : "1200 and 1500 Bus Exhausts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=113624",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=505aeb5503fa86f9401ee70ac0573a82",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

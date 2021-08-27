@@ -3,7 +3,10 @@
   "threadId" : "115099",
   "title" : "Wanted: Original SO-42 pop top seal",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115099",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=ac2801261bfaa097023c2c50379d1be3",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

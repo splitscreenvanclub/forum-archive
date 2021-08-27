@@ -3,7 +3,10 @@
   "threadId" : "113591",
   "title" : "VW SPLITSCREEN CAMPERVAN CHEVROLET 2.7 AIR COOLED CORVAIR ENGINE",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=113591",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=e9989345f00beb4a61b25c57859f794e",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

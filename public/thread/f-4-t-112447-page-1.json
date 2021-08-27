@@ -3,7 +3,10 @@
   "threadId" : "112447",
   "title" : "basalt grey rear seat & truck mirrors and other parts",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112447",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 9,
   "pageNumber" : 1,
   "totalPages" : 1,

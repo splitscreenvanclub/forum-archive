@@ -3,7 +3,10 @@
   "threadId" : "115218",
   "title" : "Spotlight brackets",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115218",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=3db2bd6c666e2eae1ed0b3fadd749c81",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

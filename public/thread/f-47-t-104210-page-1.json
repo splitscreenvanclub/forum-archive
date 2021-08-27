@@ -3,7 +3,13 @@
   "threadId" : "104210",
   "title" : "Westy awning repair material.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=47&t=104210",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=47",
+    "label" : "Westfalia"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

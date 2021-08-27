@@ -3,7 +3,10 @@
   "threadId" : "74472",
   "title" : "gearbox woes!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=74472",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=1429d2de17b7209022fed2b9dfe3b924",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

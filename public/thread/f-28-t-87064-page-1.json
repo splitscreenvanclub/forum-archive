@@ -3,7 +3,10 @@
   "threadId" : "87064",
   "title" : "Only me then......",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=87064",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=0828781037e4c78b5bd79c631b661e95",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -75,7 +78,7 @@
   }, {
     "postId" : "671151",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "671151",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",

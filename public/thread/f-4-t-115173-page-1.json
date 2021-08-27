@@ -3,7 +3,10 @@
   "threadId" : "115173",
   "title" : "1776/90.5 AS41 engine cases",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115173",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=b1117f106f1bcb218f4e6c97fcdef2d7",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

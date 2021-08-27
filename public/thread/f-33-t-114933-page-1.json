@@ -3,7 +3,10 @@
   "threadId" : "114933",
   "title" : "What is the Point ??",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=33&t=114933",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=33&sid=247fcb48c58f9784134ef94c96e7646f",
+    "label" : "Pointless Bitching"
+  } ],
   "totalPosts" : 11,
   "pageNumber" : 1,
   "totalPages" : 1,

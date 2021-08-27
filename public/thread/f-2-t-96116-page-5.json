@@ -3,7 +3,10 @@
   "threadId" : "96116",
   "title" : "VW suppliers selling poor qaulity fuel line, Petition",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=96116&start=60",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=e96ebfb1e9e4c0a35c32d70153493dd0",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 68,
   "pageNumber" : 5,
   "totalPages" : 5,

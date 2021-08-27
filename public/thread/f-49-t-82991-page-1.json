@@ -3,7 +3,13 @@
   "threadId" : "82991",
   "title" : "Original late kombi headlining Q's",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=49&t=82991",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=45&sid=d592ccf682967cf2cb19164f115bd7b1",
+    "label" : "Interiors/Conversions"
+  }, {
+    "url" : "./viewforum.php?f=49&sid=d592ccf682967cf2cb19164f115bd7b1",
+    "label" : "Other Conversions"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

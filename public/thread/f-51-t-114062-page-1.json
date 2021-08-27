@@ -3,7 +3,10 @@
   "threadId" : "114062",
   "title" : "1967 so42 walkthro",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=114062",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=e11232ac643c9a7f7cf3a7152fe610b9",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 17,
   "pageNumber" : 1,
   "totalPages" : 2,

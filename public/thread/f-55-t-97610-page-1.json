@@ -3,14 +3,17 @@
   "threadId" : "97610",
   "title" : "Ebay forum",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=97610",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,
   "posts" : [ {
     "postId" : "746801",
     "author" : {
-      "username" : "Unknown",
+      "username" : "paul_f",
       "userId" : "746801",
       "joined" : "Thu Apr 17, 2003 9:58 am",
       "profileRank" : "SSVC Committee Member",

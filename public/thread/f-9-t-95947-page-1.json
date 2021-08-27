@@ -3,7 +3,10 @@
   "threadId" : "95947",
   "title" : "French road trip",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=95947",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9&sid=3c1a3dfce58d2bbae47d406236f4eb1e",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

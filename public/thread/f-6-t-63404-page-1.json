@@ -3,7 +3,10 @@
   "threadId" : "63404",
   "title" : "Repairing Rust Spots",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=63404",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=2e6679949619a02f01bb784e6279a75e",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

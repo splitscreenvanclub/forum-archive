@@ -3,7 +3,10 @@
   "threadId" : "97363",
   "title" : "'53 Barndoor Deluxe.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=97363",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=69db89a1aa230b3bfbb465941c9a697a",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

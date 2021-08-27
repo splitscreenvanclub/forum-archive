@@ -3,7 +3,10 @@
   "threadId" : "112351",
   "title" : "BugPack 4 into 1 tuck away exhaust.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112351",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

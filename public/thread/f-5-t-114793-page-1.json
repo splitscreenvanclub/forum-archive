@@ -3,7 +3,10 @@
   "threadId" : "114793",
   "title" : "Front seat",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=114793",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=c70c7f3fd20b7192c65af239ff42c429",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 8,
   "pageNumber" : 1,
   "totalPages" : 1,

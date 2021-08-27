@@ -3,7 +3,10 @@
   "threadId" : "69444",
   "title" : "'56 vin question",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=69444",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=857b7f9ba42e59c95956c23d8224089c",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 10,
   "pageNumber" : 1,
   "totalPages" : 1,

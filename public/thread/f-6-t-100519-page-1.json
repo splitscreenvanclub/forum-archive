@@ -3,7 +3,10 @@
   "threadId" : "100519",
   "title" : "Attaching deluxe trim - double sided tape.",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=100519",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=63180f9e1ce8883956cfd25da65e8ec3",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 19,
   "pageNumber" : 1,
   "totalPages" : 2,

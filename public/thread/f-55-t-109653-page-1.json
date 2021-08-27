@@ -3,7 +3,10 @@
   "threadId" : "109653",
   "title" : "1st of many -tinted screens from a 64",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=109653",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

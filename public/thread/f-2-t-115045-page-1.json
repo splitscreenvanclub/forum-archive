@@ -3,7 +3,10 @@
   "threadId" : "115045",
   "title" : "Rust gun",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=115045",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ed5a561580f4172dc1fc6120ed2a905a",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

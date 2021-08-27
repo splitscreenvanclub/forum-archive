@@ -3,7 +3,10 @@
   "threadId" : "111068",
   "title" : "LHD 6 leg middle seat",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=111068",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

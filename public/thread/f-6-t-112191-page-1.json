@@ -3,7 +3,10 @@
   "threadId" : "112191",
   "title" : "Vintage speed help advice needed",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=112191",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

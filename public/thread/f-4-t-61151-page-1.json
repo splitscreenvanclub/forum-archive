@@ -3,7 +3,10 @@
   "threadId" : "61151",
   "title" : "CLASSIFIED SECTION - ALL ADVERTS REQUIRE A PRICE",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=61151",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=eb2816c4a0dab41f77887327eaca7563",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

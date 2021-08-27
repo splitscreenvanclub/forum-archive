@@ -3,7 +3,10 @@
   "threadId" : "60526",
   "title" : "1988ish",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=30&t=60526&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=30&sid=75e5d38777e728808affa34fd12d4c01",
+    "label" : "25th Anniversary - A photographic history"
+  } ],
   "totalPosts" : 50,
   "pageNumber" : 2,
   "totalPages" : 4,

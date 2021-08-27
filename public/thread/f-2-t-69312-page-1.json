@@ -3,7 +3,10 @@
   "threadId" : "69312",
   "title" : "The buSdrivEr's rOadtRIp adVEntUres..",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=69312",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=ce74553eb7c24119083b54af374eaee8",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 63,
   "pageNumber" : 1,
   "totalPages" : 5,

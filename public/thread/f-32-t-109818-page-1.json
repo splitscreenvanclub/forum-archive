@@ -3,7 +3,10 @@
   "threadId" : "109818",
   "title" : "Club merchandise",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=109818",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32&sid=d0c1d935d57c0c964cf3a7869f29fda9",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

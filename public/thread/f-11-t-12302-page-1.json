@@ -3,7 +3,13 @@
   "threadId" : "12302",
   "title" : "SSVC Forum Stickers - NOW AVAILABLE.........",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=11&t=12302",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=37&sid=87616c646419bada38765e34a02714f5",
+    "label" : "SSVC Messages"
+  }, {
+    "url" : "./viewforum.php?f=11&sid=87616c646419bada38765e34a02714f5",
+    "label" : "Announcements"
+  } ],
   "totalPosts" : 33,
   "pageNumber" : 1,
   "totalPages" : 3,
@@ -101,7 +107,7 @@
   }, {
     "postId" : "77494",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Doc",
       "userId" : "77494",
       "joined" : "Wed Sep 17, 2003 3:23 pm",
       "profileRank" : "Registered user",

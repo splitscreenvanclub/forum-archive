@@ -3,7 +3,10 @@
   "threadId" : "104238",
   "title" : "European Cover for Under 30s",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=104238",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=0938a77320490d083bd0686007e32e92",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

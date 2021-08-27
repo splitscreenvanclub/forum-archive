@@ -3,7 +3,10 @@
   "threadId" : "91672",
   "title" : "To Chrome or not to Chrome?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=91672",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=efebe3489fd1ef6a906803d930e873b6",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 6,
   "pageNumber" : 1,
   "totalPages" : 1,

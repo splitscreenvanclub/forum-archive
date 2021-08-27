@@ -3,7 +3,10 @@
   "threadId" : "83500",
   "title" : "Stolen last night - Orange Split Screen Van",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=7&t=83500",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=7&sid=de65c6097362702493c5f62cc8e29c71",
+    "label" : "Stolen"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

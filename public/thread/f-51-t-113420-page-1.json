@@ -3,7 +3,10 @@
   "threadId" : "113420",
   "title" : "1966 Sundial Campmobile.Deposit taken",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=113420",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=a008cbd5867ee0fead8c485776f3d4f6",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 29,
   "pageNumber" : 1,
   "totalPages" : 2,

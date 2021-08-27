@@ -3,7 +3,10 @@
   "threadId" : "114780",
   "title" : "Best place to buy front tubs",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=114780&start=15",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=21955380ce5e410d4ee8a1b304ebea6d",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 26,
   "pageNumber" : 2,
   "totalPages" : 2,

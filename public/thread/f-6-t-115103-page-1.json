@@ -3,7 +3,10 @@
   "threadId" : "115103",
   "title" : "Headlight issues 1967 splitscreen microbus",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115103",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6d55b9a5197811c439b9fc7eac36f13a",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 5,
   "pageNumber" : 1,
   "totalPages" : 1,

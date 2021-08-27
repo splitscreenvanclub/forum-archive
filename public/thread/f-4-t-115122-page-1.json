@@ -3,7 +3,10 @@
   "threadId" : "115122",
   "title" : "1965 - 66 Rear Hatch Repaired and Primed",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115122",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=3ef6c5271088fe78aac884aaed450ada",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,

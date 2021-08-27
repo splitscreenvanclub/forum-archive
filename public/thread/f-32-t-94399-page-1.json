@@ -3,7 +3,10 @@
   "threadId" : "94399",
   "title" : "My pictures have gone from my thread?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=94399",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

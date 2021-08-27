@@ -3,7 +3,10 @@
   "threadId" : "113466",
   "title" : "Mango caramel interior panels and 2/3 middle seat",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=113466",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

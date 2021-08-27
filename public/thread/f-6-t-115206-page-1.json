@@ -3,7 +3,10 @@
   "threadId" : "115206",
   "title" : "Sidewinder for Heat Exchangers. Questions...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=115206",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=6&sid=6b15e51721f7552dba01402b8e9c7f3f",
+    "label" : "Technical"
+  } ],
   "totalPosts" : 7,
   "pageNumber" : 1,
   "totalPages" : 1,

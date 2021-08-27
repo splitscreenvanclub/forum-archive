@@ -3,7 +3,10 @@
   "threadId" : "103501",
   "title" : "1966 1500 SP Low Walkthrough Resto",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=103501",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=ea880910fd792cb651a03a5e8ff98afe",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 40,
   "pageNumber" : 1,
   "totalPages" : 3,

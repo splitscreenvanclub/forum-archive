@@ -3,7 +3,10 @@
   "threadId" : "88290",
   "title" : "1955 wolfsburg lhd 11 window, gutted..sold!!",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=88290",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=51&sid=4b7947f096430fceaeddd3a8a6775476",
+    "label" : "Buses For Sale"
+  } ],
   "totalPosts" : 35,
   "pageNumber" : 1,
   "totalPages" : 3,

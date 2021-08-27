@@ -3,7 +3,10 @@
   "threadId" : "103877",
   "title" : "SSVC FAMILY CAMP OUT BANBURY. 15/16/17 August",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=103877&start=45",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=3bda991524739bddeffa4a9237ee7502",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 102,
   "pageNumber" : 4,
   "totalPages" : 7,

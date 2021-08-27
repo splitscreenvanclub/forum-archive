@@ -3,7 +3,10 @@
   "threadId" : "67078",
   "title" : "Local VW Clubs for Local People...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=67078&start=30",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=592a813b7dd56c221e9042232ee1c786",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 53,
   "pageNumber" : 3,
   "totalPages" : 4,

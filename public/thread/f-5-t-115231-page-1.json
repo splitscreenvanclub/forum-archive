@@ -3,7 +3,10 @@
   "threadId" : "115231",
   "title" : "Front bench seat wanted",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=115231",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=5&sid=49e960ac542a52c7fe64769ab21a2b1a",
+    "label" : "Wanted"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "112902",
   "title" : "BRM wide 5 forsale",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=112902",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=c3c22343296b2de7a2c57b8fd3877941",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 12,
   "pageNumber" : 1,
   "totalPages" : 1,

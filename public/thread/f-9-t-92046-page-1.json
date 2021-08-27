@@ -3,7 +3,10 @@
   "threadId" : "92046",
   "title" : "West Glamorgan or Carmarthenshire ***now booked***",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=9&t=92046",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=9",
+    "label" : "Recommended Camping"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,

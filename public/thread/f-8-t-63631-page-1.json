@@ -3,7 +3,10 @@
   "threadId" : "63631",
   "title" : "chassis rebuild on my 62...",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=63631",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8&sid=ebfc7f82771a5d1777d61e0a17307dd5",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 90,
   "pageNumber" : 1,
   "totalPages" : 6,

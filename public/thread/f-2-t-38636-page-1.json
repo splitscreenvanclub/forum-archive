@@ -3,7 +3,10 @@
   "threadId" : "38636",
   "title" : "Camping interior plans? Any but Devon / Westy if possible?",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=38636&hilit=devon",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=2&sid=0b7493c9b9766d0c2464f6a6b577ef72",
+    "label" : "VW Related Chat"
+  } ],
   "totalPosts" : 58,
   "pageNumber" : 1,
   "totalPages" : 4,

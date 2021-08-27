@@ -3,7 +3,10 @@
   "threadId" : "112973",
   "title" : "vintage speed exhaust advice please",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=112973",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=28&sid=6365615ed6d3413caa601f915f001131",
+    "label" : "BWA"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "100377",
   "title" : "Linking membership to members forum",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=100377",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=32",
+    "label" : "Site Problems and Feature Requests"
+  } ],
   "totalPosts" : 3,
   "pageNumber" : 1,
   "totalPages" : 1,
@@ -36,7 +39,7 @@
   }, {
     "postId" : "767534",
     "author" : {
-      "username" : "Unknown",
+      "username" : "Menace",
       "userId" : "767534",
       "joined" : "Sun May 09, 2004 3:05 pm",
       "profileRank" : "SSVC Committee Member",

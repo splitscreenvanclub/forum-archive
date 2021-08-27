@@ -3,7 +3,10 @@
   "threadId" : "77633",
   "title" : "'64 LHD Panel to Devon + '63 Eriba Puck + Westy Trailer",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=8&t=77633&start=285",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=8",
+    "label" : "Rides and Projects"
+  } ],
   "totalPosts" : 304,
   "pageNumber" : 20,
   "totalPages" : 21,

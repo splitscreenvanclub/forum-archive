@@ -3,7 +3,10 @@
   "threadId" : "115202",
   "title" : "Rear upper part corner near sideSOLD",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=115202",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=4&sid=0bd35f6564cc55825f3ba0ac75e101cf",
+    "label" : "Bus Parts For Sale"
+  } ],
   "totalPosts" : 4,
   "pageNumber" : 1,
   "totalPages" : 1,

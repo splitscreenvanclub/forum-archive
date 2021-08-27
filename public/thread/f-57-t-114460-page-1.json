@@ -3,7 +3,10 @@
   "threadId" : "114460",
   "title" : "Issue 197",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=57&t=114460",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=57&sid=14b8aba7ec3f9b9759f8b9911d69f38c",
+    "label" : "Magazine"
+  } ],
   "totalPosts" : 2,
   "pageNumber" : 1,
   "totalPages" : 1,

@@ -3,7 +3,10 @@
   "threadId" : "114221",
   "title" : "Chrome interior handles - cab or cargo",
   "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=114221",
-  "breadcrumbs" : [ ],
+  "breadcrumbs" : [ {
+    "url" : "./viewforum.php?f=55&sid=120a6ba8816d92709d9936820e1036a0",
+    "label" : "Ebay Auctions"
+  } ],
   "totalPosts" : 1,
   "pageNumber" : 1,
   "totalPages" : 1,
