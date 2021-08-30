@@ -14,7 +14,7 @@ const Search: FC = () => {
   return (
     <div className="p-1 bg-white border border-gray-100 mb-8 flex flex-col items-center justify-center">
       <h4 className="w-full pt-2 text-center px-2">
-        Forum archive <em>and</em> <a href="https://www.thesamba.com/vw/">thesamba.com</a> search
+        Forum archive{/* <em>and</em> <a href="https://www.thesamba.com/vw/">thesamba.com</a>*/} search
       </h4>
       <div className="w-full max-w-3xl">
         <div className="gcse-search"></div>
