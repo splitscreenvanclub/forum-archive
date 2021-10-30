@@ -1,0 +1,37 @@
+{
+  "forumId" : "28",
+  "threadId" : "69128",
+  "title" : "Rolling Road Norfolk / Suffolk / Cambs",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=69128",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "531830",
+    "author" : {
+      "username" : "The Fordhams",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=111_1262637716.jpg"
+    },
+    "content" : "Looking for a rolling road in the Thetford area - need to make sure everything is setup on my 2332. They'll need to be weber and air cooled savvy obviously.\n<br>\n<br>Cheers,\n<br>\n<br>AL",
+    "lastEdited" : "Sat Sep 04, 2010 4:20 pm"
+  }, {
+    "postId" : "574635",
+    "author" : {
+      "username" : "de-inked",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31216_1271786805.jpg"
+    },
+    "content" : "did you find anywhere?\n<br>\n<br>i heard there was a place on the sweetbriar ind est in norwich?",
+    "lastEdited" : "Sun Mar 27, 2011 8:26 am"
+  } ]
+}

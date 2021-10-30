@@ -1,0 +1,76 @@
+{
+  "forumId" : "28",
+  "threadId" : "46964",
+  "title" : "Berg 5 Speed",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=28&t=46964&start=0&st=0&sk=t&sd=a",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "357896",
+    "author" : {
+      "username" : "TurboedWestie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "in a Bus? I don,t remember reading about or seeing a Bus fitted with a Berg 5 speed or indeed a close ratio box. Has anyone gone this route? What are the pro,s and con,s would it be overkill? All thought,s and opinions welcomed \n<img src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Fri Oct 03, 2008 7:55 pm"
+  }, {
+    "postId" : "357918",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/newavatarmay08.jpg"
+    },
+    "content" : "I dont think you can fit a Berg 5 speed in a bus as you cant change the nose as you do with a bug to split conversion, therefore the shift rod would have to sit higher up and it would be a PITA to adapt the shifter.\n<br>\n<br>I went for a Porsche 901/914 box which hasn't been too bad to fit but they aren't the strongest box so I wouldn't fancy wrecking one with 200lbft of torque. Your best bet is a Porsche 915 but thats quite messy too as you need to chop the torsion bar out and fit coilovers and lots of reinforcement. It may be worth talking to bears about their 5 speed box which cant be far off either.\n<br>\n<br>At the end of the day a 5 speed box wont be much benefit to you anyway. Your torque curve is mega flat so you've not got any \"power band\" which you need to keep in. Your bus will just go. You'd be better off with a rhino case, welded gears and super diff sort of thing with a tall final drive.",
+    "lastEdited" : "Fri Oct 03, 2008 9:26 pm"
+  }, {
+    "postId" : "357940",
+    "author" : {
+      "username" : "JMR",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n bobley wrote:\n</div>\n<div class=\"quotecontent\">\n At the end of the day a 5 speed box wont be much benefit to you anyway. Your torque curve is mega flat so you've not got any \"power band\" which you need to keep in. Your bus will just go. You'd be better off with a rhino case, welded gears and super diff sort of thing with a tall final drive.\n</div>\n<br>\n<br>Bobley's spot on.... the engine will accelerate hardest at peak torque..... and you don't have a peak as such\n<br>More a big plateau \n<img src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\"> \n<br> \n<br>With such a broad spread of torque you could afford to run fairly widely spaced gears (like stock) and still have phenomenal acceleration. \n<br>\n<br>For best acceleration the general idea is to gear the transmission to keep engine rpm between the torque and bhp peaks. It's actually a little more complicated than that but the MPH chart below might help explain better\n<br> \n<br>Don't know what your rear tyre diameter or gear ratios are but for this example I've used the stock ratios and ring and pinion as fitted to stock 1303S/GT Beetle transmission (no RGBs)\n<br>\n<br>Rear tyre here is 195/65 x 15\n<br>\n<br>3.88 ring and pinion\n<br>\n<br>Gear 1st 2nd 3rd 4th \n<br>Ratio 3.78 2.06 1.26 0.89\n<br>\n<br>RPM\n<br>2500 12.7 23.3 38.0 53.8 \n<br>2600 13.2 24.2 39.5 56.0 \n<br>2700 13.7 25.1 41.1 58.1 \n<br>2800 14.2 26.0 42.6 60.3 \n<br>2900 14.7 27.0 44.1 62.4 \n<br>3000 15.2 27.9 45.6 64.6 \n<br>3100 15.7 28.8 47.1 66.7 \n<br>3200 16.2 29.8 48.7 68.9 \n<br>3300 16.7 30.7 50.2 71.0 \n<br>3400 17.2 31.6 51.7 73.2 \n<br>3500 17.7 32.6 53.2 75.4 \n<br>3600 18.2 33.5 54.7 77.5 \n<br>3700 18.8 34.4 56.3 79.7 \n<br>3800 19.3 35.3 57.8 81.8 \n<br>3900 19.8 36.3 59.3 84.0 \n<br>4000 20.3 37.2 60.8 86.1 \n<br>4100 20.8 38.1 62.4 88.3 \n<br>4200 21.3 39.1 63.9 90.4 \n<br>4300 21.8 40.0 65.4 92.6 \n<br>4400 22.3 40.9 66.9 94.7 \n<br>4500 22.8 41.9 68.4 96.9 \n<br>4600 23.3 42.8 70.0 99.0 \n<br>4700 23.8 43.7 71.5 101.2 \n<br>4800 24.3 44.6 73.0 103.3 \n<br>4900 24.8 45.6 74.5 105.5 \n<br>5000 25.3 46.5 76.0 107.6 \n<br>5100 25.9 47.4 77.6 109.8 \n<br>5200 26.4 48.4 79.1 112.0 \n<br>5300 26.9 49.3 80.6 114.1 \n<br>5400 27.4 50.2 82.1 116.3 \n<br>5500 27.9 51.2 83.6 118.4 \n<br>5600 28.4 52.1 85.2 120.6 \n<br>5700 28.9 53.0 86.7 122.7 \n<br>5800 29.4 53.9 88.2 124.9 \n<br>5900 29.9 54.9 89.7 127.0 \n<br>6000 30.4 55.8 91.2 129.2 \n<br>\n<br>The chart should be used in conjunction with your engine's power and torque figures\n<br>\n<br>Say you shift at 5500rpm - take 2nd gear as example...\n<br>\n<br>5500rpm = 51.2mph\n<br>\n<br>Now check 3rd gear column for mph....\n<br>\n<br>Closest we've got is 51.7 @ 3400rpm\n<br>\n<br>i.e. following the 2nd to 3rd gear change engine speed has dropped 2100rpm\n<br>\n<br>Now check dyno data to see if the engine is making decent torque at that rpm (answer is YES!!)\n<br>\n<br>Do same for 3rd to 4th...\n<br>\n<br>83.6mph in 3rd @ 5500rpm &gt; gear change &gt; 3900rpm in 4th\n<br>\n<br>Becomes clear why engine with very strong torque curve has litle to gain from 5 speed 'box\n<br>\n<br>Now instead, fit peaky race oriented normally aspirated engine - tends to have narrow power band\n<br>Close ratio gears are needed to keep the engine operating within the optimum rpm range\n<br>and for street driven vehicle 5 speed option makes more sense...\n<br>\n<br>... close ratio 4 speed designed to deliver best acceleration performance (drag strip) often leaves n/a engines short for cruising at motorway speeds\n<br>\n<br>Type 1 Berg 5 can be 'made' to fit split bus but it's not an 'off the shelf' conversion \n<br>\n<br>Berg have a later Bay style trans 5 speed conversion in the works and due for release any time now\n<br>\n<br>John Maher",
+    "lastEdited" : "Fri Oct 03, 2008 11:24 pm"
+  }, {
+    "postId" : "358021",
+    "author" : {
+      "username" : "Shabba",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i89.photobucket.com/albums/k237/shabba_photos/100_0134.jpg"
+    },
+    "content" : "I've got a spare Porsche 901 box if you want one!!",
+    "lastEdited" : "Sat Oct 04, 2008 12:50 pm"
+  }, {
+    "postId" : "358246",
+    "author" : {
+      "username" : "TurboedWestie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "thanks guys goin of Johnys post the set up I,ve got at the minute will do more than put a smile on my face \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sun Oct 05, 2008 11:11 am"
+  } ]
+}

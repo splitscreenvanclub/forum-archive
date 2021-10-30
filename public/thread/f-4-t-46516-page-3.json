@@ -1,0 +1,102 @@
+{
+  "forumId" : "4",
+  "threadId" : "46516",
+  "title" : "Forum Software Upgrade 20/09/2008",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=46516&start=30",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 37,
+  "pageNumber" : 3,
+  "totalPages" : 3,
+  "posts" : [ {
+    "postId" : "355463",
+    "author" : {
+      "username" : "DubDays",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.dubdays.co.uk/newav.jpg"
+    },
+    "content" : "Brian,\n<br>\n<br>If you click on the help drop down menu of IE then About, what version does it say it is?",
+    "lastEdited" : "Thu Sep 25, 2008 10:00 am"
+  }, {
+    "postId" : "355481",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://193.0.234.78/143005000704.jpg"
+    },
+    "content" : "Query really. On the old site, when you view new posts, you got all the new posts since launching IE. If you shut down IE, and restart then redo the search it would just show the really new items.\n<br>\n<br>Now, when you redo the search you still get the older items since you restarted the whole PC?",
+    "lastEdited" : "Thu Sep 25, 2008 11:12 am"
+  }, {
+    "postId" : "355490",
+    "author" : {
+      "username" : "brianjbox",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i6.photobucket.com/albums/y213/brianjbox/avatar.jpg"
+    },
+    "content" : "<div class=\"quotetitle\">\n DubDays wrote:\n</div>\n<div class=\"quotecontent\">\n Brian,\n <br>\n <br>If you click on the help drop down menu of IE then About, what version does it say it is?\n</div>\n<br>\n<br>Version 7 \n<img src=\"./images/smilies/icon_question.gif\" alt=\":?:\" title=\"Question\">",
+    "lastEdited" : "Thu Sep 25, 2008 11:43 am"
+  }, {
+    "postId" : "355520",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n vwjim wrote:\n</div>\n<div class=\"quotecontent\">\n Query really. On the old site, when you view new posts, you got all the new posts since launching IE. If you shut down IE, and restart then redo the search it would just show the really new items.\n <br>\n <br>Now, when you redo the search you still get the older items since you restarted the whole PC?\n</div> \n<br>\n<br>The session management has changed a lot in the new version, with v2 if you opened a browser session on another PC it gave you only the new posts since you last clicked it on the other (2 mins ago), now it gives you the same new posts as you had on the other one.\n<br>\n<br>I keep coming across some nice little improvements, e.g. it now inserts smilies where the cursor is, not at the end of the post.",
+    "lastEdited" : "Thu Sep 25, 2008 1:01 pm"
+  }, {
+    "postId" : "355521",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n brianjbox wrote:\n</div>\n<div class=\"quotecontent\">\n Hi Doc\n <br>\n <br>When on the SSVC and non VW chat forums I click on a post/subject of interest but when I click back the forum page has expired and I need to refresh/retry to get the page back, this is a real pain.\n <br>\n <br>Is it something wrong with my PC setting as I haven't noticed anyone else with the same problem yet.\n</div>\n<br>\n<br>\n<br>Have you tried deleting your forum cookies as mentioned in other posts?\n<br>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=32&amp;t=45218&amp;p=354356#p354356\" onclick=\"window.open(this.href);return false;\">viewtopic.php?f=32&amp;t=45218&amp;p=354356#p354356</a>\n<!-- l -->\n<br>\n<br>Cookies are the most likely issue. I've had no problems on IE7, Firefox, Chrome or Safari.\n<br>\n<br>John",
+    "lastEdited" : "Thu Sep 25, 2008 1:03 pm"
+  }, {
+    "postId" : "355523",
+    "author" : {
+      "username" : "brianjbox",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i6.photobucket.com/albums/y213/brianjbox/avatar.jpg"
+    },
+    "content" : "Hi Doc\n<br>\n<br>I actually did use the remove cookie thing that you posted up and then logged back in, it cured me having to keep signing in but hasn't helped with this issue.\n<br>\n<br>It could be my machine as I haven't noticed anyone else having this problem but it's only since the upgrade on here and doesn't happen on any other sites that use this format?\n<br>\n<br>Wierd \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Thu Sep 25, 2008 1:13 pm"
+  }, {
+    "postId" : "355733",
+    "author" : {
+      "username" : "surreysplit",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=9247_1247852688.jpg"
+    },
+    "content" : "Brian, ditch IE its a piece of **** get Mozilla FireFox much better &amp; quicker \n<img src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Fri Sep 26, 2008 7:13 am"
+  } ]
+}

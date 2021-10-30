@@ -1,0 +1,89 @@
+{
+  "forumId" : "6",
+  "threadId" : "109078",
+  "title" : "Ignition cut out \"HELP / ADVICE\"",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=109078",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "825889",
+    "author" : {
+      "username" : "spambot2",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Hi just wondered if anybody could help me out or some advice ? here's what happened \n<br>\n<br> I haven't used my splitty for a good few months disconnect the battery when not in use. I had to take for MOT last week so I decided to put the battery charger onto the battery incase running low left on trickle charge overnight.\n<br>\n<br>On the morning of MOT turned key and bus fired up no problem parked outside garage turned it off. Went back to bus turned ignition a click on key, nothing no ignition lights nothing ? went to back off van took of live feed from battery put back on fired up again no problem. \n<br>\n<br>Once I got home turned ignition off turned key fired one after another no problem on starting? went out to van around 4 hours later to put back into garage exactly same thing again turned ignition a click on key again, nothing no ignition lights nothing ? \n<br>\n<br>Possible battery on way out ? \n<br>ignition switch fault ?\n<br>\n<br>just seems weird never had any issue with bus since owning in 12 Years, any ideas would be grateful\n<br>\n<br>Cheers washy",
+    "lastEdited" : "Fri Mar 13, 2015 6:29 am"
+  }, {
+    "postId" : "825992",
+    "author" : {
+      "username" : "richandsue",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=32649_1423587156.jpg"
+    },
+    "content" : "had the exact same problem. turned out to be the live terminal at the starter motor. the one that is held with an m8 nut. was classed as a dry joint. and when the key was turned to ignition and then start, (with someone under the van looking as well) the joint on the starter motor flashed and shorted out, and became disconnected. was also told that the main live wire from front to back could also be failing due to age. new wire and cleaned up joint and been fine since,",
+    "lastEdited" : "Fri Mar 13, 2015 10:32 pm"
+  }, {
+    "postId" : "826001",
+    "author" : {
+      "username" : "ted698",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "As above - also double check both your battery terminals are clean and tight.... and the battery earth lead to body too.\n<br>Classic poor connection symptoms under high load when going for the starter, that seem fine when on low load.",
+    "lastEdited" : "Fri Mar 13, 2015 11:34 pm"
+  }, {
+    "postId" : "826013",
+    "author" : {
+      "username" : "spambot2",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Brilliant cheers guys I'll check this out this weekend\n<br>\n<br> \n<img src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Sat Mar 14, 2015 6:22 am"
+  }, {
+    "postId" : "826176",
+    "author" : {
+      "username" : "chrystal",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=868_1297852976.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n richandsue wrote:\n</div>\n<div class=\"quotecontent\">\n had the exact same problem. turned out to be the live terminal at the starter motor. the one that is held with an m8 nut. was classed as a dry joint. and when the key was turned to ignition and then start, (with someone under the van looking as well) the joint on the starter motor flashed and shorted out, and became disconnected. was also told that the main live wire from front to back could also be failing due to age. new wire and cleaned up joint and been fine since,\n</div>\n<br>\n<br>I had these problems sometimes. I bought a relay hot start from Peter Good which stopped the problems. Did you replace the wire from starter to ignition? Also told that the ignition barrel may be at fault",
+    "lastEdited" : "Sun Mar 15, 2015 2:13 pm"
+  }, {
+    "postId" : "828182",
+    "author" : {
+      "username" : "spambot2",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n chrystal wrote:\n</div>\n<div class=\"quotecontent\">\n <div class=\"quotetitle\">\n  richandsue wrote:\n </div>\n <div class=\"quotecontent\">\n  had the exact same problem. turned out to be the live terminal at the starter motor. the one that is held with an m8 nut. was classed as a dry joint. and when the key was turned to ignition and then start, (with someone under the van looking as well) the joint on the starter motor flashed and shorted out, and became disconnected. was also told that the main live wire from front to back could also be failing due to age. new wire and cleaned up joint and been fine since,\n </div>\n <br>\n <br>I had these problems sometimes. I bought a relay hot start from Peter Good which stopped the problems. Did you replace the wire from starter to ignition? Also told that the ignition barrel may be at fault\n</div>\n<br>\n<br>Hi thanks for everybody's help, I first started with live terminal at the starter motor the one that is held with an m8 nut. Was most defiantly I would class as a dry joint cleaned up all joint seems to have been fine since. I did not replace the wire from starter to ignition all seemed in good order. Also checked ignition barrel no fault this end either.",
+    "lastEdited" : "Sun Mar 29, 2015 7:26 am"
+  } ]
+}

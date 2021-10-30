@@ -1,0 +1,89 @@
+{
+  "forumId" : "6",
+  "threadId" : "109091",
+  "title" : "Another bleeding brake problem !",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=109091",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "825963",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Got my brake system all connected up and filled with fluid this weekend.\n<br>\n<br>I have discs all round with Goodridge hoses and banjos on the rear calipers and traditional flexis into an adapter on the front calipers.\n<br>\n<br>I also have a servo fitted and dual circuit m/c.\n<br>\n<br>When the system is filled, no air coming through any of the bleed nipples and all looks nice I'm not getting much caliper action. Whilst the move a tad, they're certainly not holding the discs as they should.\n<br>\n<br>On the rear the banjos are assembled flush to the caliper and the banjo bolt has a copper washer between it and the banjo. There are no other copper washers on the rear.\n<br>\n<br>There are no leaks anywhere, so a bit perplexed !\n<br>\n<br>Any brake gurus with some thoughts on what to look at would be very much appreciated.\n<br>\n<br>Cheers\n<br>\n<br>Jonny",
+    "lastEdited" : "Fri Mar 13, 2015 7:21 pm"
+  }, {
+    "postId" : "826201",
+    "author" : {
+      "username" : "Graham",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Have you bled them the hard way, (pumping the pedal etc) or pressurised the system . I use a kit you can get from Halfords. you fill the bottle in the kit and screw the correct cap for your fluid res to connect to your master cylinder and connect the air connection to a car tyre (max 30psi) then you start at the furthest away caliper and jut open each bleed nipple in turn, you can do it on your own and i have never had a problem.",
+    "lastEdited" : "Sun Mar 15, 2015 6:27 pm"
+  }, {
+    "postId" : "826211",
+    "author" : {
+      "username" : "8 8US",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Are the calipers new or refurbed? I am guessing you checked the piston operation before fitting them up?\n<br>\n<br>I have no idea about it but do you need / did you have the engine running to work the servo?\n<br>\n<br>Finally what make is the MC, could be a dodgy one like mine?",
+    "lastEdited" : "Sun Mar 15, 2015 7:23 pm"
+  }, {
+    "postId" : "826214",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Calipers are new all round, with new bay master cylinder, CSP calipers front and mk4 golf rear. Not sure if I need a copper crush washer at every mating face of the flexis/banjos/joints or not ? There's currently only a copper washer where the adapter joins the caliper on the front, but not where the flexi goes into the adapter.\n<br>\n<br>On the rears there's a copper washer where the banjo bolt goes into the banjo, but not where the banjo mates to the caliper, which has a flat machined surface.\n<br>\n<br>Used the two man method with brakes pumped to push the fluid through.\n<br>\n<br>All help appreciated !\n<br>\n<br>Cheers\n<br>\n<br>Jonny",
+    "lastEdited" : "Sun Mar 15, 2015 7:30 pm"
+  }, {
+    "postId" : "826220",
+    "author" : {
+      "username" : "SAMBA VAN MAN",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=1370_1312644292.jpg"
+    },
+    "content" : "There should be a copper washer either side of the banjo fixing!",
+    "lastEdited" : "Sun Mar 15, 2015 8:03 pm"
+  }, {
+    "postId" : "826223",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Aha ! Thanks SVM, got some copper washers on order. Seemed a bit strange that there weren't copper washers at every single joint, but should have asked the question before filling, but you live and learn...\n<br>\n<br>Also just ordered a Sealey one man pressure bleeder. Can't see too many things going wrong once I bob the copper washers on, but you never know !\n<br>\n<br>Will report back in a few days.\n<br>\n<br>Cheers\n<br>\n<br>Jonny",
+    "lastEdited" : "Sun Mar 15, 2015 8:24 pm"
+  } ]
+}

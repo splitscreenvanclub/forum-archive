@@ -1,0 +1,63 @@
+{
+  "forumId" : "52",
+  "threadId" : "109096",
+  "title" : "Westfalia Trailer withdrawn",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=109096",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "826023",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Sat Mar 14, 2015 8:56 am"
+  }, {
+    "postId" : "827345",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Mon Mar 23, 2015 6:39 pm"
+  }, {
+    "postId" : "828126",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Sat Mar 28, 2015 3:32 pm"
+  }, {
+    "postId" : "828162",
+    "author" : {
+      "username" : "Nik",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : ".",
+    "lastEdited" : "Sat Mar 28, 2015 9:11 pm"
+  } ]
+}

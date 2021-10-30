@@ -1,0 +1,37 @@
+{
+  "forumId" : "32",
+  "threadId" : "45896",
+  "title" : "malicious software warning",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=45896&start=0&st=0&sk=t&sd=a",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "348155",
+    "author" : {
+      "username" : "mark-s",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.volkszone.com/VZi/customavatars/avatar654_1.gif"
+    },
+    "content" : "trying to view: \n<br> \n<br>\n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=45893\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">http://www.ssvc.org.uk/phpbb/viewtopic.php?t=45893</a> \n<br> \n<br>I got a message saying malware detected, then gives me an info page about the problem \n<br> \n<br>\n<a href=\"http://safebrowsing.clients.google.com/safebrowsing/diagnostic?site=http://fwt.txdnl.com/5-10/t/r/tridau/images/ochoweb.jpg&amp;client=googlechrome&amp;hl=en-GB\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">http://safebrowsing.clients.google.com/safebrowsing/diagnostic?site=http://fwt.txdnl.com/5-10/t/r/tridau/images/ochoweb.jpg&amp;client=googlechrome&amp;hl=en-GB</a> \n<br> \n<br>I don't think it's a problem with the forum as it only seems to be that page, maybe something in the posting? an image or link maybe.",
+    "lastEdited" : "Wed Sep 03, 2008 3:12 pm"
+  }, {
+    "postId" : "352209",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Hi Mark, \n<br>Thanks for reporting this and sorry it's taken so long to look into it. I took a look at work but couldn't see anything, but found out today what it was while using Chrome (as you were by the looks of it). \n<br> \n<br>Tridau's avatar image is hosted by freewebtown which redirects to \"fwt.txdnl.com\". Google have obviously found malware hosted on that domain, hence the warning. No threat to forum users unless they rummage round the fwt.txdnl.com site. \n<br> \n<br>Thanks for reporting it. \n<br> \n<br>John",
+    "lastEdited" : "Mon Sep 15, 2008 9:47 pm"
+  } ]
+}

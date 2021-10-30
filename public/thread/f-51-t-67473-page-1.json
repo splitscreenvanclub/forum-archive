@@ -1,0 +1,128 @@
+{
+  "forumId" : "51",
+  "threadId" : "67473",
+  "title" : "SSVC.ORG.UK downtime today",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=51&t=67473&start=0",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "519975",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Just to let you know that the site and forums will be down today for a couple of hours while our hosting company moves us to a less busy server.\n<br>Hopefully this will address the poor performance we've been seeing. Fingers crossed!\n<br>\n<br>John",
+    "lastEdited" : "Mon Jul 05, 2010 10:55 am"
+  }, {
+    "postId" : "519988",
+    "author" : {
+      "username" : "Russ T",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i524.photobucket.com/albums/cc328/demofour/P1010267-2.jpg"
+    },
+    "content" : "I can get back on now and it seams much faster so looks like it works \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Tue Jul 06, 2010 11:24 am"
+  }, {
+    "postId" : "520006",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=137_1279617605.jpg"
+    },
+    "content" : "some people can not get access anymore... I had to jump onto another pc and it works fine here but not on mine....advise please",
+    "lastEdited" : "Tue Jul 06, 2010 12:52 pm"
+  }, {
+    "postId" : "520042",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Sorry for the extended downtime.\n<br>The server change meant a DNS change (DNS maps server names like \n<!-- w -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk\">www.ssvc.org.uk</a>\n<!-- w --> onto their IP address 217.10.140.15).\n<br>Different people will get the DNS refresh at different times (usually depends which ISP you are with), hence some people could access OK and some could not.\n<br>We had a few glitches in the migration but initial impressions are that the site is much quicker so I think it was worth it. Fingers crossed that the improvement continues.\n<br>Cheers,\n<br>John",
+    "lastEdited" : "Tue Jul 06, 2010 5:30 pm"
+  }, {
+    "postId" : "520093",
+    "author" : {
+      "username" : "60/15windows",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=198_1256826762.jpg"
+    },
+    "content" : "Still cant get on the site with Mozzila,but could 3 hrs ago.",
+    "lastEdited" : "Tue Jul 06, 2010 7:44 pm"
+  }, {
+    "postId" : "520215",
+    "author" : {
+      "username" : "Telboyofpeckham",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=17744_1245147415.jpg"
+    },
+    "content" : "Cannot access 'Search' with Safari 5 or Google Chrome on Mac. Just shows blank page.",
+    "lastEdited" : "Wed Jul 07, 2010 9:15 am"
+  }, {
+    "postId" : "520246",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n Telboyofpeckham wrote:\n</div>\n<div class=\"quotecontent\">\n Cannot access 'Search' with Safari 5 or Google Chrome on Mac. Just shows blank page.\n</div>\n<br>I have the same issue on my phone so will take a look when i get back to my desk.\n<br>John",
+    "lastEdited" : "Wed Jul 07, 2010 10:15 am"
+  }, {
+    "postId" : "520310",
+    "author" : {
+      "username" : "Le Counte de JAYFOR",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n nick wrote:\n</div>\n<div class=\"quotecontent\">\n  I had to jump onto another pc..advise please\n</div>\n<br>\n<span style=\"font-size: 200%; line-height: normal\">STOP</span> jumping on pc's , you'll get Ginger pijbes all over the keys \n<img src=\"./images/smilies/smile.gif\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Wed Jul 07, 2010 2:26 pm"
+  }, {
+    "postId" : "520341",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n Telboyofpeckham wrote:\n</div>\n<div class=\"quotecontent\">\n Cannot access 'Search' with Safari 5 or Google Chrome on Mac. Just shows blank page.\n</div>\n<br>Is it OK now? Now good for me on Safari (and all other browsers I have) as well as on my phone (android).\n<br>John",
+    "lastEdited" : "Wed Jul 07, 2010 4:41 pm"
+  } ]
+}

@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "47001",
+  "title" : "removing backingplates from spindels",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=47001&start=0&st=0&sk=t&sd=a",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "358268",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i221.photobucket.com/albums/dd18/readyboyvw/barny.jpg"
+    },
+    "content" : "Ive stripped my brakes off my spindels and now just have the backing plates to remove but they appear to not pull straight off, looking in my manual it looks like i need to remove a spacer first , whats the best method? drifting it off and how? need to get is sorted so i can send them to vwjim to get them sorted \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sun Oct 05, 2008 1:09 pm"
+  }, {
+    "postId" : "358271",
+    "author" : {
+      "username" : "ronnie12342003",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i15.photobucket.com/albums/a376/ronnie12342003/camera055.jpg"
+    },
+    "content" : "just tap them of spacer stays there \n<img src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Sun Oct 05, 2008 1:15 pm"
+  }, {
+    "postId" : "358272",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i221.photobucket.com/albums/dd18/readyboyvw/barny.jpg"
+    },
+    "content" : "ok cool just the hole seems a bit small to allow them to pass over, so if i \"gently tap\" \n<img src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> with a hammer they will pop off?\n<br>\n<br>\n<br>edit: ive just had a look and to be honest i think tapping them off will damage the backingplates, surley the spacer comes off?",
+    "lastEdited" : "Sun Oct 05, 2008 1:19 pm"
+  }, {
+    "postId" : "358467",
+    "author" : {
+      "username" : "vwjim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://193.0.234.78/143005000704.jpg"
+    },
+    "content" : "Yes, the spacer needs to come off. (These are I assume early spindles)",
+    "lastEdited" : "Mon Oct 06, 2008 8:09 am"
+  }, {
+    "postId" : "358550",
+    "author" : {
+      "username" : "ronnie12342003",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i15.photobucket.com/albums/a376/ronnie12342003/camera055.jpg"
+    },
+    "content" : "haha there lies the problem mine r late \n<img src=\"./images/smilies/icon_eek.gif\" alt=\"8O\" title=\"eek\">",
+    "lastEdited" : "Mon Oct 06, 2008 4:54 pm"
+  }, {
+    "postId" : "358556",
+    "author" : {
+      "username" : "readyboy61",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i221.photobucket.com/albums/dd18/readyboyvw/barny.jpg"
+    },
+    "content" : "thought so, yep early spindels, do i need to keep the spacers as im going to be running csp disc brakes?\n<br>\n<br>Whats the easiest way to drift them off?",
+    "lastEdited" : "Mon Oct 06, 2008 5:04 pm"
+  }, {
+    "postId" : "358571",
+    "author" : {
+      "username" : "saff",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "You need the spacer (spigot ring) for the CSP brakes, but if you don't want the backing plates just knock them off, which will act as a drift, otherwise you need a bearing puller that clamps around the spigot ring and has like a razor edge that is forced under the spacer as it's tightend up. It can then be pulled off.",
+    "lastEdited" : "Mon Oct 06, 2008 5:46 pm"
+  } ]
+}

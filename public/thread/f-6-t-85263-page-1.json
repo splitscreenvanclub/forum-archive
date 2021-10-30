@@ -1,0 +1,154 @@
+{
+  "forumId" : "6",
+  "threadId" : "85263",
+  "title" : "Rumbling noise from gearbox - what's the cause?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=85263",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 11,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "657935",
+    "author" : {
+      "username" : "j0hn",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "The gearbox in our van is making quite load rumbling noises, which seem to have got worse recently.\n<br>\n<br>The rumbling noise is there from start up when in neutral - it goes away when the clutch is fully depressed. The noise seems to get worse when pulling away - either stationary or accelerating, or engine braking. If you press the clutch when travelling the noise goes away even if it is still in gear, the same goes for coasting - until engine braking begins.\n<br>\n<br>I don't think it's as bad in reverse - but i just might not have paid as much attention \n<img src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\"> \n<br>\n<br>Gearbox oil was changed a few weeks ago which seemed to make it worse \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> I got a local garage to do it while they were checking the carbs and timing. They put standard 80/90 hypoid in.\n<br>\n<br>I changed the oil again this week for peace of mind - this time with Fuchs Titan synthetic 80w90 Hypoid and stuck in a tube of Forte diff treatment too. This seems to have quietened it slightly but not much \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> \n<br>\n<br>The magnetic drain plug was a bit furry when I pulled it out - not sure if the garage cleaned it the other week though \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> There were no big lumps or gritty bits just small silver flakes - more like copperslip type consistency.\n<br>\n<br>Gearbox is a 1500 beetle unit (AH I think) mated to an 2007cc engine - bus is straight axled.\n<br>\n<br>The box came from Jonesy at Boatyard buses (He didn't rip me off either, got rather a good deal actually \n<img src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\"> ). John Walklett then gave it a once over and welded 3rd and 4th - he said it looked to be in very good condition.\n<br>\n<br>The S/A conversion was done by a guy in Leeds around April time last year.\n<br>\n<br>We've done around 6-7000 miles on it since then.\n<br>\n<br>Any suggestions / questions welcomed.\n<br>\n<br>Cheers",
+    "lastEdited" : "Fri May 18, 2012 2:06 pm"
+  }, {
+    "postId" : "657939",
+    "author" : {
+      "username" : "fire3500",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=34216_1274113612.jpg"
+    },
+    "content" : "Sounds like clutch release bearing...",
+    "lastEdited" : "Fri May 18, 2012 2:16 pm"
+  }, {
+    "postId" : "657944",
+    "author" : {
+      "username" : "dombutler",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=141_1358500587.jpg"
+    },
+    "content" : "<div class=\"quotetitle\">\n fire3500 wrote:\n</div>\n<div class=\"quotecontent\">\n Sounds like clutch release bearing...\n</div>\n<br>\n<br>yep, that's the most likely cause, although I have had the same noise from the input shaft bearing. Mind you that was on an old gearbox.\n<br>\n<br>Cheers,\n<br>Dom.",
+    "lastEdited" : "Fri May 18, 2012 2:32 pm"
+  }, {
+    "postId" : "657945",
+    "author" : {
+      "username" : "berpsta",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=4554_1246215912.jpg"
+    },
+    "content" : "I'd hazard to guess the same clutch release bearing!",
+    "lastEdited" : "Fri May 18, 2012 2:34 pm"
+  }, {
+    "postId" : "657946",
+    "author" : {
+      "username" : "j0hn",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "That seems to be the general consesus - which is good, at leat it ain't the 'box itself. Afterall the engine is only 4 bolts \n<img src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\"> \n<br>\n<br>I've had a release bearing go before - but it made noise when the clutch \n<strong>was</strong> pressed, not when fully engaged??\n<br>\n<br>I thought that the release bearing didn't do anything when the clutch was fully engaged? Just trying to understand the cause.\n<br>\n<br>Cheers!!",
+    "lastEdited" : "Fri May 18, 2012 2:53 pm"
+  }, {
+    "postId" : "658016",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.muchos.co.uk/members/mrico1964/t_87_1.jpg"
+    },
+    "content" : "check the wheel bearings (fingers crossed).\n<br>\n<br>release bearing. this has been a common fault for a few months, some below standard bearings being used. \n<br>\n<br>what im guessing at and im no gearbox guru, is that the input shaft bearing (inside the gearbox) has failed/ failing. where the bits stuck to magnetic plug fines or more like flakes. the bigger the particals the sooner the fail and the more expensive the repair. \n<img src=\"./images/smilies/icon_eek.gif\" alt=\"8O\" title=\"eek\"> \n<br>\n<br>edit the fines/flakes on the plug after 2 weeks is a bit of a pointer, have another look \n<img src=\"./images/smilies/icon_question.gif\" alt=\":?:\" title=\"Question\"> \n<br>\n<br>mark",
+    "lastEdited" : "Fri May 18, 2012 8:17 pm"
+  }, {
+    "postId" : "658111",
+    "author" : {
+      "username" : "j0hn",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n mrico1964 wrote:\n</div>\n<div class=\"quotecontent\">\n check the wheel bearings (fingers crossed).\n <br>\n <br>release bearing. this has been a common fault for a few months, some below standard bearings being used. \n <br>\n <br>what im guessing at and im no gearbox guru, is that the input shaft bearing (inside the gearbox) has failed/ failing. where the bits stuck to magnetic plug fines or more like flakes. the bigger the particals the sooner the fail and the more expensive the repair. \n <img src=\"./images/smilies/icon_eek.gif\" alt=\"8O\" title=\"eek\"> \n <br>\n <br>edit the fines/flakes on the plug after 2 weeks is a bit of a pointer, have another look \n <img src=\"./images/smilies/icon_question.gif\" alt=\":?:\" title=\"Question\"> \n <br>\n <br>mark\n</div>\n<br>\n<br>Cheers for the suggestions.\n<br>\n<br>Wheel bearings are ok - besides - the noise is there when stationary, in neutral with the clutch up - and when travelling with the clutch depressed.\n<br>\n<br>Release bearing seem to be popular - I just can't understand how? The noise disappears when the release bearing is being used and loaded up - surely if it was failing it would make some sort of noise then? It doesn't \"feel\" like that sort of noise.\n<br>\n<br>Input shaft bearing sounds, unfortunately, more likely - the noise is there only when there is some sort of loading between the input shaft and the engine. ie. Setting off, accelerating, engine braking. Bugger.\n<br>\n<br>I'm not sure whether the garage cleaned the plug? So it's either 2 weekd of build-up, or 7000 miles. I would say a mix of fines and very small flakes - you couldn't feel the particles in a gritty way, just see them.\n<br>\n<br>Cheers.",
+    "lastEdited" : "Sat May 19, 2012 1:36 pm"
+  }, {
+    "postId" : "658124",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.muchos.co.uk/members/mrico1964/t_87_1.jpg"
+    },
+    "content" : "id drop the oil again and fingers crossed it'll be clean. \n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://i98.photobucket.com/albums/l261/fairwynds/IMG_0070.jpg\">http://i98.photobucket.com/albums/l261/ ... G_0070.jpg</a>\n<!-- m -->\n<br>\n<br>this is a pic of t25 one (nicked off 8090 \n<img src=\"./images/smilies/icon_blackeye.gif\" alt=\":blackeye:\" title=\"blackeye\"> ) from a gearbox that has no problems. unkown service history so it could be 2yrs or 20yrs of wear and this is considered to be a normal collection.\n<br>\n<br>mark",
+    "lastEdited" : "Sat May 19, 2012 3:28 pm"
+  }, {
+    "postId" : "658179",
+    "author" : {
+      "username" : "j0hn",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n mrico1964 wrote:\n</div>\n<div class=\"quotecontent\">\n id drop the oil again and fingers crossed it'll be clean. \n <br>\n <br>\n <!-- m -->\n <a class=\"postlink\" href=\"http://i98.photobucket.com/albums/l261/fairwynds/IMG_0070.jpg\">http://i98.photobucket.com/albums/l261/ ... G_0070.jpg</a>\n <!-- m -->\n <br>\n <br>this is a pic of t25 one (nicked off 8090 \n <img src=\"./images/smilies/icon_blackeye.gif\" alt=\":blackeye:\" title=\"blackeye\"> ) from a gearbox that has no problems. unkown service history so it could be 2yrs or 20yrs of wear and this is considered to be a normal collection.\n <br>\n <br>mark\n</div>\n<br>\n<br>Cheers for the pic - there wasn't much more than that on mine really, although the magnet on mine is flush with the bottom of the plug so it collected in the recess so maybe a wee bit more. Consistency-wise it looked similar.\n<br>\n<br>I'll try and drop the oil tomorrow and see what it's like then. Trouble is I'm away with work from tomorrow afternoon for a week - and then supposed to be taking the van to Europe as soon as I get beck next Friday \n<img src=\"./images/smilies/icon_eek.gif\" alt=\"8O\" title=\"eek\"> hence the questions on the gearbox!\n<br>\n<br>One thing I did notice today after taking it for a decent drive out - the noise seems to get less once everything has warmed up. I pulled up and left it idling in neutral and all you could hear was the engine - the rumbling had gone? It was also quieter when driving too?",
+    "lastEdited" : "Sat May 19, 2012 8:40 pm"
+  }, {
+    "postId" : "658187",
+    "author" : {
+      "username" : "mrico1964",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.muchos.co.uk/members/mrico1964/t_87_1.jpg"
+    },
+    "content" : "well there's only one thing for it......turn the radio up \n<img src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\">\n<br> \n<br>\n<br>mark",
+    "lastEdited" : "Sat May 19, 2012 9:36 pm"
+  }, {
+    "postId" : "826384",
+    "author" : {
+      "username" : "kp73",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "I realise this is quite an old thread, but I have a very similar rumbling noise - in neutral or in gear with the clutch pedal up, disappears when the pedal is depressed. Did you ever figure out what caused your noise?",
+    "lastEdited" : "Mon Mar 16, 2015 9:28 pm"
+  } ]
+}

@@ -1,0 +1,63 @@
+{
+  "forumId" : "2",
+  "threadId" : "109093",
+  "title" : "Which Gearbox ??",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=2&t=109093",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "825980",
+    "author" : {
+      "username" : "1965Roadrunner",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Running an AM BOX with a stong 1641cc twin carb IRS bus live in derbyshire so plenty of hills to go at would a AT BOX be any better ??",
+    "lastEdited" : "Fri Mar 13, 2015 8:31 pm"
+  }, {
+    "postId" : "826194",
+    "author" : {
+      "username" : "Graham",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Hi, AT box is too high geared for a 1641 you won't get into 4th till you are doing 50 mph. An AH box would be better it is 4.125 diff, yours is 4.375 and AT is 3.88. hope this helps. \n<br>I am in Derbyshire also , Ilkeston, where are you?",
+    "lastEdited" : "Sun Mar 15, 2015 6:13 pm"
+  }, {
+    "postId" : "826198",
+    "author" : {
+      "username" : "1965Roadrunner",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for he reply I'm in Matlock",
+    "lastEdited" : "Sun Mar 15, 2015 6:23 pm"
+  }, {
+    "postId" : "826235",
+    "author" : {
+      "username" : "OP",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://img.photobucket.com/albums/v215/Dubberware/55%20Bus/ron_newark_air_160314_160px_zps5d2a0148.gif"
+    },
+    "content" : "I'm running an AM box on a strong 1641 with twin Weber 36's. It's well matched to the engine and I don't get many problems with hills. It's all about getting the right gear for the hill.",
+    "lastEdited" : "Sun Mar 15, 2015 9:22 pm"
+  } ]
+}

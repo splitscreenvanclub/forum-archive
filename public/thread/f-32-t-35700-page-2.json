@@ -1,0 +1,180 @@
+{
+  "forumId" : "32",
+  "threadId" : "35700",
+  "title" : "Problems logging in or posting?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=35700&start=15",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 28,
+  "pageNumber" : 2,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "275821",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n Doc wrote:\n</div>\n<div class=\"quotecontent\">\n <div class=\"quotetitle\">\n  nick wrote:\n </div>\n <div class=\"quotecontent\">\n  nope same again!!!! \n  <img src=\"./images/smilies/icon_twisted.gif\" alt=\":twisted:\" title=\"Twisted Evil\"> \n  <img src=\"./images/smilies/icon_twisted.gif\" alt=\":twisted:\" title=\"Twisted Evil\"> \n  <img src=\"./images/smilies/icon_evil.gif\" alt=\":evil:\" title=\"Evil\"> \n  <br>fed up now.....\n </div>\n <br>hmmm.\n <br>Do you have access to another browser just to give it a go on the same connection? (Firefox may be? \n <!-- m -->\n <a class=\"postlink\" href=\"http://www.mozilla.com/products/download.html?product=firefox-2.0.0.11&amp;os=win&amp;lang=en-GB\">http://www.mozilla.com/products/downloa ... lang=en-GB</a>\n <!-- m -->)\n <br>The cookie delete link (\n <!-- m -->\n <a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/cookiedelete.php\">http://www.ssvc.org.uk/phpbb/cookiedelete.php</a>\n <!-- m --> ) should have sorted it without the need to delete all your temp and history files. Have you done the cooie delete on both PCs?\n <br>\n <br>The accelerator I mentioned is from Google (\n <!-- m -->\n <a class=\"postlink\" href=\"http://webaccelerator.google.com/\">http://webaccelerator.google.com/</a>\n <!-- m -->), it causes problems for phpbb.\n <br>\n <br>Sorry for the inconvenience on this one. If you are still having problems tomorrow I can reset your password and log on as you and have a quick test.\n</div> \n<br> \n<br>hi doc, yes i have done the delete on both pcs and am still having problems \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> seems like im not the only one",
+    "lastEdited" : "Wed Dec 19, 2007 12:42 pm"
+  }, {
+    "postId" : "275837",
+    "author" : {
+      "username" : "crass camper",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=4178_1299878004.gif"
+    },
+    "content" : "I'm having the same problem with my home pc but my work pc is fine \n<img src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\">",
+    "lastEdited" : "Wed Dec 19, 2007 3:23 pm"
+  }, {
+    "postId" : "275842",
+    "author" : {
+      "username" : "ploon",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=44_1227282166.gif"
+    },
+    "content" : "i had the same problem \n<br>i deleted the ssvc cookies (there were 2 of them in my cookies folder) by hand and now everything works again",
+    "lastEdited" : "Wed Dec 19, 2007 4:03 pm"
+  }, {
+    "postId" : "275868",
+    "author" : {
+      "username" : "katastrophenschutzwagen",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "i was speaking to another user on the phone tonight.he's having the same difficulties,though like myself can access other forums normally. \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Wed Dec 19, 2007 6:37 pm"
+  }, {
+    "postId" : "275928",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n katastrophenschutzwagen wrote:\n</div>\n<div class=\"quotecontent\">\n i was speaking to another user on the phone tonight.he's having the same difficulties,though like myself can access other forums normally. \n <img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">\n</div> \n<br>Could you get him to mail me his login name? \n<br>Ta! \n<br>John",
+    "lastEdited" : "Wed Dec 19, 2007 11:19 pm"
+  }, {
+    "postId" : "276197",
+    "author" : {
+      "username" : "katastrophenschutzwagen",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "hey doc \n<br>i appreciate what you tried but it's just as bad. if anything,it's actually worse now. \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> no new posts show up at all.and i have to continually log in.it doesn't even recognise my username as i begin to type it. \n<br>any ideas???? \n<br>cheers \n<br>john.",
+    "lastEdited" : "Fri Dec 21, 2007 5:59 pm"
+  }, {
+    "postId" : "276202",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n katastrophenschutzwagen wrote:\n</div>\n<div class=\"quotecontent\">\n hey doc\n <br>i appreciate what you tried but it's just as bad. if anything,it's actually worse now. \n <img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> no new posts show up at all.and i have to continually log in.it doesn't even recognise my username as i begin to type it.\n <br>any ideas????\n <br>cheers\n <br>john.\n</div> \n<br>Sorry for not getting back sooner, I've had 2 nights of Christmas parties. \n<br>-It's not your account as I've been able to log in as you with no problems \n<br>-You've clicked the cookie delete link: \n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/cookiedelete.php\">http://www.ssvc.org.uk/phpbb/cookiedelete.php</a>\n<!-- m --> \n<br>-You're using \n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb\">http://www.ssvc.org.uk/phpbb</a>\n<!-- m --> as the address Not \n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.ukshells.co.uk/phpbb\">http://www.ssvc.ukshells.co.uk/phpbb</a>\n<!-- m --> \n<br> \n<br>The only problem we've had with someone logging on that the above didn't sort had Google Web Accelerator installed. \n<br> \n<br>A few questions... \n<br> \n<br>I presume you are using Internet Explorer, so... \n<br>-Have you tried another browser such as Firefox? \n<!-- m -->\n<a class=\"postlink\" href=\"http://www.mozilla.com/en-US/\">http://www.mozilla.com/en-US/</a>\n<!-- m --> \n<br>- Do you have any non standard tool bars installed on Internet Explorer? \n<br>- Do you have any applications installed to speed up you internet connection? \n<br>- Do you get any error messages? \n<br>- What Internet Service Provider are you using? \n<br> \n<br> \n<br>John",
+    "lastEdited" : "Fri Dec 21, 2007 6:34 pm"
+  }, {
+    "postId" : "276255",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "I've updated the first post with more information about what to do if you have problems. \n<br>John",
+    "lastEdited" : "Fri Dec 21, 2007 10:34 pm"
+  }, {
+    "postId" : "276341",
+    "author" : {
+      "username" : "katastrophenschutzwagen",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "thanks john. \n<br>all seems well. \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> we're moving out in a months time so will consider getting a new pc at temporary house.this thing can go in the bin.",
+    "lastEdited" : "Sat Dec 22, 2007 5:33 pm"
+  }, {
+    "postId" : "287410",
+    "author" : {
+      "username" : "vwjim - work",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://muchos.co.uk/members/vwjim%20-%20work/Sideview-002%20small.jpg"
+    },
+    "content" : "Got the #2 problem.....",
+    "lastEdited" : "Wed Feb 06, 2008 11:40 pm"
+  }, {
+    "postId" : "287413",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n vwjim - work wrote:\n</div>\n<div class=\"quotecontent\">\n Got the #2 problem.....\n</div> \n<br>No you haven't \n<img src=\"./images/smilies/wink.gif\" alt=\";)\" title=\"Wink\">",
+    "lastEdited" : "Thu Feb 07, 2008 12:01 am"
+  }, {
+    "postId" : "287485",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "thanks.",
+    "lastEdited" : "Thu Feb 07, 2008 10:41 am"
+  }, {
+    "postId" : "404374",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "Hi john my wife cant log in any more for some reason,it says she is using in correct username but she's not \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> her name is mrskevsplitty . any ideas please,\n<br>thanks kev",
+    "lastEdited" : "Sat Mar 28, 2009 6:27 pm"
+  } ]
+}

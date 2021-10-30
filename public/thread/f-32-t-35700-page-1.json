@@ -1,0 +1,206 @@
+{
+  "forumId" : "32",
+  "threadId" : "35700",
+  "title" : "Problems logging in or posting?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=35700",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 28,
+  "pageNumber" : 1,
+  "totalPages" : 2,
+  "posts" : [ {
+    "postId" : "261934",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "On the 14th December I made a change to the configuration of the forums that altered the way cookies are set. This may prevent some people logging in. The first thing to do is to delete your browser cookies that are associated with the forum. You can do that by clicking \n<a href=\"http://www.ssvc.org.uk/phpbb/cookiedelete.php\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">here</a> \n<br> \n<br>Alternatively (but not as easy) try the information on this site: \n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.aboutcookies.org/Default.aspx?page=2\">http://www.aboutcookies.org/Default.aspx?page=2</a>\n<!-- m --> \n<br> \n<br>Sorry for the inconvenience this may cause but it's an essential step to make way for some new features coming to the site later this year. \n<br> \n<br>If the problem isn't down to the change here is some more suggestions..... \n<br> \n<br>There are a number of reasons why you may have trouble logging in. \n<br>Some of these include: \n<br> \n<br>\n<strong>1) Cookie problems. </strong> \n<br> \n<br>To delete your forum cookies please click here: \n<a href=\"http://www.ssvc.org.uk/phpbb/cookiedelete.php\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">here</a> \n<br> \n<br> \n<br>\n<strong>2) email address change</strong> \n<br>Have you changed the email address associated with your forum account? If so you will be temporarily locked out of the forum. Please mail the forum admins to get your account reactivated (address ssvcforum AT ssvc DOT org DOT uk). \n<br> \n<br>\n<strong>3) User error.</strong> \n<br>Make sure you type your password in correctly and with the same case (make sure you don't have Caps Lock on). If you think you may be using the wrong password, try the forgotten password link: \n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/profile.php?mode=sendpassword\">http://www.ssvc.org.uk/phpbb/profile.ph ... ndpassword</a>\n<!-- m --> \n<br> \n<br>\n<strong>4) Google Web Accelerator or similar product.</strong> \n<br>We have had a user have problems caused by Google Web Accelerator. There is a known problem with the accelerator that impacts phpbb forum users. Other similar products may have similar problems. \n<br> \n<br>\n<strong>5)Using the incorrect forum address to login with.</strong> \n<br>Make sure your login page has the \n<!-- w -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk\">www.ssvc.org.uk</a>\n<!-- w --> address (not the old ssvc.ukshells.co.uk address) \n<br> \n<br>If you're an Internet Explorer user it may also be worth trying another browser such as Firefox (\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.mozilla.com/en-US/\">http://www.mozilla.com/en-US/</a>\n<!-- m -->) to see if you have the same problems. \n<br> \n<br>If you are still having problems just drop a mail to the forum admins: \n<br>ssvcforum AT ssvc DOT org DOT uk. In the mail please could you give the following information: \n<br>\n<ul>\n Username\n <br>Internet service provider\n <br>Browser used (Internet Explorer, Firefox, Safari etc.) \n <br>Any add on tool bars installed in the browser\n <br>What error messages fo you get?\n <br>Have you checked the 5 points above?\n</ul> \n<br> \n<br>Cheers, \n<br> \n<br>John",
+    "lastEdited" : "Mon Oct 22, 2007 6:23 pm"
+  }, {
+    "postId" : "261965",
+    "author" : {
+      "username" : "BROOKSY",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://s28.photobucket.com/albums/c202/mikemelbrooks/th_bigbrewer.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n <b>Quote:</b>\n</div>\n<div class=\"quotecontent\">\n Sorry for the inconvenience this may cause but it's an essential step to make way for some new features coming to the site later this year. \n</div> \n<br>So whats new Doc?",
+    "lastEdited" : "Mon Oct 22, 2007 7:55 pm"
+  }, {
+    "postId" : "262175",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n BROOKSY wrote:\n</div>\n<div class=\"quotecontent\">\n <div class=\"quotetitle\">\n  <b>Quote:</b>\n </div>\n <div class=\"quotecontent\">\n  Sorry for the inconvenience this may cause but it's an essential step to make way for some new features coming to the site later this year. \n </div>\n <br>So whats new Doc?\n</div> \n<br> \n<br>Shouldn't that have been \"What's up Doc?\" \n<br> \n<br>Secret, I'd have to shoot you if I told you \n<img src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Tue Oct 23, 2007 4:42 pm"
+  }, {
+    "postId" : "275614",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "right...so now i am having to log on everytime i visit the forum??? ie my remember me(log on auto every time you visit) aint working??? any tips please gizmo???",
+    "lastEdited" : "Tue Dec 18, 2007 1:14 pm"
+  }, {
+    "postId" : "275621",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n nick wrote:\n</div>\n<div class=\"quotecontent\">\n right...so now i am having to log on everytime i visit the forum??? ie my remember me(log on auto every time you visit) aint working??? any tips please gizmo???\n</div> \n<br>Nick, take a look here: \n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=37169\">http://www.ssvc.org.uk/phpbb/viewtopic.php?t=37169</a>\n<!-- m --> \n<br>basically all you need to do is click here: \n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/cookiedelete.php\">http://www.ssvc.org.uk/phpbb/cookiedelete.php</a>\n<!-- m --> \n<br>and all your problems should be sorted (well, all problems to do with posting and logging on here, it won't do your Christmas shopping for you) \n<br>John",
+    "lastEdited" : "Tue Dec 18, 2007 1:46 pm"
+  }, {
+    "postId" : "275654",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "nope i did all that and it still asks me to log on every time i visit.. \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Tue Dec 18, 2007 4:35 pm"
+  }, {
+    "postId" : "275677",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n nick wrote:\n</div>\n<div class=\"quotecontent\">\n nope i did all that and it still asks me to log on every time i visit.. \n <img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">\n</div> \n<br> \n<br>Are you using the proper address (\n<!-- w -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk\">www.ssvc.org.uk</a>\n<!-- w -->) or the old temporary one (ssvc.ukshells.co.uk). If you are till having problems after deleting the cookies my guess is you are using the ukshells address (I may be wrong though). \n<br> \n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=31925\">http://www.ssvc.org.uk/phpbb/viewtopic.php?t=31925</a>\n<!-- m -->",
+    "lastEdited" : "Tue Dec 18, 2007 5:19 pm"
+  }, {
+    "postId" : "275698",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n Doc wrote:\n</div>\n<div class=\"quotecontent\">\n <div class=\"quotetitle\">\n  nick wrote:\n </div>\n <div class=\"quotecontent\">\n  nope i did all that and it still asks me to log on every time i visit.. \n  <img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">\n </div>\n <br>\n <br>Are you using the proper address (\n <!-- w -->\n <a class=\"postlink\" href=\"http://www.ssvc.org.uk\">www.ssvc.org.uk</a>\n <!-- w -->) or the old temporary one (ssvc.ukshells.co.uk). If you are till having problems after deleting the cookies my guess is you are using the ukshells address (I may be wrong though). \n <br>\n <br>\n <!-- m -->\n <a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=31925\">http://www.ssvc.org.uk/phpbb/viewtopic.php?t=31925</a>\n <!-- m -->\n</div> \n<br> \n<br> \n<br>hi doc...no i am using the correct one and also noticed that new posts are not highlighted once i do log on...this is on my home pc and my works one also...so i am guessing the fault is the server end somewhere... \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Tue Dec 18, 2007 7:01 pm"
+  }, {
+    "postId" : "275707",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n nick wrote:\n</div>\n<div class=\"quotecontent\">\n <div class=\"quotetitle\">\n  Doc wrote:\n </div>\n <div class=\"quotecontent\">\n  <div class=\"quotetitle\">\n   nick wrote:\n  </div>\n  <div class=\"quotecontent\">\n   nope i did all that and it still asks me to log on every time i visit.. \n   <img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">\n  </div>\n  <br>\n  <br>Are you using the proper address (\n  <!-- w -->\n  <a class=\"postlink\" href=\"http://www.ssvc.org.uk\">www.ssvc.org.uk</a>\n  <!-- w -->) or the old temporary one (ssvc.ukshells.co.uk). If you are till having problems after deleting the cookies my guess is you are using the ukshells address (I may be wrong though). \n  <br>\n  <br>\n  <!-- m -->\n  <a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=31925\">http://www.ssvc.org.uk/phpbb/viewtopic.php?t=31925</a>\n  <!-- m -->\n </div>\n <br>\n <br>\n <br>hi doc...no i am using the correct one and also noticed that new posts are not highlighted once i do log on...this is on my home pc and my works one also...so i am guessing the fault is the server end somewhere... \n <img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">\n</div> \n<br> \n<br>I doubt it's a server side issue. \n<br> \n<br>OK... \n<br>-you've deleted your cookies using the cookie deleter \n<br>-you're using the correct address \n<br> \n<br>Have you got Google Web Accelerator installed? This is know to make phpBB forums problematic for users who have installed it. I've had one guy with issues before, uninstalling it fixed the problem. \n<br> \n<br>If you haven't got it installed, what browser are you using? Do you have any other kinds of accelerator software installed? \n<br> \n<br>John",
+    "lastEdited" : "Tue Dec 18, 2007 7:33 pm"
+  }, {
+    "postId" : "275749",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "hi doc, i use internet explorer, i dont know what you mean Accelerator installed? and as i said this is happening on 2 different pc's that i have never had a problem with before...i still have to log on every visit and after logging on the new posts are not highlighted??? \n<br>i dont know what else to do?? i have read and followed all the links possable..... \n<br>sorry to be a pain. i am on other foroums which are the same layout as this one and dont have the fault i am getting here...",
+    "lastEdited" : "Tue Dec 18, 2007 10:41 pm"
+  }, {
+    "postId" : "275753",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "sorry doc i think ive sorted it...but i had to delete all history and temp files????",
+    "lastEdited" : "Tue Dec 18, 2007 10:48 pm"
+  }, {
+    "postId" : "275755",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "nope same again!!!! \n<img src=\"./images/smilies/icon_twisted.gif\" alt=\":twisted:\" title=\"Twisted Evil\"> \n<img src=\"./images/smilies/icon_twisted.gif\" alt=\":twisted:\" title=\"Twisted Evil\"> \n<img src=\"./images/smilies/icon_evil.gif\" alt=\":evil:\" title=\"Evil\"> \n<br>fed up now.....",
+    "lastEdited" : "Tue Dec 18, 2007 10:49 pm"
+  }, {
+    "postId" : "275763",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n nick wrote:\n</div>\n<div class=\"quotecontent\">\n nope same again!!!! \n <img src=\"./images/smilies/icon_twisted.gif\" alt=\":twisted:\" title=\"Twisted Evil\"> \n <img src=\"./images/smilies/icon_twisted.gif\" alt=\":twisted:\" title=\"Twisted Evil\"> \n <img src=\"./images/smilies/icon_evil.gif\" alt=\":evil:\" title=\"Evil\"> \n <br>fed up now.....\n</div> \n<br>hmmm. \n<br>Do you have access to another browser just to give it a go on the same connection? (Firefox may be? \n<!-- m -->\n<a class=\"postlink\" href=\"http://www.mozilla.com/products/download.html?product=firefox-2.0.0.11&amp;os=win&amp;lang=en-GB\">http://www.mozilla.com/products/downloa ... lang=en-GB</a>\n<!-- m -->) \n<br>The cookie delete link (\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/cookiedelete.php\">http://www.ssvc.org.uk/phpbb/cookiedelete.php</a>\n<!-- m --> ) should have sorted it without the need to delete all your temp and history files. Have you done the cooie delete on both PCs? \n<br> \n<br>The accelerator I mentioned is from Google (\n<!-- m -->\n<a class=\"postlink\" href=\"http://webaccelerator.google.com/\">http://webaccelerator.google.com/</a>\n<!-- m -->), it causes problems for phpbb. \n<br> \n<br>Sorry for the inconvenience on this one. If you are still having problems tomorrow I can reset your password and log on as you and have a quick test.",
+    "lastEdited" : "Tue Dec 18, 2007 11:19 pm"
+  }, {
+    "postId" : "275778",
+    "author" : {
+      "username" : "katastrophenschutzwagen",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "nick-EXACTLY the same problems as me. \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">",
+    "lastEdited" : "Wed Dec 19, 2007 12:32 am"
+  }, {
+    "postId" : "275781",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n katastrophenschutzwagen wrote:\n</div>\n<div class=\"quotecontent\">\n nick-EXACTLY the same problems as me. \n <img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\">\n</div> \n<br> \n<br> \n<br>thank's johnny i thought i was going mad..",
+    "lastEdited" : "Wed Dec 19, 2007 5:03 am"
+  } ]
+}

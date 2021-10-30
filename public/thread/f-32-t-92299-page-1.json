@@ -1,0 +1,115 @@
+{
+  "forumId" : "32",
+  "threadId" : "92299",
+  "title" : "No site header",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=92299",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "709937",
+    "author" : {
+      "username" : "Mr Tim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.muchos.co.uk/members/Mortiss/avytaaaaaa.jpg"
+    },
+    "content" : "Every time I log in lately there is no header for the site at all so cant access events or any other options that are normally there.\n<br>Cheers Just realised as well I`m not getting email notification of active topics.\n<br>Tim",
+    "lastEdited" : "Tue Mar 12, 2013 6:32 pm"
+  }, {
+    "postId" : "710036",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://farm1.static.flickr.com/207/443424848_805aad5419_o.gif"
+    },
+    "content" : "x2",
+    "lastEdited" : "Tue Mar 12, 2013 10:54 pm"
+  }, {
+    "postId" : "710038",
+    "author" : {
+      "username" : "Phil Hughes",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i393.photobucket.com/albums/pp11/boc955b/ssvcphoto_edited-1.jpg"
+    },
+    "content" : "And me",
+    "lastEdited" : "Tue Mar 12, 2013 10:59 pm"
+  }, {
+    "postId" : "710282",
+    "author" : {
+      "username" : "monkey knuts",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://farm1.static.flickr.com/207/443424848_805aad5419_o.gif"
+    },
+    "content" : "I am getting topic notifications though. \n<br>I'm becoming increasingly tempted to \n<strong><em>actually</em></strong> re-new my long lapsed membership, but wasn't that tab somewhere in the header?",
+    "lastEdited" : "Thu Mar 14, 2013 11:43 am"
+  }, {
+    "postId" : "722421",
+    "author" : {
+      "username" : "Mr Tim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.muchos.co.uk/members/Mortiss/avytaaaaaa.jpg"
+    },
+    "content" : "Seems like a bit of a waste of time posting in here, not one single reply as to what the problem may be, and I`m not the only one!!!",
+    "lastEdited" : "Tue May 14, 2013 9:15 am"
+  }, {
+    "postId" : "722431",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "Don't worry its the same with the Tapatalk app that hasn't been reinstated you just get ignored, seems no one can spare half an hour since the down time at Xmas to fix it \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<br>\n<br>If the site administrator needs help with sorting these issues I could get them sorted same day.. but then no one is going to trust me with the FTP client log in details as I'm an unknown to them although I do run my own successful car related web forum if they need a reference (not VW). Frustrating really when you use and like a site so much which could be so much more with a small amount of effort. I'm guessing the site isn't being backed up either so next crash how much will be lost again? Not trying to be an arse or have attitude, but I know I can help and I also know the help won't be taken as I would have the same trust issues with my own site.",
+    "lastEdited" : "Tue May 14, 2013 11:08 am"
+  }, {
+    "postId" : "722481",
+    "author" : {
+      "username" : "paul_f",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "HI there,\n<br>\n<br>The site is backed up by the hosting company, so don't worry about that.\n<br>\n<br>I have asked for the FTP details but I haven't had any reply from the admin.\n<br>\n<br>I will try again via another method.\n<br>\n<br>Cheers\n<br>Paul",
+    "lastEdited" : "Tue May 14, 2013 2:02 pm"
+  }, {
+    "postId" : "722889",
+    "author" : {
+      "username" : "paul_f",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Thanks to Sam Gerrard (the treasurers son), we now have tapatalk back!",
+    "lastEdited" : "Thu May 16, 2013 12:50 pm"
+  } ]
+}

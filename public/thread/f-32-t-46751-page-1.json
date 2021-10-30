@@ -1,0 +1,37 @@
+{
+  "forumId" : "32",
+  "threadId" : "46751",
+  "title" : "Help logging in for Nurse Kerry",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=46751&start=0&st=0&sk=t&sd=a",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "355828",
+    "author" : {
+      "username" : "DR STEW",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i237.photobucket.com/albums/ff279/moonfairy35/CIMG7803.jpg"
+    },
+    "content" : "well call me stoopid but i can't remember my password! \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> \n<br>Before i just used to put in my user name, and the password would come up. Now the sites all new i went to put in my user name, and no password came up!!!! \n<img src=\"./images/smilies/icon_eek.gif\" alt=\"8O\" title=\"eek\"> I tried putting in my username and, e-mail add....it can't find me!!!!!!!!!!!!!! \n<img src=\"./images/smilies/icon_redface.gif\" alt=\":oops:\" title=\"Red Face\"> \n<br>Love from a very confussled\n<br>Nurse Kerry \n<img src=\"./images/smilies/icon_flower.gif\" alt=\":flower:\" title=\"flower\">\n<br>\n<br>Please help \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<img src=\"./images/smilies/icon_rolleyes.gif\" alt=\":roll:\" title=\"Roll Eyes\"> \n<img src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\"> \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\">",
+    "lastEdited" : "Fri Sep 26, 2008 1:13 pm"
+  }, {
+    "postId" : "355850",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Have you used the forgotten password link on the log in page?\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://ssvc.org.uk/phpbb/ucp.php?mode=sendpassword\" onclick=\"window.open(this.href);return false;\">http://ssvc.org.uk/phpbb/ucp.php?mode=sendpassword</a>\n<!-- m -->\n<br>This will send some information to your email address which will allow you to log in. I can set your password for you but for security reasons it's best to use the link.\n<br>Let me know if you have problems,\n<br>John",
+    "lastEdited" : "Fri Sep 26, 2008 3:23 pm"
+  } ]
+}

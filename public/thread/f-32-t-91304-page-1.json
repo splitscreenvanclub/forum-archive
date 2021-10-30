@@ -1,0 +1,76 @@
+{
+  "forumId" : "32",
+  "threadId" : "91304",
+  "title" : "How do you create a link in signatures",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=91304",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "702937",
+    "author" : {
+      "username" : "snapy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=36021_1362769940.jpg"
+    },
+    "content" : "Can anyone help a thicko set his website signature as a link?????.",
+    "lastEdited" : "Wed Feb 06, 2013 9:12 pm"
+  }, {
+    "postId" : "703035",
+    "author" : {
+      "username" : "paul_f",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Tick the box about BBcodes in the edit signature section",
+    "lastEdited" : "Thu Feb 07, 2013 12:35 pm"
+  }, {
+    "postId" : "703038",
+    "author" : {
+      "username" : "snapy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=36021_1362769940.jpg"
+    },
+    "content" : "<div class=\"quotetitle\">\n paul_f wrote:\n</div>\n<div class=\"quotecontent\">\n Tick the box about BBcodes in the edit signature section\n</div>\n<br>Thank Paul\n<br>just checked that but its already ticked!!! must be doing something else wrong.\n<br>\n<br>snapy",
+    "lastEdited" : "Thu Feb 07, 2013 12:42 pm"
+  }, {
+    "postId" : "703039",
+    "author" : {
+      "username" : "paul_f",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Just checked, you need to untick all the boxes",
+    "lastEdited" : "Thu Feb 07, 2013 12:48 pm"
+  }, {
+    "postId" : "703040",
+    "author" : {
+      "username" : "snapy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=36021_1362769940.jpg"
+    },
+    "content" : "<div class=\"quotetitle\">\n paul_f wrote:\n</div>\n<div class=\"quotecontent\">\n Just checked, you need to untick all the boxes\n</div>\n<br> \n<br>Result,cheers\n<br>\n<br>snapy",
+    "lastEdited" : "Thu Feb 07, 2013 12:54 pm"
+  } ]
+}

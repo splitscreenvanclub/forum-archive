@@ -1,0 +1,50 @@
+{
+  "forumId" : "32",
+  "threadId" : "93738",
+  "title" : "membership",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=93738",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "719536",
+    "author" : {
+      "username" : "collino72",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=37428_1372110696.jpg"
+    },
+    "content" : "Hi ive just become a member but dont no how to access member only page and how do i get the little sign next to my name?????",
+    "lastEdited" : "Mon Apr 29, 2013 8:51 pm"
+  }, {
+    "postId" : "719544",
+    "author" : {
+      "username" : "8 8US",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=36819_1420619740.gif"
+    },
+    "content" : "Unfortunately you can't, there are quite a few of us in the same boat:-\n<br>\n<br>\n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=2&amp;t=92915&amp;hilit=membership&amp;start=15\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">http://www.ssvc.org.uk/phpbb/viewtopic.php?f=2&amp;t=92915&amp;hilit=membership&amp;start=15</a>\n<br>\n<br>If you search for membership problems I think there are a few threads.\n<br>\n<br>If you're IT savvy you could put yourself forward for the IT post on the committee?",
+    "lastEdited" : "Mon Apr 29, 2013 9:07 pm"
+  }, {
+    "postId" : "719546",
+    "author" : {
+      "username" : "collino72",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=37428_1372110696.jpg"
+    },
+    "content" : "Oh ok cheers for info , at least i know now.\n<br>cheers RShack",
+    "lastEdited" : "Mon Apr 29, 2013 9:21 pm"
+  } ]
+}

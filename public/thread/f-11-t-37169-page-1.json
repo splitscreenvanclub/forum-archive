@@ -1,0 +1,115 @@
+{
+  "forumId" : "11",
+  "threadId" : "37169",
+  "title" : "Important: System change this Friday 14th December",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=11&t=37169",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 8,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "274422",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "I'll be making a change to the cookie settings for the forums this Friday (14th). I had meant to do this a few weeks ago (as mentioned \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=35700\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">here</a>) but never got round to it.\n<br>\n<br>You will need to delete your forum cookies to allow you to successfully log in and post. The easiest way to do this is to use this link:\n<br>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/cookiedelete.php\">cookiedelete.php</a>\n<!-- l -->\n<br>\n<br>(You'll have to do this after the change!)\n<br>\n<br>More info on logging in problems and cookies \n<a href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?t=35700\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">here</a>.\n<br>\n<br>Sorry for the inconvenience!\n<br>\n<br>John",
+    "lastEdited" : "Wed Dec 12, 2007 5:03 pm"
+  }, {
+    "postId" : "274431",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<img src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br>Love the link...",
+    "lastEdited" : "Wed Dec 12, 2007 5:31 pm"
+  }, {
+    "postId" : "274436",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n vwjim wrote:\n</div>\n<div class=\"quotecontent\">\n :lol: \n <br>\n <br>Love the link...\n</div> \n<br>You're not supposed to click on the link until after the change! \n<br> \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Dec 12, 2007 5:50 pm"
+  }, {
+    "postId" : "274458",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I know, just curious what it did...",
+    "lastEdited" : "Wed Dec 12, 2007 7:02 pm"
+  }, {
+    "postId" : "274906",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Just a reminder. I'll be making the change tonight before bed. \n<br>John",
+    "lastEdited" : "Fri Dec 14, 2007 5:54 pm"
+  }, {
+    "postId" : "275004",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Change made! \n<br> \n<br>any problems click here: \n<br> \n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.ssvc.org.uk/phpbb/cookiedelete.php\">http://www.ssvc.org.uk/phpbb/cookiedelete.php</a>\n<!-- m -->",
+    "lastEdited" : "Fri Dec 14, 2007 10:27 pm"
+  }, {
+    "postId" : "275053",
+    "author" : {
+      "username" : "WILL",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=1465_1359975040.jpg"
+    },
+    "content" : "What an auld git I am. Made a right hash of that and could not log in for about an hour \n<img src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\"> \n<br> \n<br>Will \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sat Dec 15, 2007 1:47 pm"
+  }, {
+    "postId" : "275067",
+    "author" : {
+      "username" : "BohoPixie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://a0.twimg.com/profile_images/1500447238/new_pic.jpg"
+    },
+    "content" : "I couldn't get on, deleted cookies on PC, adn that never worked, had to search for this post before I could log on \n<img src=\"./images/smilies/icon_redface.gif\" alt=\":oops:\" title=\"Red Face\">",
+    "lastEdited" : "Sat Dec 15, 2007 3:25 pm"
+  } ]
+}

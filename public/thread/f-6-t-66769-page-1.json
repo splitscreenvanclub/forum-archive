@@ -1,0 +1,128 @@
+{
+  "forumId" : "6",
+  "threadId" : "66769",
+  "title" : "question about bay servo fit on a rhd",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=66769&start=0",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "515256",
+    "author" : {
+      "username" : "frankivit",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "hy guys\n<br>i'm rebuiding the front beam of my 59 rhd devon and décided to fit a bay servo\n<br>but i've got one problem, the clutch cable cross at the same place of servo \n<br>what is the answer at this problem ?\n<br>sorry for my poor english i'm french guy who needs uk help !!!\n<br>\n<br>\n<a href=\"http://img199.imageshack.us/i/carte169.jpg/\" onclick=\"window.open(this.href);return false;\" class=\"postlink\"><img src=\"http://img199.imageshack.us/img199/2518/carte169.jpg\" alt=\"Image\"></a>\n<br>\n<br>Uploaded with \n<a href=\"http://imageshack.us\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">ImageShack.us</a>\n<br>\n<br>yesterday i found the answer for the accélérator pédal\n<br>\n<br>\n<a href=\"http://img59.imageshack.us/i/modiftubepedalefrein.jpg/\" onclick=\"window.open(this.href);return false;\" class=\"postlink\"><img src=\"http://img59.imageshack.us/img59/4144/modiftubepedalefrein.jpg\" alt=\"Image\"></a>\n<br>\n<br>Uploaded with \n<a href=\"http://imageshack.us\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">ImageShack.us</a>",
+    "lastEdited" : "Tue Jun 08, 2010 10:01 pm"
+  }, {
+    "postId" : "515274",
+    "author" : {
+      "username" : "lucky",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=21768_1246743614.jpg"
+    },
+    "content" : "Unfortunately your servo bracket looks welded on, so i'm not sure of the solution, which doesn't resort to cutting into it. \n<br>I was told that the servo can be relocated sideways enough that the cable runs clear, but you need to work it out before you weld the servo bracket on, and you have to run a bigger offset on the pushrod.\n<br>\n<br>Alternatively.......hydraulic clutch?",
+    "lastEdited" : "Tue Jun 08, 2010 10:53 pm"
+  }, {
+    "postId" : "515279",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "That photo was half way through my servo installation.\n<br>\n<br>The cable you can see coming through above the servo is the clutch but it wasn't very nice so I made a hydraulic setup..\n<br>\n<br>\n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/creativebrakeservo/12062009157.jpg\" alt=\"Image\">\n<br>\n<br>I fitted the original accelerator components back to the bus after an experiment with fly-by-wire electronic throttles!",
+    "lastEdited" : "Wed Jun 09, 2010 12:02 am"
+  }, {
+    "postId" : "515300",
+    "author" : {
+      "username" : "SAMBA VAN MAN",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i7.photobucket.com/albums/y279/SAMBA231965/women.jpg"
+    },
+    "content" : "Or you could fit one of these bought from VWJIM off this forum it is a remote setup so it can be mounted out of the way. \n<!-- m -->\n<a class=\"postlink\" href=\"http://vwjim.fotopic.net/c946073.html\">http://vwjim.fotopic.net/c946073.html</a>\n<!-- m --> \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Wed Jun 09, 2010 7:15 am"
+  }, {
+    "postId" : "515537",
+    "author" : {
+      "username" : "frankivit",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "many thanks for your quikly answers\n<br>i don't understand the hydrolik system\n<br>can you détail please your work\n<br>you dont have cable now\n<br>have you got other pics?\n<br>thank you",
+    "lastEdited" : "Wed Jun 09, 2010 10:09 pm"
+  }, {
+    "postId" : "515556",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "Hi mate, yeah the cable has gone. At the front the pedal is connected to a 13/16\" Master cylinder and then the fluid runs through a JIC-4 hose to a 5/8\" Wilwood Slave cylinder.\n<br>\n<br>The gearbox is from a Porsche 914 so its a bit different. The slave cylinder is jammed in a very tight gap beside the gearbox.\n<br>\n<br>You can buy a kit to install this type of hydraulic clutch system for a bus from Creative Engineering, mine is home made.\n<br>\n<br>\n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/10072009191.jpg\" alt=\"Image\">\n<br>\n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/10072009192.jpg\" alt=\"Image\">\n<br>\n<img src=\"http://i90.photobucket.com/albums/k252/Bob_Corbishley/10072009193.jpg\" alt=\"Image\">",
+    "lastEdited" : "Wed Jun 09, 2010 11:15 pm"
+  }, {
+    "postId" : "516112",
+    "author" : {
+      "username" : "frankivit",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "many thanks , i saw your topic last day its great , do you think there is one way to do something without hydrolik system?\n<br>i want to drive with the bus this summer so maybe i will fit the front beam without the mastervac\n<br>thanks a lot see you",
+    "lastEdited" : "Sat Jun 12, 2010 10:50 am"
+  }, {
+    "postId" : "516133",
+    "author" : {
+      "username" : "bobley",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i90.photobucket.com/albums/k252/Bob_Corbishley/25062009170.jpg"
+    },
+    "content" : "The only safe way I can think that you could fit the servo without obstructing the other pedals would be to use bell-cranks to change the direction of the rod movement. This is how PSA built the UK versions of cars such as the Citreon AX and Peugeot 106\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://en.wikipedia.org/wiki/Bellcrank\">http://en.wikipedia.org/wiki/Bellcrank</a>\n<!-- m -->\n<br>\n<br>You can see the bar coming across the engine bay in this picture.\n<br>\n<br>\n<img src=\"http://i131.photobucket.com/albums/p307/Jessop_bucket/Project%20Forte/Reshell/Engine/DSCF1214.jpg\" alt=\"Image\">\n<br>\n<br>Its tricky and can be a pain to adjust it correctly so I think the hydraulic clutch is much simpler!",
+    "lastEdited" : "Sat Jun 12, 2010 1:04 pm"
+  }, {
+    "postId" : "516161",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://193.0.234.78/143005000704.jpg"
+    },
+    "content" : "<div class=\"quotetitle\">\n bobley wrote:\n</div>\n<div class=\"quotecontent\">\n Its tricky and can be a pain to adjust it correctly so I think the hydraulic clutch is much simpler!\n</div>\n<br>\n<br>Or don't fit the bay servo \n<img src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Sat Jun 12, 2010 5:09 pm"
+  } ]
+}

@@ -1,0 +1,193 @@
+{
+  "forumId" : "4",
+  "threadId" : "47372",
+  "title" : "Urgent: Problems logging in",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=47372&start=0",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 14,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "361174",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "For those with problems logging in could you please click this link to delete your forum cookies :\n<br>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/ucp.php?mode=delete_cookies\" onclick=\"window.open(this.href);return false;\">ucp.php?mode=delete_cookies</a>\n<!-- l -->\n<br>\n<br>and then log in.\n<br>\n<br>This should fix it.\n<br>\n<br>Thanks and sorry for the inconvenience,\n<br>\n<br>John",
+    "lastEdited" : "Thu Oct 16, 2008 7:13 am"
+  }, {
+    "postId" : "363568",
+    "author" : {
+      "username" : "silversteve",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=72_1233425998.gif"
+    },
+    "content" : "Doc, I still have problems, as such as I still have problems logging onto site evry time I visit? I have deleted all the cookies etc.\n<br>interestingly enough on the laptop I have not had to do anything and log in is no problem?\n<br>\n<br>cheers Steve",
+    "lastEdited" : "Sat Oct 25, 2008 9:02 am"
+  }, {
+    "postId" : "363573",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Steve,\n<br>Interesting. Do you use the Laptop on the same internet connection as the PC?\n<br>Could you check what version of browser you are using on the PC and laptop? I guess you are using IE, if so select the help option in the top menu and then the \"About Internet Explorer\", this should show you a long version number (something like \"Version: 7.0.5739.11\").\n<br>Thanks,\n<br>John",
+    "lastEdited" : "Sat Oct 25, 2008 9:09 am"
+  }, {
+    "postId" : "363577",
+    "author" : {
+      "username" : "silversteve",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=72_1233425998.gif"
+    },
+    "content" : "laptop is wireless connection but coming from the same PC I suppose. I will take a look later, more rot to cut out now!!\n<br>\n<br>cheers Steve",
+    "lastEdited" : "Sat Oct 25, 2008 9:31 am"
+  }, {
+    "postId" : "363697",
+    "author" : {
+      "username" : "chaser",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "I am in the same position with my setup. Works fine on the laptop, not on the pc, still have to 3 click it to get in. It remembers my details but won`t auto connect. Laptop on Vista using Firefox, pc on XP pro also using Firefox. Both latest editions.",
+    "lastEdited" : "Sat Oct 25, 2008 6:12 pm"
+  }, {
+    "postId" : "363906",
+    "author" : {
+      "username" : "60/15windows",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=198_1247177479.jpg"
+    },
+    "content" : "Hi Doc Im still in the same boat as last week,have to login every visit,it remembers pass word and login details but wont auto connect,yet on the lap top it still connects auto ok.lap top on same connection,both IE7 version 70573011LS.\n<br> Its also doing the same on every site i visit not just SSVC,could it be somthing i have altered on my computer. \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> Thanks",
+    "lastEdited" : "Sun Oct 26, 2008 6:20 pm"
+  }, {
+    "postId" : "365260",
+    "author" : {
+      "username" : "wireliar",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<span style=\"color: #0000FF\">hey doc i am having a lot of trouble logging in especially with laptop but the pc is alright and i deleted all cookies![color=#0040FF]</span>[/color]",
+    "lastEdited" : "Sat Nov 01, 2008 6:24 pm"
+  }, {
+    "postId" : "365327",
+    "author" : {
+      "username" : "wireliar",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "do you knoww how to add pics cause i just joined and i mean the pics under name",
+    "lastEdited" : "Sat Nov 01, 2008 10:42 pm"
+  }, {
+    "postId" : "365793",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n wireliar wrote:\n</div>\n<div class=\"quotecontent\">\n <span style=\"color: #0000FF\">hey doc i am having a lot of trouble logging in especially with laptop but the pc is alright and i deleted all cookies![color=#0040FF]</span>[/color]\n</div>\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=32&amp;t=45218&amp;p=365791#p365791\" onclick=\"window.open(this.href);return false;\">viewtopic.php?f=32&amp;t=45218&amp;p=365791#p365791</a>\n<!-- l -->\n<br>Things may be better now, delete cookies (press here: \n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/ucp.php?mode=delete_cookies\" onclick=\"window.open(this.href);return false;\">ucp.php?mode=delete_cookies</a>\n<!-- l -->) and try again\n<br>John",
+    "lastEdited" : "Mon Nov 03, 2008 9:03 pm"
+  }, {
+    "postId" : "365795",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n wireliar wrote:\n</div>\n<div class=\"quotecontent\">\n do you knoww how to add pics cause i just joined and i mean the pics under name\n</div>\n<br>\n<br>This can be done in your control panel or by clicking on this link:\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/ucp.php?i=profile&amp;mode=avatar\" onclick=\"window.open(this.href);return false;\">ucp.php?i=profile&amp;mode=avatar</a>\n<!-- l -->\n<br>\n<br>You'll need an image hosted somewhere internet facing to be able to add the avatar image, a way of doing this is described here:\n<br>\n<!-- l -->\n<a class=\"postlink-local\" href=\"http://www.ssvc.org.uk/phpbb/viewtopic.php?f=14&amp;t=47329\" onclick=\"window.open(this.href);return false;\">viewtopic.php?f=14&amp;t=47329</a>\n<!-- l -->\n<br>\n<br>John",
+    "lastEdited" : "Mon Nov 03, 2008 9:07 pm"
+  }, {
+    "postId" : "380031",
+    "author" : {
+      "username" : "passion4",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i119.photobucket.com/albums/o151/bugtastic/multi_avatar_100.gif"
+    },
+    "content" : "don't know if makes any real differences or not, but I'm continually still having to log in each time I visit. I'm Apple Mac based but yes, I have cleared all the cookies!",
+    "lastEdited" : "Thu Jan 08, 2009 6:49 pm"
+  }, {
+    "postId" : "380293",
+    "author" : {
+      "username" : "showie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "how do i post adds onto forum.? thanks",
+    "lastEdited" : "Fri Jan 09, 2009 2:32 pm"
+  }, {
+    "postId" : "380307",
+    "author" : {
+      "username" : "passion4",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i119.photobucket.com/albums/o151/bugtastic/multi_avatar_100.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n showie wrote:\n</div>\n<div class=\"quotecontent\">\n how do i post adds onto forum.? thanks\n</div>\n<br>\n<br>the same way as you posted this message, but just do it in the ‘For Sale’ section! \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\"> \n<br>\n<br>For adding images, get yourself a photobucket.com account, upload any images you want to use and then copy/paste the IMG Code into your ad, job done",
+    "lastEdited" : "Fri Jan 09, 2009 3:01 pm"
+  }, {
+    "postId" : "436389",
+    "author" : {
+      "username" : "jhon_maxi",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "internet connection is not the Problem that u r using Laptop and Pc with connecting same internet connection ... there might me other problem ...... try with an other Browser .. Firefox , Opera etc.",
+    "lastEdited" : "Sat Jul 11, 2009 3:09 pm"
+  } ]
+}

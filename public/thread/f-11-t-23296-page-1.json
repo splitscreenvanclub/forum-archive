@@ -1,0 +1,24 @@
+{
+  "forumId" : "11",
+  "threadId" : "23296",
+  "title" : "How to change from using the noFlakes template",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=11&t=23296",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "161208",
+    "author" : {
+      "username" : "admin",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=2_1407973337.gif"
+    },
+    "content" : "Login into as your usual forum user. Click on the \"profile\" link at the top of the page. \n<br> \n<br>Scroll down to the \"board style\" link. \n<br>Select default as the board style. \n<br>Scroll down to the bottom of the page, and click on the submite button. \n<br> \n<br>If you have any issues, or question - please email \n<!-- e -->\n<a href=\"mailto:ssvcforum@ssvc.org.uk\">ssvcforum@ssvc.org.uk</a>\n<!-- e --> with a clear description of what is happening. Dont' just say it's not working. \n<br> \n<br>thanks \n<br> \n<br>Miles.",
+    "lastEdited" : "Sun Sep 17, 2006 12:50 pm"
+  } ]
+}

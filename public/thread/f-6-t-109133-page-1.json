@@ -1,0 +1,89 @@
+{
+  "forumId" : "6",
+  "threadId" : "109133",
+  "title" : "Where do i start looking?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=109133",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 6,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "826294",
+    "author" : {
+      "username" : "walshy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "So ive lost the screen washers and horn (van has been rewired last year) had a look at the fuse box and a fuse has blown,stuck a new one in and it popped straight away without anything being switched on!\n<br>\n<br>So where do I start?",
+    "lastEdited" : "Mon Mar 16, 2015 12:22 pm"
+  }, {
+    "postId" : "826297",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "i may be wrong…but if your horn was shorting out, the thing would beeeeeeep constantly, so i would be looking at the wipers wiring first\n<br>\n<br>have you been fiddling behind the dash, maybe one of the spades has come off the wiper switch ???",
+    "lastEdited" : "Mon Mar 16, 2015 12:38 pm"
+  }, {
+    "postId" : "826298",
+    "author" : {
+      "username" : "nige1171",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i24.photobucket.com/albums/c32/Big-Nige/My%2015%20Window%20Split/StanfordHallDesktop2-1.jpg"
+    },
+    "content" : "You have a short. A break in the wire or similar.\n<br>\n<br>Trace the wires from each affected fitting, looking for pinch points, breaks etc\n<br>\n<br>\n<br>Nige",
+    "lastEdited" : "Mon Mar 16, 2015 12:39 pm"
+  }, {
+    "postId" : "829351",
+    "author" : {
+      "username" : "walshy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Ok seems that the horn could be the problem,ive disconnected it and the fuse doesn't pop and now the washers work fine.Anyone tell me where the wire goes after it comes inside??",
+    "lastEdited" : "Tue Apr 07, 2015 10:05 pm"
+  }, {
+    "postId" : "829361",
+    "author" : {
+      "username" : "Eternal Optimist",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i47.photobucket.com/albums/f164/nigeltoon/70b47690-a7a6-4b0f-92e8-c7f14a678cba.jpg"
+    },
+    "content" : "Have you got a wiring diagram? \n<br>\n<br>From memory, live feed from the fuse box to the horn, the other wire from the horn goes up the steering column to the horn push which then completes the circuit by earthing the horn. Your short circuit will be on the supply side between the horn and the fusebox.",
+    "lastEdited" : "Wed Apr 08, 2015 4:32 am"
+  }, {
+    "postId" : "829369",
+    "author" : {
+      "username" : "walshy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Cheers E O ,I only had a quick look before I had to do my housewife duties of cooking dinner.Im thinking of putting an aftermarket horn on the bus anyway so just wanted to trace the wires out.",
+    "lastEdited" : "Wed Apr 08, 2015 6:40 am"
+  } ]
+}

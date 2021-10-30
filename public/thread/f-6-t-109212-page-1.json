@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "109212",
+  "title" : "balancing...?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=109212",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "826980",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Most people understand the benefit of getting their engine internal components balanced, rather than fitting them straight out the box, but what about other rotating components? \n<br>\n<br>I'm wondering if anyone has ever tested anything else, like the balance of an alternator assembly including the fan? Or brakes? etc",
+    "lastEdited" : "Fri Mar 20, 2015 9:10 pm"
+  }, {
+    "postId" : "826986",
+    "author" : {
+      "username" : "paul_f",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Vw balanced fans and pulleys. I have seen balancing holes in alternator rotors. \n<br>I have seen pictures of stripped down alternators being balanced with pulley and fan as a complete assembly.\n<br>\n<br>Brakes can be balanced if you have on car wheel balancing. Elite in Essex do it",
+    "lastEdited" : "Fri Mar 20, 2015 9:40 pm"
+  }, {
+    "postId" : "826995",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I feel a test project coming on.",
+    "lastEdited" : "Fri Mar 20, 2015 10:39 pm"
+  }, {
+    "postId" : "827010",
+    "author" : {
+      "username" : "paul_f",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "Oh and the 911 fan had drilling holes as well!",
+    "lastEdited" : "Sat Mar 21, 2015 8:43 am"
+  } ]
+}

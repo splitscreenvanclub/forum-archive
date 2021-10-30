@@ -1,0 +1,76 @@
+{
+  "forumId" : "11",
+  "threadId" : "53756",
+  "title" : "Forum registration temporarily disabled",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=11&t=53756",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "410140",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Due to the big problems with spammers registering on the forum over the last week I have temporarily disabled forum registration while new security measures are put in place.\n<br>I am expecting registration to be back in place by the evening of Thursday 16th April.\n<br>Sorry for the inconvenience.\n<br>John",
+    "lastEdited" : "Wed Apr 15, 2009 7:48 am"
+  }, {
+    "postId" : "410204",
+    "author" : {
+      "username" : "Sooty",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i249.photobucket.com/albums/gg224/spikecrewcab/Random/CB4DC5D0-7468-422E-A389-2417B023445D-6862-000007698E793465.jpg"
+    },
+    "content" : "No inconvenience if it helps to stop it. Many thanks.....",
+    "lastEdited" : "Wed Apr 15, 2009 12:11 pm"
+  }, {
+    "postId" : "410948",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "Registration now re-activated with anti spammer electric fence and piranha filled moat.\n<br>John",
+    "lastEdited" : "Fri Apr 17, 2009 1:14 pm"
+  }, {
+    "postId" : "411025",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "<img src=\"./images/smilies/icon_cheers.gif\" alt=\":cheers:\" title=\"cheers\">",
+    "lastEdited" : "Fri Apr 17, 2009 5:38 pm"
+  }, {
+    "postId" : "411047",
+    "author" : {
+      "username" : "Dipsy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i22.photobucket.com/albums/b317/nisted/r2valu.jpg"
+    },
+    "content" : "Does this explain the reappearance of a couple of 'Activate User Account' emails in my inbox? I thought I'd seen the last of them \n<img src=\"./images/smilies/wink.gif\" alt=\";-)\" title=\"Wink\">",
+    "lastEdited" : "Fri Apr 17, 2009 6:41 pm"
+  } ]
+}

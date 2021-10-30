@@ -1,0 +1,167 @@
+{
+  "forumId" : "6",
+  "threadId" : "108933",
+  "title" : "Leaky brake switch",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=108933",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 12,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "824757",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Hi\n<br>\n<br>I think one of the brake switches on my new DCMC is weeping. I had problems with it not sealing during the installation, but cranked it up and it stopped. Now there is evidence of brake fluid tracking from the fitting again...\n<br>\n<br>\n<img src=\"http://i156.photobucket.com/albums/t15/Who_Me_Photos/ANDY-PC/TruckPics/DSC_0546_zps0iidtlyh.jpg\" alt=\"Image\">\n<br>\n<br>Ironically, it's a new switch. The one that I transplanted from the old MC is fine.\n<br>\n<br>I'm checking to eliminate whether it's spillage from the bleeding process working its way down, but I've a feeling it's the switch.\n<br>\n<br>Have read about someone having a problem with the switch shaft snapping when they tried to stop a leak, so am I screwed? Will hydraulic thread sealant fix it? If so, do I need to bleed the whole system again, or just get the fluid out of the reservoir, and bleed the problem circuit after I'm done?\n<br>\n<br>Thanks\n<br>\n<br>Andy",
+    "lastEdited" : "Thu Mar 05, 2015 9:27 am"
+  }, {
+    "postId" : "824760",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "I've seen them leak through the body, so check if it's the thread or body leaking",
+    "lastEdited" : "Thu Mar 05, 2015 9:35 am"
+  }, {
+    "postId" : "824819",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Thanks, I'll have a closer look.\n<br>\n<br>I wiped it clean last night and checked this evening and it's dry as a bone, so I've stood on the pedal a few times and I'll see if any fluid is visible tomorrow.",
+    "lastEdited" : "Thu Mar 05, 2015 6:57 pm"
+  }, {
+    "postId" : "824836",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "didn't buy it from GSF by any chance?\n<br>\n<br>I put 2 new ones on my bay - both from GSF - both new - both leaked - total $hite - put the old ones back on!",
+    "lastEdited" : "Thu Mar 05, 2015 8:29 pm"
+  }, {
+    "postId" : "826187",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Well, the leak is back. \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<br>\n<br>Same as before, looks like it's coming from the threads.\n<br>\n<br>Has anyone tried hydaulic thread sealant on one of these switches?",
+    "lastEdited" : "Sun Mar 15, 2015 5:24 pm"
+  }, {
+    "postId" : "826304",
+    "author" : {
+      "username" : "Austin60",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "I used a sparing amount of ptfe tape on mine and never had any issues.",
+    "lastEdited" : "Mon Mar 16, 2015 1:04 pm"
+  }, {
+    "postId" : "826313",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i8.photobucket.com/albums/a8/tufty65/action07.jpg"
+    },
+    "content" : "Yeah wrap some ptfe around the thread and it should stop the leak.",
+    "lastEdited" : "Mon Mar 16, 2015 1:54 pm"
+  }, {
+    "postId" : "826491",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "<div class=\"quotetitle\">\n tufty65 wrote:\n</div>\n<div class=\"quotecontent\">\n Yeah wrap some ptfe around the thread and it should stop the leak.\n</div>\n<br>\n<br>I've read that PTFE isn't a good idea - it can shred during tightening and contaminate the fluid with debris.",
+    "lastEdited" : "Tue Mar 17, 2015 7:07 pm"
+  }, {
+    "postId" : "826522",
+    "author" : {
+      "username" : "tufty65",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i8.photobucket.com/albums/a8/tufty65/action07.jpg"
+    },
+    "content" : "<div class=\"quotetitle\">\n Who.Me? wrote:\n</div>\n<div class=\"quotecontent\">\n <div class=\"quotetitle\">\n  tufty65 wrote:\n </div>\n <div class=\"quotecontent\">\n  Yeah wrap some ptfe around the thread and it should stop the leak.\n </div>\n <br>\n <br>I've read that PTFE isn't a good idea - it can shred during tightening and contaminate the fluid with debris.\n</div>\n<br>\n<br>Only if you wrap too much around the thread and wrap it right to the bottom, the amount that could come off is so small it's not going to effect brake operation. If your that concerned then use Ptfe paste instead but I'm not sure that will seal as effectively as tape or re-bleed the entire system after putting the switch back in to flush out the debris.",
+    "lastEdited" : "Tue Mar 17, 2015 9:16 pm"
+  }, {
+    "postId" : "826537",
+    "author" : {
+      "username" : "wejjy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.thesamba.com/vw/forum/images/avatars/1048874820436d2e3e61a95.gif"
+    },
+    "content" : "I have used a specific air brake gel like sealant before which is basically ptfe paste with good results. Think it was from Frost.co.uk??",
+    "lastEdited" : "Tue Mar 17, 2015 11:17 pm"
+  }, {
+    "postId" : "826600",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "<div class=\"quotetitle\">\n wejjy wrote:\n</div>\n<div class=\"quotecontent\">\n I have used a specific air brake gel like sealant before which is basically ptfe paste with good results. Think it was from Frost.co.uk??\n</div>\n<br>\n<br>Thanks, I'll have a look for it.\n<br>\n<br>I think part of the problem is that I think the brake switch has a parallel thread? I think the master cylinder has a tapered thread.\n<br>\n<br>If so, only the leading couple of turns on the switch threads would ever form the seal. That's also why I don't want to over-tighten (don't want to strip them).\n<br>\n<br>I'm guessing the leading turns on mine aren't machined that well. A paste might be the answer (better at gap-filling).",
+    "lastEdited" : "Wed Mar 18, 2015 5:07 pm"
+  }, {
+    "postId" : "828250",
+    "author" : {
+      "username" : "Who.Me?",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i156.photobucket.com/albums/t15/Who_Me_Photos/Truck%20Pics/e8c4d005-8885-4e48-8e86-630f0423039d_zps503430a8.jpg"
+    },
+    "content" : "Payday this week, so I can put a parts order through and get some sealing gel.\n<br>\n<br>I want to avoid siphoning fluid out of the reservoir (don't want to contaminate it), but I need to remove the switch and the threads need to be clean before sealing.\n<br>\n<br>If I remove the switch with the brakes 'at rest' I'm guessing the fluid is just going to drain by gravity through from the reservoir (as it would if it were topping up the cylinder).\n<br>\n<br>If I put pressure on the pedal, will it effectively close that pathway and keep the fluid from draining from the reservoir? If so, it would simplify the job.\n<br>\n<br>Also, as I'm just working on the one circuit, will I need to bleed both circuits after? I have a little spare fluid left from when I filled up, and the reservoir is still brimming (over max), so I'm hoping that I can get away with what I've got.",
+    "lastEdited" : "Sun Mar 29, 2015 4:35 pm"
+  } ]
+}

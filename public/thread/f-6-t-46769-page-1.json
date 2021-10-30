@@ -1,0 +1,102 @@
+{
+  "forumId" : "6",
+  "threadId" : "46769",
+  "title" : "Gearbox strip down",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=46769&start=0&st=0&sk=t&sd=a",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "355955",
+    "author" : {
+      "username" : "smartyharper",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br>\n<br>Could really do with some help. \n<br>\n<br>Took out the gearbox in my 65 split -relatively easy (more so than I ecxpected).\n<br>\n<br>Tool off the reduction boxes and have only the shafts from the box left to go. How do these come out? The plastic dome part has been take out, do I have to ublot the large disc inside the box to remove the shaft?\n<br>\n<br>Also, have taken off the nose cone, how do I get the main gear assy out? Only changing all the gaskets to hopefully stop leaks, box works fine other than that.\n<br>\n<br>Any help appreciated - doing it all tomorrow.\n<br>\n<br>Many thanks",
+    "lastEdited" : "Fri Sep 26, 2008 8:53 pm"
+  }, {
+    "postId" : "355959",
+    "author" : {
+      "username" : "tyler",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "there is a large cir clip around the end of the drive shaft in the diff \n<br>this holds a washer that holds the 2 packing pieces that hold the shaft in place\n<br>\n<br>dont go mad splitting the box - vw gearboxes need carefull setting upon assembly and special vw tools to set/check them!",
+    "lastEdited" : "Fri Sep 26, 2008 9:00 pm"
+  }, {
+    "postId" : "355962",
+    "author" : {
+      "username" : "smartyharper",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Hi,\n<br>\n<br>Thanks for the advice. It's me brothers box and trying to stop some leaks (after being sent back to the restorers to correct a 4th gear problem - given up on sending back again, especially as a number of major bolts were loose or missing, namely one of the 4 engine bolts, two of the 4 spring plate bolts on one side).\n<br>\n<br>Worse that can happen is we need a new one. Best is we stop the leaks and all good to go.\n<br>\n<br>Trying to get out the piece behind the nose cone, a few bolts and we thought it would pull out and change the gasket and put back together, looks like a much bigger job though.Take it the drive shafts have to come out to remove the main gear?\n<br>\n<br>Thanks again - really appreciated.",
+    "lastEdited" : "Fri Sep 26, 2008 9:12 pm"
+  }, {
+    "postId" : "355966",
+    "author" : {
+      "username" : "tyler",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "get a hayens? manual at least\n<br>there is a strip down shown there",
+    "lastEdited" : "Fri Sep 26, 2008 9:24 pm"
+  }, {
+    "postId" : "355978",
+    "author" : {
+      "username" : "chaser",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "You need to remove the shafts first, then take the sideplates off to remove the diff. Once you are in the diff housing there are four bolts, with tab washers, that hold the gear train in.\n<br>\n<br>Maybe if you don`t disturb any more than you have to, and don`t lose any bits, and remember which way it all goes back together, and keep everything spotless, and get a good seal on the gaskets, you might be OK. \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\"> \n<br>\n<br>Like has been said, at least get a manual so you have some sort of reference. VW gearbox repair is a black art.",
+    "lastEdited" : "Fri Sep 26, 2008 10:02 pm"
+  }, {
+    "postId" : "355999",
+    "author" : {
+      "username" : "simonaoz",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i169.photobucket.com/albums/u206/simonaoz/ME.jpg"
+    },
+    "content" : "This is useful \n<!-- m -->\n<a class=\"postlink\" href=\"http://ckoon.org/vw/tranny/1.html\" onclick=\"window.open(this.href);return false;\">http://ckoon.org/vw/tranny/1.html</a>\n<!-- m --> and this \n<!-- m -->\n<a class=\"postlink\" href=\"http://www.longenterprises.com/\" onclick=\"window.open(this.href);return false;\">http://www.longenterprises.com/</a>\n<!-- m -->",
+    "lastEdited" : "Sat Sep 27, 2008 6:34 am"
+  }, {
+    "postId" : "356007",
+    "author" : {
+      "username" : "smartyharper",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Thanks for the advice. Got a Haynes for a 1303 Beetle so at least have a bit of idea.\n<br>\n<br>Certainly looks complex. Only need to get the main housing off so I can change the gasket - that's where it's leaking from. Got all the parts just couldn't get the main gear out. \n<br>\n<br>So I need to take out the shaft, this will get me into the main opening. Is there bolts in there to undo? Somthing's certainly holding the main gear housing onto the box - all the other bolts I can see are undone. \n<br>\n<br>Worst case is a new box!!! Best is I stop the leak.\n<br>\n<br>Thanks again for your help - I've not stripped a box before but have another to do after this one.\n<br>\n<br>Thanks again.",
+    "lastEdited" : "Sat Sep 27, 2008 7:40 am"
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "forumId" : "55",
+  "threadId" : "107345",
+  "title" : "1964 panel on Ebay",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=107345",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "813377",
+    "author" : {
+      "username" : "huggiebear",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=37674_1421360505.jpg"
+    },
+    "content" : "1964 panel project on Ebay, going cheap, at £4500 at the moment, BIN for £5200\n<br>\n<br>\n<a href=\"http://www.ebay.co.uk/itm/141499059401?ssPageName=STRK:MESELX:IT&amp;_trksid=p3984.m1555.l2649\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">http://www.ebay.co.uk/itm/141499059401?ssPageName=STRK:MESELX:IT&amp;_trksid=p3984.m1555.l2649</a>",
+    "lastEdited" : "Sun Dec 14, 2014 1:28 pm"
+  }, {
+    "postId" : "818164",
+    "author" : {
+      "username" : "huggiebear",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=37674_1421360505.jpg"
+    },
+    "content" : "Starting price reduced to 4k",
+    "lastEdited" : "Thu Jan 22, 2015 5:11 pm"
+  } ]
+}

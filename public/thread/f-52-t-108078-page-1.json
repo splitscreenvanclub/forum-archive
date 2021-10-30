@@ -1,0 +1,63 @@
+{
+  "forumId" : "52",
+  "threadId" : "108078",
+  "title" : "Dolly for sale",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=52&t=108078",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "818728",
+    "author" : {
+      "username" : "shytawk",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Hi all, i have a dolly for sale.\n<br> Perfect for moving your van around your workshop when the beam is removed. Looking for £55.00 collected from Wiltshire.\n<br>Cash on collection.\n<br> Cheers Phill.",
+    "lastEdited" : "Mon Jan 26, 2015 10:50 am"
+  }, {
+    "postId" : "818813",
+    "author" : {
+      "username" : "65-deluxe",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=33529_1387961868.jpg"
+    },
+    "content" : "Hi - Is this a dolly just for the front , or will it do the whole vehicle ?",
+    "lastEdited" : "Mon Jan 26, 2015 9:22 pm"
+  }, {
+    "postId" : "818819",
+    "author" : {
+      "username" : "shytawk",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "<div class=\"quotetitle\">\n 65-deluxe wrote:\n</div>\n<div class=\"quotecontent\">\n Hi - Is this a dolly just for the front , or will it do the whole vehicle ?\n</div>\n<br>\n<br>\n<br> Just the front.\n<br> Thanks.",
+    "lastEdited" : "Mon Jan 26, 2015 10:35 pm"
+  }, {
+    "postId" : "824999",
+    "author" : {
+      "username" : "shytawk",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "`It's still here.",
+    "lastEdited" : "Fri Mar 06, 2015 6:25 pm"
+  } ]
+}

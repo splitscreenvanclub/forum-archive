@@ -1,0 +1,128 @@
+{
+  "forumId" : "11",
+  "threadId" : "23264",
+  "title" : "SSVC Forum Upgrade",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=11&t=23264",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "161032",
+    "author" : {
+      "username" : "NikC",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://farm2.static.flickr.com/1289/4696117776_437112e1e3_t.jpg"
+    },
+    "content" : "Any new features we should know about and love \n<img src=\"./images/smilies/icon_smile.gif\" alt=\":)\" title=\"Grin\">",
+    "lastEdited" : "Fri Sep 15, 2006 11:26 pm"
+  }, {
+    "postId" : "161203",
+    "author" : {
+      "username" : "Mike1973",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://img.photobucket.com/albums/v683/silly-password/62750a15-b24c-4ae9-9bd8-94e84a0746e7_zps8c3985d1.jpg"
+    },
+    "content" : "Miles, I can't log in, but Mike can. \n<img src=\"./images/smilies/icon_sad.gif\" alt=\":(\" title=\"Sad\"> \n<br> \n<br>Each time I put my user name and password in, I get this critical error message on a white screen. I then get it everytime I try to call up the forum again, until I log out of AOL and log back in again. \n<img src=\"./images/smilies/icon_confused.gif\" alt=\":?\" title=\"Confused\"> \n<br> \n<br>Cheers, Susie. \n<br> \n<br>phpBB : Critical Error \n<br> \n<br>Could not open noFlakes template config file \n<br> \n<br>DEBUG MODE \n<br> \n<br>Line : 503 \n<br>File : functions.php",
+    "lastEdited" : "Sun Sep 17, 2006 11:23 am"
+  }, {
+    "postId" : "161209",
+    "author" : {
+      "username" : "stained glass susie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=1653_1361466391.jpg"
+    },
+    "content" : "Working now Miles, cheers your magic fingers again!",
+    "lastEdited" : "Sun Sep 17, 2006 1:27 pm"
+  }, {
+    "postId" : "161368",
+    "author" : {
+      "username" : "filby",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Not getting any forum reply notifications miles",
+    "lastEdited" : "Mon Sep 18, 2006 7:42 am"
+  }, {
+    "postId" : "161501",
+    "author" : {
+      "username" : "Jenni",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://img.photobucket.com/albums/v237/JenniG/dogwalkemoticon.gif"
+    },
+    "content" : "every time i log off i get this - \n<br> \n<br>\n<img src=\"http://img.photobucket.com/albums/v237/JenniG/error.jpg\" alt=\"Image\">",
+    "lastEdited" : "Mon Sep 18, 2006 3:38 pm"
+  }, {
+    "postId" : "161572",
+    "author" : {
+      "username" : "Scruffvdub",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i3.photobucket.com/albums/y78/mubo1969/IMG_3683.jpg"
+    },
+    "content" : "I got this after viewing my pm's... \n<br> \n<br>Object not found! \n<br> \n<br>The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error. \n<br> \n<br>If you think this is a server error, please contact the webmaster. \n<br>Error 404 \n<br>\n<!-- w -->\n<a class=\"postlink\" href=\"http://www.ssvc.ukshells.co.uk\">www.ssvc.ukshells.co.uk</a>\n<!-- w --> \n<br>Mon Sep 18 20:09:35 2006 \n<br>Apache",
+    "lastEdited" : "Mon Sep 18, 2006 7:15 pm"
+  }, {
+    "postId" : "161938",
+    "author" : {
+      "username" : "jamtart",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "top job once again, thanks from everyone x",
+    "lastEdited" : "Tue Sep 19, 2006 9:43 pm"
+  }, {
+    "postId" : "165114",
+    "author" : {
+      "username" : "kevsplitty",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=996_1284745461.jpg"
+    },
+    "content" : "Hi miles,i cant seem to put up a pic anymore as a signature,i decided i wanted a change but cant seem to post one so i thought i would put back my old pic but that wont register either now,it only shows the link to the site not the pic,any ideas please,thanks kev.",
+    "lastEdited" : "Mon Oct 02, 2006 6:12 pm"
+  }, {
+    "postId" : "171688",
+    "author" : {
+      "username" : "estee",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i9.photobucket.com/albums/a64/chriswelsh/OWNED.gif"
+    },
+    "content" : "hi \n<br> \n<br>I dont seem to be able to change my email address in the profile section, it just keeps reverting back to the initial screen after I type in the new details along with the forum password \n<br> \n<br> \n<br>Cheers \n<br>estee",
+    "lastEdited" : "Sat Oct 28, 2006 12:36 pm"
+  } ]
+}

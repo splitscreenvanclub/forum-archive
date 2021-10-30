@@ -1,0 +1,128 @@
+{
+  "forumId" : "6",
+  "threadId" : "108727",
+  "title" : "springplate bolts",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=108727",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 9,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "823166",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "does anyone know who sells the bolts that hold a stock spring plate to the reduction boxes\n<br>\n<br>or…just the dimensions so i can buy some",
+    "lastEdited" : "Mon Feb 23, 2015 9:30 am"
+  }, {
+    "postId" : "823210",
+    "author" : {
+      "username" : "Samba63",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=35333_1312568225.jpg"
+    },
+    "content" : "Take a look on here, looking at item number 74:\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.oacdp.org/5867part/285.png\">http://www.oacdp.org/5867part/285.png</a>\n<!-- m -->\n<br>\n<br>equates to this listing:\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.oacdp.org/5867part/293.png\">http://www.oacdp.org/5867part/293.png</a>\n<!-- m -->\n<br>\n<br>comes up as :\n<br>part number N 101 191\n<br>bolt, hex head M12 x 1.5 x 25 spring plate mounting\n<br>from chassis number 20117902",
+    "lastEdited" : "Mon Feb 23, 2015 4:16 pm"
+  }, {
+    "postId" : "823223",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Schofield sell bolts that are the correct length and thread, but they're only not the same strength spec'.\n<br>\n<br>I couldn't find anything other than a BMW head bolt to match the same spec' exactly, but they're £5 a bolt.",
+    "lastEdited" : "Mon Feb 23, 2015 6:30 pm"
+  }, {
+    "postId" : "823750",
+    "author" : {
+      "username" : "j0hn",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "High tensile socket head cap screws are available on eBay...\n<br>\n<br>\n<a href=\"http://www.ebay.co.uk/itm/M12-x-1-5P-Fine-Pitch-Cap-Head-Socket-Screw-Allen-Bolt-Steel-Grade-12-9-DIN912-/290751051159\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">http://www.ebay.co.uk/itm/M12-x-1-5P-Fine-Pitch-Cap-Head-Socket-Screw-Allen-Bolt-Steel-Grade-12-9-DIN912-/290751051159</a>\n<br>\n<br>If you don't mind using SHCS\n<br>\n<br>Or these guys do 10.9 grade in hex head with the correct length and pitch\n<br>\n<br>\n<a href=\"https://www.imperialsupplies.com/browse/01Fasteners,Cap_Screws___Bolts,Hex_Head_Cap_Screws?Fthread-size_spec_s=%22M12-1.50%20mm%22\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">https://www.imperialsupplies.com/browse/01Fasteners,Cap_Screws___Bolts,Hex_Head_Cap_Screws?Fthread-size_spec_s=%22M12-1.50%20mm%22</a>\n<br>\n<br>Cheers,\n<br>\n<br>John",
+    "lastEdited" : "Thu Feb 26, 2015 8:33 pm"
+  }, {
+    "postId" : "823968",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "funny that's the second company in the US that I've seen selling the correct grade &amp; size metric bolts, which is strange as they're imperial!",
+    "lastEdited" : "Sat Feb 28, 2015 11:42 am"
+  }, {
+    "postId" : "824083",
+    "author" : {
+      "username" : "paul_f",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "They use metric for lots of things now. I think everything on their cars are now metric",
+    "lastEdited" : "Sat Feb 28, 2015 10:14 pm"
+  }, {
+    "postId" : "824104",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "That seems quite random.",
+    "lastEdited" : "Sun Mar 01, 2015 12:20 am"
+  }, {
+    "postId" : "826314",
+    "author" : {
+      "username" : "Tony Shep",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "I had to look at this too as I have 5 bolts and 2 nuts left, not a clue where the rest have gone!\n<br>\n<br>I am lucky to have access to a good store of nuts and bolts but all our hex head are 8.8 tensile strength, which is regraded as high tensile by most, but not the same grade as VW used in this situation\n<br>All our socket head screws are 12.9 with a 1.5 thread, so could use those even though the pitch is slightly bigger!\n<br>\n<br>Tony",
+    "lastEdited" : "Mon Mar 16, 2015 2:05 pm"
+  }, {
+    "postId" : "826315",
+    "author" : {
+      "username" : "maddison",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=15870_1360143264.png"
+    },
+    "content" : "I bought these in the end\n<br>\n<br>maybe not spec tensile strength ?? but they did the job, if I start worrying about all my nuts and bolts not being the correct tensile spec…i'm gonna have to replaced most on the bus \n<img src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\"> \n<img src=\"./images/smilies/icon_lol.gif\" alt=\":lol:\" title=\"LOL\">",
+    "lastEdited" : "Mon Mar 16, 2015 2:14 pm"
+  } ]
+}

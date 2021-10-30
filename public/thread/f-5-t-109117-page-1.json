@@ -1,0 +1,50 @@
+{
+  "forumId" : "5",
+  "threadId" : "109117",
+  "title" : "Ribbed bumpers",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=109117",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "826171",
+    "author" : {
+      "username" : "davebug",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Pair needed for my 56 anyone got any ?",
+    "lastEdited" : "Sun Mar 15, 2015 12:51 pm"
+  }, {
+    "postId" : "826467",
+    "author" : {
+      "username" : "davebug",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Any",
+    "lastEdited" : "Tue Mar 17, 2015 5:05 pm"
+  }, {
+    "postId" : "826737",
+    "author" : {
+      "username" : "Jonesy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i34.photobucket.com/albums/d115/boatyardbuses/boatyard_avatar.gif"
+    },
+    "content" : "Got this one;\n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.thesamba.com/vw/classifieds/detail.php?id=1732650\">http://www.thesamba.com/vw/classifieds/ ... id=1732650</a>\n<!-- m -->",
+    "lastEdited" : "Thu Mar 19, 2015 12:02 pm"
+  } ]
+}

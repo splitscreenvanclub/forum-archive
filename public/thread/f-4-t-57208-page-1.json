@@ -1,0 +1,76 @@
+{
+  "forumId" : "4",
+  "threadId" : "57208",
+  "title" : "Wiper spindle",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=4&t=57208&start=0",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "439133",
+    "author" : {
+      "username" : "Isabelle",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "I think this wiper spindle may be suitable for Safari windows - please feel free to correct me if I am wrong.\n<br>\n<br>\n<span style=\"font-weight: bold\">£10.00 posted</span>\n<br>\n<br>\n<img src=\"http://i663.photobucket.com/albums/uu358/blueimp/014Wiperspindle.jpg\" alt=\"Image\">",
+    "lastEdited" : "Tue Jul 21, 2009 2:13 pm"
+  }, {
+    "postId" : "439304",
+    "author" : {
+      "username" : "darragh",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "will it suit a 64 panel van ,not safari windows\n<br>if so i am keen",
+    "lastEdited" : "Wed Jul 22, 2009 12:02 am"
+  }, {
+    "postId" : "439319",
+    "author" : {
+      "username" : "Bergy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i61.photobucket.com/albums/h74/53bdrhd/3a82_1-1.jpg"
+    },
+    "content" : "looks to me like a normal 'short' wiper spindle - so yes darragh it would be fine. Safari ones 'disengage' like the one below that creative sell.\n<br>\n<br>\n<img src=\"http://creative-engineering.com/components/com_virtuemart/show_image_in_imgtag.php?filename=resized%2FWiper_Dissengage_497d921d6fcf3_90x90.jpg&amp;newxsize=90&amp;newysize=90&amp;fileout=\" alt=\"Image\">",
+    "lastEdited" : "Wed Jul 22, 2009 7:22 am"
+  }, {
+    "postId" : "439463",
+    "author" : {
+      "username" : "darragh",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "cool thanks for the info\n<br>\n<br>\n<br>can you post this to Ireland",
+    "lastEdited" : "Wed Jul 22, 2009 6:26 pm"
+  }, {
+    "postId" : "439570",
+    "author" : {
+      "username" : "Isabelle",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "I've sent you a PM",
+    "lastEdited" : "Thu Jul 23, 2009 6:57 am"
+  } ]
+}

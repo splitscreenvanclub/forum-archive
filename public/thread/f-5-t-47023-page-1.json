@@ -1,0 +1,24 @@
+{
+  "forumId" : "5",
+  "threadId" : "47023",
+  "title" : "2xDog Legs",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=47023&start=0&st=0&sk=t&sd=a",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "358458",
+    "author" : {
+      "username" : "davidreime",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Hello,\n<br>I need two repro dog legs for a '66 bus.\n<br>Only got £120 max to spend on this (bus on a budget) and i'm in London.\n<br>Thx,\n<br>Dave",
+    "lastEdited" : "Mon Oct 06, 2008 7:37 am"
+  } ]
+}

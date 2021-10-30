@@ -1,0 +1,76 @@
+{
+  "forumId" : "32",
+  "threadId" : "91130",
+  "title" : "double posting",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=91130",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 5,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "701553",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "noticed it a few times, posts have been doubled up?",
+    "lastEdited" : "Thu Jan 31, 2013 2:49 pm"
+  }, {
+    "postId" : "710880",
+    "author" : {
+      "username" : "vwJim",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=124_1300829071.jpg"
+    },
+    "content" : "Quite a lot of double posts today again. Strangely same users each time?",
+    "lastEdited" : "Sun Mar 17, 2013 3:26 pm"
+  }, {
+    "postId" : "710888",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Noticed it when the forum came back up, it was neil and susie, and then I did it? just very random double posts,tech boys might have an idea?",
+    "lastEdited" : "Sun Mar 17, 2013 4:13 pm"
+  }, {
+    "postId" : "710927",
+    "author" : {
+      "username" : "paul_f",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=31_1339182152.jpg"
+    },
+    "content" : "I can't do a lot, but I will see if I can change a setting to reduce the chance of it happening",
+    "lastEdited" : "Sun Mar 17, 2013 6:47 pm"
+  }, {
+    "postId" : "710932",
+    "author" : {
+      "username" : "Marvelwear",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=33483_1251739215.jpg"
+    },
+    "content" : "Thanks paul, its has no real pattern.Its just random, a sprite?Thanks for that,thought i was a bit mad.",
+    "lastEdited" : "Sun Mar 17, 2013 6:54 pm"
+  } ]
+}

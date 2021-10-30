@@ -1,0 +1,37 @@
+{
+  "forumId" : "14",
+  "threadId" : "108136",
+  "title" : "Anyone know what this wheel might be off",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=14&t=108136",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "819146",
+    "author" : {
+      "username" : "Rippers",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i1206.photobucket.com/albums/bb454/splitty64/IMG_2626-1.jpg"
+    },
+    "content" : "Old KPZ steel wheel dated 9/70. 4 1/2 x 13. PCD measured 5x 112.5mm and the centre bore was 90mm. \n<br>No idea what its off, my guess is probably a caravan or trailer. Anyone one have a clue before I scrap it?\n<br>\n<br>\n<img src=\"http://i1206.photobucket.com/albums/bb454/splitty64/665544A7-B006-484F-B6B9-A25F96AE34DD_zps6vmwihgs.jpg\" alt=\"Image\">\n<br>\n<img src=\"http://i1206.photobucket.com/albums/bb454/splitty64/20FE51FC-E6D5-4D4F-92BD-0394D93170F7_zpskfiofs2x.jpg\" alt=\"Image\">\n<br>\n<img src=\"http://i1206.photobucket.com/albums/bb454/splitty64/89CE9563-BAC7-42DD-8E87-72D9AFCFE065_zpsiemurycm.jpg\" alt=\"Image\">",
+    "lastEdited" : "Wed Jan 28, 2015 10:34 pm"
+  }, {
+    "postId" : "819892",
+    "author" : {
+      "username" : "bulliboyt2",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Looks a bit like a nsu wheel. Think the pcd could be wrong though. Maybe it's a k70 with that pcd.",
+    "lastEdited" : "Sun Feb 01, 2015 10:53 pm"
+  } ]
+}

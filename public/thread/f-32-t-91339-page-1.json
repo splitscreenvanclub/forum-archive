@@ -1,0 +1,24 @@
+{
+  "forumId" : "32",
+  "threadId" : "91339",
+  "title" : "Subscription Notifications",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=91339",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "703282",
+    "author" : {
+      "username" : "yakboy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.muchos.co.uk/members/yakboy/avtar.gif"
+    },
+    "content" : "Is anybody finding that subscription and PM notifications are now only coming hours after the event and not instantly?",
+    "lastEdited" : "Fri Feb 08, 2013 11:29 am"
+  } ]
+}

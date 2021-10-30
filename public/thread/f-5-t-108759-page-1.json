@@ -1,0 +1,37 @@
+{
+  "forumId" : "5",
+  "threadId" : "108759",
+  "title" : "Propex HS2000",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=5&t=108759",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "823473",
+    "author" : {
+      "username" : "Toast",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=39219_1410862171.png"
+    },
+    "content" : "Looking for a complete propex hs2000 if anyone has one?",
+    "lastEdited" : "Wed Feb 25, 2015 2:01 pm"
+  }, {
+    "postId" : "825199",
+    "author" : {
+      "username" : "Vwstu",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Hi, contact Glyno on here, he's advertising one in non bus things for sale right now.",
+    "lastEdited" : "Sun Mar 08, 2015 11:44 am"
+  } ]
+}

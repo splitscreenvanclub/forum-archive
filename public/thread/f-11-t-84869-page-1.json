@@ -1,0 +1,63 @@
+{
+  "forumId" : "11",
+  "threadId" : "84869",
+  "title" : "Victoria Farm AGM Weekend",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=11&t=84869",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "654649",
+    "author" : {
+      "username" : "John",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Just to let you all know that we are still open for business here at Victoria Farm despite the weather conditions. The ground will dry out during the day &amp; it's all fine.\n<br>\n<br>See you all soon.\n<br>\n<br>John",
+    "lastEdited" : "Fri May 04, 2012 7:25 am"
+  }, {
+    "postId" : "654666",
+    "author" : {
+      "username" : "Terry",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=148_1318437463.jpg"
+    },
+    "content" : "Thank you for the information. If I have windows in the van we will be heading up tonight, but due to work etc will probably get there around midnight!!",
+    "lastEdited" : "Fri May 04, 2012 7:50 am"
+  }, {
+    "postId" : "654747",
+    "author" : {
+      "username" : "cassie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=3377_1313682074.jpg"
+    },
+    "content" : "[quote=\"John\"]Just to let you all know that we are still open for business here at Victoria Farm despite the weather conditions. The ground will dry out during the day &amp; it's all fine.\n<br>\n<br>See you all soon.\n<br>\n<br>John[/quote]\n<br>\n<br>not if it continues to rain it won't\n<br>\n<br>We have decided to stay at home in the warm seeing as Standford Hall has been postponed and the FA Cup is on\n<br>\n<br>Wish you the best over the weekend as this will be the first year we havent been in over 6 years",
+    "lastEdited" : "Fri May 04, 2012 1:08 pm"
+  }, {
+    "postId" : "654773",
+    "author" : {
+      "username" : "Paul66spliy",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Sorry to hear about the weekend, at Shanford \n<br>\n<br>Paul",
+    "lastEdited" : "Fri May 04, 2012 3:43 pm"
+  } ]
+}

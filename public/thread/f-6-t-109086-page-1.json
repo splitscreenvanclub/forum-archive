@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "109086",
+  "title" : "adjustable spring plate position",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=109086",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "825944",
+    "author" : {
+      "username" : "Tony Shep",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "My bus is coming along nicely right now, heading towards MOT at end of april\n<br>\n<br>Plan was to get gearbox in this weekend, but forgot to get a digital angle finder from work to set the CE adjustable spring plates. So has anyone got a pic or measurement that will allow me to fit them roughly correct until I can measure them properly next week and get them level\n<br>\n<br>Cheers\n<br>\n<br>Tony",
+    "lastEdited" : "Fri Mar 13, 2015 5:33 pm"
+  }, {
+    "postId" : "825970",
+    "author" : {
+      "username" : "JonnyCJ",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Check the fitting instructions ! Tells you how to get them set up from scratch \n<img src=\"./images/smilies/smile.gif\" alt=\":-)\" title=\"Smile\">",
+    "lastEdited" : "Fri Mar 13, 2015 8:01 pm"
+  }, {
+    "postId" : "825979",
+    "author" : {
+      "username" : "ernie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "you can download a digital inclinometer app relatively easily onto your mobile phone if you got a smart phone",
+    "lastEdited" : "Fri Mar 13, 2015 8:25 pm"
+  }, {
+    "postId" : "826027",
+    "author" : {
+      "username" : "Tony Shep",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "I could only find the IRS instructions which give a measurement of 12mm to bottom of spring plate, will go with that for now and I'll check the app'\n<br>\n<br>Thanks\n<br>\n<br>Tony",
+    "lastEdited" : "Sat Mar 14, 2015 9:29 am"
+  } ]
+}

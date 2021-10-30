@@ -1,0 +1,102 @@
+{
+  "forumId" : "32",
+  "threadId" : "46677",
+  "title" : "you tube",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=32&t=46677&start=0&st=0&sk=t&sd=a",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 7,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "355159",
+    "author" : {
+      "username" : "nick",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i211.photobucket.com/albums/bb140/kombiklassic/DSC00153-1.jpg"
+    },
+    "content" : "where is the you tube highlighter box gone???\n<br>the highlight box so that you dont have to follow the link when posting up vids??",
+    "lastEdited" : "Wed Sep 24, 2008 10:31 am"
+  }, {
+    "postId" : "355161",
+    "author" : {
+      "username" : "gizmo",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.chocksaway.com/images/morseNeg.jpg"
+    },
+    "content" : "New version of the forum - the youtube functionality has not been transferred (as yet??). PM Doc and ask the question \n<img src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Wed Sep 24, 2008 10:37 am"
+  }, {
+    "postId" : "355374",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "[youtube]S7GGkKpBR-g[/youtube]\n<br>\n<br>\n<br>Done like this:\n<br>\n<div class=\"codetitle\">\n <b>Code:</b>\n</div>\n<div class=\"codecontent\">\n [youtube]S7GGkKpBR-g[/youtube]\n</div>\n<br>\n<br>How was it before? (can't remember \n<img src=\"./images/smilies/icon_redface.gif\" alt=\":oops:\" title=\"Red Face\"> )\n<br>\n<br> or was it like this:\n<br>\n<div class=\"codetitle\">\n <b>Code:</b>\n</div>\n<div class=\"codecontent\">\n [youtube]http://uk.youtube.com/watch?v=S7GGkKpBR-g[/youtube]\n</div>",
+    "lastEdited" : "Wed Sep 24, 2008 10:26 pm"
+  }, {
+    "postId" : "355379",
+    "author" : {
+      "username" : "BohoPixie",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i144.photobucket.com/albums/r181/vodka_jellyfish/aaa.jpg"
+    },
+    "content" : "It was like the second one \n<img src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">",
+    "lastEdited" : "Wed Sep 24, 2008 10:35 pm"
+  }, {
+    "postId" : "355396",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n BohoPixie wrote:\n</div>\n<div class=\"quotecontent\">\n It was like the second one \n <img src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\">\n</div>\n<br>\n<br>ta! we now have 2 ways then...\n<br>\n<br>\n<div class=\"codetitle\">\n <b>Code:</b>\n</div>\n<div class=\"codecontent\">\n [youtube]http://www.youtube.com/watch?v=S7GGkKpBR-g[/youtube]\n</div>\n<br>and \n<br>\n<div class=\"codetitle\">\n <b>Code:</b>\n</div>\n<div class=\"codecontent\">\n [utube]S7GGkKpBR-g[/utube]\n</div>\n<br>\n<br>\n<object width=\"425\" height=\"350\"><param name=\"movie\" value=\"http://www.youtube.com/v/S7GGkKpBR-g\"><param name=\"wmode\" value=\"transparent\"><embed src=\"http://www.youtube.com/v/S7GGkKpBR-g\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"350\"></object>\n<br>\n<br>\n<object width=\"425\" height=\"350\"><param name=\"movie\" value=\"http://www.youtube.com/v/S7GGkKpBR-g\"><param name=\"wmode\" value=\"transparent\"><embed src=\"http://www.youtube.com/v/S7GGkKpBR-g\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"350\"></object>",
+    "lastEdited" : "Wed Sep 24, 2008 10:57 pm"
+  }, {
+    "postId" : "355469",
+    "author" : {
+      "username" : "gizmo",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://www.chocksaway.com/images/morseNeg.jpg"
+    },
+    "content" : "John, the old youtube tags would only work on the \n<!-- w -->\n<a class=\"postlink\" href=\"http://www.youtube.com\" onclick=\"window.open(this.href);return false;\">www.youtube.com</a>\n<!-- w --> domain (not the uk.youtube) one.\n<br>\n<br> \n<img src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">",
+    "lastEdited" : "Thu Sep 25, 2008 10:18 am"
+  }, {
+    "postId" : "355524",
+    "author" : {
+      "username" : "Doc",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://newsimg.bbc.co.uk/media/images/41524000/gif/_41524420_trip_203.gif"
+    },
+    "content" : "<div class=\"quotetitle\">\n gizmo wrote:\n</div>\n<div class=\"quotecontent\">\n John, the old youtube tags would only work on the \n <!-- m -->\n <a class=\"postlink\" href=\"http://www.youtube.com\" onclick=\"window.open(this.href);return false;\">http://www.youtube.com</a>\n <!-- m --> domain (not the uk.youtube) one.\n <br>\n <br> \n <img src=\"./images/smilies/icon_cool.gif\" alt=\"8)\" title=\"Cool\">\n</div>\n<br>\n<br>New one now works for both \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">\n<br>\n<br>although I prefer the new utube one.",
+    "lastEdited" : "Thu Sep 25, 2008 1:13 pm"
+  } ]
+}

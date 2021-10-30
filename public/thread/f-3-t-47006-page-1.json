@@ -1,0 +1,50 @@
+{
+  "forumId" : "3",
+  "threadId" : "47006",
+  "title" : "Camping @ Brighton Racecourse",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=3&t=47006&start=0&st=0&sk=t&sd=a",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 3,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "358312",
+    "author" : {
+      "username" : "SYNCRO",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Is it true camping is cancelled at the race course this year?? \n<img src=\"./images/smilies/icon_question.gif\" alt=\":?:\" title=\"Question\"> \n<br>\n<br>\n<!-- m -->\n<a class=\"postlink\" href=\"http://www.volkszone.co.uk/VZi/showthread.php?t=496002\" onclick=\"window.open(this.href);return false;\">http://www.volkszone.co.uk/VZi/showthread.php?t=496002</a>\n<!-- m -->\n<br>\n<br>SYNCS",
+    "lastEdited" : "Sun Oct 05, 2008 4:18 pm"
+  }, {
+    "postId" : "358380",
+    "author" : {
+      "username" : "sausage fingers",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://img258.imageshack.us/img258/589/spijlbus002pa0.jpg"
+    },
+    "content" : "No truth in the rumour at all.\n<br>Saturday night is as normal. \n<br>Chinese whispers are being spread by disgruntled people. Thats all\n<br>\n<br>Neil \n<img src=\"./images/smilies/icon_biggrin.gif\" alt=\":D\" title=\"Big Grin\">",
+    "lastEdited" : "Sun Oct 05, 2008 7:42 pm"
+  }, {
+    "postId" : "358512",
+    "author" : {
+      "username" : "SYNCRO",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Cheers Neil\n<br>\n<br>That's what I thought \n<img src=\"./images/smilies/icon_wink.gif\" alt=\":wink:\" title=\"Wink\"> \n<br>\n<br>Kev",
+    "lastEdited" : "Mon Oct 06, 2008 2:31 pm"
+  } ]
+}

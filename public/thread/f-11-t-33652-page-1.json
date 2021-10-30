@@ -1,0 +1,24 @@
+{
+  "forumId" : "11",
+  "threadId" : "33652",
+  "title" : "Avatar maximum height x width size limits",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=11&t=33652",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "317333",
+    "author" : {
+      "username" : "passion4",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "http://i119.photobucket.com/albums/o151/bugtastic/multi_avatar_100.gif"
+    },
+    "content" : "great, idea, but surely this just masks the problem? \n<br> \n<br>People will just be lazy and think this fixes things for them. Is there anyway to prevent the \n<strong>massive</strong> avatars that some people use actually being loaded? This might help speed things up a bit!",
+    "lastEdited" : "Mon May 19, 2008 7:01 pm"
+  } ]
+}

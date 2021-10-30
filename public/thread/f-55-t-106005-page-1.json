@@ -1,0 +1,24 @@
+{
+  "forumId" : "55",
+  "threadId" : "106005",
+  "title" : "[EBAY] EBAY possible scam",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=55&t=106005",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 1,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "804593",
+    "author" : {
+      "username" : "sychosis",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=37162_1376481057.jpg"
+    },
+    "content" : "<a href=\"http://www.ebay.co.uk/itm/Volkswagen-Split-Screen-Camper-Van-/261607917817?pt=UK_Campers_Caravans_Motorhomes&amp;hash=item3ce90c08f9\" onclick=\"window.open(this.href);return false;\" class=\"postlink\">http://www.ebay.co.uk/itm/Volkswagen-Split-Screen-Camper-Van-/261607917817?pt=UK_Campers_Caravans_Motorhomes&amp;hash=item3ce90c08f9</a>",
+    "lastEdited" : "Mon Sep 29, 2014 9:30 am"
+  } ]
+}

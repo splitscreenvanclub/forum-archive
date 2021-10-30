@@ -1,0 +1,63 @@
+{
+  "forumId" : "6",
+  "threadId" : "109014",
+  "title" : "Electronic ignition?",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=109014",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 4,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "825339",
+    "author" : {
+      "username" : "frenzydude",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Im running an 1835 engine with 009 dizzy and twin 40 dells. Everything works fine and trouble free but I am wondering if I will get any improvement in either performance or economy by fitting an electronic ignition module in my existing 009 dizzy. If yes is the Pertronix 2 module worth all the extra money over the Accuspark module?",
+    "lastEdited" : "Mon Mar 09, 2015 11:50 am"
+  }, {
+    "postId" : "825361",
+    "author" : {
+      "username" : "e m p i",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=1186_1407682968.jpg"
+    },
+    "content" : "If everything works as to should with no issues is leave things as they are. If the points carp it at the side of the road its a 5 minute job, if an electronic ignition unit carps it at the side of the road its a ball ache. Plus it's just another thing to go wrong. \n<br>\n<br>Cheers, Lee.",
+    "lastEdited" : "Mon Mar 09, 2015 3:24 pm"
+  }, {
+    "postId" : "825887",
+    "author" : {
+      "username" : "Peter Good",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Just to add a bit of a balanced reply to this topic. Points also do go wrong and fail; they sometimes go short circuit, not very often I accept, and they certainly wear like the clappers since 'health &amp; safety' stopped the sensible and appropriate compounds being added to the heel and the contacts to reduce the wear.\n<br>Peter Good",
+    "lastEdited" : "Fri Mar 13, 2015 5:58 am"
+  }, {
+    "postId" : "825892",
+    "author" : {
+      "username" : "frenzydude",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "I've decided to try the Accuspark and see how it goes. However I will carry a spate set of points and condensor just in case.",
+    "lastEdited" : "Fri Mar 13, 2015 7:34 am"
+  } ]
+}

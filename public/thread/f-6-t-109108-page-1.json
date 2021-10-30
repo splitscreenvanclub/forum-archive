@@ -1,0 +1,37 @@
+{
+  "forumId" : "6",
+  "threadId" : "109108",
+  "title" : "Welding inner strengthener and cargo sill",
+  "originalUrl" : "https://ssvc.org.uk/phpbb/viewtopic.php?f=6&t=109108",
+  "breadcrumbs" : [ ],
+  "totalPosts" : 2,
+  "pageNumber" : 1,
+  "totalPages" : 1,
+  "posts" : [ {
+    "postId" : "826065",
+    "author" : {
+      "username" : "Crooky",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : "./download/file.php%3Favatar=39974_1421267567.jpg"
+    },
+    "content" : "I have the two parts from Autocraft. I'm guessing the way to fit these is to firstly weld the inner strengthener to the outer cargo sill and then weld that entire section into place in between the b and c post of course and into the inner sill?\n<br>I'm sure I've seen the inner strengthener already supplied welded to the outer sill but mine are separate. Just want to ensure I get the fitting order correct.\n<br>And prior to welding I guess this is the time to perfectly align the cargo door mechanism?\n<br>Thanks in advance.",
+    "lastEdited" : "Sat Mar 14, 2015 3:09 pm"
+  }, {
+    "postId" : "826075",
+    "author" : {
+      "username" : "jonthebuilder",
+      "userId" : "Unknown",
+      "joined" : "-",
+      "profileRank" : "-",
+      "location" : "-",
+      "postCount" : "-",
+      "avatarPath" : null
+    },
+    "content" : "Correct, weld the strengthener to the outer then weld the whole section in\n<br>\n<br>I think the cargo floor latch plate ultimately decides the locking rod positions, the holes formed in the sill strengthener are much bigger than the locking rods so highly unlikely they won line up unless the sill is welded totally out of alignment. \n<br>\n<br>Jon",
+    "lastEdited" : "Sat Mar 14, 2015 5:03 pm"
+  } ]
+}
