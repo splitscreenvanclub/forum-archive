@@ -2,7 +2,7 @@ import { useRouter } from "next/router";
 import { queryParamFrom } from "util/url";
 import { FC, useEffect } from "react";
 import Search from "components/Search";
-import { useTopic, useTopicRecoverState } from "hooks/useData";
+import { topicPageUrl, useTopic, useTopicRecoverState } from "hooks/useData";
 import LoadingIndicator from "components/LoadingIndicator";
 import SadEmoji from 'heroicons/outline/emoji-sad.svg';
 import Link from 'next/link';
@@ -178,13 +178,13 @@ const PostContent: FC<PostContentProps> = ({ topic, post, isTopicStart }) => {
   )
 }
 
-type TopicContentProps = {
+type TopicContentWithLookupProps = {
   forumId: string;
   threadId: string;
   page: string;
 }
 
-const TopicContent: FC<TopicContentProps> = ({ forumId, threadId, page }) => {
+const TopicContentWithLookup: FC<TopicContentWithLookupProps> = ({ forumId, threadId, page }) => {
   const { data: topic, error } = useTopic(forumId, threadId, page);
 
   if (error) {
@@ -192,6 +192,24 @@ const TopicContent: FC<TopicContentProps> = ({ forumId, threadId, page }) => {
       <TopicPageLoadFailure forumId={forumId} threadId={threadId} page={page} />
     );
   }
+  if (!topic || !topic.posts) {
+    return (
+      <div className="h-full flex flex-col items-center justify-center p-8">
+        <LoadingIndicator />
+      </div>
+    )
+  }
+
+  return (
+    <TopicContent topic={topic} />
+  )
+}
+
+type TopicContentProps = {
+  topic: Topic;
+}
+
+const TopicContent: FC<TopicContentProps> = ({ topic }) => {
   if (!topic || !topic.posts) {
     return (
       <div className="h-full flex flex-col items-center justify-center p-8">
@@ -233,7 +251,22 @@ const TopicContent: FC<TopicContentProps> = ({ forumId, threadId, page }) => {
   )
 }
 
-export default function ViewTopicPage() {
+export async function getServerSideProps({ req, query }) {
+  const protocol = req.headers['x-forwarded-proto'] || 'http'
+  const baseUrl = req ? `${protocol}://${req.headers.host}` : '';
+  const pageResponse = await fetch(baseUrl + topicPageUrl(query.f, query.t, query.page || '1'));
+  let topic;
+
+  if (pageResponse.ok) {
+    topic = JSON.parse(await pageResponse.text());
+  }
+
+  return {
+    props: { topic }
+  }
+}
+
+export default function ViewTopicPage({ topic }) {
   const router = useRouter();
   const forumId = queryParamFrom(router, 'f');
   const threadId = queryParamFrom(router, 't');
@@ -261,7 +294,7 @@ export default function ViewTopicPage() {
 
       <Search />
 
-      <TopicContent forumId={forumId} threadId={threadId} page={page} />
+      {topic ? <TopicContent topic={topic} /> : <TopicContentWithLookup forumId={forumId} threadId={threadId} page={page} />}
     </>
   )
 }

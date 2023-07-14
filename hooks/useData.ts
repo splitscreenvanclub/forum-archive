@@ -12,7 +12,7 @@ const SWR_CONFIG = {
   errorRetryCount: 3,
 };
 
-function topicPageUrl(forumId: string, threadId: string, page: number) {
+export function topicPageUrl(forumId: string, threadId: string, page: number) {
   return `/thread/f-${forumId}-t-${threadId}-page-${page}.json`;
 }
 
