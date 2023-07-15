@@ -1,17 +1,9 @@
 import 'tailwindcss/tailwind.css'
-import Head from 'next/head'
-import '../styles/styles.css';
+import '../app/globals.css';
 
-function ForumArchive({ Component, pageProps }) {
+export default function({ Component, pageProps }) {
   return (
     <>
-      <Head>
-        <title>The Split Screen Van Club | Forum Archive</title>
-        <link
-          rel="icon"
-          href="https://hubble-live-assets.s3.amazonaws.com/ssvc/theme/icon/1/logo-favion.png"
-        />
-      </Head>
       <div className="flex flex-col items-center min-h-screen">
         <header className="py-4 w-full mb-8 bg-white border-b border-gray-100">
           <div className="flex mx-auto xl:max-w-screen-xl space-x-8 px-6">
@@ -49,5 +41,3 @@ function ForumArchive({ Component, pageProps }) {
     </>
   );
 }
-
-export default ForumArchive

@@ -1,5 +1,5 @@
 import useSWR, { SWRResponse } from 'swr';
-import { TopicRecoverState } from "pages/viewtopic.php";
+import { TopicRecoverState } from "../pages/viewtopic.php";
 
 const FIVE_SECONDS = 5000;
 const SWR_CONFIG = {
@@ -17,7 +17,7 @@ export function topicPageUrl(forumId: string, threadId: string, page: number) {
 }
 
 function buildFetcher(method: string = 'GET') {
-  return (url) =>
+  return (url: string) =>
     fetch(url, { method })
       .then(async (response) => {
         if (response.status >= 200 && response.status < 300) {

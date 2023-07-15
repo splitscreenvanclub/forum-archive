@@ -1,5 +1,6 @@
-import { FC, useEffect } from "react";
+"use client"
 
+import { FC, useEffect } from "react";
 
 const Search: FC = () => {
   useEffect(() => {
@@ -8,7 +9,10 @@ const Search: FC = () => {
     gcse.async = true;
     gcse.src = 'https://cse.google.com/cse.js?cx=8c72544108909d74c';
     var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
+
+    if (s?.parentNode) {
+      s.parentNode.insertBefore(gcse, s);
+    }
   });
 
   return (

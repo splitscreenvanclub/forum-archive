@@ -1,14 +1,14 @@
 import { useRouter } from "next/router";
-import { queryParamFrom } from "util/url";
+import { queryParamFrom } from "../util/url";
 import { FC, useEffect } from "react";
-import Search from "components/Search";
-import { topicPageUrl, useTopic, useTopicRecoverState } from "hooks/useData";
-import LoadingIndicator from "components/LoadingIndicator";
+import Search from "../components/Search";
+import { topicPageUrl, useTopic, useTopicRecoverState } from "../hooks/useData";
+import LoadingIndicator from "../components/LoadingIndicator";
 import SadEmoji from 'heroicons/outline/emoji-sad.svg';
 import Link from 'next/link';
 import Head from "next/head";
 
-function fixPostContent(html) {
+function fixPostContent(html: string) {
   return html
     .replace(/images\.thesamba\.com/gi, 'thesamba.com')
     .replace(/(https?:\/\/)?(www\.)?ssvc\.org\.uk\/phpbb/g, 'https://archives.ssvc.org.uk')
@@ -221,7 +221,7 @@ const TopicContent: FC<TopicContentProps> = ({ topic }) => {
   return (
     <div className="p-4 bg-white rounded-md flex flex-col space-y-6 border border-gray-100">
       <Head>
-        <title>{topic.title} | The Split Screen Van Club</title>
+        <title>{`${topic.title} | The Split Screen Van Club`}</title>
       </Head>
       <div>
         <div className="text-gray-500 pb-2 flex flex-col md:flex-row justify-between items-center">
